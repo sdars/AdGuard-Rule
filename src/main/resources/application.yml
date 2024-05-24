@@ -151,6 +151,12 @@ application:
       - 'https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt' #name: GOODBYEADS
       - 'https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock' #name: d3ward规则
       - 'https://github.com/Potterli20/file/releases/download/ad-youtube-hosts/ad-youtube-adblock.txt' #name: 冷莫去Youtube广告
+      - 'https://www.kbsml.com/wp-content/uploads/adblock/adguard/adg-kall.txt' #name: kbsml adguard过滤
+      - 'https://www.kbsml.com/wp-content/uploads/adblock/adguard/adg-kall-dns.txt' #name: kbsml adguard  dns过滤
+      - 'https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/all.txt' #name: xndeye all
+      - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt' #name: ADgk 主规则
+      - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt' #name: ADgk 屏蔽百家号
+      - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'mylist.txt'
