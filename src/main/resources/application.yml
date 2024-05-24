@@ -159,7 +159,7 @@ application:
       - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
       - 'https://raw.githubusercontent.com/DivineEngine/AdGuardFilter/master/filter.txt' #name: Connershua
       - 'https://github.com/Potterli20/file/releases/download/ad-hosts-pro/ad-adguardhome.txt' #name: 冷莫
-      - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
+      - 'https://github.com/Potterli20/file/releases/download/ad-hosts-pro/ad-adguardhome-dnstype.txt' #name: 冷莫 DNS
       - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
       - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
       - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
