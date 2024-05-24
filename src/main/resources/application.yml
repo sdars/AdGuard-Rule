@@ -41,8 +41,8 @@ application:
       - 'https://easylist-downloads.adblockplus.org/antiadblockfilters.txt' #name: 去除禁止广告拦截提示规则
       - 'https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt' #name: Yhosts规则
       - 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #name: 大圣净化（针对国内视频）
-      #- 'https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt' #name: GoodbyeAds-YouTube
-      #- 'https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt' #name: GoodbyeAds
+      - 'https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt' #name: GoodbyeAds-YouTube
+      - 'https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt' #name: GoodbyeAds
       #- 'https://www.trli.club/ad-hosts/ad-hosts-sqlist/ad-adguardhome-dnstype.txt' #name: 冷莫(trli)AdHosts-Sqlist
       #- 'https://file.trli.club:2087/ad-youtube-hosts/ad-youtube-adguardhome-dnstype.txt' #name: 冷莫(trli)Ad-YouTuBe-Hosts
       - 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt' #name: 杏稍AdRules DNS List
@@ -156,6 +156,18 @@ application:
       - 'https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/all.txt' #name: xndeye all
       - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt' #name: ADgk 主规则
       - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt' #name: ADgk 屏蔽百家号
+      - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
+      - 'https://raw.githubusercontent.com/DivineEngine/AdGuardFilter/master/filter.txt' #name: Connershua
+      - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
+      - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
+      - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
+      - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
+      - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
+      - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
+      - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
+      - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
+      - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
+      - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
       - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
