@@ -295,3 +295,6 @@
 ||*lq.fqnovel.com^
 ||gecko*-lq.zijieapi.com^
 ||*sign.byteimg.com^
+
+# 破解EMBY
+148.135.121.172 mb3admin.com
