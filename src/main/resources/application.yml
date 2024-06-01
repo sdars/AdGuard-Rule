@@ -158,7 +158,7 @@ application:
       - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt' #name: ADgk 屏蔽百家号
       - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
       - 'https://raw.githubusercontent.com/DivineEngine/AdGuardFilter/master/filter.txt' #name: Connershua
-      - 'https://github.com/Potterli20/file/releases/download/ad-hosts-pro/ad-adguardhome.txt' #name: 冷莫
+      #- 'https://github.com/Potterli20/file/releases/download/ad-hosts-pro/ad-adguardhome.txt' #name: 冷莫
       - 'https://raw.githubusercontent.com/DoingDog/XXKiller/main/w.txt' #name: XXKiller basic
       - 'https://raw.githubusercontent.com/DoingDog/XXKiller/main/f.txt' #name: XXKiller premium
       - 'https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt' #name: Spam404
