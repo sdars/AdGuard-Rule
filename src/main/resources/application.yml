@@ -150,7 +150,6 @@ application:
       - 'https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt' #name: NoAppDownload
       - 'https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt' #name: GOODBYEADS
       - 'https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock' #name: d3ward规则
-      - 'https://github.com/Potterli20/file/releases/download/ad-youtube-hosts/ad-youtube-adblock.txt' #name: 冷莫去Youtube广告
       - 'https://www.kbsml.com/wp-content/uploads/adblock/adguard/adg-kall.txt' #name: kbsml adguard过滤
       - 'https://www.kbsml.com/wp-content/uploads/adblock/adguard/adg-kall-dns.txt' #name: kbsml adguard  dns过滤
       - 'https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/all.txt' #name: xndeye all
@@ -160,6 +159,8 @@ application:
       - 'https://raw.githubusercontent.com/DivineEngine/AdGuardFilter/master/filter.txt' #name: Connershua
       #- 'https://github.com/Potterli20/file/releases/download/ad-hosts-pro/ad-adguardhome.txt' #name: 冷莫
       #- 'https://github.com/Potterli20/file/releases/download/ad-hosts-pro/ad-adguardhome-dnstype.txt' #name: 冷莫-dnstype
+      - 'https://github.com/Potterli20/file/releases/download/ad-hosts-lite/ad-adguardhome.txt' #name: 冷莫-lite
+      - 'https://github.com/Potterli20/file/releases/download/ad-hosts-lite/ad-adguardhome-dnstype.txt' #name: 冷莫-lite-dnstype
       - 'https://raw.githubusercontent.com/DoingDog/XXKiller/main/w.txt' #name: XXKiller basic
       - 'https://raw.githubusercontent.com/DoingDog/XXKiller/main/f.txt' #name: XXKiller premium
       - 'https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt' #name: Spam404
