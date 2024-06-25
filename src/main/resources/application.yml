@@ -159,7 +159,7 @@ application:
       - 'https://raw.githubusercontent.com/DivineEngine/AdGuardFilter/master/filter.txt' #name: Connershua
       #- 'https://github.com/Potterli20/file/releases/download/ad-hosts-pro/ad-adguardhome.txt' #name: 冷莫
       #- 'https://github.com/Potterli20/file/releases/download/ad-hosts-pro/ad-adguardhome-dnstype.txt' #name: 冷莫-dnstype
-      - 'https://github.com/Potterli20/file/releases/download/ad-hosts-lite/ad-adguardhome.txt' #name: 冷莫-lite
+      #- 'https://github.com/Potterli20/file/releases/download/ad-hosts-lite/ad-adguardhome.txt' #name: 冷莫-lite
       #- 'https://github.com/Potterli20/file/releases/download/ad-hosts-lite/ad-adguardhome-dnstype.txt' #name: 冷莫-lite-dnstype
       - 'https://raw.githubusercontent.com/DoingDog/XXKiller/main/w.txt' #name: XXKiller basic
       - 'https://raw.githubusercontent.com/DoingDog/XXKiller/main/f.txt' #name: XXKiller premium
@@ -167,7 +167,7 @@ application:
       - 'https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list' #name: The Big List of Hacked Malware Web Sites
       - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
       - 'https://github.com/Potterli20/file/releases/download/ad-youtube-hosts/ad-youtube-adguardhome.txt' #name: 冷莫-去youtube广告
-      - 'https://github.com/Potterli20/file/releases/download/ad-youtube-hosts/ad-youtube-adguardhome-dnstype.txt' #name: 冷莫-去youtube广告-dnstype
+      #- 'https://github.com/Potterli20/file/releases/download/ad-youtube-hosts/ad-youtube-adguardhome-dnstype.txt' #name: 冷莫-去youtube广告-dnstype
       - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
       - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
       - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
