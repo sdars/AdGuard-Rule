@@ -298,3 +298,103 @@
 
 # 破解EMBY
 148.135.121.172 mb3admin.com
+# Color OS 系统追踪
+allawntech.com
+# Oxygen OS 系统追踪
+allawnos.com
+# 字节系广告
+log-api.pangolin-sdk-toutiao.com
+log-api.pangolin-sdk-toutiao-b.com
+api*-normal-lq.fqnovel.com
+p*-novel.byteimg.com
+reading-lq.snssdk.com
+# lf-cdn-tos.bytescm.com
+webcast-open.douyin.com
+# 友盟系
+ulogs.umeng.com
+# 字节收集信息
+toblog.ctobsnssdk.com
+# 头条网
+lf*-geckocdn-tos.pstatp.com
+# 使用ads.zijieapi.com会导致无法观看广告视频
+# 番茄小说
+p*-ad-sign.byteimg.com
+i.snssdk.com
+i-lq.snssdk.com
+dig.bdurl.net
+ads.zijieapi.com
+activity-ag.awemeughun.com
+mcs.snssdk.com
+tnc3-alisc1.snssdk.com
+security-lq.snssdk.com
+tnc3-aliec2.snssdk.com
+is.snssdk.com
+msync-im1-vip6-std.easemob.com
+apd-pcdnwxlogin.teg.tencent-cloud.net
+api.iegadp.qq.com
+sf3-ttcdn-tos.pstatp.com
+pglstatp-toutiao.com
+default.ixigua.com
+v6-novelapp.ixigua.com
+novelapp.ixigua.com
+glitchtip.jgeek00.com
+v*-novelfm.novelfmvod.com
+pull-lls-l*.douyincdn.com
+# lf-sourcecdn-tos.bytegecko.com
+p*-novel-lottery.byteimg.com
+p*-luckycat.byteimg.com
+tr.byteurl.cn
+tnc*-alisc*.zijieapi.com
+pull-flv-t*.douyincdn.com
+p4.a.yximgs.com
+api*-normal-sinfonlinea.fqnovel.com
+tnc*-aliec*.zijieapi.com
+abtest*-misc-lq.zijieapi.com
+ichannel.snssdk.com
+vcs.zijieapi.com
+polaris-sinfonlinea.zijieapi.com
+log*-applog-lq.fqnovel.com
+mon*-misc-lq.fqnovel.com
+v*-novelapp.fqnovelvod.com
+mssdk*-normal-lq.zijieapi.com
+ecom*-normal-lq.ecombdapi.com
+ec*-core-lq.ecombdapi.com
+frontier.snssdk.com
+mon*-misc-lq.novelfm.com
+p*-tt.byteimg.com
+log*-applog-lq.novelfm.com
+vas-lf-x.snssdk.com
+p*-aio.ecombdimg.com
+pull-f*-xg.flive.ixigua.com
+pull-f*-io.flive.douyincdn.com
+pull-t*.douyincdn.com
+pull-flv-l*-encryption.douyincdn.com
+pull-flv-cny*-spe-l*.douyincdn.com
+pull-lls-f*.douyincdn.com
+pull-rtmp-l*-source.douyincdn.com
+pull-f*-xg.ixigua.com
+pull-tsl-l*-encryption.douyincdn.com
+pull-hls-vr-l*.douyincdn.com
+pull-tsl-hs-spe-f*.douyinliving.com
+pull-hls-f*.douyincdn.com
+pull-flv-f*-proxy.douyincdn.com
+ib.snssdk.com
+weilayun.com
+rtlog*-applog-lq.fqnovel.com
+lf*-reading.fqnovelpic.com
+reading.snssdk.com
+toblog.ctobsnssdk.com
+#byteorge.com
+#bytegoofy.com
+#bytedance.com
+# 高德地图
+optimus-ads.amap.com
+# 腾讯系广告
+sdk.e.qq.com
+gdtimg.com
+gtimg.cn
+mi.gdt.qq.com
+v2.gdt.qq.com
+# 美图秀秀
+DOMAIN,aaid.uyunad.com
+DOMAIN,adui.tg.meitu.com
