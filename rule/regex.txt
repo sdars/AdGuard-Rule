@@ -1,4 +1,4 @@
-# Update time: 2024-08-03 20:36:51
+# Update time: 2024-08-04 09:42:46
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -64,7 +64,6 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -98,6 +97,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -134,333 +134,328 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||ap*.pl520.com^
-||sax*.sina.
-||bdcpro*.techweb.com.cn^
-||dm*.ppzuowen.com^
-||67.21.92.*.gif
-||bd*-ys.km.com^
-||uc*.atobo.com^
-||impservice*.youdao.com^
-||d*.ruiwen.com^
-||fanpingbi*.gaokao.com^
-||txhfgwgkwt*.asia^
+||pixel*.production-public.tubi.io^
+||adserver*.euroweeklynews.com^
+analytics-*.aasaam.com
+||an.yandex.
+||gtmdev.jabra.
+||tracking.olx.
+||teleriumads-*.netdna-ssl.com^
 ||dn*.ixinwei.com^
-||bdlm*.hc360.com^
-||ac*.786ip.com^
-728x90.jpg|
-||iwanshang*.asia^
-||ya*.dwstatic.com^
-||d*.xinshipu.com^
-||fpb*.51edu.com^
-||ja*.gamersky.com^
-||static*.365inews.com^
+||rgfftupf.
+||adservice.google.
+||xlog*-*.tiktokv.com^
+||counter*.stat.ovh^
+||liveme-sensors-collect2-*.amazonaws.com^
+||ads.livetv*.me^
+||v*-ad.video.yximgs.com^
+||st-*.dynamicyield.com^
+||bondzgi*.
+||prebid-*.rubiconproject.com^
+||faro-collector-prod-*.grafana.net^
+||lively-collect-elb-*.amazonaws.com^
 ||ysdm*.ys137.com.cn^
-||ac*.pingguolv.com^
-||107.167.22.*.gif
-||at*.doubanio.com^
-||dm*.yxlady.com^
+||lt*.tritondigital.com^
+||23.109.82.
+||rtbimp-loadbalancer-*.amazonaws.com^
+||www.fuze-sea*.xyz^
+||metrics*.fitanalytics.com^
+||edgetrksvc.ebay.
+||log*-misc-lf.amemv.com^
+||clk.rtpdn*.com^
+||flipflapflo.
+||f-log-*.grammarly.io^
+||s*.skencituer.com^
+||qpb*.sohu.com^
+||mon*-*.tiktokv.us^
+||pxl-*.ozone.ru^
+||batchlogging*-noneu.truecaller.com^
+||apple-*.le.com^
+||ads-*-nfl.yinzcam.com^
+||ads*.production-public.tubi.io^
+||iptracker-lb-*.amazonaws.com^
+||putrr*.com^
+||bd*-ys.km.com^
+||pijama.*.elasticbeanstalk.com^
+||ad*.wisenut.co.kr^
+||pixel*.adswizz.com
+||banner*.kinogo.by^
+||suite*.linximpulse.net^
+||ana*.inews24.com^
+||sock*-goguardian.pusher.com^
+||gscounters.*.gigya.com^
+||adserver.*.yahoodns.net^
+||talpa-analytics.
+||mcs-va-*.tiktokv.com^
+||mon-*.tiktokv.com^
+||linkexchange.
+||block.s*block.com^
+||1024wanzhai.
+||api*.batmobil.net^
+||analytics.streamfab.
+||log-*.epicdn.me^
+||log-collector.shopee.
+||report*.appmetrica.webvisor.com^
+||ad-*.amazonaws.com^
+||beacons*.gvt3.com^
+||ads*.bojijulebu.com^
+||rtlog*.tiktokv.com^
+||log*.aliyuncs.com^
+||rb*.design.ru^
+||log*.byteoversea.com^
+||adcs-*.myappsget.com^
+||ads*.textra.me^
+||bar*.shinobi.jp^
+||tracking-v*.a.run.app^
+||tracking*.euroads.fi^
+||hn-ping*.hashnode.com^
+||a*.smlog.co.kr^
+||api*.amplitude.com^
+||seller-log-collector.shopee.
+||px*.mediahills.ru^
+||subnewss*.net^
+||matomo.*.vn^
+||23.109.87.
+||static*.365inews.com^
+||hostingcloud.*.wasm^
+||appanalysis*.banggood.com^
+||device-metrics-*.amazon.com^
+||api*.batmobi.net^
+||hstats*.hepsiburada.com^
+||v.newsportal*.ru^
+||get-me-wow.
+||mob*.novanewsapp.com^
+||ubt.tracking.shopee.
+||ad-*.appacc.dbankedge.cn^
+||host*.rvshare.com^
+||videoclik.
+||158.247.208.
+||ssp*.rtb.beeline.ru^
+||log-*.zadn.vn^
+||reachableads-av.*.amazonaws.com^
+||dm*.ppzuowen.com^
+||adx-*.op.dbankcloud.com.edgekey.net^
+||uc*.atobo.com^
+||dw-informer-*.newsru.com^
+|piwik.
+||piwik.*.vn^
+||logger-*.dailymotion.com^
+||production-adserver-*.amazonaws.com^
+||iad-*.appboy.com^
+||mautic.*.vn^
+||jtbo*.nqxvevk.cn^
+||ad*.nexage.com^
+||aan.amazon.*^
+||iad-*.braze.com^
+||tracking-*.trnox.com^
+||backstory.ebay.
+||adx-*.dbankcloud.
+||mediate-ios-*.hyprmx.com^
+||ir-new-cdn-eu-west-*-hb.rayjump.com^
+||www.fuze-hill*.xyz^
+||videoclick.
+||batchlogging*-eu.truecaller.com^
+||ads*-normal-lq.zijieapi.com^
+||tnc16-*.byteoversea.com^
+||gcw*.2liang.cn^
+||piwik.*.com.vn^
+||ads-dmp-collect.*.karrotmarket.com^
+||quangcao-*.epicdn.me^
+||fpb1.chinacar.
+||bms*.adjarabet.com^
+||mf*.advantage.as^
+||fxhpaoxqyajvmdg.
+||flurry.agentportal-*.yahoodns.net^
+||union*.365inews.com^
+||host*.rigbyandpeller.com^
+||sax*.sina.
 ||38.33.15.*.gif
 ||zhizhizhizhi.oss-*.aliyuncs.com^
+||67.21.92.*.gif
 ||adi*.cnool.net^
 ||tupian888.*.bcebos.com^
 ||same*.stockstar.com^
-||gcw*.2liang.cn^
+||impservice*.youdao.com^
+||txhfgwgkwt*.asia^
 ||impservice*.yodao.com^
-||ac*.faxingchina.com^
-||fpb1.chinacar.
+728x90.jpg|
+||iwanshang*.asia^
+||ya*.dwstatic.com^
 ||ax.*.ifeng.com^
 ||121.204.246.*.gif
 ||js*.abolezi.com^
 ||acookie.*.gif?
 ||sam*.baby-kingdom.com^
 ||107.167.16.*.gif
-||qpb*.sohu.com^
-||union*.365inews.com^
+||ja*.gamersky.com^
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-||pixel*.production-public.tubi.io^
+||107.167.22.*.gif
 ||host*.nti.nl^
-||adserver*.euroweeklynews.com^
-analytics-*.aasaam.com
 ||clog*.yuanfudao.com^
-||gtmdev.jabra.
+||mapi-log.qoo*.jp^
+||fanpingbi*.gaokao.com^
 ||rum*.a.trbcdn.net^
+||analytics-api.dvdfab.
+||analytics-*-nfl.yinzcam.com^
 ||host*.carl-ras.dk^
+||rtlog*.tiktokv.us^
 ||allsportsflix.
+||iphone-caviar.ru*entranceId
 ||w*statistics.info^
-||v*-ad.video.yximgs.com^
 ||host*.ncoi.nl^
+||rum*.cdnvideo.ru^
+||sgtm.fashionunited.
+||analytics-rollout-*.amazonaws.com^
+||api-*.hismarttv.com^
 ||partner.superbahisaffiliates*.com^
 ||datacollect*.abtasty.com^
 ||adservice.google.co.*
-||23.109.82.
+||v.tzbox*.xyz^
 ||u*.takru.com^
-||rtbimp-loadbalancer-*.amazonaws.com^
+||telemetry*.transcend.io^
 ||cnt.vivatube.
+||rotabanner.
+||browser-intake-*-datadoghq.com^
 ||stats2.*.fdnames.com^
 ||stats.zone-telechargement.
+||eclog*-*.cafe24.com^
 ||host*.polaroid.com^
 ||gonews*.net^
 ||real*traf.ru^
+||datacollector-*.dt.dbankcloud.cn^
+||wa.gmx.
 ||analytics*.clickdimensions.com^
 ||underclick.
 ||bi-eventtracker-*.amazonaws.com^
-||ads-*-nfl.yinzcam.com^
-||ads*.production-public.tubi.io^
+||imp-*.jampp.com^
 ||cnt.yeptube.
+||bc.geocities.
 ||tag-based.s3.*.amazonaws.com^
 ||mobileanalytics.*.amazonaws.com^
-||ad*.wisenut.co.kr^
+||tracking.*.miui.com^
+||cpng.lol.^
+||alishop*.ru^
 ||cnt.hd21.
 ||adv0*.msa.cdn.mediaset.net^
 ||ce-global-track-*.amazonaws.com^
+||d*.ruiwen.com^
 ||device-metrics-us*.amazon.com^
-||banner*.kinogo.by^
-||suite*.linximpulse.net^
 ||cnt.nuvid.
-||servo-report.dvdfab.
-||basvformu*.xyz^
-||gscounters.*.gigya.com^
-||talpa-analytics.
-||events-api*.outfit7.com^
-||pixelapi-*.cs.mysamba.tv^
-||ads-*.v.ssp.yahoo.com^
-||1024wanzhai.
-||marketplace-*.hyprmx.com^
-||api*.batmobil.net^
-||under-click.
-||log-*.epicdn.me^
-||adcounter*.uptolike.ru^
-||report*.appmetrica.webvisor.com^
-||ad-*.amazonaws.com^
-||goodadvert.
-||ads*.bojijulebu.com^
-||geoloc*.geovisite.ovh^
-||adcs-*.myappsget.com^
-||cnt.winporn.
-||logs*.smithsonian.museum^
-||ads*.textra.me^
-||cs*.mp3bars.com^
-||bar*.shinobi.jp^
-||counter*.freecounter.ovh^
-||collector.hamsterix.
-||log*.vietnamplus.vn^
-||mcdp-*.outbrain.com^
-||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
-||a*.smlog.co.kr^
-||app-analytics-*.snapchat.com^
-||api*.amplitude.com^
-||px*.mediahills.ru^
-||subnewss*.net^
-||matomo.*.vn^
-||t.delfi.
-||medialand.
-||device-metrics-*.amazon.com^
-||hstats*.hepsiburada.com^
-||v.newsportal*.ru^
-||mob*.novanewsapp.com^
-||geoloc*.geo20120530.com^
-||cnt.proporn.
-||ad-*.appacc.dbankedge.cn^
-||host*.rvshare.com^
-||cnt.tubeon.
-||events*.cre.ma^
-||aff*.kolektiva.net^
-||158.247.208.
-||adx-*.dbankedge.cn^
-||banner.*.tccapis.com^
-||geoloc*.geostats.ovh^
-||log-*.zadn.vn^
-||orbit*.lun.ua^
-||reachableads-av.*.amazonaws.com^
-||adx-*.op.dbankcloud.com.edgekey.net^
-||collect-v*.51.la^
-||piwik.*.vn^
-||production-adserver-*.amazonaws.com^
-||minitds-*.info^
-||mautic.*.vn^
-||jtbo*.nqxvevk.cn^
-||analytics*.carambo.la^
-||snowplow-collector-*.amazonaws.com^
-||aan.amazon.*^
-||collect-elb-*.amazonaws.com^
-||ms*.applvn.com^
-||iad-*.braze.com^
-||collector-*.tvsquared.com^
-||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
-||tracking-*.trnox.com^
-||log-*.previewnetworks.com^
-||counter*-yadro*-ru.unblocked.lol^
-||adx-*.dbankcloud.
-||mediate-ios-*.hyprmx.com^
-||ir-new-cdn-eu-west-*-hb.rayjump.com^
-||mediacontext.
-||videoclick.
-||stats-*.p2pnow.ru^
-||admulti.
-||eum*.instana.io^
-||ads*-normal-lq.zijieapi.com^
-||quangcao-*.epicdn.me^
-||button.blogs.yandex.
-||flurry.agentportal-*.yahoodns.net^
-||host*.rigbyandpeller.com^
-||v*.sitecounter.site^
-||an.yandex.
-||mapi-log.qoo*.jp^
-||tracking.olx.
-||teleriumads-*.netdna-ssl.com^
-||rgfftupf.
-||adservice.google.
-||xlog*-*.tiktokv.com^
-||analytics-api.dvdfab.
-||analytics-*-nfl.yinzcam.com^
-||counter*.stat.ovh^
-||liveme-sensors-collect2-*.amazonaws.com^
-||ad*.on.cc^
-||ads.livetv*.me^
-||rtlog*.tiktokv.us^
-||iphone-caviar.ru*entranceId
-||st-*.dynamicyield.com^
-||bondzgi*.
-||prebid-*.rubiconproject.com^
-||rum*.cdnvideo.ru^
-||faro-collector-prod-*.grafana.net^
-||lively-collect-elb-*.amazonaws.com^
-||sgtm.fashionunited.
-||lt*.tritondigital.com^
-||analytics-rollout-*.amazonaws.com^
-||api-*.hismarttv.com^
-||v.tzbox*.xyz^
-||telemetry*.transcend.io^
-||rotabanner.
-||www.fuze-sea*.xyz^
-||browser-intake-*-datadoghq.com^
-||metrics*.fitanalytics.com^
-||edgetrksvc.ebay.
-||log*-misc-lf.amemv.com^
-||eclog*-*.cafe24.com^
-||clk.rtpdn*.com^
-||flipflapflo.
-||datacollector-*.dt.dbankcloud.cn^
-||f-log-*.grammarly.io^
-||wa.gmx.
-||s*.skencituer.com^
-||mon*-*.tiktokv.us^
-||pxl-*.ozone.ru^
-||batchlogging*-noneu.truecaller.com^
-||apple-*.le.com^
-||imp-*.jampp.com^
-||bc.geocities.
-||iptracker-lb-*.amazonaws.com^
-||tracking.*.miui.com^
-||putrr*.com^
-||cpng.lol.^
-||alishop*.ru^
-||pijama.*.elasticbeanstalk.com^
-||pixel*.adswizz.com
-||ana*.inews24.com^
 ||api*.bidmachine.io^
+||servo-report.dvdfab.
 ||trk*.vidible.tv^
 ||pop-under.
-||sock*-goguardian.pusher.com^
-||adserver.*.yahoodns.net^
-||mcs-va-*.tiktokv.com^
+||basvformu*.xyz^
 ||c*hit.zerkalo.io^
-||mon-*.tiktokv.com^
-||linkexchange.
+||events-api*.outfit7.com^
+||fpb*.51edu.com^
 ||pangolin*.sgsnssdk.com^
-||block.s*block.com^
+||pixelapi-*.cs.mysamba.tv^
+||ads-*.v.ssp.yahoo.com^
 ||web-visor.
-||analytics.streamfab.
+||at*.doubanio.com^
+||marketplace-*.hyprmx.com^
+||under-click.
+||dm*.yxlady.com^
+||adcounter*.uptolike.ru^
 ||metric*.rediff.com^
 ||ad*.ettoday.net^
-||log-collector.shopee.
 ||ad*.tmgrup.com.tr^
-||beacons*.gvt3.com^
+||goodadvert.
 ||tracker.twenga.
-||rtlog*.tiktokv.com^
 ||flurry.agentportal.*.yahoodns.net^
 ||cdn*.swaxis.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||adimg*.search.naver.net^
-||log*.aliyuncs.com^
 ||icq-window.
 ||stat*.1internet.tv^
+||geoloc*.geovisite.ovh^
 ||icqwindow.
-||rb*.design.ru^
-||log*.byteoversea.com^
+||cnt.winporn.
+||logs*.smithsonian.museum^
 ||t*.zcvh.net^
+||cs*.mp3bars.com^
+||counter*.freecounter.ovh^
 ||grs.dbankcloud.
-||tracking-v*.a.run.app^
-||tracking*.euroads.fi^
-||hn-ping*.hashnode.com^
+||collector.hamsterix.
+||log*.vietnamplus.vn^
+||mcdp-*.outbrain.com^
 ||sensorsdata*.read.duokan.com^
+||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||i-*.ci360.sas.com^
 ||ad*.bilgin.pro^
+||app-analytics-*.snapchat.com^
 ||track.zalando.
-||seller-log-collector.shopee.
-||23.109.87.
-||hostingcloud.*.wasm^
+||t.delfi.
 ||ubacollect-*.cloud.dbankcloud.cn^
+||medialand.
 ||track.*.roku.com^
-||appanalysis*.banggood.com^
 ||maas-*.phunware.com^
 ||rotaban.
 ||rusrestbest.
-||api*.batmobi.net^
-||get-me-wow.
-||ubt.tracking.shopee.
+||geoloc*.geo20120530.com^
+||cnt.proporn.
 ||fp-*it*.fengkongcloud.com^
 ||teasernet.
 ||popuptraf.
 ||events-*.op.hicloud.com^
-||videoclik.
+||cnt.tubeon.
 ||poshalim.
+||events*.cre.ma^
+||aff*.kolektiva.net^
+||adx-*.dbankedge.cn^
+||banner.*.tccapis.com^
+||geoloc*.geostats.ovh^
 ||pixel-*.rubiconproject.com^
-||ssp*.rtb.beeline.ru^
 ||cdn-adn-*.rayjump.com^
 ||stats*.videonow.ru^
 ||pixel.archive.
 ||track.tiara.
 ||orbit*.lun.ua^
+||bdcpro*.techweb.com.cn^
 ||popupclick.
 ||ad*.thisisgame.com^
-||dw-informer-*.newsru.com^
-|piwik.
+||collect-v*.51.la^
 ||datacollector-*.dt.hicloud.com^
 ||q*-publick.club^
 ||letssex.
-||logger-*.dailymotion.com^
-||iad-*.appboy.com^
+||minitds-*.info^
 ||cl*.k5a.io^
-||ad*.nexage.com^
+||bdlm*.hc360.com^
 ||ad.*.doubleclick.net^
+||analytics*.carambo.la^
 ||s*.adduplex.com^
+||snowplow-collector-*.amazonaws.com^
 ||mon*-platform-*.tiktokv.com^
+||collect-elb-*.amazonaws.com^
+||ms*.applvn.com^
+||collector-*.tvsquared.com^
 ||adserver1.
-||backstory.ebay.
+||d*.xinshipu.com^
+||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
+||log-*.previewnetworks.com^
+||counter*-yadro*-ru.unblocked.lol^
 ||pop-parad.
 ||auth-*.hismarttv.com^
-||www.fuze-hill*.xyz^
-||batchlogging*-eu.truecaller.com^
+||mediacontext.
+||stats-*.p2pnow.ru^
+||admulti.
+||eum*.instana.io^
 ||parkdomainreal*.site^
-||tnc16-*.byteoversea.com^
-||piwik.*.com.vn^
 ||popunder.
 ||livetracker.*.pangea-cms.com^
 ||stat.tiara.
-||ads-dmp-collect.*.karrotmarket.com^
 ||rotator.
-||bms*.adjarabet.com^
-||mf*.advantage.as^
 ||analytics*.prezly.com^
+||button.blogs.yandex.
 ||collector.xhamster*.
-||fxhpaoxqyajvmdg.
 ||collector*.ex.co^
 ||poptraf.
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
+||v*.sitecounter.site^
 <head>
 <body>
 <!doctype html>
@@ -598,6 +593,7 @@ body {
 ||sd.yhzzzs*.com^
 ||w*.*skwai.com^
 ||ifengad.*.ifeng.com^
+||ad*.on.cc^
 ||bjkedv*.xyz^
 ||ads*.dfiles.ru^
 ||p26.gejulm*.com^
@@ -644,12 +640,14 @@ body {
 ||a*.chajiaotong.com^
 ||gads*s.com^
 ||aj1*.xyz^
+||ac*.786ip.com^
 ||util-*.simply-hentai.com^
 ||geotargetly-api-*.com^
 ||collector-*.px-cloud.net^
 ||fads*z.com^
 ||display-ad-*.kgslb.com^
 ||mads*z.com^
+||ac*.pingguolv.com^
 ||gtlpa*.com^
 ||ej1*.online^
 ||mistat.*.xiaomi.com^
@@ -660,6 +658,7 @@ body {
 ||fads*s.com^
 ||js.*2023*.xyz^
 ||log*-normal-lq.toutiaoapi.com^
+||ac*.faxingchina.com^
 ||aem-collector-*.kgslb.com^
 ||analytics-ad-*.kgslb.com^
 ||ads.*.kugou.com^
@@ -814,34 +813,6 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||ads*-normal-lq.amemv.com^
 ||ads*-normal-lq.zijieapi.com.queniuiq.com^
 ||ads*-normal-lq.zijieapi.com.w.cdngslb.com^
-||adstore-*.file.myqcloud.com^
-||service*.ap-guangzhou.apigateway.myqcloud.com^
-||xmh4*.com^
-+advertorial.
-;adsense_
-||video-err-log-*.cos.ap-beijing.myqcloud.com^
-||ad.xn--*
-||s.ssl.qhres*.com^
-||po*.877zw.com^
-||201*.myhard.com^
-|ad.player.baidu.com^
-||jfsdiwmnbsk*.top^
-||pagead*.google.com^
-||120.27.*.html
-||adash*.m.taobao.com^
-takeover_banner_
-;manifest-analytics.js
-||113.17.188.*.js
-||p*-be-pack-sign.pglstatp-toutiao.com
-||111.175.219.*.js
-||amaze*.snssdk.com^
-||||sl.sogoucdn.com^
-||218.26.217.*.html
-||122.225.103.*.htm
-||g*.biqugetv.com^
-||img*.idongde.com^
-||||ws.ribaoapi.com^
-||61.160.200.
 tnc*-alisc*.zijieapi.com
 p*-luckycat.byteimg.com
 pull-lls-l*.douyincdn.com
@@ -871,6 +842,34 @@ pull-tsl-hs-spe-f*.douyinliving.com
 pull-flv-cny*-spe-l*.douyincdn.com
 p*-tt.byteimg.com
 ecom*-normal-lq.ecombdapi.com
+||adstore-*.file.myqcloud.com^
+||service*.ap-guangzhou.apigateway.myqcloud.com^
+||xmh4*.com^
++advertorial.
+;adsense_
+||video-err-log-*.cos.ap-beijing.myqcloud.com^
+||ad.xn--*
+||s.ssl.qhres*.com^
+||po*.877zw.com^
+||201*.myhard.com^
+|ad.player.baidu.com^
+||jfsdiwmnbsk*.top^
+||pagead*.google.com^
+||120.27.*.html
+||adash*.m.taobao.com^
+takeover_banner_
+;manifest-analytics.js
+||113.17.188.*.js
+||p*-be-pack-sign.pglstatp-toutiao.com
+||111.175.219.*.js
+||amaze*.snssdk.com^
+||||sl.sogoucdn.com^
+||218.26.217.*.html
+||122.225.103.*.htm
+||g*.biqugetv.com^
+||img*.idongde.com^
+||||ws.ribaoapi.com^
+||61.160.200.
 ||glthub.
 ||ad*.nownews.com^
 |r189---sn-4g57knkz.googlevideo.com^
@@ -949,7 +948,6 @@ ecom*-normal-lq.ecombdapi.com
 |r31sn-a5mekney.googlevideo.com^
 |r1---sn-j5a4husn.googlevideo.com^
 |r18--sn-ab5l6ned.googlevideo.com^
-|r36.sn-4g57knkr.googlevideo.com^
 |r1---sn-zh57nrav.googlevideo.com^
 |r4---sn--30a7yne7.googlevideo.com^
 |r1---sn-8ejv8xug.googlevideo.com^
@@ -997,6 +995,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-y2sa4p2u.googlevideo.com^
 |r18---sn-a5m7znee.googlevideo.com^
 |r2---sn-avwsycof.googlevideo.com^
+|r28sn-a5m7zne6.googlevideo.com^
 |r5.sn-npoe7n7z.googlevideo.com^
 |r6.sn-hpa7zne6.googlevideo.com^
 |r1---sn-suwxlveo.googlevideo.com^
@@ -1109,7 +1108,6 @@ ecom*-normal-lq.ecombdapi.com
 |r11---sn-aigzrne7.googlevideo.com^
 |r14---sn--n5pbvoj5caxu8-nboz.google^
 |r27--sn-q4fl6ne6.googlevideo.com^
-|r1---sn-kf8nqiaz.googlevideo.com^
 |r20---sn--4g5edned.googlevideo.com^
 |r18---sn--4pa5ojvg0-n8ve.googlevideo.com^
 |r24.sn-vgqs7nel.googlevideo.com^
@@ -1127,6 +1125,7 @@ ecom*-normal-lq.ecombdapi.com
 |r16---sn--cgjxoug5a-btol.googlevideo.com^
 |r2---sn-a5mlrn7z.googlevideo.com^
 |r1---sn-3q6pfdam.googlevideo.com^
+|r32--sn-cvh7knez.googlevideo.com^
 |r1---sn-ic74fwe5.googlevideo.com^
 |r27---sn-5hnedn7k.googlevideo.com^
 |r36sn-4g57kndr.googlevideo.com^
@@ -1250,7 +1249,6 @@ ecom*-normal-lq.ecombdapi.com
 |r39.sn-h5q7dnek.googlevideo.com^
 |r12sn-5hne6n7k.googlevideo.com^
 |r27---sn-4g57knk6.googlevideo.com^
-|r5.sn-vgqsen7e.googlevideo.com^
 |r1---sn-qbe1jx8s.googlevideo.com^
 |r26--sn-5hne6nlz.googlevideo.com^
 |r3---sn--cvh7knek.googlevideo.com^
@@ -1292,6 +1290,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-rldylhkh.googlevideo.com^
 |r34---sn-4g57knzl.googlevideo.com^
 |r2sn-vgqsenek.googlevideo.com^
+|r15--sn-aiglln7e.googlevideo.com^
 |r17.sn-aigzrn7z.googlevideo.com^
 |r1---sn-36lvoqjh.googlevideo.com^
 |r0sn-q4f7sn7l.googlevideo.com^
@@ -1397,6 +1396,7 @@ ecom*-normal-lq.ecombdapi.com
 |r73---sn-5hnednlk.googlevideo.com^
 |r1---sn-c1npy43c.googlevideo.com^
 |r6---sn-aigllnez.googlevideo.com^
+|r37.sn-vgqs7n7k.googlevideo.com^
 |r7---sn--uxv-8ovl.googlevideo.com^
 |r33---sn-4g57knls.googlevideo.com^
 |r5---sn-5uaezney.googlevideo.com^
@@ -1492,9 +1492,11 @@ ecom*-normal-lq.ecombdapi.com
 |r3---sn--25ge7nls.googlevideo.com^
 |r46sn-4g57kn6z.googlevideo.com^
 |rr4.sn-a5mekned.googlevideo.com^
+|r39sn-a5m7ln7r.googlevideo.com^
 |r49sn-hpa7zned.googlevideo.com^
 |r8---sn--w5nuxa-c33ez.googlevideo.com^
 |r8---sn--5uaeznkl.googlevideo.com^
+|r1---sn-wx5gffhc.googlevideo.com^
 |r21--sn-vgqs7ned.googlevideo.com^
 |r20.sn-hpa7zner.googlevideo.com^
 |r45--sn-vgqs7nes.googlevideo.com^
@@ -1521,6 +1523,7 @@ ecom*-normal-lq.ecombdapi.com
 |r365---sn-4g57knr7.googlevideo.com^
 |r2---sn-s1fkoxju.googlevideo.com^
 |r20---sn-hp57kn6y.googlevideo.com^
+|r2---sn--0ub03g5pox-3c2l.googlevideo.com^
 |r7.sn-q4fl6nsk.googlevideo.com^
 |r2---sn-qxo7rn7s.googlevideo.com^
 |r5---sn-4g57knl7.googlevideo.com^
@@ -1759,6 +1762,7 @@ ecom*-normal-lq.ecombdapi.com
 |r24.sn-ab5l6nee.googlevideo.com^
 |r9---sn-aigzrnld.googlevideo.com^
 |r1---sn-az74gk1m.googlevideo.com^
+|r1---sn-ddr8ccjp.googlevideo.com^
 |rr1.sn-jvhj5nu-nh4z.googlevideo.com^
 |r21--sn-vgqsrn7l.googlevideo.com^
 |r30--sn-8xgp1vo-xfgk.googlevideo.com^
@@ -2183,7 +2187,6 @@ ecom*-normal-lq.ecombdapi.com
 |r262---sn-4g57knzk.googlevideo.com^
 |r1---sn-e6qcoq15.googlevideo.com^
 |rr3.sn-a5mlrnel.googlevideo.com^
-|r21.sn-ab5l6nsd.googlevideo.com^
 |r4--sn-5hnedn7k.googlevideo.com^
 |r1---sn-vqtbo2aa.googlevideo.com^
 |r12---sn--h5q7dnes.googlevideo.com^
@@ -2235,6 +2238,7 @@ ecom*-normal-lq.ecombdapi.com
 |r29---sn-4g57kne6.googlevideo.com^
 |r0---sn-p5qlsnly.googlevideo.com^
 |r5sn-p5qlsnsr.googlevideo.com^
+|r9.sn-4g57knl7.googlevideo.com^
 |r5---sn-q4flrnel.googlevideo.com^
 |r24.sn-1gi7zne7.googlevideo.com^
 |r38--sn-aiglln7r.googlevideo.com^
@@ -2301,7 +2305,6 @@ ecom*-normal-lq.ecombdapi.com
 |r16---sn-aigl6ner.googlevideo.com^
 |r17.sn-4g5lzney.googlevideo.com^
 |r10--sn-vgqs7ney.googlevideo.com^
-|r45---sn-vgqsen7r.googlevideo.com^
 |r36.sn-aigllnez.googlevideo.com^
 |r45sn-oguesn7d.googlevideo.com^
 |r47sn-cvh7kn7d.googlevideo.com^
@@ -2385,6 +2388,7 @@ ecom*-normal-lq.ecombdapi.com
 |r16sn-4g57knkl.googlevideo.com^
 |r34--sn-ab5l6n7d.googlevideo.com^
 |r28--sn-a5m7zne6.googlevideo.com^
+|r8---sn-5hne6nez.googlevideo.com^
 |r1---sn-mxda4vu4.googlevideo.com^
 |r43sn-ab5l6n6s.googlevideo.com^
 |r17---sn-q4fl6n76.googlevideo.com^
@@ -2402,6 +2406,7 @@ ecom*-normal-lq.ecombdapi.com
 |r14sn-ni5f-t8gl.googlevideo.com^
 |r14.sn-ab5l6nls.googlevideo.com^
 |r40sn-nx5e6n7d.googlevideo.com^
+|r5---sn-4g5edne7.googlevideo.com^
 |r7sn-8xgp1vo-xfgk.googlevideo.com^
 |r9---sn-vgqsknly.googlevideo.com^
 |r39--sn-ab5l6nsk.googlevideo.com^
@@ -2581,7 +2586,6 @@ ecom*-normal-lq.ecombdapi.com
 |r2--sn-cvh76n7e.googlevideo.com^
 |r17--sn-q4fl6ney.googlevideo.com^
 |r14---sn-p5qlsnsy.googlevideo.com^
-|r22sn-ab5l6ner.googlevideo.com^
 |r43sn-oxmua5txg-8pxl.googlevideo.com^
 |r31--sn-4g57kndd.googlevideo.com^
 |r14.sn-vgqsrnel.googlevideo.com^
@@ -2791,7 +2795,6 @@ ecom*-normal-lq.ecombdapi.com
 |r18---sn-q4flrn7y.googlevideo.com^
 |r9sn-n8v7sne7.googlevideo.com^
 |r21--sn-4g57kn6y.googlevideo.com^
-|r2---sn-coehbzod.googlevideo.com^
 |r23--sn-a5m7ln7r.googlevideo.com^
 |r16---sn-25ge7nzs.googlevideo.com^
 |r386---sn-4g5ednle.googlevideo.com^
@@ -3017,6 +3020,7 @@ ecom*-normal-lq.ecombdapi.com
 |r21.sn-1gi7zne7.googlevideo.com^
 |r1---sn-ps2vbchr.googlevideo.com^
 |r36sn-a5meknl6.googlevideo.com^
+|r19---sn-a5mlrn7z.googlevideo.com^
 |r36--sn-4g57kned.googlevideo.com^
 |r50sn-vgqsen7r.googlevideo.com^
 |r11---sn-vgqsknse.googlevideo.com^
@@ -3040,6 +3044,7 @@ ecom*-normal-lq.ecombdapi.com
 |r15---sn--p5qs7n7e.googlevideo.com^
 |r6---sn-a5mekne7.googlevideo.com^
 |r20.sn-5uaezn6r.googlevideo.com^
+|r1---sn-m48o278n.googlevideo.com^
 |r15--sn-8xgp1vo-xfgr.googlevideo.com^
 |r2---sn-zo6vivou.googlevideo.com^
 |r79---sn-4g57knsy.googlevideo.com^
@@ -3206,6 +3211,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-vgqsknez.googlevideo.com^
 |r1---sn-ui3tfq52.googlevideo.com^
 |r10--sn-hp57knsr.googlevideo.com^
+|r4---sn--oxmua5txg-8pxl.googlevideo.com^
 |r36---sn-vgqsen7e.googlevideo.com^
 |r46--sn-ab5l6n7l.googlevideo.com^
 |r6---sn--25glenes.googlevideo.com^
@@ -3221,6 +3227,7 @@ ecom*-normal-lq.ecombdapi.com
 |r15--sn-u2bpouxgoxu-hxaz.googlevideo.com^
 |r6--sn-nuj-wxqr.googlevideo.com^
 |r0--sn-4g5edned.googlevideo.com^
+|r21sn-aigllnz6.googlevideo.com^
 |r40sn-n8v7sne7.googlevideo.com^
 |r16---sn--5go7yne6.googlevideo.com^
 |rr1.sn-a5meknzk.googlevideo.com^
@@ -3366,6 +3373,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn--5hne6n7s.googlevideo.com^
 |r1---sn-7ajezdzz.googlevideo.com^
 |r14--sn-4g57knl6.googlevideo.com^
+|r13.sn-4g5lzned.googlevideo.com^
 |r14---sn--vgqsknll.googlevideo.com^
 |r14---sn--bg0ezn7z.googlevideo.com^
 |r171---sn-4g5e6nls.googlevideo.com^
@@ -3455,7 +3463,6 @@ ecom*-normal-lq.ecombdapi.com
 |r44sn-a5mekner.googlevideo.com^
 |r1---sn-4uehvpwz.googlevideo.com^
 |r13---sn--v2xooxuj5hcvqp5-2ois.googlevideo.com^
-|r18---sn-aigllnzd.googlevideo.com^
 |r1---sn-pubbsc5a.googlevideo.com^
 |r19---sn-p5qlsndr.googlevideo.com^
 |r8---sn--a5mlrn7y.googlevideo.com^
@@ -3674,7 +3681,6 @@ ecom*-normal-lq.ecombdapi.com
 |r5---sn--4pgnuhxqp5-jb3s.googlevideo.com^
 |r1---sn-tutskzjb.googlevideo.com^
 |r26---sn-ab5l6nel.googlevideo.com^
-|r5---sn-vgqsenes.googlevideo.com^
 |r1---sn-sxfaomnd.googlevideo.com^
 |rr4.sn-a5meknzk.googlevideo.com^
 |r21sn-25ge7n7k.googlevideo.com^
@@ -3871,6 +3877,7 @@ ecom*-normal-lq.ecombdapi.com
 |r18sn-hp57knsk.googlevideo.com^
 |r1---sn-ab5l6nls.googlevideo.com^
 |r41--sn-p5qlsnlk.googlevideo.com^
+|r17.sn-qxoedn7d.googlevideo.com^
 |r1---sn-yn4b5huz.googlevideo.com^
 |r28.sn-vgqsen7l.googlevideo.com^
 |r42.sn-aiglln7d.googlevideo.com^
@@ -3927,6 +3934,7 @@ ecom*-normal-lq.ecombdapi.com
 |r402---sn-4g5e6n7k.googlevideo.com^
 |r30---sn-4g57knl7.googlevideo.com^
 |r46---sn-cvh7kn7k.googlevideo.com^
+|r18---sn--8qj-i5oll.googlevideo.com^
 |r13.sn-vgqsen7d.googlevideo.com^
 |r1--sn-4g5e6nle.googlevideo.com^
 |r13---sn--ug5onuxaxjvh-n8vs.googlevideo.com^
@@ -3944,6 +3952,7 @@ ecom*-normal-lq.ecombdapi.com
 |r36sn-4g57knkr.googlevideo.com^
 |r1---sn-mbzy3udm.googlevideo.com^
 |r2---sn-a5m7ln7s.googlevideo.com^
+|r28--sn-u2bpouxgoxu-hxaz.googlevideo.com^
 |r35sn-a5mekney.googlevideo.com^
 |r47--sn-hp57knsy.googlevideo.com^
 |r19---sn--vgqsknls.googlevideo.com^
@@ -4040,7 +4049,6 @@ ecom*-normal-lq.ecombdapi.com
 |r5--sn-5hne6n7d.googlevideo.com^
 |r45sn-vgqsenee.googlevideo.com^
 |r13---sn--bg0ezn7l.googlevideo.com^
-|r13---sn--5ualdn7z.googlevideo.com^
 |r428---sn-4g57knzz.googlevideo.com^
 |r23.sn-a5m7ln7r.googlevideo.com^
 |r17sn-4g5e6nez.googlevideo.com^
@@ -4409,7 +4417,6 @@ ecom*-normal-lq.ecombdapi.com
 |r28--sn-a5mlrn7l.googlevideo.com^
 |r32sn-p5qs7nee.googlevideo.com^
 |r505---sn-4g57kn67.googlevideo.com^
-|r21sn-4g57kn7d.googlevideo.com^
 |r2---sn-u2bpouxgoxu-hxaz.googlevideo.com^
 |r1---sn-82by1716.googlevideo.com^
 |r14.sn-5uaezn7e.googlevideo.com^
@@ -4457,7 +4464,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1.sn-25glene7.googlevideo.com^
 |r46.sn-aigllnzr.googlevideo.com^
 |r15---sn-vgqsrnll.googlevideo.com^
-|r45--sn-vgqsenel.googlevideo.com^
 |r8---sn--ab5l6n6l.googlevideo.com^
 |r21--sn-aiglln7e.googlevideo.com^
 |r34---sn-ab5l6nll.googlevideo.com^
@@ -4544,6 +4550,7 @@ ecom*-normal-lq.ecombdapi.com
 |r6.sn-vgqs7nlz.googlevideo.com^
 |r1---sn-1ucgnrhc.googlevideo.com^
 |r1---sn-alfvw4ro.googlevideo.com^
+|r3---sn--j5aa2a0n-53ae.googlevideo.com^
 |r1---sn-xf4akxhz.googlevideo.com^
 |r12---sn--qxo7rn7s.googlevideo.com^
 |r35.sn-aigllnze.googlevideo.com^
@@ -4773,7 +4780,6 @@ ecom*-normal-lq.ecombdapi.com
 |r14---sn-5hneknee.googlevideo.com^
 |r17sn-vgqsener.googlevideo.com^
 |r10---sn-p5qlsnly.googlevideo.com^
-|r5.sn-4g57knrl.googlevideo.com^
 |r16---sn--25ge7nls.googlevideo.com^
 |r2---sn--a5meknsd.googlevideo.com^
 |r43sn-vgqs7n7l.googlevideo.com^
@@ -4851,6 +4857,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn--cvh76n7k.googlevideo.com^
 |r17sn-vgqs7n7d.googlevideo.com^
 |r33---sn-aigllnee.googlevideo.com^
+|r21.sn-4g57knks.googlevideo.com^
 |r15---sn--25ge7nld.googlevideo.com^
 |r8---sn-ab5sznly.googlevideo.com^
 |r19---sn--huoob-5cce.googlevideo.com^
@@ -4870,7 +4877,6 @@ ecom*-normal-lq.ecombdapi.com
 |r6---sn--ab5szn7r.googlevideo.com^
 |r3.sn-5ualdn76.googlevideo.com^
 |r7---sn--ci5gup-h55l.googlevideo.com^
-|r17---sn--53-ocve.googlevideo.com^
 |r18--sn-vgqs7nls.googlevideo.com^
 |r11---sn-5hnekn7d.googlevideo.com^
 |r44sn-vgqsenl7.googlevideo.com^
@@ -4945,6 +4951,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-xsjy8qtk.googlevideo.com^
 |r27sn-cvh7knes.googlevideo.com^
 |r3---sn-5hnedney.googlevideo.com^
+|r9---sn--i3b7knld.googlevideo.com^
 |r9---sn--5uaeznk7.googlevideo.com^
 |r12--sn-nv47lney.googlevideo.com^
 |r43sn-npoeen7k.googlevideo.com^
@@ -5001,6 +5008,7 @@ ecom*-normal-lq.ecombdapi.com
 |r20--sn-4g5e6nes.googlevideo.com^
 |r25--sn-4g5e6nle.googlevideo.com^
 |r16.sn-o097znz7.googlevideo.com^
+|r9---sn-vgqsrnsd.googlevideo.com^
 |r17---sn--4g5edn7y.googlevideo.com^
 |r5---sn--pjnxg8-0qwe.googlevideo.com^
 |r7---sn--5obxaqgv2n-q5je.googlevideo.com^
@@ -5118,8 +5126,8 @@ ecom*-normal-lq.ecombdapi.com
 |r4---sn--aigl6ney.googlevideo.com^
 |r50--sn-25ge7n7d.googlevideo.com^
 |r50--sn-q4fl6ney.googlevideo.com^
-|r1---sn-n7u6pzcr.googlevideo.com^
 |r18.sn-ab5l6ndr.googlevideo.com^
+|r7--sn-q4fl6ne6.googlevideo.com^
 |r9sn-vgqsenes.googlevideo.com^
 |r7--sn-4g5ednee.googlevideo.com^
 |r7---sn--vgqs7nl7.googlevideo.com^
@@ -5213,6 +5221,7 @@ ecom*-normal-lq.ecombdapi.com
 |r5---sn-5ualdn7r.googlevideo.com^
 |r20---sn--5np5po4v-c33y.googlevideo.com^
 |r5---sn--5uaeznr6.googlevideo.com^
+|r9---sn--8pxuuxa-nbod.googlevideo.com^
 |r1---sn-7ishz8bz.googlevideo.com^
 |r46.sn-aigllnes.googlevideo.com^
 |r17---sn--3c27sn7e.googlevideo.com^
@@ -5223,6 +5232,7 @@ ecom*-normal-lq.ecombdapi.com
 |r13---sn--n4v7snee.googlevideo.com^
 |r7---sn--30a7yn7k.googlevideo.com^
 |r16--sn-5hnedn7d.googlevideo.com^
+|r50.sn-hpa7zner.googlevideo.com^
 |r45---sn-vgqs7nek.googlevideo.com^
 |r17---sn--5goeen7k.googlevideo.com^
 |r23--sn-cvh7knez.googlevideo.com^
@@ -5468,6 +5478,7 @@ ecom*-normal-lq.ecombdapi.com
 |r433---sn-4g57knzl.googlevideo.com^
 |r5---sn--5goeen76.googlevideo.com^
 |r1---sn-o18jafxz.googlevideo.com^
+|r13sn-n8v7sne7.googlevideo.com^
 |r45sn-aiglln7d.googlevideo.com^
 |r8---sn--2uuxa3vh-cuie.googlevideo.com^
 |r40---sn-4g57kn6d.googlevideo.com^
@@ -5551,7 +5562,6 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-tvls8tx8.googlevideo.com^
 |r3sn-a5meknes.googlevideo.com^
 |r1---sn-zt8wve35.googlevideo.com^
-|r39---sn-4g57kn6z.googlevideo.com^
 |r1---sn-12xbk65c.googlevideo.com^
 |r1---sn-hzc7jhmk.googlevideo.com^
 |r15sn-aiglln7d.googlevideo.com^
@@ -5722,7 +5732,6 @@ ecom*-normal-lq.ecombdapi.com
 |r15---sn--uxgg5-852e.googlevideo.com^
 |r26--sn-4g5ednek.googlevideo.com^
 |r13---sn--npoeen7k.googlevideo.com^
-|r15---sn--qxoedn7z.googlevideo.com^
 |r17---sn-1gi7znel.googlevideo.com^
 |r34.sn-a5m7znes.googlevideo.com^
 |r50---sn-ab5l6n7l.googlevideo.com^
@@ -5844,6 +5853,7 @@ ecom*-normal-lq.ecombdapi.com
 |r8---sn-4g5edne7.googlevideo.com^
 |r8.sn-hp57knly.googlevideo.com^
 |r15--sn-4g57kn6y.googlevideo.com^
+|r14--sn-4g57knzz.googlevideo.com^
 |r14sn-p5qlsnll.googlevideo.com^
 |r29sn-25ge7n7d.googlevideo.com^
 |r7--sn-n4v7sn7l.googlevideo.com^
@@ -6485,6 +6495,7 @@ ecom*-normal-lq.ecombdapi.com
 |r19--sn-a5meknel.googlevideo.com^
 |r50---sn-o097zne6.googlevideo.com^
 |r1---sn-kenauiz1.googlevideo.com^
+|r38---sn-ab5l6n7l.googlevideo.com^
 |r2---sn--n5pbvoj5caxu8-nboz.googlevideo.com^
 |r9---sn--jxnj5-cjoe.googlevideo.com^
 |r15--sn-p5qlsnll.googlevideo.com^
@@ -6696,6 +6707,8 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-2t8s73iz.googlevideo.com^
 |r40sn-a5mekn7d.googlevideo.com^
 |r15--sn-a5meknl6.googlevideo.com^
+|r16--sn-vgqsen7e.googlevideo.com^
+|r36---sn-5hne6ner.googlevideo.com^
 |r9---sn--vgqs7nly.googlevideo.com^
 |r1---sn-p47mo4ht.googlevideo.com^
 |r29sn-q4fl6n7l.googlevideo.com^
@@ -6951,6 +6964,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1.sn-5hne6nzk.googlevideo.com^
 |r2--sn-a5m7znek.googlevideo.com^
 |r8--sn-qxa7en7e.googlevideo.com^
+|r42---sn-aiglln7e.googlevideo.com^
 |r39--sn-p5qlsnll.googlevideo.com^
 |r11---sn--vov-h5ql.googlevideo.com^
 |r459---sn-4g57knkz.googlevideo.com^
@@ -6986,7 +7000,6 @@ ecom*-normal-lq.ecombdapi.com
 |r7sn-4g57kn6z.googlevideo.com^
 |r1---sn-zko5spqk.googlevideo.com^
 |r6---sn--q4f7sn7d.googlevideo.com^
-|r16.sn-4g5edndl.googlevideo.com^
 |r1---sn-8vq1tqss.googlevideo.com^
 |r28.sn-4g57kn6z.googlevideo.com^
 |r40--sn-hpa7zney.googlevideo.com^
@@ -6997,6 +7010,7 @@ ecom*-normal-lq.ecombdapi.com
 |r8---sn--avn7ln7e.googlevideo.com^
 |r17sn-vgqseney.googlevideo.com^
 |r39sn-4g5edned.googlevideo.com^
+|r11.sn-nx57ynl6.googlevideo.com^
 |r19---sn-4g5e6nsr.googlevideo.com^
 |r14---sn-5hne6nlz.googlevideo.com^
 |r19---sn--hxb54vo-gv8l.googlevideo.com^
@@ -7270,7 +7284,6 @@ ecom*-normal-lq.ecombdapi.com
 |r2.sn-a5m7ln7y.googlevideo.com^
 |r2---sn-m7t5l7ya.googlevideo.com^
 |r13---sn-a5mlrn7s.googlevideo.com^
-|r9---sn--poqvn5u-jb3s.googlevideo.com^
 |r14---sn--n8v7knee.googlevideo.com^
 |r6---sn-a5m7znes.googlevideo.com^
 |r0---sn-vgqsen7k.googlevideo.com^
@@ -7854,6 +7867,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-lnm7oel1.googlevideo.com^
 |r28.sn-4g57knze.googlevideo.com^
 |r3--sn-cvh7knez.googlevideo.com^
+|r1---sn-my6tzs5h.googlevideo.com^
 |r21sn-cvh7kn7k.googlevideo.com^
 |r24---sn-ab5l6nee.googlevideo.com^
 |r41sn-4g57knz6.googlevideo.com^
@@ -7904,7 +7918,6 @@ ecom*-normal-lq.ecombdapi.com
 |r7---sn-5uaezne7.googlevideo.com^
 |r3.sn-gvnuxaxjvh-p3ue.googlevideo.com^
 |r1---sn-nwyx7ic1.googlevideo.com^
-|r8---sn--8qj-i5oek.googlevideo.com^
 |r13---sn--h557snlz.googlevideo.com^
 |r30---sn-hpa7znek.googlevideo.com^
 |r17sn-p5qlsnly.googlevideo.com^
@@ -7950,6 +7963,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-kozso1r1.googlevideo.com^
 |r13sn-nv47lnel.googlevideo.com^
 |r4--sn-4g5e6nle.googlevideo.com^
+|r10---sn--ab5sznld.googlevideo.com^
 |r2--sn-4g57kndl.googlevideo.com^
 |r8---sn--npoeenez.googlevideo.com^
 |r7---sn-vgqs7n7d.googlevideo.com^
@@ -7987,6 +8001,7 @@ ecom*-normal-lq.ecombdapi.com
 |r8.sn-5ualdnls.googlevideo.com^
 |r1---sn-a1gyrdde.googlevideo.com^
 |r17---sn--bvvbax-v8cl.googlevideo.com^
+|r32---sn-a5m7zned.googlevideo.com^
 |r34--sn-4g5e6nle.googlevideo.com^
 |r39--sn-ab5l6nel.googlevideo.com^
 |r13---sn--5goeen7r.googlevideo.com^
@@ -8190,7 +8205,6 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-afr1pu8y.googlevideo.com^
 |r38sn-4g57knsy.googlevideo.com^
 |r17.sn-5hnednlr.googlevideo.com^
-|r24---sn-vgqs7nel.googlevideo.com^
 |r1---sn-wtjamnkx.googlevideo.com^
 |r2---sn-hfmmyagb.googlevideo.com^
 |r1---sn-6t7x3vfk.googlevideo.com^
@@ -8280,6 +8294,7 @@ ecom*-normal-lq.ecombdapi.com
 |r45--sn-oguesn7l.googlevideo.com^
 |r25sn-a5mlrn7l.googlevideo.com^
 |r23sn-ni5f-t8gl.googlevideo.com^
+|r36---sn-vgqsen7d.googlevideo.com^
 |r1---sn-4uc4mnc2.googlevideo.com^
 |r43---sn-4g57kn6z.googlevideo.com^
 |r49---sn-4g57kndr.googlevideo.com^
@@ -8441,6 +8456,7 @@ ecom*-normal-lq.ecombdapi.com
 |r10---sn--vgqsknel.googlevideo.com^
 |r8.sn-hp57kn6s.googlevideo.com^
 |r1---sn--nx57ynlz.googlevideo.com^
+|r1---sn-f4uojpi1.googlevideo.com^
 |r8---sn--4g5ednls.googlevideo.com^
 |r28sn-h557sne6.googlevideo.com^
 |r25.sn-25ge7n7r.googlevideo.com^
@@ -8684,7 +8700,6 @@ ecom*-normal-lq.ecombdapi.com
 |r13.sn-vgqskns7.googlevideo.com^
 |r12---sn--buu-hp5s.googlevideo.com^
 |r26---sn-4g57knzz.googlevideo.com^
-|r4--sn-5hnednee.googlevideo.com^
 |r9.sn-ab5l6nel.googlevideo.com^
 |r15.sn-4g5ednse.googlevideo.com^
 |r1---sn-snef4uul.googlevideo.com^
@@ -8893,6 +8908,7 @@ ecom*-normal-lq.ecombdapi.com
 |r47sn-hp57kns7.googlevideo.com^
 |r26.sn-nv47lnel.googlevideo.com^
 |r48--sn-25ge7n7d.googlevideo.com^
+|r40sn-h557snlz.googlevideo.com^
 |r38--sn-vgqsenes.googlevideo.com^
 |r15---sn--oguesnsy.googlevideo.com^
 |r17.sn-nx57ynl6.googlevideo.com^
@@ -8921,6 +8937,7 @@ ecom*-normal-lq.ecombdapi.com
 |r39.sn-hp57knsk.googlevideo.com^
 |r1---sn-p5qs7nel.googlevideo.com^
 |r12---sn-a5m7ln7r.googlevideo.com^
+|r46---sn-aigllnzk.googlevideo.com^
 |r20.sn-aigllney.googlevideo.com^
 |r15---sn-hp57kns7.googlevideo.com^
 |r35sn-j5caxoxu-hh0e.googlevideo.com^
@@ -9032,6 +9049,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-ns6gi6ro.googlevideo.com^
 |r1---sn-4g5lzney.googlevideo.com^
 |r44---sn-aiglln7k.googlevideo.com^
+|r5---sn--n02xgoxufvg3-2gbs.googlevideo.com^
 |r26--sn-4g5ednls.googlevideo.com^
 |r1---sn--2uja-h0ml.googlevideo.com^
 |r1---sn-4yw2qey3.googlevideo.com^
@@ -9159,12 +9177,10 @@ ecom*-normal-lq.ecombdapi.com
 |r8---sn-4g57knky.googlevideo.com^
 |r1---sn-1byllm6q.googlevideo.com^
 |r1---sn-574s8vbo.googlevideo.com^
-|r33---sn-q4f7sned.googlevideo.com^
 |r20---sn--ab5l6nsk.googlevideo.com^
 |r50---sn-aigllnz6.googlevideo.com^
 |r32sn-hpa7zned.googlevideo.com^
 |r17sn-ab5l6nek.googlevideo.com^
-|r1---sn-bigz848j.googlevideo.com^
 |r2---sn-wm3w6wso.googlevideo.com^
 |r5---sn--oguesnz7.googlevideo.com^
 |r6---sn--8qj-i5ols.googlevideo.com^
@@ -9312,7 +9328,6 @@ ecom*-normal-lq.ecombdapi.com
 |r22sn-bg07dney.googlevideo.com^
 |r2---sn-pmt1ngdh.googlevideo.com^
 |r11---sn--ab5szn7r.googlevideo.com^
-|r48.sn-nv47lnee.googlevideo.com^
 |r1---sn-654ll3g3.googlevideo.com^
 |r1---sn-ivuoxu-ua86.googlevideo.com^
 |r496---sn-4g5edn7e.googlevideo.com^
@@ -9325,7 +9340,6 @@ ecom*-normal-lq.ecombdapi.com
 |r22sn-4g57knsy.googlevideo.com^
 |r4.sn-aigl6n7z.googlevideo.com^
 |r1---sn-7ri8bygg.googlevideo.com^
-|r50---sn-a5m7lnes.googlevideo.com^
 |r9---sn--q4flrnes.googlevideo.com^
 |r38.sn-5hnedne6.googlevideo.com^
 |r20---sn--qxau5po4vjvh-q5je.googlevideo.com^
@@ -9379,6 +9393,7 @@ ecom*-normal-lq.ecombdapi.com
 |r46--sn-4g57knkk.googlevideo.com^
 |r10---sn-aiglln7z.googlevideo.com^
 |r405---sn-4g5ednle.googlevideo.com^
+|r14--sn-4g5ednls.googlevideo.com^
 |r8---sn--a5mlrn7z.googlevideo.com^
 |r6.sn-ab5l6nel.googlevideo.com^
 |r9---sn--npoeen76.googlevideo.com^
@@ -9611,7 +9626,6 @@ ecom*-normal-lq.ecombdapi.com
 |r26sn-ntq7yn7l.googlevideo.com^
 |r2---sn-vfgfoqrk.googlevideo.com^
 |r16---sn--4g5ednse.googlevideo.com^
-|r20---sn-vgqsknlk.googlevideo.com^
 |r42--sn-aigllnez.googlevideo.com^
 |r17---sn-4g5ednly.googlevideo.com^
 |r12---sn--q4flrn7k.googlevideo.com^
@@ -9619,7 +9633,6 @@ ecom*-normal-lq.ecombdapi.com
 |r6---sn--cgjxoug5a-btol.googlevideo.com^
 |r2---sn-betqfo85.googlevideo.com^
 |r14.sn-o097znze.googlevideo.com^
-|r29--sn-vgqseney.googlevideo.com^
 |r18---sn-5hnedne7.googlevideo.com^
 |r1---sn-768e6t2g.googlevideo.com^
 |r10---sn--bg07dney.googlevideo.com^
@@ -9919,6 +9932,7 @@ ecom*-normal-lq.ecombdapi.com
 |r19---sn-4g5e6ns7.googlevideo.com^
 |r11---sn-aiglln7k.googlevideo.com^
 |r22.sn-hp57knsr.googlevideo.com^
+|r19---sn--gvnuxaxjvh-31ol.googlevideo.com^
 |r2.sn-5ualdnls.googlevideo.com^
 |r1---sn-vgqsrnel.googlevideo.com^
 |r7.sn-h557sne7.googlevideo.com^
@@ -9985,6 +9999,7 @@ ecom*-normal-lq.ecombdapi.com
 |r12---sn-hp57ynez.googlevideo.com^
 |r40--sn-aiglln67.googlevideo.com^
 |r1.sn-aigzrn76.googlevideo.com^
+|r20---sn-hp57ynes.googlevideo.com^
 |r10---sn-4g5e6nsy.googlevideo.com^
 |r1---sn-8un3iuqt.googlevideo.com^
 |r12---sn--nx5e6n7d.googlevideo.com^
@@ -9996,7 +10011,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-cvh7knes.googlevideo.com^
 |r34sn-aigllnlr.googlevideo.com^
 |r5---sn-a5mekn7y.googlevideo.com^
-|r7.sn-h5q7dn7k.googlevideo.com^
 |r10---sn--8pgbpohxqp5-h5os.googlevideo.com^
 |r16.sn-uhvcpax0n5-nh4l.a1.googlevideo^
 |r12---sn-ab5l6nes.googlevideo.com^
@@ -10256,6 +10270,7 @@ ecom*-normal-lq.ecombdapi.com
 |r19sn-4g5e6nls.googlevideo.com^
 |r16.sn-ntq7yn7r.googlevideo.com^
 |r7---sn-aigllnzl.googlevideo.com^
+|r17---sn--4gxx-25gee.googlevideo.com^
 |r34--sn-a5m7lne7.googlevideo.com^
 |r35--sn-aigllnss.googlevideo.com^
 |r1---sn-k7uu6a32.googlevideo.com^
@@ -10341,6 +10356,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn--42u-i5oey.googlevideo.com^
 |r1---sn-6hjjojbp.googlevideo.com^
 |r32--sn-vgqs7ne7.googlevideo.com^
+|r18--sn-q4f7snl6.googlevideo.com^
 |r2---sn-a5m7zne6.googlevideo.com^
 |r19---sn-aigllnee.googlevideo.com^
 |r3---sn--ugpva5o-3c2s.googlevideo.com^
@@ -10471,6 +10487,7 @@ ecom*-normal-lq.ecombdapi.com
 |r4---sn--ipoxu-3iie.googlevideo.com^
 |r7---sn--25glen7y.googlevideo.com^
 |r8---sn-n4v7knee.googlevideo.com^
+|r46sn-q4fl6n7l.googlevideo.com^
 |r8sn-aigllnzd.googlevideo.com^
 |r21sn-ab5l6ner.googlevideo.com^
 |r47--sn-4g57knek.googlevideo.com^
@@ -10600,6 +10617,7 @@ ecom*-normal-lq.ecombdapi.com
 |r14---sn--p5qs7ned.googlevideo.com^
 |r13---sn-p5qlsnsy.googlevideo.com^
 |r3.sn-ab5l6n7s.googlevideo.com^
+|r36sn-a5mekned.googlevideo.com^
 |r41--sn-vgqs7n7l.googlevideo.com^
 |r14---sn--aigzrn7d.googlevideo.com^
 |r1---sn-4g57knll.googlevideo.com^
@@ -10655,7 +10673,6 @@ ecom*-normal-lq.ecombdapi.com
 |r26--sn-o097zne7.googlevideo.com^
 |r38---sn-ab5l6ney.googlevideo.com^
 |r39--sn-vgqs7ney.googlevideo.com^
-|r2---sn--n8v7znze.googlevideo.com^
 |r1---sn-qq271aoc.googlevideo.com^
 |r14---sn--gwpa-w5pz.googlevideo.com^
 |r15---sn--30a7yn76.googlevideo.com^
@@ -10815,6 +10832,7 @@ ecom*-normal-lq.ecombdapi.com
 |r3---sn-vgqsrn7s.googlevideo.com^
 |r8---sn--n8v7znss.googlevideo.com^
 |r4sn-aigllnzy.googlevideo.com^
+|r1---sn-ausoa4jp.googlevideo.com^
 |r15.sn-q4fl6n7s.googlevideo.com^
 |r1---sn-cps44tfs.googlevideo.com^
 |r12--sn-aigllnzs.googlevideo.com^
@@ -10907,7 +10925,6 @@ ecom*-normal-lq.ecombdapi.com
 |r22---sn-h5q7dn7k.googlevideo.com^
 |r2---sn-h8m2ruq7.googlevideo.com^
 |r1---sn-qowgrury.googlevideo.com^
-|r27sn-aigllnzd.googlevideo.com^
 |r38---sn-p5qlsnly.googlevideo.com^
 |r7.sn-a5m7ln7s.googlevideo.com^
 |r7.sn-aigzrn76.googlevideo.com^
@@ -10999,7 +11016,6 @@ ecom*-normal-lq.ecombdapi.com
 |r26.sn-cvh76n7e.googlevideo.com^
 |r21--sn-5hne6nlk.googlevideo.com^
 |r1---sn-5i8pho4e.googlevideo.com^
-|r16--sn-p5qlsnle.googlevideo.com^
 |r35sn-q4f7snez.googlevideo.com^
 |r46.sn-5hnedne6.googlevideo.com^
 |r1---sn-uat2s2ds.googlevideo.com^
@@ -11027,7 +11043,6 @@ ecom*-normal-lq.ecombdapi.com
 |r19--sn-vgqs7nlk.googlevideo.com^
 |r76---sn-4g5e6nls.googlevideo.com^
 |r1---sn-psdpw5vk.googlevideo.com^
-|r47--sn-5hne6ne6.googlevideo.com^
 |r2.sn-oguesn7s.googlevideo.com^
 |r1---sn-63drndt1.googlevideo.com^
 |r12---sn-vgqsknse.googlevideo.com^
@@ -11044,7 +11059,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-8cdwty4d.googlevideo.com^
 |r26---sn-cvh7kn7d.googlevideo.com^
 |r36--sn-4g57kn6y.googlevideo.com^
-|r11---sn-4g57kn6r.googlevideo.com^
 |r19.sn-5hne6ner.googlevideo.com^
 |r45sn-4g57kndy.googlevideo.com^
 |r1---sn-64fng1rg.googlevideo.com^
@@ -11174,7 +11188,6 @@ ecom*-normal-lq.ecombdapi.com
 |r15.sn-cvh76n7z.googlevideo.com^
 |r6---sn--qxa7sn7s.googlevideo.com^
 |r48sn-ab5l6ne6.googlevideo.com^
-|r18---sn-vgqs7ne6.googlevideo.com^
 |r34--sn-4g5e6n7r.googlevideo.com^
 |r1---sn-1a84ig8g.googlevideo.com^
 |r6.sn-nx57ynee.googlevideo.com^
@@ -11339,6 +11352,7 @@ ecom*-normal-lq.ecombdapi.com
 |r20---sn--5uaeznys.googlevideo.com^
 |r23---sn-a5meknll.googlevideo.com^
 |r358---sn-4g57knzz.googlevideo.com^
+|r46sn-p5qlsnee.googlevideo.com^
 |r6.sn-q4fl6ne7.googlevideo.com^
 |r9sn-vgqs7n7l.googlevideo.com^
 |r33---sn-25ge7n7l.googlevideo.com^
@@ -11363,6 +11377,7 @@ ecom*-normal-lq.ecombdapi.com
 |r23.sn-h557sne6.googlevideo.com^
 |r4---sn--f5f7ln7z.googlevideo.com^
 |r3---sn-a5mlrnel.googlevideo.com^
+|r4.sn-vgqsrn7s.googlevideo.com^
 |r9---sn--n8v7kn7k.googlevideo.com^
 |r46.sn-vgqsenee.googlevideo.com^
 |r9.sn-ab5szn7y.googlevideo.com^
@@ -11463,7 +11478,6 @@ ecom*-normal-lq.ecombdapi.com
 |r25---sn-4g57kn6d.googlevideo.com^
 |r1---sn-3qh8abxx.googlevideo.com^
 |r11---sn--5go7yner.googlevideo.com^
-|r38---sn-aigllnzs.googlevideo.com^
 |r2---sn-ynpsaqqq.googlevideo.com^
 |r20---sn--npoeene7.googlevideo.com^
 |r1---sn-qpw1mts2.googlevideo.com^
@@ -11695,6 +11709,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2--sn-hpa7zner.googlevideo.com^
 |r5---sn--gpoxu-n8vl.googlevideo.com^
 |r35--sn-a5mekner.googlevideo.com^
+|r13--sn-4g57knd7.googlevideo.com^
 |r44--sn-5hne6n7l.googlevideo.com^
 |r14---sn-ab5sznly.googlevideo.com^
 |r9---sn-p5qlsnsr.googlevideo.com^
@@ -11871,6 +11886,7 @@ ecom*-normal-lq.ecombdapi.com
 |r33--sn-4g5ednls.googlevideo.com^
 |r25---sn-a5m7lned.googlevideo.com^
 |r6.sn-npo7en7r.googlevideo.com^
+|r6---sn-5hne6n7y.googlevideo.com^
 |r1--sn-aigllnzs.googlevideo.com^
 |r3---sn-q4f7sn7e.googlevideo.com^
 |r19.sn-4g57knkk.googlevideo.com^
@@ -11912,6 +11928,7 @@ ecom*-normal-lq.ecombdapi.com
 |r33sn-5hne6nlk.googlevideo.com^
 |r43sn-vgqs7nlz.googlevideo.com^
 |r20---sn-vgqskn7z.googlevideo.com^
+|r36sn-4g5edn7l.googlevideo.com^
 |r2sn-vgqs7nel.googlevideo.com^
 |r26--sn-ab5l6ney.googlevideo.com^
 |r14---sn--5go7yn7l.googlevideo.com^
@@ -11953,6 +11970,7 @@ ecom*-normal-lq.ecombdapi.com
 |r9.sn-q4flrnl6.googlevideo.com^
 |r1---sn-vxyeg7mp.googlevideo.com^
 |r40.sn-5hne6nlz.googlevideo.com^
+|r4---sn--bg07dnl7.googlevideo.com^
 |r1---sn-c7fp1e4t.googlevideo.com^
 |r12---sn--25ge7nsl.googlevideo.com^
 |r15---sn--gxuog0-axqe.googlevideo.com^
@@ -12375,6 +12393,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-ybxg8mpo.googlevideo.com^
 |r10---sn-a5mlrnez.googlevideo.com^
 |r17---sn-aiglln7s.googlevideo.com^
+|r1---sn-3xwip3gx.googlevideo.com^
 |r1---sn-8j4wzjpm.googlevideo.com^
 |r42sn-q4fl6ne6.googlevideo.com^
 |r14--sn-cvh7kn7d.googlevideo.com^
@@ -12536,6 +12555,7 @@ ecom*-normal-lq.ecombdapi.com
 |r44--sn-5hne6nl7.googlevideo.com^
 |r44.sn-nx57yney.googlevideo.com^
 |r8--sn-npoe7n7r.googlevideo.com^
+|r32--sn-aigllned.googlevideo.com^
 |r1---sn-ne6xx5zx.googlevideo.com^
 |r7---sn--5uaezndl.googlevideo.com^
 |r38---sn-p5qlsnsl.googlevideo.com^
@@ -12664,6 +12684,7 @@ ecom*-normal-lq.ecombdapi.com
 |r12---sn--x1x7snsl.googlevideo.com^
 |r39sn-ab5l6nle.googlevideo.com^
 |r47.sn-nx57yney.googlevideo.com^
+|r1---sn--cvh76n7k.googlevideo.com^
 |r46.sn-vgqs7ned.googlevideo.com^
 |r1---sn-f2hv6ej3.googlevideo.com^
 |r1---sn-wv5nybf8.googlevideo.com^
@@ -12694,7 +12715,6 @@ ecom*-normal-lq.ecombdapi.com
 |r11---sn--4g5e6nss.googlevideo.com^
 |r1---sn-vxm1i2b8.googlevideo.com^
 |r46.sn-4g57kne6.googlevideo.com^
-|r10.sn-4g57kn7l.googlevideo.com^
 |r46---sn-vgqsen7r.googlevideo.com^
 |r1---sn-edtwjlwj.googlevideo.com^
 |r14.sn-vgqs7n7l.googlevideo.com^
@@ -12784,7 +12804,6 @@ ecom*-normal-lq.ecombdapi.com
 |r6---sn-ab5l6ney.googlevideo.com^
 |r19.sn-5hne6n7k.googlevideo.com^
 |r49---sn-4g57knde.googlevideo.com^
-|r24.sn-o097zne6.googlevideo.com^
 |r35--sn-npoeen7d.googlevideo.com^
 |r14---sn--vgqsknes.googlevideo.com^
 |r1---sn-mfmone2t.googlevideo.com^
@@ -12828,6 +12847,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-iiuklpde.googlevideo.com^
 |r16---sn--a5meknee.googlevideo.com^
 |r19.sn-4g5ednle.googlevideo.com^
+|r37sn-ab5l6ner.googlevideo.com^
 |r4.sn-ab5l6ndr.googlevideo.com^
 |r12---sn-4g5ednzz.googlevideo.com^
 |r2--sn-a5m7ln7d.googlevideo.com^
@@ -12879,7 +12899,6 @@ ecom*-normal-lq.ecombdapi.com
 |r29.sn-4g57knzk.googlevideo.com^
 |r35--sn-5hnedn7d.googlevideo.com^
 |r4---sn--npoeen7r.googlevideo.com^
-|r37.sn-qxa7en7e.googlevideo.com^
 |r9---sn--a5msen7s.googlevideo.com^
 |r20--sn-p5qlsnse.googlevideo.com^
 |r12---sn-vgqsknlr.googlevideo.com^
@@ -12920,7 +12939,6 @@ ecom*-normal-lq.ecombdapi.com
 |r16.sn-n4v7knlk.googlevideo.com^
 |r40---sn-hp57knsk.googlevideo.com^
 |r17sn-aigllnes.googlevideo.com^
-|r10---sn--uvu5a2a5t-hxme6.googlevideo.com^
 |r17.sn-q4flrnee.googlevideo.com^
 |r20.sn-a5m7znez.googlevideo.com^
 |r10---sn-q4fl6n7l.googlevideo.com^
@@ -12955,6 +12973,7 @@ ecom*-normal-lq.ecombdapi.com
 |r5sn-vgqsen7l.googlevideo.com^
 |r26---sn-4g57knez.googlevideo.com^
 |r46sn-4g57knzy.googlevideo.com^
+|r19sn-hp57knsl.googlevideo.com^
 |r01---sn-5hne6nlr.googlevideo.com^
 |r7--sn-4g57knd7.googlevideo.com^
 |r8.sn-5hnedn7d.googlevideo.com^
@@ -13266,7 +13285,6 @@ ecom*-normal-lq.ecombdapi.com
 |r13---sn--85gopvopq-jb3e.googlevideo.com^
 |r5---sn--a5mlrnek.googlevideo.com^
 |r46---sn-4g57knks.googlevideo.com^
-|r10---sn-4g57kn6l.googlevideo.com^
 |r38sn-vgqs7ne6.googlevideo.com^
 |r12---sn--bvvbax-hn2d.googlevideo.com^
 |r2sn-ab5l6nle.googlevideo.com^
@@ -13472,6 +13490,7 @@ ecom*-normal-lq.ecombdapi.com
 |r39--sn-5hnedn7k.googlevideo.com^
 |r16sn-nuj-wxqr.googlevideo.com^
 |r1---sn-vygeft8q.googlevideo.com^
+|r18---sn-oguesn7y.googlevideo.com^
 |r1---sn-rda8nj77.googlevideo.com^
 |r28--sn-vgqs7nls.googlevideo.com^
 |r3---sn--4pvgq-n8ve.googlevideo.com^
@@ -13648,7 +13667,6 @@ ecom*-normal-lq.ecombdapi.com
 |r17.sn-25ge7nes.googlevideo.com^
 |r17sn-ab5l6nel.googlevideo.com^
 |r38---sn-4g57kndy.googlevideo.com^
-|r7sn-4g57kndd.googlevideo.com^
 |r1---sn-en8aoam8.googlevideo.com^
 |r8---sn--5uaezny6.googlevideo.com^
 |r9---sn-vgqs7nez.googlevideo.com^
@@ -13902,6 +13920,7 @@ ecom*-normal-lq.ecombdapi.com
 |r19--sn-5hnednee.googlevideo.com^
 |r39--sn-cvh76n7k.googlevideo.com^
 |r14--sn-aiglln7r.googlevideo.com^
+|r2---sn-4jyas2mm.googlevideo.com^
 |r42--sn-a5m7ln7r.googlevideo.com^
 |r46sn-oguesn7d.googlevideo.com^
 |r13---sn-u2bpouxgoxu-hxaz.googlevideo.com^
@@ -13959,7 +13978,6 @@ ecom*-normal-lq.ecombdapi.com
 |r14.sn-u2bpouxgoxu-hxaz.googlevideo.com^
 |r19sn-4g57knkz.googlevideo.com^
 |r26.sn-oguesn7l.googlevideo.com^
-|r2---sn-1boxpx5w.googlevideo.com^
 |r23.sn-cvh76n7e.googlevideo.com^
 |r1---sn-7agsqb2a.googlevideo.com^
 |r1---sn-xb2bu3zu.googlevideo.com^
@@ -14178,6 +14196,8 @@ ecom*-normal-lq.ecombdapi.com
 |r6---sn-n02xgoxufvg3-2gbs.googlevideo.com^
 |r36.sn-4g57knzs.googlevideo.com^
 |r12--sn-4g57kn66.googlevideo.com^
+|r38--sn-4g57knl6.googlevideo.com^
+|r39sn-5hne6n7r.googlevideo.com^
 |r21---sn-4g57knzz.googlevideo.com^
 |r25sn-a5mlrn7k.googlevideo.com^
 |r20---sn-n4v7sn7l.googlevideo.com^
@@ -14216,6 +14236,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2sn-aigllnez.googlevideo.com^
 |r1---sn-qmnxza4v.googlevideo.com^
 |r6---sn--4g5ednee.googlevideo.com^
+|r4---sn-aigllnze.googlevideo.com^
 |r7.sn-1gi7zn7e.googlevideo.com^
 |r1sn-jvm-a5ne.googlevideo.com^
 |r7---sn-hp57knds.googlevideo.com^
@@ -14316,6 +14337,7 @@ ecom*-normal-lq.ecombdapi.com
 |r12---sn--5pguxau1-q5ge.googlevideo.com^
 |r45sn-vgqs7nez.googlevideo.com^
 |r5.sn-cvh76n7l.googlevideo.com^
+|r15.sn-a5msen7l.googlevideo.com^
 |r2---sn-vgqs7n76.googlevideo.com^
 |r40--sn-hpa7zner.googlevideo.com^
 |r13.sn-p5qlsnzd.googlevideo.com^
@@ -14367,7 +14389,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn--vgqsdn7s.googlevideo.com^
 |r6---sn--q4f7sn76.googlevideo.com^
 |r2---sn-25glenes.googlevideo.com^
-|r50--sn-ab5l6nzy.googlevideo.com^
 |r17.sn-q4flrne7.googlevideo.com^
 |r30.sn-4g57kn6e.googlevideo.com^
 |r1---sn--n8v7kne6.googlevideo.com^
@@ -14449,6 +14470,7 @@ ecom*-normal-lq.ecombdapi.com
 |r25---sn-aigllnek.googlevideo.com^
 |r30--sn-hpa7znee.googlevideo.com^
 |r8---sn--bg0ezn7e.googlevideo.com^
+|r15--sn-hp57knss.googlevideo.com^
 |r10---sn-4g57knzz.googlevideo.com^
 |r34.sn-qxa7en7e.googlevideo.com^
 |r10---sn-p5qlsnsr.googlevideo.com^
@@ -14488,6 +14510,7 @@ ecom*-normal-lq.ecombdapi.com
 |r15.sn-ab5l6n6e.googlevideo.com^
 |r1---sn-cx5mq42v.googlevideo.com^
 |r11.sn-oguesn7y.googlevideo.com^
+|r17---sn-25ge7nsl.googlevideo.com^
 |r15---sn-4g5ednsz.googlevideo.com^
 |r23sn-q4f7snez.googlevideo.com^
 |r255---sn-5hne6nl6.googlevideo.com^
@@ -14779,7 +14802,6 @@ ecom*-normal-lq.ecombdapi.com
 |r19---sn-a5mekn7y.googlevideo.com^
 |r19.sn-5hne6n7e.googlevideo.com^
 |r8---sn--8um-cnae.googlevideo.com^
-|r10---sn-4g57knde.googlevideo.com^
 |r11---sn-h557sne6.googlevideo.com^
 |r44--sn-a5mekned.googlevideo.com^
 |r3sn-ab5l6ned.googlevideo.com^
@@ -15050,6 +15072,7 @@ ecom*-normal-lq.ecombdapi.com
 |r5--sn-hpa7znee.googlevideo.com^
 |r1---sn-y3ym23qf.googlevideo.com^
 |r2---sn-uy7pscdp.googlevideo.com^
+|r416---sn-4g5e6n7r.googlevideo.com^
 |r37---sn-4g57knde.googlevideo.com^
 |r35.sn-5hne6nls.googlevideo.com^
 |r29--sn-ab5l6nse.googlevideo.com^
@@ -15065,7 +15088,6 @@ ecom*-normal-lq.ecombdapi.com
 |r18---sn-h0j7snel.googlevideo.com^
 |r45sn-4g57kn6l.googlevideo.com^
 |r33--sn-4g5edne6.googlevideo.com^
-|r35--sn-hp57knsd.googlevideo.com^
 |r43sn-p5qlsnly.googlevideo.com^
 |r5---sn-nx5e6n76.googlevideo.com^
 |r24---sn-p5qlsnse.googlevideo.com^
@@ -15134,6 +15156,7 @@ ecom*-normal-lq.ecombdapi.com
 |r44sn-ab5l6nzk.googlevideo.com^
 |r37---sn-ab5l6nez.googlevideo.com^
 |r15---sn--bg07dnsl.googlevideo.com^
+|r1---sn-pzq2czgm.googlevideo.com^
 |r48---sn-nv47lnee.googlevideo.com^
 |r14.sn-q4flrne7.googlevideo.com^
 |r9sn-nv47lnel.googlevideo.com^
@@ -15417,6 +15440,7 @@ ecom*-normal-lq.ecombdapi.com
 |r14--sn-vgqsenl7.googlevideo.com^
 |r25---sn-4g57knkd.googlevideo.com^
 |r6.sn-vgqskn7e.googlevideo.com^
+|r1---sn-b1k6j3f3.googlevideo.com^
 |r15sn-hp57kn7e.googlevideo.com^
 |r6---sn--poqvn5u-jb3s.googlevideo.com^
 |r10sn-cvh76n7d.googlevideo.com^
@@ -15518,6 +15542,7 @@ ecom*-normal-lq.ecombdapi.com
 |r44.sn-4g57knkr.googlevideo.com^
 |r1---sn-xtj3xzia.googlevideo.com^
 |r6---sn--5np5po4v-c33z.googlevideo.com^
+|r1---sn-zlkuwbje.googlevideo.com^
 |r2---sn--5voxnp-hcme.googlevideo.com^
 |r1---sn-f2fft7o1.googlevideo.com^
 |r1---sn-id26g4ox.googlevideo.com^
@@ -15619,6 +15644,7 @@ ecom*-normal-lq.ecombdapi.com
 |r7---sn-q4fl6nly.googlevideo.com^
 |r8sn-4g57knl7.googlevideo.com^
 |r37---sn-4g57knez.googlevideo.com^
+|r2---sn--ab5sznlk.googlevideo.com^
 |r2---sn-xazv2g2f.googlevideo.com^
 |r14--sn-vgqsener.googlevideo.com^
 |r15--sn-25ge7nes.googlevideo.com^
@@ -15630,6 +15656,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-qwjwt3cy.googlevideo.com^
 |r11---sn-q4fl6ne7.googlevideo.com^
 |r7---sn-q4flrn7d.googlevideo.com^
+|r19---sn--npoeen7r.googlevideo.com^
 |r42.sn-5hne6nld.googlevideo.com^
 |r46sn-ab5l6nsy.googlevideo.com^
 |r1---sn-8hktozh4.googlevideo.com^
@@ -15793,6 +15820,8 @@ ecom*-normal-lq.ecombdapi.com
 |r13.sn-5hne6nl6.googlevideo.com^
 |r1---sn-nibqdatz.googlevideo.com^
 |r1---sn-kul1fcyr.googlevideo.com^
+|r9---sn--w5nuxa-o53z.googlevideo.com^
+|r20.sn-5ualdnee.googlevideo.com^
 |r44.sn-ab5l6ner.googlevideo.com^
 |r46---sn-5hnednld.googlevideo.com^
 |r4---sn-aigzrne7.googlevideo.com^
@@ -15805,6 +15834,7 @@ ecom*-normal-lq.ecombdapi.com
 |r26--sn-4g57kn6s.googlevideo.com^
 |r7.sn-a5m7znez.googlevideo.com^
 |r1---sn-brvn4dn5.googlevideo.com^
+|r17.sn-vgqsrnld.googlevideo.com^
 |r30--sn-q4f7snek.googlevideo.com^
 |r427---sn-4g57kndd.googlevideo.com^
 |r15--sn-ab5l6n7r.googlevideo.com^
@@ -15978,6 +16008,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-x7omltt2.googlevideo.com^
 |r1---sn-ab1v1pwb.googlevideo.com^
 |r13---sn--pjvo2aopq-jb3e.googlevideo.com^
+|r29---sn-p5qlsnss.googlevideo.com^
 |r50sn-p5qlsnsy.googlevideo.com^
 |r44--sn-q4f7snld.googlevideo.com^
 |r14sn-vgqsene6.googlevideo.com^
@@ -15993,6 +16024,7 @@ ecom*-normal-lq.ecombdapi.com
 |r44sn-ab5l6n6l.googlevideo.com^
 |r5---sn--qxau5po4vjvh-q5je.googlevideo.com^
 |r1---sn-o4r7nj4m.googlevideo.com^
+|r1--sn-aigllnes.googlevideo.com^
 |r15.sn-ab5l6n7y.googlevideo.com^
 |r43.sn-4g57kn6y.googlevideo.com^
 |r16---sn-25glen7r.googlevideo.com^
@@ -16154,7 +16186,6 @@ ecom*-normal-lq.ecombdapi.com
 |r13---sn--i3b7knld.googlevideo.com^
 |r18---sn--vh5ouxa-hjus.googlevideo.com^
 |r19sn-p5qlsns6.googlevideo.com^
-|r5---sn--5np5po4v-c33ed.googlevideo.com^
 |r1---sn-52hfayyc.googlevideo.com^
 |r1---sn-ynnhjd8a.googlevideo.com^
 |r4---sn-ab5l6nsk.googlevideo.com^
@@ -16164,7 +16195,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-t1mg5wxv.googlevideo.com^
 |r216---sn-4g5edn7e.googlevideo.com^
 |r9.sn-4g5ednly.googlevideo.com^
-|r31.sn-5uaeznd6.googlevideo.com^
 |r21.sn-4g57kndr.googlevideo.com^
 |r4---sn--f5f7lnee.googlevideo.com^
 |r19.sn-a5m7lned.googlevideo.com^
@@ -16556,6 +16586,7 @@ ecom*-normal-lq.ecombdapi.com
 |r19sn-q4f7sn7r.googlevideo.com^
 |r37--sn-ab5l6nsk.googlevideo.com^
 |r40sn-4g5e6n7r.googlevideo.com^
+|r14---sn--vgqsknee.googlevideo.com^
 |r28--sn-4g5ednee.googlevideo.com^
 |r20---sn--vgqsknek.googlevideo.com^
 |r13.sn-q4fl6ne7.googlevideo.com^
@@ -16563,6 +16594,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2.sn-5ualdn7s.googlevideo.com^
 |r5.sn-hp57knsl.googlevideo.com^
 |r14---sn--q4f7sn7s.googlevideo.com^
+|r38.sn-h557sne6.googlevideo.com^
 |r20---sn--huoob-avne.googlevideo.com^
 |r1---sn-j3en5tge.googlevideo.com^
 |r29--sn-a5meknel.googlevideo.com^
@@ -16808,6 +16840,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2.sn-p5qlsnlr.googlevideo.com^
 |r12---sn--puigxxc-8pxe.googlevideo.com^
 |r15---sn-4g5lznes.googlevideo.com^
+|r1---sn-ctj1887q.googlevideo.com^
 |r2---sn-p3ofmhln.googlevideo.com^
 |r29--sn-4g57knkz.googlevideo.com^
 |r8.sn-p5qlsn6l.googlevideo.com^
@@ -17252,7 +17285,6 @@ ecom*-normal-lq.ecombdapi.com
 |r19---sn-4g57knkl.googlevideo.com^
 |r36.sn-4g57knky.googlevideo.com^
 |r36---sn-aigllndk.googlevideo.com^
-|r6---sn-4g5lzned.googlevideo.com^
 |r12---sn--p2omopbxgp5-avne.googlevideo.com^
 |r15---sn-ab5sznl7.googlevideo.com^
 |r4---sn-hp57yne7.googlevideo.com^
@@ -17448,6 +17480,7 @@ ecom*-normal-lq.ecombdapi.com
 |r5--sn-4g57kner.googlevideo.com^
 |r50.sn-aigllnez.googlevideo.com^
 |r25sn-oguesn7k.googlevideo.com^
+|r7--sn-h557sne6.googlevideo.com^
 |r33sn-ab5l6nel.googlevideo.com^
 |r1---sn-8ofjv3y2.googlevideo.com^
 |r20---sn--h557snl6.googlevideo^
@@ -18240,7 +18273,6 @@ ecom*-normal-lq.ecombdapi.com
 |r7--sn-vgqs7nez.googlevideo.com^
 |r19---sn--h5ugpm-jb3s.googlevideo.com^
 |r41--sn-25ge7nes.googlevideo.com^
-|r1---sn-fjto7qzr.googlevideo.com^
 |r15--sn-4g5e6nl6.googlevideo.com^
 |r19---sn-vgqsrnes.googlevideo.com^
 |r20--sn-ab5l6n6s.googlevideo.com^
@@ -18368,6 +18400,7 @@ ecom*-normal-lq.ecombdapi.com
 |r38--sn-p5qlsne7.googlevideo.com^
 |r36sn-h557sne7.googlevideo.com^
 |r1---sn-1ij4ankk.googlevideo.com^
+|r10---sn-hp57kn6e.googlevideo.com^
 |r15---sn--gpoxu-n8vl.googlevideo.com^
 |r19---sn-p5qlsnrr.googlevideo.com^
 |r27--sn-vgqs7ne6.googlevideo.com^
@@ -18845,7 +18878,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-cmcronfs.googlevideo.com^
 |r19---sn-a5msen7l.googlevideo.com^
 |r50.sn-o097zne6.googlevideo.com^
-|r37sn-oxmua5txg-8pxl.googlevideo.com^
 |r16--sn-o097zne7.googlevideo.com^
 |r27--sn-a5m7lne7.googlevideo.com^
 |r18.sn-ab5l6n6s.googlevideo.com^
@@ -18863,6 +18895,7 @@ ecom*-normal-lq.ecombdapi.com
 |r20---sn--q4fl6n7s.googlevideo.com^
 |r1---sn-owit3nki.googlevideo.com^
 |r14---sn-cvh76n7z.googlevideo.com^
+|r17.sn-vgqsknez.googlevideo.com^
 |r1.sn-5ualdnl7.googlevideo.com^
 |r48sn-4g5edne7.googlevideo.com^
 |r10---sn--aigl6ney.googlevideo.com^
@@ -19034,6 +19067,7 @@ ecom*-normal-lq.ecombdapi.com
 |r48--sn-ab5l6nek.googlevideo.com^
 |r1---sn-rpioy68f.googlevideo.com^
 |r38--sn-cvh7kn7r.googlevideo.com^
+|r19--sn-hpa7znek.googlevideo.com^
 |r331---sn-5hne6ne6.googlevideo.com^
 |r0sn-4g5edn7l.googlevideo.com^
 |r1---sn-i2l8zgae.googlevideo.com^
@@ -19160,7 +19194,6 @@ ecom*-normal-lq.ecombdapi.com
 |r17---sn--a5mlrn7d.googlevideo.com^
 |r29--sn-gvnuxaxjvh-p3ue.googlevideo.com^
 |r10---sn-o097znld.googlevideo.com^
-|r1---sn--8pxuuxau5o15op5-q5ge.googlevideo.com^
 |r17---sn--aigzrn7k.googlevideo.com^
 |r25.sn-5hne6n7k.googlevideo.com^
 |r45sn-jvm-a5ns.googlevideo.com^
@@ -19186,6 +19219,7 @@ ecom*-normal-lq.ecombdapi.com
 |r13--sn-5hne6nls.googlevideo.com^
 |r41sn-hp57knss.googlevideo.com^
 |r0sn-aigllnek.googlevideo.com^
+|r5.sn-aigllnzk.googlevideo.com^
 |r50--sn-ab5l6ne7.googlevideo.com^
 |r2---sn-e3ov2zfv.googlevideo.com^
 |r30--sn-ni5f-t8ge.googlevideo.com^
@@ -19219,6 +19253,7 @@ ecom*-normal-lq.ecombdapi.com
 |r26sn-q4fl6ne6.googlevideo.com^
 |r46sn-4g57knde.googlevideo.com^
 |r19sn-nv47lney.googlevideo.com^
+|r29.sn-p5qlsnlk.googlevideo.com^
 |r39--sn-4g5ednle.googlevideo.com^
 |r10sn-q4fl6ne6.googlevideo.com^
 |r22--sn-25ge7n7d.googlevideo.com^
@@ -19226,7 +19261,6 @@ ecom*-normal-lq.ecombdapi.com
 |r21sn-a5m7znek.googlevideo.com^
 |r48--sn-ab5l6nzy.googlevideo.com^
 |r11---sn--4g5edn7e.googlevideo.com^
-|r5---sn-a5mekn6d.googlevideo.com^
 |r43--sn-4g57knl7.googlevideo.com^
 |r7---sn--poqvn5u-jb3s.googlevideo.com^
 |r12sn-ab5l6n7r.googlevideo.com^
@@ -19357,7 +19391,6 @@ ecom*-normal-lq.ecombdapi.com
 |r7---sn--uxaxjvh5gbxoupo5-jo9l.googlevideo.com^
 |r1---sn-fvpr2rkk.googlevideo.com^
 |r1---sn-erbqmhzp.googlevideo.com^
-|r8---sn--ogueln7r.googlevideo.com^
 |r3sn-nv47lnel.googlevideo.com^
 |r37sn-hpa7zner.googlevideo.com^
 |r1---sn-ndl5mku5.googlevideo.com^
@@ -19478,7 +19511,6 @@ ecom*-normal-lq.ecombdapi.com
 |r19---sn-q4fl6nle.googlevideo.com^
 |r19sn-4g5e6nez.googlevideo.com^
 |r17---sn--25glene7.googlevideo.com^
-|r7---sn--oapm-guhl.googlevideo.com^
 |r11---sn-q4f7sn7k.googlevideo.com^
 |r36--sn-aigllnzs.googlevideo.com^
 |r1---sn-o6rtmb2a.googlevideo.com^
@@ -19513,6 +19545,7 @@ ecom*-normal-lq.ecombdapi.com
 |r26--sn-8xgp1vo-xfgd.googlevideo.com^
 |r13--sn-ab5l6ned.googlevideo.com^
 |r9sn-nv47lnez.googlevideo.com^
+|r3.sn-q4fl6nsd.googlevideo.com^
 |r46--sn-vgqsene6.googlevideo.com^
 |r6---sn--ug5onuxaxjvh-n8vz.googlevideo.com^
 |r4--sn-vgqsknee.googlevideo.com^
@@ -19594,7 +19627,6 @@ ecom*-normal-lq.ecombdapi.com
 |r9sn-25ge7n7r.googlevideo.com^
 |r1---sn-g2harcdb.googlevideo.com^
 |r18--sn-4g5edn7e.googlevideo.com^
-|r19---sn--5uaezn6r.googlevideo.com^
 |r4.sn-p5qs7nsk.googlevideo.com^
 |r3---sn--ovn-apne.googlevideo.com^
 |r20.sn-vgqs7n76.googlevideo.com^
@@ -19704,6 +19736,7 @@ ecom*-normal-lq.ecombdapi.com
 |r37sn-4g57kn6d.googlevideo.com^
 |r14---sn-n4v7knl6.googlevideo.com^
 |r1---sn-kby4vn6s.googlevideo.com^
+|r40---sn-ab5l6n7k.googlevideo.com^
 |r7---sn--hgn7rn7y.googlevideo.com^
 |r7---sn-4g57knky.googlevideo.com^
 |r1---sn--vgqskn7e.googlevideo.com^
@@ -19766,7 +19799,9 @@ ecom*-normal-lq.ecombdapi.com
 |r17---sn-n4v7sn7l.googlevideo.com^
 |r6---sn--hp57ynee.googlevideo.com^
 |r4---sn--fpoqnugx5h-jaul.googlevideo.com^
+|r15---sn--4g5ednek.googlevideo.com^
 |r50--sn-cvh7kn7r.googlevideo.com^
+|r31sn-ab5l6n7k.googlevideo.com^
 |r1---sn-dpcuqctj.googlevideo.com^
 |r76---sn-4g5ednle.googlevideo.com^
 |r17.sn-4g57kn7l.googlevideo.com^
@@ -19781,7 +19816,6 @@ ecom*-normal-lq.ecombdapi.com
 |r17---sn-ab5l6nsk.googlevideo.com^
 |r10sn-a5mekned.googlevideo.com^
 |r394---sn-5hnednlk.googlevideo.com^
-|r2---sn-y63zdz8a.googlevideo.com^
 |r1---sn-w1am6kpj.googlevideo.com^
 |r9---sn--ab5l6nzl.googlevideo.com^
 |r10sn-vgqsrn7d.googlevideo.com^
@@ -19840,6 +19874,7 @@ ecom*-normal-lq.ecombdapi.com
 |r25--sn-vgqs7ne6.googlevideo.com^
 |r15---sn--5hne6nsr.googlevideo.com^
 |r4sn-vgqs7ne6.googlevideo.com^
+|r0---sn-ab5l6nel.googlevideo.com^
 |r15---sn-4g5edndl.googlevideo.com^
 |r16.sn-hp57knsl.googlevideo.com^
 |r9.sn-vgqsknlk.googlevideo.com^
@@ -19949,6 +19984,7 @@ ecom*-normal-lq.ecombdapi.com
 |r18---sn--fpoqnugx5h-jaul.googlevideo.com^
 |r28--sn-q4fl6n7e.googlevideo.com^
 |r45---sn-4g57kner.googlevideo.com^
+|r6.sn-aigzrn7e.googlevideo.com^
 |r7.sn-aigllnzd.googlevideo.com^
 |r17sn-4g5ednle.googlevideo.com^
 |r18.sn-a5m7ln7y.googlevideo.com^
@@ -20346,6 +20382,7 @@ ecom*-normal-lq.ecombdapi.com
 |r24.sn-hpa7zney.googlevideo.com^
 |r165---sn-5hne6nl6.googlevideo.com^
 |r2---sn-a7nz7dzd.googlevideo.com^
+|r38sn-8xgp1vo-xfgk.googlevideo.com^
 |r34---sn-cvh7kn7l.googlevideo.com^
 |r8.sn-4g57kndr.googlevideo.com^
 |r1---sn-ddse1ucn.googlevideo.com^
@@ -20578,12 +20615,14 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-govwtxia.googlevideo.com^
 |r7---sn-4g5e6ns6.googlevideo.com^
 |r1---sn-vy8ipbuy.googlevideo.com^
+|r29--sn-hpa7znel.googlevideo.com^
 |r2---sn-hma5dmts.googlevideo.com^
 |r20sn-vgqsen7e.googlevideo.com^
 |r10--sn-4g57knzl.googlevideo.com^
 |r19---sn-5ualdnlr.googlevideo.com^
 |r4---sn-5ualdn7k.googlevideo.com^
 |r1---sn-twloomc8.googlevideo.com^
+|r5---sn-a5meknsd.googlevideo.com^
 |r37--sn-p5qs7nel.googlevideo.com^
 |r2---sn--oxuo5h-nboe.googlevideo.com^
 |r19--sn-4g5e6ne6.googlevideo.com^
@@ -20688,7 +20727,6 @@ ecom*-normal-lq.ecombdapi.com
 |r13.sn-ab5l6nzk.googlevideo.com^
 |r15---sn--4g5e6ne6.googlevideo.com^
 |r25--sn-u2bpouxgoxu-hxaz.googlevideo.com^
-|r3---sn-p5qs7nel.googlevideo.com^
 |r12sn-ab5l6nzr.googlevideo.com^
 |r7---sn--ab5szn7l.googlevideo.com^
 |r27--sn-vgqs7n7l.googlevideo.com^
@@ -20745,6 +20783,7 @@ ecom*-normal-lq.ecombdapi.com
 |r161---sn-5hne6nlr.googlevideo.com^
 |r13.sn-vgqs7n7y.googlevideo.com^
 |r2---sn-xws5ig3h.googlevideo.com^
+|r4.sn-5ualdn7z.googlevideo.com^
 |r1---sn-dsqepp8y.googlevideo.com^
 |r28--sn-4g57kn6d.googlevideo.com^
 |r17.sn-4g57kn6z.googlevideo.com^
@@ -20766,6 +20805,7 @@ ecom*-normal-lq.ecombdapi.com
 |r14---sn--nx5s7n7z.googlevideo.com^
 |r4---sn--vgqsknek.googlevideo.com^
 |r1---sn--bg0ezn7e.googlevideo.com^
+|r8---sn--p5h-jhol.googlevideo.com^
 |r20sn-4g5e6ney.googlevideo.com^
 |r231---sn-4g5ednll.googlevideo.com^
 |r6---sn--vgqsenls.googlevideo.com^
@@ -20803,13 +20843,13 @@ ecom*-normal-lq.ecombdapi.com
 |r3---sn-q4f7snes.googlevideo.com^
 |r19--sn-4g5ednls.googlevideo.com^
 |r22sn-5hne6nld.googlevideo.com^
-|r23--sn-8xgp1vo-xfgd.googlevideo.com^
 |r19---sn-5hnednez.googlevideo.com^
 |r1---sn-fff3wkzd.googlevideo.com^
 |r1---sn-vgqsenee.googlevideo.com^
 |r49--sn-4g57kn6k.googlevideo.com^
 |r14---sn--vgqskn7e.googlevideo.com^
 |r16---sn--n8v7kn7z.googlevideo.com^
+|r8---sn-4g57knzd.googlevideo.com^
 |r33.sn-4g57kner.googlevideo.com^
 |r41--sn-4g57knkk.googlevideo.com^
 |r2---sn-o097znsk.googlevideo.com^
@@ -20820,6 +20860,7 @@ ecom*-normal-lq.ecombdapi.com
 |r4.sn-5uaezndl.googlevideo.com^
 |r50--sn-vgqsrn7l.googlevideo.com^
 |r9sn-4g57knkk.googlevideo.com^
+|r24sn-vgqs7ney.googlevideo.com^
 |r27.sn-p5qlsnlr.googlevideo.com^
 |r42.sn-vgqs7n7d.googlevideo.com^
 |r12.sn-4g5ednzz.googlevideo.com^
@@ -20951,9 +20992,9 @@ ecom*-normal-lq.ecombdapi.com
 |r16---sn--0opoxu-2cjy.googlevideo.com^
 |r5--sn-5hne6nls.googlevideo.com^
 |r50---sn-ab5l6nll.googlevideo.com^
+|r4---sn-qxoedn7e.googlevideo.com^
 |r12---sn--vgqskned.googlevideo.com^
 |r1---sn-3q2ufdxy.googlevideo.com^
-|r1--sn-ab5l6ne6.googlevideo.com^
 |r20---sn-q4flrn7y.googlevideo.com^
 |r37sn-a5m7ln7r.googlevideo.com^
 |r30.sn-4g57kner.googlevideo.com^
@@ -21111,6 +21152,7 @@ ecom*-normal-lq.ecombdapi.com
 |r48sn-ab5l6ney.googlevideo.com^
 |r38.sn-4g57knks.googlevideo.com^
 |r2---sn-k3plbehd.googlevideo.com^
+|r24sn-4g57kn6k.googlevideo.com^
 |r2---sn--5ualdn7r.googlevideo.com^
 |r43--sn-ab5l6ne7.googlevideo.com^
 |r5sn-4g5e6n7r.googlevideo.com^
@@ -21240,7 +21282,6 @@ ecom*-normal-lq.ecombdapi.com
 |r26--sn-aiglln67.googlevideo.com^
 |r31--sn-q4fl6ne6.googlevideo.com^
 |r44---sn-aigllnzz.googlevideo.com^
-|r6---sn--30a7yne7.googlevideo.com^
 |r1---sn-r2prmf1y.googlevideo.com^
 |r1---sn-x28crcj3.googlevideo.com^
 |r32---sn-p5qlsnll.googlevideo.com^
@@ -21316,6 +21357,7 @@ ecom*-normal-lq.ecombdapi.com
 |r21sn-4g57knzs.googlevideo.com^
 |r48--sn-4g57kn7d.googlevideo.com^
 |r1---sn-omib58tq.googlevideo.com^
+|r40---sn-vgqsenee.googlevideo.com^
 |r1---sn-71oia6gl.googlevideo.com^
 |r21---sn-oguesn7l.googlevideo.com^
 |r23--sn-aigllnzz.googlevideo.com^
@@ -21486,7 +21528,6 @@ ecom*-normal-lq.ecombdapi.com
 |r7sn-5hne6nlz.googlevideo.com^
 |r10---sn--bg07dnlk.googlevideo.com^
 |r14---sn--q4flrnee.googlevideo.com^
-|r1--sn-4g57kne6.googlevideo.com^
 |r46--sn-4g5ednls.googlevideo.com^
 |r14.sn-aigllnes.googlevideo.com^
 |r1---sn-148vrrxl.googlevideo.com^
@@ -21501,6 +21542,7 @@ ecom*-normal-lq.ecombdapi.com
 |r38sn-hp57knsd.googlevideo.com^
 |r9---sn--aigl6ner.googlevideo.com^
 |r2.sn-a5mekne7.googlevideo.com^
+|r29sn-hp57knsd.googlevideo.com^
 |r15sn-a5m7lne7.googlevideo.com^
 |r10.sn-cvh76n7z.googlevideo.com^
 |r10---sn-4g5e6nes.googlevideo.com^
@@ -21536,7 +21578,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-np48opr5.googlevideo.com^
 |r17.sn-aigl6nek.googlevideo.com^
 |r24.sn-p5qlsnlr.googlevideo.com^
-|r50sn-vgqs7n7d.googlevideo.com^
 |r50sn-p5qlsnlr.googlevideo.com^
 |r111---sn-4g5e6nls.googlevideo.com^
 |r36---sn-ab5l6nee.googlevideo.com^
@@ -21587,6 +21628,7 @@ ecom*-normal-lq.ecombdapi.com
 |r76---sn-4g5e6n7r.googlevideo.com^
 |r27---sn-cvh7kn7d.googlevideo.com^
 |r29.sn-5hne6n7k.googlevideo.com^
+|r7---sn--42u-i5oy.googlevideo.com^
 |r50---sn-4g57knll.googlevideo.com^
 |r12--sn-5hne6nlz.googlevideo.com^
 |r22sn-hpa7zned.googlevideo.com^
@@ -21832,6 +21874,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-p5qlsnzy.googlevideo.com^
 |r24.sn-25ge7n7l.googlevideo.com^
 |r35sn-aiglln67.googlevideo.com^
+|r37--sn-aigllnee.googlevideo.com^
 |r19.sn-4g5e6nls.googlevideo.com^
 |r10---sn--bg07dnls.googlevideo.com^
 |r2---sn-uwbrq63m.googlevideo.com^
@@ -22081,7 +22124,6 @@ ecom*-normal-lq.ecombdapi.com
 |r9---sn--fapo3ox25a-3uhe.googlevideo.com^
 |r15--sn-4g5e6n7d.googlevideo.com^
 |r1---sn-dmnpemt6.googlevideo.com^
-|r31.sn-aiglln7d.googlevideo.com^
 |r19.sn-4g5e6ns6.googlevideo.com^
 |r1---sn-jne8dipz.googlevideo.com^
 |r18---sn-hp57knds.googlevideo.com^
@@ -22104,6 +22146,7 @@ ecom*-normal-lq.ecombdapi.com
 |r38--sn-aigllnez.googlevideo.com^
 |r44---sn-vgqsen7l.googlevideo.com^
 |r1---sn-fqtfvmks.googlevideo.com^
+|r1---sn-pgerm8t1.googlevideo.com^
 |r30--sn-p5qs7nel.googlevideo.com^
 |r48sn-aigllnzr.googlevideo.com^
 |r0sn-4g57knzs.googlevideo.com^
@@ -22360,6 +22403,7 @@ ecom*-normal-lq.ecombdapi.com
 |r15---sn--uxa3vhnxa-02be.googlevideo.com^
 |r22.sn-4g57kndr.googlevideo.com^
 |r1---sn-tqpfxbxk.googlevideo.com^
+|r11---sn--8vq5jvhu1-q5ge.googlevideo.com^
 |r46--sn-25ge7nlz.googlevideo.com^
 |r38--sn-5hne6n7r.googlevideo.com^
 |r8---sn-hp57knds.googlevideo.com^
@@ -22396,7 +22440,6 @@ ecom*-normal-lq.ecombdapi.com
 |r28--sn-4g57knl6.googlevideo.com^
 |r35---sn-oguesn7k.googlevideo.com^
 |r4---sn-q4f7sned.googlevideo.com^
-|r23.sn-a5m7zne6.googlevideo.com^
 |r46sn-nv47lnee.googlevideo.com^
 |r30sn-p5qlsnsl.googlevideo.com^
 |r12.sn-qxoedn7k.googlevideo.com^
@@ -22647,6 +22690,7 @@ ecom*-normal-lq.ecombdapi.com
 |r24--sn-4g57kn6k.googlevideo.com^
 |r49.sn-4g57kndy.googlevideo.com^
 |r5---sn-q4flrn7d.googlevideo.com^
+|rr5.sn-a5meknzr.googlevideo.com^
 |r19---sn--o0n5oxu-hxne.googlevideo.com^
 |r7---sn-5ualdn7s.googlevideo.com^
 |r11.sn-5uaeznyy.googlevideo.com^
@@ -22663,6 +22707,7 @@ ecom*-normal-lq.ecombdapi.com
 |r22--sn-q4f7snld.googlevideo.com^
 |r183---sn-4g5e6nes.googlevideo.com^
 |r2.sn-a5mlrnel.googlevideo.com^
+|r1---sn-w75425eb.googlevideo.com^
 |r20--sn-hpa7znee.googlevideo.com^
 |r9---sn--5qpnu5-xu1e.googlevideo.com^
 |r8---sn-p5qlsnle.googlevideo.com^
@@ -22699,7 +22744,6 @@ ecom*-normal-lq.ecombdapi.com
 |r17--sn-nv47lnez.googlevideo.com^
 |r14---sn--p5qlsndr.googlevideo.com^
 |r1---sn-3iivs17o.googlevideo.com^
-|r84---sn-4g57kn7d.googlevideo.com^
 |r7---sn--2ugxh5a5-jb3s.googlevideo.com^
 |r34--sn-a5m7ln7r.googlevideo.com^
 |r46.sn-aiglln7d.googlevideo.com^
@@ -22760,7 +22804,6 @@ ecom*-normal-lq.ecombdapi.com
 |r5sn-q4fl6ne7.googlevideo.com^
 |r10--sn-aigllnzy.googlevideo.com^
 |r20--sn-4g5e6n7k.googlevideo.com^
-|r1---sn-gtvjqn87.googlevideo.com^
 |r2---sn-ldma2a65.googlevideo.com^
 |r15.sn-4g5e6nzy.googlevideo.com^
 |r9--sn-vgqsenee.googlevideo.com^
@@ -23022,7 +23065,6 @@ ecom*-normal-lq.ecombdapi.com
 |r10.sn-4g5edns7.googlevideo.com^
 |r1---sn-xqui2deg.googlevideo.com^
 |r10---sn-vgqskn7l.googlevideo.com^
-|r20.sn-aigzrney.googlevideo.com^
 |r38---sn-ab5l6nlr.googlevideo.com^
 |r25--sn-a5meknlz.googlevideo.com^
 |r27--sn-p5qlsnly.googlevideo.com^
@@ -23393,7 +23435,6 @@ ecom*-normal-lq.ecombdapi.com
 |r7---sn--n4v7sn7z.googlevideo.com^
 |r1---sn-isx2to2g.googlevideo.com^
 |r2---sn--h5bt5guxax3vh-c0qd.googlevideo.com^
-|r15---sn-qxoedn7z.googlevideo.com^
 |r30--sn-p5qlsn67.googlevideo.com^
 |r7---sn-5hnedn7z.googlevideo.com^
 |r43--sn-5hne6nlk.googlevideo.com^
@@ -23462,6 +23503,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-ngqrt1uj.googlevideo.com^
 |r1---sn-znijxnj2.googlevideo.com^
 |r37---sn-ab5l6ney.googlevideo.com^
+|r7---sn--bvvbax-hjpe.googlevideo.com^
 |r12sn-aigllnze.googlevideo.com^
 |r4---sn-a5msen7l.googlevideo.com^
 |r47sn-h557snl6.googlevideo.com^
@@ -23500,7 +23542,6 @@ ecom*-normal-lq.ecombdapi.com
 |r10.sn-5hne6n7y.googlevideo.com^
 |r7---sn--hp57knzz.googlevideo.com^
 |r10.sn-vgqsrnsd.googlevideo.com^
-|r5--sn-4g57kn6d.googlevideo.com^
 |r34.sn-4g57kndy.googlevideo.com^
 |r49sn-ab5l6nzy.googlevideo.com^
 |r11---sn-a5ms7n7l.googlevideo.com^
@@ -23588,7 +23629,6 @@ ecom*-normal-lq.ecombdapi.com
 |r46---sn-ab5l6ned.googlevideo.com^
 |r1---sn-4g5lzne6.googlevideo.com^
 |r29---sn-4g57kn6y.googlevideo.com^
-|r3---sn-o097znze.googlevideo.com^
 |r68---sn-5hne6nek.googlevideo.com^
 |r15---sn-q4fl6n7z.googlevideo.com^
 |r35.sn-a5m7znek.googlevideo.com^
@@ -23639,6 +23679,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-vfn4fmzx.googlevideo.com^
 |r46sn-4g5edne7.googlevideo.com^
 |r1---sn-oyii1ebg.googlevideo.com^
+|r44sn-cvh7kn7r.googlevideo.com^
 |r50--sn-vgqs7n7r.googlevideo.com^
 |r40--sn-aiglln7l.googlevideo.com^
 |r14.sn-25ge7n7k.googlevideo.com^
@@ -23696,6 +23737,7 @@ ecom*-normal-lq.ecombdapi.com
 |r15---sn--n02xgoxufvg3-2gbz.googlevideo.com^
 |r30sn-8xgp1vo-xfgee.googlevideo.com^
 |r8---sn--4g5e6nsd.googlevideo.com^
+|r17.sn-5uaeznyy.googlevideo.com^
 |r32--sn-4g57knd7.googlevideo.com^
 |r35.sn-5hne6nld.googlevideo.com^
 |r12---sn--0ub03g5pox-3c2l.googlevideo.com^
@@ -23729,6 +23771,7 @@ ecom*-normal-lq.ecombdapi.com
 |r15---sn--jucj-0qps.googlevideo.com^
 |r2.sn-ab5l6nll.googlevideo.com^
 |r46---sn-hpa7znes.googlevideo.com^
+|r16---sn--ipoxu-3iie.googlevideo.com^
 |r18sn-o097zne7.googlevideo.com^
 |r35sn-a5meknel.googlevideo.com^
 |r1---sn-hph5eyem.googlevideo.com^
@@ -23898,6 +23941,7 @@ ecom*-normal-lq.ecombdapi.com
 |r27--sn-a5m7lnez.googlevideo.com^
 |r11.sn-p5qlsnly.googlevideo.com^
 |r01---sn-4g5e6ney.googlevideo.com^
+|r34sn-aigllnez.googlevideo.com^
 |r17---sn-vgqs7n7y.googlevideo.com^
 |r35sn-aigllnek.googlevideo.com^
 |r14.sn-q4fl6ns7.googlevideo.com^
@@ -24196,7 +24240,6 @@ ecom*-normal-lq.ecombdapi.com
 |r40---sn-ab5l6n7l.googlevideo.com^
 |r6---sn--q4f7sn7z.googlevideo.com^
 |r29---sn-aiglln7e.googlevideo.com^
-|r34--sn-q4f7snl6.googlevideo.com^
 |r39--sn-qxa7en7e.googlevideo.com^
 |r1.sn-a5mlrnez.googlevideo.com^
 |r2---sn-qnc3ctis.googlevideo.com^
@@ -24264,6 +24307,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-sqx3neb6.googlevideo.com^
 |r34---sn-4g57kn6r.googlevideo.com^
 |r1---sn-g6w52b4t.googlevideo.com^
+|r42sn-nuj-wxqr.googlevideo.com^
 |r36sn-aigllnzl.googlevideo.com^
 |r21--sn-n4v7kn7e.googlevideo.com^
 |r19sn-vgqsen7e.googlevideo.com^
@@ -24299,7 +24343,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-614o7o62.googlevideo.com^
 |r23sn-vgqs7n7l.googlevideo.com^
 |r27--sn-cvh7kn7d.googlevideo.com^
-|r35.sn-vgqsen7l.googlevideo.com^
 |r2---sn-dzvdhg3b.googlevideo.com^
 |r45.sn-4g57kndd.googlevideo.com^
 |r10.sn-vgqs7ns7.googlevideo.com^
@@ -24467,8 +24510,8 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-lc4r76w1.googlevideo.com^
 |r14---sn--4g5e6nls.googlevideo.com^
 |r24.sn-5hne6n7d.googlevideo.com^
+|r12---sn--o097znld.googlevideo.com^
 |r2sn-u2bpouxgoxu-hxaz.googlevideo.com^
-|r8---sn--5hnedn7e.googlevideo.com^
 |r2.sn-8xgp1vo-xfgr.googlevideo.com^
 |r12--sn-4g57knzy.googlevideo.com^
 |r30.sn-4g57knkd.googlevideo.com^
@@ -24504,7 +24547,6 @@ ecom*-normal-lq.ecombdapi.com
 |r14---sn--oapm-guhl.googlevideo.com^
 |r202---sn-4g57knek.googlevideo.com^
 |r35--sn-4g5edn7l.googlevideo.com^
-|r47sn-p5qlsnsl.googlevideo.com^
 |r49--sn-4g57knde.googlevideo.com^
 |r9--sn-4g57knze.googlevideo.com^
 |r0---sn-aigllndk.googlevideo.com^
@@ -24723,7 +24765,6 @@ ecom*-normal-lq.ecombdapi.com
 |r40sn-a5m7znek.googlevideo.com^
 |r36---sn-4g57knze.googlevideo.com^
 |r13.sn-aigl6n7d.googlevideo.com^
-|r14---sn--8qj-i5ozz.googlevideo.com^
 |r1---sn-acngr63h.googlevideo.com^
 |r12---sn-5ualdne7.googlevideo.com^
 |r23--sn-aigllnek.googlevideo.com^
@@ -25016,6 +25057,7 @@ ecom*-normal-lq.ecombdapi.com
 |r8---sn--h5q7dnel.googlevideo.com^
 |r48--sn-p5qlsn7e.googlevideo.com^
 |r30.sn-ab5l6ne6.googlevideo.com^
+|r13.sn-p5qs7n7l.googlevideo.com^
 |r19.sn-ab5l6nsd.googlevideo.com^
 |r16---sn--5uaeznys.googlevideo.com^
 |r47.sn-a5m7znek.googlevideo.com^
@@ -25133,6 +25175,7 @@ ecom*-normal-lq.ecombdapi.com
 |r18---sn-q4f7sn76.googlevideo.com^
 |r31sn-4g57kn6z.googlevideo.com^
 |r28---sn-ab5l6nls.googlevideo.com^
+|r30sn-a5meknek.googlevideo.com^
 |r31--sn-q4f7snek.googlevideo.com^
 |r13.sn-uhvcpax0n5-no5s.googlevideo.com^
 |r1---sn-5hne6n7k.googlevideo.com^
@@ -25274,6 +25317,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-mmabn3uw.googlevideo.com^
 |r3---sn--8p8v-bg0l.googlevideo.com^
 |r17.sn-q4fl6n7s.googlevideo.com^
+|r34sn-5hne6nld.googlevideo.com^
 |r2---sn-p5qlsndd.googlevideo.com^
 |r48--sn-8xgp1vo-xfgr.googlevideo.com^
 |r0--sn-4g57knsy.googlevideo.com^
@@ -25454,6 +25498,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-vzqkbv1v.googlevideo.com^
 |r15.sn-5ualdnlr.googlevideo.com^
 |r1---sn-dkad15g1.googlevideo.com^
+|r40.sn-p5qlsnss.googlevideo.com^
 |r9---sn-ab5l6n67.googlevideo.com^
 |r16---sn-5uaeznyz.googlevideo.com^
 |r2---sn--x5guiuxaxjvh-q5jl.googlevideo.com^
@@ -25990,6 +26035,7 @@ ecom*-normal-lq.ecombdapi.com
 |r38--sn-4g5e6nl7.googlevideo.com^
 |r38--sn-ab5l6n7k.googlevideo.com^
 |r46sn-ab5l6ne6.googlevideo.com^
+|r15sn-vgqsenes.googlevideo.com^
 |r19---sn--25ge7nl6.googlevideo.com^
 |r15---sn-n4v7knee.googlevideo.com^
 |r49--sn-4g57kn6l.googlevideo.com^
@@ -26085,7 +26131,6 @@ ecom*-normal-lq.ecombdapi.com
 |r37---sn-vgqs7nee.googlevideo.com^
 |r5---sn--2uuxa3vh-jb3l.googlevideo.com^
 |r11---sn--q0c7rn76.googlevideo.com^
-|r19---sn--bvvbax-qxol6.googlevideo.com^
 |r13.sn-4g5e6nls.googlevideo.com^
 |r1---sn--hp57knll.googlevideo.com^
 |r20--sn-4g5edn7l.googlevideo.com^
@@ -26291,6 +26336,7 @@ ecom*-normal-lq.ecombdapi.com
 |r38--sn-aigllnlr.googlevideo.com^
 |r9---sn--f5f7ln7l.googlevideo.com^
 |r1---sn-hzl273ct.googlevideo.com^
+|r28---sn-25ge7n7e.googlevideo.com^
 |r8---sn-vgqsknlk.googlevideo.com^
 |r1---sn-ghuigms3.googlevideo.com^
 |r1---sn-rjbuzpgs.googlevideo.com^
@@ -26506,6 +26552,7 @@ ecom*-normal-lq.ecombdapi.com
 |r34sn-vgqsened.googlevideo.com^
 |r1---sn-v7ch4km7.googlevideo.com^
 |r25--sn-25ge7nlz.googlevideo.com^
+|r1---sn-8r5ze14c.googlevideo.com^
 |r10sn-p5qlsnse.googlevideo.com^
 |r20sn-ab5l6nez.googlevideo.com^
 |r21.sn-nv47lnee.googlevideo.com^
@@ -26892,7 +26939,6 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-zi2k1b2n.googlevideo.com^
 |r9sn-ab5l6nle.googlevideo.com^
 |r10---sn--4g5e6n76.googlevideo.com^
-|r95---sn-4g5edn7l.googlevideo.com^
 |r26sn-aigllnez.googlevideo.com^
 |r6---sn-a5m7lned.googlevideo.com^
 |r29sn-4g57knz6.googlevideo.com^
@@ -26989,6 +27035,7 @@ ecom*-normal-lq.ecombdapi.com
 |r44---sn-vgqs7n7l.googlevideo.com^
 |r9---sn-aigllnsr.googlevideo.com^
 |r17sn-ab5l6nsd.googlevideo.com^
+|r4---sn-a5meknl6.googlevideo.com^
 |r47--sn-aigllnze.googlevideo.com^
 |r1---sn-kctwr8ve.googlevideo.com^
 |r15---sn--5ualdn7y.googlevideo.com^
@@ -27124,7 +27171,6 @@ ecom*-normal-lq.ecombdapi.com
 |r19.sn-p5qs7nee.googlevideo.com^
 |r496---sn-4g5e6nls.googlevideo.com^
 |r3---sn-5uaezn6r.googlevideo.com^
-|r6---sn-q4fl6n7e.googlevideo.com^
 |r15--sn-cvh7kn7k.googlevideo.com^
 |r2---sn-2ans8mhh.googlevideo.com^
 |r44--sn-a5m7znez.googlevideo.com^
@@ -27515,7 +27561,6 @@ ecom*-normal-lq.ecombdapi.com
 |r14---sn--5hnedn7l.googlevideo.com^
 |r9.sn-aigllnzr.googlevideo.com^
 |r1---sn-k1ray5e2.googlevideo.com^
-|r2sn-a5mlrn7k.googlevideo.com^
 |r10---sn-4g57knzl.googlevideo.com^
 |r1---sn-fil5gi8k.googlevideo.com^
 |r3--sn-vgqsenee.googlevideo.com^
@@ -27598,6 +27643,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-aigzrner7.googlevideo.com^
 |r241---sn-5hne6ne6.googlevideo.com^
 |r2---sn--cu-cgne.googlevideo.com^
+|r17sn-p5qs7nee.googlevideo.com^
 |r26sn-uxap5nvoxg5-ixhl.googlevideo.com^
 |r2---sn--4g5ednsz.googlevideo.com^
 |r453---sn-4g5e6nes.googlevideo.com^
@@ -27648,7 +27694,6 @@ ecom*-normal-lq.ecombdapi.com
 |r18---sn-5hne6nsd.googlevideo.com^
 |r4.sn-hp57yn7y.googlevideo.com^
 |r11---sn-p5qlsnrr.googlevideo.com^
-|r41sn-25ge7n7k.googlevideo.com^
 |r1---sn-a5mlrn7z.googlevideo.com^
 |r12---sn--4g5edn7e.googlevideo.com^
 |r36---sn-4g57kndr.googlevideo.com^
@@ -27905,7 +27950,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-hd7fodv5.googlevideo.com^
 |r13sn-p5qlsnee.googlevideo.com^
 |r25---sn-4g57kn6e.googlevideo.com^
-|r4---sn-cvh7knek.googlevideo.com^
 |r27sn-vgqsen7k.googlevideo.com^
 |r27sn-h0jeen7r.googlevideo.com^
 |r24---sn-vgqsenes.googlevideo.com^
@@ -28144,6 +28188,7 @@ ecom*-normal-lq.ecombdapi.com
 |r3.sn-hp57ynl6.googlevideo.com^
 |r1---sn-34xy2geh.googlevideo.com^
 |r1---sn-hvur6xgj.googlevideo.com^
+|r3---sn--q4flrner.googlevideo.com^
 |r6---sn--avn7ln7e.googlevideo.com^
 |r27.sn-vgqsenes.googlevideo.com^
 |r42--sn-8xgp1vo-xfgr.googlevideo.com^
@@ -28416,7 +28461,6 @@ ecom*-normal-lq.ecombdapi.com
 |r34--sn-vgqsknee.googlevideo.com^
 |r5---sn-a5mekn7k.googlevideo.com^
 |r7---sn-p5qs7n76.googlevideo.com^
-|r18--sn-4g57knsy.googlevideo.com^
 |r26---sn-p5qlsnsz.googlevideo.com^
 |r1---sn-cllsimhv.googlevideo.com^
 |r8---sn--q4flrn7d.googlevideo.com^
@@ -28675,7 +28719,6 @@ ecom*-normal-lq.ecombdapi.com
 |r7--sn-aigllnzz.googlevideo.com^
 |r17--sn-p5qlsnll.googlevideo.com^
 |r16---sn-25ge7n7s.googlevideo.com^
-|r1---sn-wzop2q7n.googlevideo.com^
 |r16sn-4g57kn6k.googlevideo.com^
 |r20.sn-t0a7ln7d.googlevideo.com^
 |r2---sn-p5qs7nel.googlevideo.com^
@@ -28695,7 +28738,6 @@ ecom*-normal-lq.ecombdapi.com
 |r37sn-25ge7n7l.googlevideo.com^
 |r7---sn-5uaezn6y.googlevideo.com^
 |r33--sn-cvh76n7l.googlevideo.com^
-|r49--sn-vgqs7ne6.googlevideo.com^
 |r10---sn-jvhj5nu-nh4z.googlevideo.com^
 |r7--sn-a5mekned.googlevideo.com^
 |r4.sn-4g5ednll.googlevideo.com^
@@ -28880,6 +28922,7 @@ ecom*-normal-lq.ecombdapi.com
 |r13---sn--4g5e6n7d.googlevideo.com^
 |r46sn-nv47lnel.googlevideo.com^
 |r4.sn-hp57knsy.googlevideo.com^
+|r41--sn-a5m7lne6.googlevideo.com^
 |r42---sn-4g57knkz.googlevideo.com^
 |r3---sn-p5qlsndr.googlevideo.com^
 |r6--sn-q4fl6ne6.googlevideo.com^
@@ -29237,6 +29280,7 @@ ecom*-normal-lq.ecombdapi.com
 |r18.sn-vgqskns7.googlevideo.com^
 |r32--sn-ab5l6n7e.googlevideo.com^
 |r1---sn-qoob6rqp.googlevideo.com^
+|r3--sn-aiglln7r.googlevideo.com^
 |r12.sn-4g57kn7d.googlevideo.com^
 |r8.sn-a5msen7s.googlevideo.com^
 |r4---sn-25ge7n76.googlevideo.com^
@@ -29282,7 +29326,6 @@ ecom*-normal-lq.ecombdapi.com
 |r12--sn-vgqs7nes.googlevideo.com^
 |r33.sn-vgqs7ner.googlevideo.com^
 |r8---sn-vgqsknsk.googlevideo.com^
-|r39--sn-nv47lney.googlevideo.com^
 |r1sn-a5m7ln7r.googlevideo.com^
 |r11---sn-hp57ynl6.googlevideo.com^
 |r33--sn-hpa7znee.googlevideo.com^
@@ -29403,6 +29446,7 @@ ecom*-normal-lq.ecombdapi.com
 |r87---sn-4g57kndd.googlevideo.com^
 |r44.sn-a5m7znel.googlevideo.com^
 |r27--sn-q4fl6ney.googlevideo.com^
+|r1---sn-qjvfijl2.googlevideo.com^
 |r26---sn-ab5l6nsd.googlevideo.com^
 |r9.sn-h557snes.googlevideo.com^
 |r46.sn-h557snes.googlevideo.com^
@@ -29684,7 +29728,6 @@ ecom*-normal-lq.ecombdapi.com
 |r4---sn-q4fl6n7e.googlevideo.com^
 |r3---sn--ab5szn7e.googlevideo.com^
 |r50---sn-ab5l6ne6.googlevideo.com^
-|r12.sn-ab5l6n7z.googlevideo.com^
 |r15sn-x5guiuxaxjvh-q5jl.googlevideo.com^
 |r1---sn-be45txtm.googlevideo.com^
 |r183---sn-4g57knzl.googlevideo.com^
@@ -29742,7 +29785,6 @@ ecom*-normal-lq.ecombdapi.com
 |r12---sn-aigllnlr.googlevideo.com^
 |r12sn-ab5l6n6s.googlevideo.com^
 |r4.sn-5ualdnee.googlevideo.com^
-|r10sn-vgqseney.googlevideo.com^
 |r11.sn-q4fl6n7l.googlevideo.com^
 |r20---sn-ab5l6nzk.googlevideo.com^
 |r8---sn-5ualdn76.googlevideo.com^
@@ -29830,7 +29872,6 @@ ecom*-normal-lq.ecombdapi.com
 |r9---sn--4g5edne7.googlevideo.com^
 |r17---sn-a5m7znee.googlevideo.com^
 |r1---sn-ex31ohqa.googlevideo.com^
-|r18--sn-hp57knss.googlevideo.com^
 |r3---sn-25glenez.googlevideo.com^
 |r1---sn-rycqmmpb.googlevideo.com^
 |r45sn-vgqs7ner.googlevideo.com^
@@ -30507,6 +30548,7 @@ ecom*-normal-lq.ecombdapi.com
 |r11---sn--uxaxovg-vnay.googlevideo.com^
 |r8sn-cvh7kn7r.googlevideo.com^
 |r1.sn-hp57knzl.googlevideo.com^
+|r3---sn-vgqs7nek.googlevideo.com^
 |r17--sn-vgqsenl7.googlevideo.com^
 |r14.sn-4g57knld.googlevideo.com^
 |r1---sn-adc66lhb.googlevideo.com^
@@ -30685,6 +30727,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-o7bzw4eg.googlevideo.com^
 |r10.sn-nx5s7nee.googlevideo.com^
 |r27.sn-hp57knsk.googlevideo.com^
+|r39.sn-x1x7snez.googlevideo.com^
 |r1---sn-w4jlijdv.googlevideo.com^
 |r1---sn-vgqsrnsy.googlevideo.com^
 |r2--sn-5hne6n7k.googlevideo.com^
@@ -30697,7 +30740,6 @@ ecom*-normal-lq.ecombdapi.com
 |r36--sn-npoeen7k.googlevideo.com^
 |r8---sn--ab5l6nzy.googlevideo.com^
 |r11---sn-vgqs7ne6.googlevideo.com^
-|r22sn-ab5l6nss.googlevideo.com^
 |r33.sn-4g57kn7d.googlevideo.com^
 |r33--sn-4g5edn7l.googlevideo.com^
 |r1---sn-pkglbd2y.googlevideo.com^
@@ -30950,6 +30992,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-xyfd56t1.googlevideo.com^
 |r11.sn-a5meknl6.googlevideo.com^
 |r18sn-jvm-a5nl.googlevideo.com^
+|r26sn-vgqs7ne6.googlevideo.com^
 |r5---sn-q4fl6nl7.googlevideo.com^
 |r1--sn-4g57kndr.googlevideo.com^
 |r1---sn-s432veud.googlevideo.com^
@@ -30986,7 +31029,6 @@ ecom*-normal-lq.ecombdapi.com
 |r16.sn-5uaezny6.googlevideo.com^
 |r6.sn-5hne6nlz.googlevideo.com^
 |r25---sn-4g57knky.googlevideo.com^
-|r27.sn-h557snel.googlevideo.com^
 |r18---sn-ab5szn7k.googlevideo.com^
 |r0--sn-4g57kner.googlevideo.com^
 |r34--sn-8xgp1vo-xfgr.googlevideo.com^
@@ -31213,7 +31255,6 @@ ecom*-normal-lq.ecombdapi.com
 |r5.sn-4g5edn6y.googlevideo.com^
 |r7---sn--4pgnuapbiu-5ace.googlevideo.com^
 |r6---sn-qxoedne7.googlevideo.com^
-|r50--sn-4g57kn6r.googlevideo.com^
 |r43---sn-4g57knz6.googlevideo.com^
 |r45sn-uxap5nvoxg5-ixhl.googlevideo.com^
 |r2---sn-8ky7jjf8.googlevideo.com^
@@ -31361,7 +31402,6 @@ ecom*-normal-lq.ecombdapi.com
 |r12---sn--ipoxu-3iil.googlevideo.com^
 |r1---sn-5yujhsfe.googlevideo.com^
 |r34sn-ab5l6nek.googlevideo.com^
-|r17---sn--8vq54voxxb-5ate.googlevideo.com^
 |r7sn-q4f7sn7r.googlevideo.com^
 |r12---sn--xuxjn5-i58e.googlevideo.com^
 |r19sn-4g57knl7.googlevideo.com^
@@ -31374,7 +31414,6 @@ ecom*-normal-lq.ecombdapi.com
 |r11.sn-5uaeznd6.googlevideo.com^
 |r5sn-gvnuxaxjvh-p3ue.googlevideo.com^
 |r8.sn-25ge7n7r.googlevideo.com^
-|r3.sn-vgqs7n7e.googlevideo.com^
 |r1---sn-3ts7tu1l.googlevideo.com^
 |r8---sn--p5qlsnzd.googlevideo.com^
 |r34---sn-aigllnlr.googlevideo.com^
@@ -31407,12 +31446,12 @@ ecom*-normal-lq.ecombdapi.com
 |r20---sn-vgqsknly.googlevideo.com^
 |r1---sn-oguesn7k.googlevideo.com^
 |r16---sn-n4v7knll.googlevideo.com^
+|r4.sn-4g5edney.googlevideo.com^
 |r1---sn-lolpkktm.googlevideo.com^
 |r28---sn-vgqsene6.googlevideo.com^
 |r9.sn-uhvcpax0n5-nh4l.a1.googlevideo^
 |r1---sn-4g5ednsy.googlevideo.com^
 |r17---sn-q4flrn7k.googlevideo.com^
-|r10---sn--uqj-j2i6.googlevideo.com^
 |r11---sn-o097znsk.googlevideo.com^
 |r27sn-aigllnzy.googlevideo.com^
 |r2---sn-cvh7kn76.googlevideo.com^
@@ -31787,6 +31826,7 @@ ecom*-normal-lq.ecombdapi.com
 |r18---sn--hp57yne6.googlevideo.com^
 |r1---sn-8fr7m3s2.googlevideo.com^
 |r50---sn-aigllnez.googlevideo.com^
+|r12---sn--n8v7kn7s.googlevideo.com^
 |r23--sn-4g5ednll.googlevideo.com^
 |r9---sn-5ualdnl7.googlevideo.com^
 |r4---sn-uigxx50n-8pxk.googlevideo.com^
@@ -31855,6 +31895,7 @@ ecom*-normal-lq.ecombdapi.com
 |r13.sn-ab5l6nls.googlevideo.com^
 |r2---sn--bvvbax-v8ce.googlevideo.com^
 |r18---sn--uxaxjvh5gbxoupo5-jo9l.googlevideo.com^
+|r1---sn-mvubrmfj.googlevideo.com^
 |r1---sn-ss2wk8z7.googlevideo.com^
 |r1.sn-aiglln7z.googlevideo.com^
 |r11---sn-qxo7rn7s.googlevideo.com^
@@ -31866,7 +31907,6 @@ ecom*-normal-lq.ecombdapi.com
 |r6---sn--oguesnz6.googlevideo.com^
 |r10---sn-vgqs7ney.googlevideo.com^
 |r2---sn-jfaplida.googlevideo.com^
-|r1---sn-1w6wgqgl.googlevideo.com^
 |r18---sn-aigllnzs.googlevideo.com^
 |r22--sn-hp57knsr.googlevideo.com^
 |r3---sn-p5qs7n7s.googlevideo.com^
@@ -32090,6 +32130,7 @@ ecom*-normal-lq.ecombdapi.com
 |r21---sn-4g57kn6y.googlevideo.com^
 |r46.sn-ab5l6nlr.googlevideo.com^
 |r19.sn-5uaeznd7.googlevideo.com^
+|r42.sn-vgqs7n7e.googlevideo.com^
 |r25.sn-4g57kn6y.googlevideo.com^
 |r4---sn-p5qlsndd.googlevideo.com^
 |r1---sn-xwrv2dwi.googlevideo.com^
@@ -32115,7 +32156,6 @@ ecom*-normal-lq.ecombdapi.com
 |r22.sn-4g57kn6y.googlevideo.com^
 |r46--sn-vgqsenez.googlevideo.com^
 |r16.sn-4g5ednse.googlevideo.com^
-|r2---sn-x5hlamww.googlevideo.com^
 |r10sn-q4fl6n7l.googlevideo.com^
 |r2.sn-cvh76n7d.googlevideo.com^
 |r1---sn-hp57knll.googlevideo.com^
@@ -32139,6 +32179,7 @@ ecom*-normal-lq.ecombdapi.com
 |r47sn-ab5l6ney.googlevideo.com^
 |r17---sn--5uaeznrz.googlevideo.com^
 |r23--sn-vgqsen7d.googlevideo.com^
+|r38---sn-aiglln7d.googlevideo.com^
 |r8sn-aigllnes.googlevideo.com^
 |r33.sn-x1x7snez.googlevideo.com^
 |r8---sn--bpb5gxq-gxne.googlevideo.com^
@@ -32270,7 +32311,6 @@ ecom*-normal-lq.ecombdapi.com
 |r3---sn-p5qlsnzy.googlevideo.com^
 |r7---sn--aigl6n7d.googlevideo.com^
 |r12---sn-ab5l6n7k.googlevideo.com^
-|r2---sn-61lcv1ka.googlevideo.com^
 |r20.sn-q4flrn7k.googlevideo.com^
 |r9---sn-p5qlsnzd.googlevideo.com^
 |r1---sn-4j4v4bhj.googlevideo.com^
@@ -32362,6 +32402,7 @@ ecom*-normal-lq.ecombdapi.com
 |r31--sn-cvh76n7l.googlevideo.com^
 |r18.sn-5uaeznkz.googlevideo.com^
 |r8---sn--o097znld.googlevideo.com^
+|r18---sn-p5qlsndr.googlevideo.com^
 |r2---sn-75o7ev6c.googlevideo.com^
 |r1---sn-vgqsrnsd.googlevideo.com^
 |r13---sn--8qj-i5oes.googlevideo.com^
@@ -32471,7 +32512,6 @@ ecom*-normal-lq.ecombdapi.com
 |r15---sn--uxajvuxji-2oil.googlevideo.com^
 |r29sn-a5m7znes.googlevideo.com^
 |r42---sn-4g57knde.googlevideo.com^
-|r46---sn-4g57knlz.googlevideo.com^
 |r7---sn--x5guiuxaxjvh-q5jl.googlevideo.com^
 |r32.sn-4g57knd6.googlevideo.com^
 |r20---sn-vgqskned.googlevideo.com^
@@ -32578,6 +32618,7 @@ ecom*-normal-lq.ecombdapi.com
 |r10--sn-a5m7zne6.googlevideo.com^
 |r2sn-nv47lnel.googlevideo.com^
 |r2---sn-re343t2s.googlevideo.com^
+|r1---sn-akd1gas6.googlevideo.com^
 |r1---sn-vt2t41dg.googlevideo.com^
 |r49.sn-4g57kn6l.googlevideo.com^
 |r3---sn--a5mlrnek.googlevideo.com^
@@ -32605,7 +32646,6 @@ ecom*-normal-lq.ecombdapi.com
 |r9.sn-a5m7znee.googlevideo.com^
 |r6---sn--4pvgq-n8ve.googlevideo.com^
 |r1---sn-yigbzwgj.googlevideo.com^
-|r10---sn-q4fl6nz6.googlevideo.com^
 |r19---sn-vgqsknlr.googlevideo.com^
 |r8sn-vgqsene6.googlevideo.com^
 |r13---sn-4g5lzned.googlevideo.com^
@@ -32728,6 +32768,7 @@ ecom*-normal-lq.ecombdapi.com
 |r7---sn--p5qs7n76.googlevideo.com^
 |r10---sn-q4flrne7.googlevideo.com^
 |r13.sn-5hne6nlz.googlevideo.com^
+|r5.sn-hpa7zned.googlevideo.com^
 |r7---sn-q4flrnle.googlevideo.com^
 |r13---sn-4g57knlz.googlevideo.com^
 |r6---sn-4g57knl7.googlevideo.com^
@@ -33024,6 +33065,7 @@ ecom*-normal-lq.ecombdapi.com
 |r19---sn--4g5ednle.googlevideo.com^
 |r9.sn-q4f7sn7e.googlevideo.com^
 |r25sn-vgqsen7k.googlevideo.com^
+|r46.sn-25ge7n7r.googlevideo.com^
 |r138---sn-4g57knkr.googlevideo.com^
 |r34.sn-vgqsen7k.googlevideo.com^
 |r16.sn-q4fl6nss.googlevideo.com^
@@ -33066,7 +33108,6 @@ ecom*-normal-lq.ecombdapi.com
 |r17sn-a5m7lnee.googlevideo.com^
 |r15---sn-q4fl6ne6.googlevideo.com^
 |r25sn-q4fl6n7d.googlevideo.com^
-|r33sn-4g57kndr.googlevideo.com^
 |r18---sn-25ge7n76.googlevideo.com^
 |r38sn-p5qlsns6.googlevideo.com^
 |r1---sn-aunlc1lb.googlevideo.com^
@@ -33122,6 +33163,7 @@ ecom*-normal-lq.ecombdapi.com
 |r28---sn-qxa7en7e.googlevideo.com^
 |r40sn-p5qlsnee.googlevideo.com^
 |r44.sn-oguesn7k.googlevideo.com^
+|r50sn-aiglln6y.googlevideo.com^
 |r8--sn-4g5e6ney.googlevideo.com^
 |r40.sn-oguesn7d.googlevideo.com^
 |r8.sn-4g5e6nzy.googlevideo.com^
@@ -33145,6 +33187,7 @@ ecom*-normal-lq.ecombdapi.com
 |r30.sn-x1x7snez.googlevideo.com^
 |r1.sn-cvh7kn7l.googlevideo.com^
 |r17.sn-vgqsrns6.googlevideo.com^
+|r0.sn-4g57kn6y.googlevideo.com^
 |r18.sn-oguesn7l.googlevideo.com^
 |r38--sn-a5m7znek.googlevideo.com^
 |r0.sn-hp57knsd.googlevideo.com^
@@ -33152,6 +33195,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-1o1g8qxx.googlevideo.com^
 |r25.sn-4g57kn7l.googlevideo.com^
 |r6---sn-hpa7znee.googlevideo.com^
+|r29---sn-25ge7nes.googlevideo.com^
 |r19---sn--bg07dnll.googlevideo.com^
 |r45sn-vgqsen7l.googlevideo.com^
 |r13---sn--uxaxovg-vnay.googlevideo.com^
@@ -33504,7 +33548,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-cc8p31e5.googlevideo.com^
 |r12---sn--gpoxu-n8vl.googlevideo.com^
 |r46.sn-vgqsen7k.googlevideo.com^
-|r6.sn-o097znsz.googlevideo.com^
 |r1---sn-q63ucpo2.googlevideo.com^
 |r0sn-4g57knks.googlevideo.com^
 |r10---sn--5hnekn7l.googlevideo.com^
@@ -33777,7 +33820,6 @@ ecom*-normal-lq.ecombdapi.com
 |r16---sn-ivuoxu-ua8z.googlevideo.com^
 |rr5.sn-a5meknzk.googlevideo.com^
 |r12.sn-qxa7en7l.googlevideo.com^
-|r43sn-a5m7znee.googlevideo.com^
 |r1--sn-vgqsen7l.googlevideo.com^
 |r18--sn-4g57kn7d.googlevideo.com^
 |r9---sn--ogul7n7k.googlevideo.com^
@@ -33910,13 +33952,13 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-7b6xdvks.googlevideo.com^
 |r13--sn-5hne6n7r.googlevideo.com^
 |r2---sn-ubsxqkz5.googlevideo.com^
+|r34--sn-cvh7kn7r.googlevideo.com^
 |r17---sn-a5m7znes.googlevideo.com^
 |r46sn-8xgp1vo-xfge7.googlevideo.com^
 |r15--sn-25ge7n7e.googlevideo.com^
 |r4.sn-p5qlsnsd.googlevideo.com^
 |r16---sn--hoxu-h0je.googlevideo.com^
 |r50sn-j5caxoxu-hh0l.googlevideo.com^
-|r18---sn--4g5e6nez.googlevideo.com^
 |r25sn-jvm-a5ne.googlevideo.com^
 |r22.sn-vgqs7nee.googlevideo.com^
 |r1---sn-n5tht1ys.googlevideo.com^
@@ -34020,6 +34062,7 @@ ecom*-normal-lq.ecombdapi.com
 |r21.sn-ntq7yn7r.googlevideo.com^
 |r9.sn-25ge7n7e.googlevideo.com^
 |r17.sn-aigllnzs.googlevideo.com^
+|r0---sn-q4f7snls.googlevideo.com^
 |r24sn-4g5edn7l.googlevideo.com^
 |r17---sn--2uuxa3vh-cuie.googlevideo.com^
 |r20---sn--o097znl6.googlevideo.com^
@@ -34076,6 +34119,7 @@ ecom*-normal-lq.ecombdapi.com
 |r19---sn-5hne6nzk.googlevideo.com^
 |r1---sn--a5m7lnlz.googlevideo.com^
 |r15--sn-h557snee.googlevideo.com^
+|r40--sn-p5qs7n7e.googlevideo.com^
 |r16---sn-5hne6nlk.googlevideo.com^
 |r26---sn-4g57kn6y.googlevideo.com^
 |r47--sn-aigllnss.googlevideo.com^
@@ -34205,7 +34249,6 @@ ecom*-normal-lq.ecombdapi.com
 |r13--sn-aigllnzl.googlevideo.com^
 |r25.sn-aiglln7e.googlevideo.com^
 |r22sn-hp57knls.googlevideo.com^
-|r28---sn-vgqsened.googlevideo.com^
 |r1---sn-vzihj8vx.googlevideo.com^
 |r2---sn-vgqsen7l.googlevideo.com^
 |r8---sn-vgqsened.googlevideo.com^
@@ -34266,7 +34309,6 @@ ecom*-normal-lq.ecombdapi.com
 |r21.sn-25ge7n7r.googlevideo.com^
 |r50sn-nv47lned.googlevideo.com^
 |r16---sn--npoe7n7y.googlevideo.com^
-|r20.sn-5uaezny6.googlevideo.com^
 |r20.sn-5hne6nz6.googlevideo.com^
 |r8.sn-vgqskns7.googlevideo.com^
 |r18---sn--ppoxu-hxal.googlevideo.com^
@@ -34324,7 +34366,6 @@ ecom*-normal-lq.ecombdapi.com
 |r23---sn-ab5l6ner.googlevideo.com^
 |r20---sn--f5f7ln7e.googlevideo.com^
 |r31sn-jvm-a5nl.googlevideo.com^
-|r2---sn-pfiv7h5w.googlevideo.com^
 |r0---sn-vgqs7n7l.googlevideo.com^
 |r17---sn-4g5e6nsk.googlevideo.com^
 |r47sn-p5qs7nes.googlevideo.com^
@@ -34397,6 +34438,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-6lea14wq.googlevideo.com^
 |r35sn-ab5l6ney.googlevideo.com^
 |r37sn-hp57kn7e.googlevideo.com^
+|r38sn-vgqsener.googlevideo.com^
 |r19.sn-h557sn7r.googlevideo.com^
 |r1---sn-6vvhiub8.googlevideo.com^
 |r3--sn-4g5edney.googlevideo.com^
@@ -34452,7 +34494,6 @@ ecom*-normal-lq.ecombdapi.com
 |r2.sn-5uaeznys.googlevideo.com^
 |r10sn-nuj-wxqr.googlevideo.com^
 |r5---sn-4g5ednzz.googlevideo.com^
-|r1---sn-6ak4n2a4.googlevideo.com^
 |r15sn-a5mlrn7k.googlevideo.com^
 |r13--sn-p5qlsn67.googlevideo.com^
 |r9---sn--3qqp-ioqs7.googlevideo.com^
@@ -34680,6 +34721,7 @@ ecom*-normal-lq.ecombdapi.com
 |r24sn-25g7snee.googlevideo.com^
 |r18---sn-4g57knkk.googlevideo.com^
 |r3---sn--p5qs7n7d.googlevideo.com^
+|r0sn-aigllnzl.googlevideo.com^
 |r42.sn-h557sn7r.googlevideo.com^
 |r1---sn-yjysxptj.googlevideo.com^
 |r17--sn-q4fl6ne7.googlevideo.com^
@@ -34701,7 +34743,6 @@ ecom*-normal-lq.ecombdapi.com
 |r38sn-ab5l6nll.googlevideo.com^
 |r25sn-aigllnze.googlevideo.com^
 |r7.sn-q4flrne6.googlevideo.com^
-|r1---sn-b3ruvga2.googlevideo.com^
 |r153---sn-4g57knzd.googlevideo.com^
 |r34--sn-5hnedn7l.googlevideo.com^
 |r1.sn-5hne6nls.googlevideo.com^
@@ -34895,6 +34936,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2sn-aiglln67.googlevideo.com^
 |r0sn-o097zne7.googlevideo.com^
 |r18---sn-vgqs7nek.googlevideo.com^
+|r46.sn-vgqsened.googlevideo.com^
 |r34.sn-4g57knkk.googlevideo.com^
 |r43sn-hp57knsr.googlevideo.com^
 |r20--sn-a5m7zne6.googlevideo.com^
@@ -34916,6 +34958,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-a5mlrn7y.googlevideo.com^
 |r13---sn-5hne6nld.googlevideo.com^
 |r2---sn-xt1ig7vl.googlevideo.com^
+|r21--sn-a5m7lnez.googlevideo.com^
 |r20---sn-4g57kn7l.googlevideo.com^
 |r22--sn-nv47lnel.googlevideo.com^
 |r1---sn-osqsvst3.googlevideo.com^
@@ -34980,6 +35023,7 @@ ecom*-normal-lq.ecombdapi.com
 |r19.sn-vgqskn76.googlevideo.com^
 |r40---sn-4g57knr7.googlevideo.com^
 |r14--sn-p5qlsnsk.googlevideo.com^
+|r4---sn-vgqsknse.googlevideo.com^
 |r43.sn-vgqsene6.googlevideo.com^
 |r1---sn-orye7ba4.googlevideo.com^
 |r40sn-4g57knkr.googlevideo.com^
@@ -35022,6 +35066,7 @@ ecom*-normal-lq.ecombdapi.com
 |r5---sn--fapo3ox25a-3uhe.googlevideo.com^
 |r5--sn-n4v7kn7e.googlevideo.com^
 |r1---sn-nqohhkbu.googlevideo.com^
+|r10.sn-cvh76n7l.googlevideo.com^
 |r16---sn--bg0ezn7s.googlevideo.com^
 |r18---sn-aigllnes.googlevideo.com^
 |r1---sn-qxlfeebq.googlevideo.com^
@@ -35228,6 +35273,7 @@ ecom*-normal-lq.ecombdapi.com
 |r4---sn--cnoa-ug8e.googlevideo.com^
 |r1---sn-ge4k8tnz.googlevideo.com^
 |r13.sn-oguesn7s.googlevideo.com^
+|r12sn-j5caxoxu-hh0s.googlevideo.com^
 |r15.sn-q4flrn7d.googlevideo.com^
 |r1---sn-6pkojfbv.googlevideo.com^
 |r22--sn-4g5e6n7r.googlevideo.com^
@@ -35247,7 +35293,6 @@ ecom*-normal-lq.ecombdapi.com
 |r10---sn--gxuo03g-3c2e.googlevideo.com^
 |r10---sn-q4f7sned.googlevideo.com^
 |r1---sn-57kuwj6d.googlevideo.com^
-|r16---sn--bvvbax-v8ce.googlevideo.com^
 |r4--sn-vgqsened.googlevideo.com^
 |r43---sn-oguesn7k.googlevideo.com^
 |r26.sn-hp57knsr.googlevideo.com^
@@ -35380,7 +35425,6 @@ ecom*-normal-lq.ecombdapi.com
 |r6---sn-cvh7knez.googlevideo.com^
 |r1---sn-apljwczs.googlevideo.com^
 |r35--sn-n4v7kn7e.googlevideo.com^
-|r1---sn-pnbjkbfx.googlevideo.com^
 |r14---sn--0ub03g5pox-3c2l.googlevideo.com^
 |r16---sn-vgqsrnee.googlevideo.com^
 |r19---sn-4g5e6n7d.googlevideo.com^
@@ -35587,6 +35631,7 @@ ecom*-normal-lq.ecombdapi.com
 |r37.sn-aigllnsl.googlevideo.com^
 |r4---sn-hp57ynel.googlevideo.com^
 |r1---sn-y6aik76g.googlevideo.com^
+|r31sn-p5qlsnsk.googlevideo.com^
 |r1---sn-5rl8qxwz.googlevideo.com^
 |r42---sn-aigllnlk.googlevideo.com^
 |r16---sn--n8v7kn7d.googlevideo.com^
@@ -35616,7 +35661,6 @@ ecom*-normal-lq.ecombdapi.com
 |r0.sn-vgqs7ned.googlevideo.com^
 |r1---sn-kjx4ssf7.googlevideo.com^
 |r40.sn-4g57knzk.googlevideo.com^
-|r10---sn--4g5e6nzz.googlevideo.com^
 |r1---sn-4h3zf7pa.googlevideo.com^
 |r40---sn-hpa7znek.googlevideo.com^
 |r18.sn-vgqs7n7r.googlevideo.com^
@@ -35798,7 +35842,6 @@ ecom*-normal-lq.ecombdapi.com
 |r3.sn-q4fl6nez.googlevideo.com^
 |r1---sn-pqsplt5t.googlevideo.com^
 |r22sn-h557sne6.googlevideo.com^
-|r1---sn-7xgdhqcb.googlevideo.com^
 |r16sn-4g57kn6e.googlevideo.com^
 |r19.sn-4g57kn6e.googlevideo.com^
 |r1---sn-km8rz7pm.googlevideo.com^
@@ -35864,7 +35907,6 @@ ecom*-normal-lq.ecombdapi.com
 |r17---sn-aigllnee.googlevideo.com^
 |r12sn-aiglln7d.googlevideo.com^
 |r8sn-v2u0n-hxaz.googlevideo.com^
-|r47.sn-5hnedne6.googlevideo.com^
 |r11.sn-a5msenes.googlevideo.com^
 |r4---sn--gvnuxaxjvh-n8v6.googlevideo.com^
 |r3---sn-h557sne6.googlevideo.com^
@@ -35919,6 +35961,7 @@ ecom*-normal-lq.ecombdapi.com
 |r16---sn-q4flrnle.googlevideo.com^
 |r11---sn-n02xgoxufvg3-2gbl.googlevideo.com^
 |r9---sn--5uaezn6y.googlevideo.com^
+|r19---sn-4g5ednsk.googlevideo.com^
 |rr2---sn-a5mekn6l.googlevideo.com^
 |r22--sn-hp57knsd.googlevideo.com^
 |r15.sn-p5qlsnd6.googlevideo.com^
@@ -35967,6 +36010,7 @@ ecom*-normal-lq.ecombdapi.com
 |r4---sn-cvh76n7s.googlevideo.com^
 |r1---sn-lurxck5u.googlevideo.com^
 |r43sn-hpa7znek.googlevideo.com^
+|r6--sn-o097zne7.googlevideo.com^
 |r1---sn-ajwfvui6.googlevideo.com^
 |r11---sn-ab5l6ned.googlevideo.com^
 |r3--sn-4g57knkz.googlevideo.com^
@@ -36288,7 +36332,6 @@ ecom*-normal-lq.ecombdapi.com
 |r6---sn--n8v7kn7s.googlevideo.com^
 |r7---sn--5pguxau1-q5ge.googlevideo.com^
 |r11.sn-vgqs7nez.googlevideo.com^
-|r1---sn-t1ilypu1.googlevideo.com^
 |r17---sn--cvh76n7d.googlevideo.com^
 |r1---sn-njjti4te.googlevideo.com^
 |r4.sn-5ualdnll.googlevideo.com^
@@ -36340,6 +36383,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn--4g5e6nsd.googlevideo.com^
 |r1---sn-tchvz1fk.googlevideo.com^
 |r14--sn-4g57kned.googlevideo.com^
+|r17.sn-q4fl6nz7.googlevideo.com^
 |r8---sn--5ualdn76.googlevideo.com^
 |r8sn-4g57knkz.googlevideo.com^
 |r3sn-hpa7zner.googlevideo.com^
@@ -36362,6 +36406,7 @@ ecom*-normal-lq.ecombdapi.com
 |r6---sn-5uaeznk7.googlevideo.com^
 |r1---sn-nqwrp3tk.googlevideo.com^
 |r2---sn-budj77o4.googlevideo.com^
+|r5--sn-4g57knlz.googlevideo.com^
 |r139---sn-4g57knze.googlevideo.com^
 |r19--sn-4g57knlz.googlevideo.com^
 |r334---sn-5hnednlk.googlevideo.com^
@@ -36383,6 +36428,7 @@ ecom*-normal-lq.ecombdapi.com
 |r17---sn-qxo7rn7l.googlevideo.com^
 |r12---sn-jvhj5nu-nh4l.googlevideo.com^
 |r3---sn--x2pm-3uf6.googlevideo.com^
+|r1---sn--qxau5-btqz.googlevideo.com^
 |r1---sn-kto4x7pj.googlevideo.com^
 |r1---sn-dly38arz.googlevideo.com^
 |r1---sn-3e3madi7.googlevideo.com^
@@ -36571,6 +36617,7 @@ ecom*-normal-lq.ecombdapi.com
 |r4---sn-4g5edned.googlevideo.com^
 |r4---sn--4g5ednsr.googlevideo.com^
 |r12---sn-hp57knz6.googlevideo.com^
+|r20---sn-jvhj5nu-nh4e.googlevideo.com^
 |r1---sn-qdlx8x6u.googlevideo.com^
 |r20---sn--n02xgoxufvg3-2gbs.googlevideo.com^
 |r45.sn-4g57kner.googlevideo.com^
@@ -36712,7 +36759,6 @@ ecom*-normal-lq.ecombdapi.com
 |r11.sn-4g57kndk.googlevideo.com^
 |r1---sn-dnf76br5.googlevideo.com^
 |r19--sn-nv47lned.googlevideo.com^
-|r2---sn-25glen7y.googlevideo.com^
 |r18---sn-p5qlsndd.googlevideo.com^
 |r19---sn--2gb7sn7k.googlevideo.com^
 |r18---sn-q4flrnss.googlevideo.com^
@@ -36851,7 +36897,6 @@ ecom*-normal-lq.ecombdapi.com
 |r15---sn--42u-nbols.googlevideo.com^
 |r35--sn-a5mlrn7r.googlevideo.com^
 |r23---sn-4g57knld.googlevideo.com^
-|r11---sn-5uaezny6.googlevideo.com^
 |r44---sn-4g57knls.googlevideo.com^
 |r11---sn--2uuxa3vh-cuie.googlevideo.com^
 |r14.sn-hpa7znes.googlevideo.com^
@@ -36963,7 +37008,6 @@ ecom*-normal-lq.ecombdapi.com
 |r8sn-q4f7sn7r.googlevideo.com^
 |r14---sn-25glen7r.googlevideo.com^
 |r32---sn-aiglln7k.googlevideo.com^
-|r11---sn--w511uxa-cjos.googlevideo.com^
 |r24---sn-4g57kn7d.googlevideo.com^
 |r38.sn-4g57knle.googlevideo.com^
 |r9---sn--vgqsknes.googlevideo.com^
@@ -37190,7 +37234,6 @@ ecom*-normal-lq.ecombdapi.com
 |r16---sn--n8v7znss.googlevideo.com^
 |r5--sn-ab5l6nzy.googlevideo.com^
 |r2---sn-4g57knkr.googlevideo.com^
-|r8sn-n8v7sne7.googlevideo.com^
 |r7---sn-hp57kn6e.googlevideo.com^
 |r39.sn-hpa7znee.googlevideo.com^
 |r18.sn-h557snel.googlevideo.com^
@@ -37199,7 +37242,6 @@ ecom*-normal-lq.ecombdapi.com
 |r13---sn--3tp8nu5g-ig3e.googlevideo.com^
 |r18---sn-vgqs7n76.googlevideo.com^
 |r14.sn-cvh7kn7d.googlevideo.com^
-|r7.sn-5uaeznls.googlevideo.com^
 |r1---sn-hvgg31un.googlevideo.com^
 |r20---sn-a5mlrn7l.googlevideo.com^
 |r46.sn-aigllnlz.googlevideo.com^
@@ -37407,7 +37449,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-ufvclgcu.googlevideo.com^
 |r10sn-4g57knkl.googlevideo.com^
 |r46sn-5hne6n7l.googlevideo.com^
-|r473---sn-4g5e6nls.googlevideo.com^
 |r1---sn-2rxg34y4.googlevideo.com^
 |r1---sn-7tkrvhfb.googlevideo.com^
 |r1---sn-saatflbi.googlevideo.com^
@@ -37444,6 +37485,7 @@ ecom*-normal-lq.ecombdapi.com
 |r12---sn--npoeen7r.googlevideo.com^
 |r1---sn-kzupztxf.googlevideo.com^
 |r13.sn-a5m7lnlz.googlevideo.com^
+|r1---sn-vhysuxhp.googlevideo.com^
 |r7---sn--a5mekn7r.googlevideo.com^
 |r17---sn--5hne6ns6.googlevideo.com^
 |r3.sn-1gi7znel.googlevideo.com^
@@ -37915,7 +37957,6 @@ ecom*-normal-lq.ecombdapi.com
 |r9---sn--nfpuji-1gil.googlevideo.com^
 |r0---sn-4g57kn6r.googlevideo.com^
 |r9--sn-hp57knlr.googlevideo.com^
-|r37---sn-p5qlsn6e.googlevideo.com^
 |r15.sn-a5meknzs.googlevideo.com^
 |r20---sn-vgqsen7s.googlevideo.com^
 |r9---sn--qxa7snee.googlevideo.com^
@@ -38210,7 +38251,6 @@ ecom*-normal-lq.ecombdapi.com
 |r41--sn-cvh7knez.googlevideo.com^
 |r1---sn-f5ixanxd.googlevideo.com^
 |r3--sn-4g57knz6.googlevideo.com^
-|r17---sn--q4fl6nez.googlevideo.com^
 |r1sn-4g57knke.googlevideo.com^
 |r31.sn-nx57yney.googlevideo.com^
 |r38---sn-4g57knks.googlevideo.com^
@@ -38377,7 +38417,6 @@ ecom*-normal-lq.ecombdapi.com
 |r12sn-ab5l6n7l.googlevideo.com^
 |r19.sn-1gi7znee.googlevideo.com^
 |r30.sn-h557sne6.googlevideo.com^
-|r19.sn-h5q7dn7k.googlevideo.com^
 |r13---sn--4g5edn7y.googlevideo.com^
 |r17---sn--vgqsrnel.googlevideo.com^
 |r2---sn-1qiz1wfj.googlevideo.com^
@@ -38549,6 +38588,7 @@ ecom*-normal-lq.ecombdapi.com
 |r43--sn-a5m7znek.googlevideo.com^
 |r46sn-a5meknee.googlevideo.com^
 |r1---sn-21xyt6f5.googlevideo.com^
+|r35--sn-4g57knzz.googlevideo.com^
 |r2---sn-tfanhqxz.googlevideo.com^
 |r2---sn-tw2hqj7y.googlevideo.com^
 |r48sn-5hne6nls.googlevideo.com^
@@ -39006,7 +39046,6 @@ ecom*-normal-lq.ecombdapi.com
 |r14--sn-5hne6nlr.googlevideo.com^
 |r9--sn-4g57knlz.googlevideo.com^
 |r7.sn-o097znsz.googlevideo.com^
-|r21sn-x5guiuxaxjvh-q5jl.googlevideo.com^
 |r21.sn-25ge7nl7.googlevideo.com^
 |r29sn-p5qs7nes.googlevideo.com^
 |r32---sn-h5q7dn7k.googlevideo.com^
@@ -39063,6 +39102,7 @@ ecom*-normal-lq.ecombdapi.com
 |r18.sn-ab5l6n7s.googlevideo.com^
 |r1---sn-mxr6x2hu.googlevideo.com^
 |r13--sn-gvnuxaxjvh-p3ue.googlevideo.com^
+|r8---sn--8pxuuxau5o15op5-q5ge.googlevideo.com^
 |r15.sn-q4fl6nss.googlevideo.com^
 |r44sn-hp57knsk.googlevideo.com^
 |r4---sn-4g57knlz.googlevideo.com^
@@ -39257,7 +39297,6 @@ ecom*-normal-lq.ecombdapi.com
 |r42.sn-25ge7nl7.googlevideo.com^
 |r29sn-4g57knkd.googlevideo.com^
 |r4.sn-nv47lnez.googlevideo.com^
-|r13---sn-a5m7znes.googlevideo.com^
 |r1---sn-r1rqxt3c.googlevideo.com^
 |r20--sn-4g57kn6e.googlevideo.com^
 |r48---sn-25ge7nes.googlevideo.com^
@@ -39290,6 +39329,7 @@ ecom*-normal-lq.ecombdapi.com
 |r185---sn-5hne6nl6.googlevideo.com^
 |r2---sn-n3f6alwl.googlevideo.com^
 |r27sn-4g57knkz.googlevideo.com^
+|r1---sn-zsqunzf2.googlevideo.com^
 |r45sn-a5meknl7.googlevideo.com^
 |r1---sn-8y5xk613.googlevideo.com^
 |r14sn-q4fl6n7e.googlevideo.com^
@@ -39330,7 +39370,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1.sn-qxo7rn7l.googlevideo.com^
 |r1---sn-e4fcot1x.googlevideo.com^
 |r39sn-nv47lnee.googlevideo.com^
-|r37.sn-h557sn7r.googlevideo.com^
 |r19.sn-q4f7sn7e.googlevideo.com^
 |r1.sn-25glenes.googlevideo.com^
 |r6.sn-4g5e6nsr.googlevideo.com^
@@ -39578,6 +39617,7 @@ ecom*-normal-lq.ecombdapi.com
 |r18--sn-a5m7ln7k.googlevideo.com^
 |r7--sn-aiglln7d.googlevideo.com^
 |r385---sn-5hne6nl6.googlevideo.com^
+|r37.sn-h5q7dn7k.googlevideo.com^
 |r18---sn-5uaeznk7.googlevideo.com^
 |r36sn-vgqsened.googlevideo.com^
 |r12.sn-25ge7n7z.googlevideo.com^
@@ -39647,7 +39687,6 @@ ecom*-normal-lq.ecombdapi.com
 |r42.sn-vgqs7ne7.googlevideo.com^
 |r12---sn--8pgbpohxqp5-h5os.googlevideo.com^
 |r43--sn-4g57knkl.googlevideo.com^
-|r10.sn-ab5l6n7e.googlevideo.com^
 |r325---sn-4g57knr7.googlevideo.com^
 |r28---sn-vgqsen7d.googlevideo.com^
 |r32--sn-q4f7snek.googlevideo.com^
@@ -39802,6 +39841,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-5uaeznde.googlevideo.com^
 |r1---sn-dl1ciwec.googlevideo.com^
 |r2---sn-k6voyuy6.googlevideo.com^
+|r33.sn-4g57knd6.googlevideo.com^
 |r23--sn-ab5l6nzr.googlevideo.com^
 |r41.sn-hp57knsr.googlevideo.com^
 |r14sn-4g5e6nes.googlevideo.com^
@@ -39820,6 +39860,7 @@ ecom*-normal-lq.ecombdapi.com
 |r9---sn--n4g-jqbk.googlevideo.com^
 |r1---sn-4g5e6nzy.googlevideo.com^
 |r2---sn-jq8gc7me.googlevideo.com^
+|r45---sn-oguesn7d.googlevideo.com^
 |r12.sn-vgqsrn7l.googlevideo.com^
 |r5---sn-nx57ynlk.googlevideo.com^
 |r1---sn-1vchrk2f.googlevideo.com^
@@ -39851,7 +39892,6 @@ ecom*-normal-lq.ecombdapi.com
 |r12.sn-a5meknzs.googlevideo.com^
 |r1---sn-v5n6471a.googlevideo.com^
 |r15sn-a5meknl7.googlevideo.com^
-|r1---sn-ksiqsv2r.googlevideo.com^
 |r2---sn-iz7xypvw.googlevideo.com^
 |r5sn-aigllnzl.googlevideo.com^
 |r1---sn-s6vhrcbd.googlevideo.com^
@@ -40227,6 +40267,7 @@ ecom*-normal-lq.ecombdapi.com
 |r48sn-4g57kndy.googlevideo.com^
 |r19.sn-q4flrnez.googlevideo.com^
 |r2---sn-xvptxeua.googlevideo.com^
+|r39---sn-cvh7kn7l.googlevideo.com^
 |r49--sn-vgqs7n7r.googlevideo.com^
 |r7sn-j5caxoxu-hh0s.googlevideo.com^
 |r19---sn-a5m7ln7k.googlevideo.com^
@@ -40327,6 +40368,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-yg817lrh.googlevideo.com^
 |r48sn-25ge7nes.googlevideo.com^
 |r8sn-cvh7kn7l.googlevideo.com^
+|r1---sn-5mi4wpwb.googlevideo.com^
 |r26--sn-hp57knlr.googlevideo.com^
 |r20---sn--4g5e6nls.googlevideo.com^
 |r1---sn-h7yi15yj.googlevideo.com^
@@ -40435,7 +40477,6 @@ ecom*-normal-lq.ecombdapi.com
 |r3---sn-4g57knr7.googlevideo.com^
 |r50---sn-h557snee.googlevideo.com^
 |r31.sn-5hne6n7d.googlevideo.com^
-|r41sn-a5meknek.googlevideo.com^
 |r10--sn-o097znel.googlevideo.com^
 |r27--sn-4g57kndr.googlevideo.com^
 |r3.sn-a5m7ln7s.googlevideo.com^
@@ -40673,7 +40714,6 @@ ecom*-normal-lq.ecombdapi.com
 |r42.sn-aigllney.googlevideo.com^
 |r346---sn-4g5ednle.googlevideo.com^
 |r49sn-q4fl6ne7.googlevideo.com^
-|r7--sn-a5mlrn7r.googlevideo.com^
 |r10---sn-ab5sznld.googlevideo.com^
 |r30sn-4g57knkd.googlevideo.com^
 |r50--sn-p5qlsne7.googlevideo.com^
@@ -40705,7 +40745,6 @@ ecom*-normal-lq.ecombdapi.com
 |r30--sn-h557snl6.googlevideo.com^
 |r274---sn-4g57kn7d.googlevideo.com^
 |r27sn-8xgp1vo-cvne.googlevideo.com^
-|r1---sn-keyb42wr.googlevideo.com^
 |r44sn-4g57knzs.googlevideo.com^
 |r41---sn-qxa7en7l.googlevideo.com^
 |r9---sn--poug5bavcxjvh-q5je.googlevideo.com^
@@ -40742,6 +40781,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2--sn-p5qlsn7e.googlevideo.com^
 |r2.sn-hp57yn7y.googlevideo.com^
 |r14---sn--vojacq-q5je.googlevideo.com^
+|r27---sn-h557sne6.googlevideo.com^
 |r1---sn-8myi81k6.googlevideo.com^
 |r49.sn-hpa7znee.googlevideo.com^
 |r12.sn-4g57kn76.googlevideo.com^
@@ -40824,6 +40864,7 @@ ecom*-normal-lq.ecombdapi.com
 |r22--sn-vgqsen7e.googlevideo.com^
 |r13.sn-5hneknee.googlevideo.com^
 |r1sn-a5m7znee.googlevideo.com^
+|r2.sn-vgqsknee.googlevideo.com^
 |r32sn-ab5l6n7r.googlevideo.com^
 |r21--sn-4g57kndk.googlevideo.com^
 |r16---sn-ivuoxu-ua8s.googlevideo.com^
@@ -40913,8 +40954,8 @@ ecom*-normal-lq.ecombdapi.com
 |r13--sn-a5mlrn7d.googlevideo.com^
 |r17---sn--5gn5u-x1xl.googlevideo.com^
 |r5---sn-hp57knss.googlevideo.com^
-|r14---sn-4g5ednly.googlevideo.com^
 |r0--sn-aigllnze.googlevideo.com^
+|r15---sn--hp57yne6.googlevideo.com^
 |r18---sn--aigl6n76.googlevideo.com^
 |r9---sn-hpa7znes.googlevideo.com^
 |r7sn-25ge7n7r.googlevideo.com^
@@ -41093,6 +41134,7 @@ ecom*-normal-lq.ecombdapi.com
 |r20--sn-nv47lnee.googlevideo.com^
 |r29--sn-aigllnzk.googlevideo.com^
 |r24---sn-ab5l6n7d.googlevideo.com^
+|r4---sn--foxu-3c2e.googlevideo.com^
 |r10sn-ab5l6nss.googlevideo.com^
 |r1---sn-rr6kfza4.googlevideo.com^
 |r18---sn--n4v7sn7z.googlevideo.com^
@@ -41459,6 +41501,7 @@ ecom*-normal-lq.ecombdapi.com
 |r8.sn-nx57ynlz.googlevideo.com^
 |r12---sn--p5qlsndz.googlevideo.com^
 |r17---sn--o0n5oxu-hxne.googlevideo.com^
+|r1---sn-ajfmv7uq.googlevideo.com^
 |r1---sn--i3b7knlk.googlevideo.com^
 |r9--sn-8xgp1vo-xfgr.googlevideo.com^
 |r1---sn-kmc4vjvp.googlevideo.com^
@@ -41797,6 +41840,7 @@ ecom*-normal-lq.ecombdapi.com
 |r3.sn-nx5e6nez.googlevideo.com^
 |r14---sn--gvhuxax-cc0d.googlevideo.com^
 |r11---sn-q4fl6n7l.googlevideo.com^
+|r29sn-bg07dney.googlevideo.com^
 |r14sn-hpa7zner.googlevideo.com^
 |r1---sn-ap2r2j17.googlevideo.com^
 |r1---sn-4tzelnih.googlevideo.com^
@@ -41863,7 +41907,6 @@ ecom*-normal-lq.ecombdapi.com
 |r9---sn--gvhuxax-cc0e7.googlevideo.com^
 |r1---sn-cwysvpmu.googlevideo.com^
 |r1---sn-25n3fe1e.googlevideo.com^
-|r2---sn-gilbjh15.googlevideo.com^
 |r30--sn-j5caxoxu-hh0e.googlevideo.com^
 |r2---sn-4g5e6nss.googlevideo.com^
 |r31.sn-4g57kndl.googlevideo.com^
@@ -42099,6 +42142,7 @@ ecom*-normal-lq.ecombdapi.com
 |r19--sn-4g57kndl.googlevideo.com^
 |r1---sn-fk8xwlpi.googlevideo.com^
 |r14---sn--2gb7sn7z.googlevideo.com^
+|r34---sn-nx57ynee.googlevideo.com^
 |r1---sn-p6tg2hqv.googlevideo.com^
 |r13---sn--h5q7dnez.googlevideo.com^
 |r19.sn-4g5ednly.googlevideo.com^
@@ -42186,6 +42230,7 @@ ecom*-normal-lq.ecombdapi.com
 |r19---sn--8p8v-bg0es.googlevideo.com^
 |r5---sn--8vq54voxxb-5ate.googlevideo.com^
 |r10---sn--oapm-guhz.googlevideo.com^
+|r36--sn-aigllnze.googlevideo.com^
 |r31---sn-aigllnsr.googlevideo.com^
 |r1---sn-afoad53u.googlevideo.com^
 |r34.sn-hpa7znee.googlevideo.com^
@@ -42221,6 +42266,7 @@ ecom*-normal-lq.ecombdapi.com
 |r4sn-p5qlsnly.googlevideo.com^
 |r23--sn-4g57knz6.googlevideo.com^
 |r47sn-cvh7kn7l.googlevideo.com^
+|r3--sn-vgqsenek.googlevideo.com^
 |r11---sn-p5qlsnsz.googlevideo.com^
 |r9sn-ab5l6nlk.googlevideo.com^
 |r36.sn-aigllnlz.googlevideo.com^
@@ -42468,7 +42514,6 @@ ecom*-normal-lq.ecombdapi.com
 |r173---sn-4g5edne6.googlevideo.com^
 |r6---sn-a5mlrn7z.googlevideo.com^
 |r1---sn-n1vacpkp.googlevideo.com^
-|r1---sn-hu8lqjkt.googlevideo.com^
 |r13---sn--foxu-3c2e.googlevideo.com^
 |r38sn-p5qlsnly.googlevideo.com^
 |r15---sn-4g57knz7.googlevideo.com^
@@ -42511,6 +42556,7 @@ ecom*-normal-lq.ecombdapi.com
 |r8sn-5hnedn7d.googlevideo.com^
 |r48.sn-aigllnlz.googlevideo.com^
 |r49sn-aigllnsr.googlevideo.com^
+|r12---sn--q4fl6ner.googlevideo.com^
 |r47.sn-aiglln7r.googlevideo.com^
 |r1sn-uxap5nvoxg5-ixhl.googlevideo.com^
 |r22---sn-cvh7kn7d.googlevideo.com^
@@ -42673,7 +42719,6 @@ ecom*-normal-lq.ecombdapi.com
 |r17sn-aiglln6e.googlevideo.com^
 |r11--sn-aiglln7k.googlevideo.com^
 |r12---sn-ab5szn7y.googlevideo.com^
-|r2---sn-4klk2ta5.googlevideo.com^
 |r30sn-25ge7n7l.googlevideo.com^
 |r2.sn-npoeen7k.googlevideo.com^
 |r27.sn-qxa7en7e.googlevideo.com^
@@ -42683,6 +42728,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-foqacotr.googlevideo.com^
 |r6.sn-qxo7rn7s.googlevideo.com^
 |r4.sn-4g5edndl.googlevideo.com^
+|r18---sn--ogul7n7z.googlevideo.com^
 |r370---sn-4g57knde.googlevideo.com^
 |r4---sn--gpoxu-n8vl.googlevideo.com^
 |r9.sn-a5m7ln7z.googlevideo.com^
@@ -42734,7 +42780,6 @@ ecom*-normal-lq.ecombdapi.com
 |r47--sn-4g57kney.googlevideo.com^
 |r1---sn-e44gmyay.googlevideo.com^
 |r14---sn-p5qlsnrl.googlevideo.com^
-|r4---sn--vgqs7nly.googlevideo.com^
 |r26--sn-25ge7n7l.googlevideo.com^
 |r38.sn-4g57knzs.googlevideo.com^
 |r7---sn--ibj-i3bs.googlevideo.com^
@@ -42750,7 +42795,6 @@ ecom*-normal-lq.ecombdapi.com
 |r4--sn-aigllnlr.googlevideo.com^
 |r113---sn-4g57knzd.googlevideo.com^
 |r50sn-4g57knzk.googlevideo.com^
-|r34sn-v2u0n-hxaz.googlevideo.com^
 |r40--sn-vgqs7nee.googlevideo.com^
 |r1---sn-6mzjj8vx.googlevideo.com^
 |r1---sn-vtfq8lmx.googlevideo.com^
@@ -42773,6 +42817,7 @@ ecom*-normal-lq.ecombdapi.com
 |r01---sn-4g57knek.googlevideo.com^
 |r2---sn--npoeene6.googlevideo.com^
 |r39--sn-4g57knes.googlevideo.com^
+|r16.sn-a5mlrnez.googlevideo.com^
 |r2---sn-34rrr46u.googlevideo.com^
 |r49.sn-4g57knze.googlevideo.com^
 |r5.sn-q4flrnez.googlevideo.com^
@@ -42796,6 +42841,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn--p5qlsndd.googlevideo.com^
 |r45.sn-hpa7znes.googlevideo.com^
 |r4---sn-4g57kndd.googlevideo.com^
+|r1---sn-xt5ct72y.googlevideo.com^
 |r6--sn-ab5l6nlk.googlevideo.com^
 |r3---sn-n4v7sn7y.googlevideo.com^
 |r25sn-cvh76n7l.googlevideo.com^
@@ -42804,6 +42850,7 @@ ecom*-normal-lq.ecombdapi.com
 |r14---sn--ab5szn7d.googlevideo.com^
 |r7---sn--vgqs7nes.googlevideo.com^
 |r455---sn-4g5ednle.googlevideo.com^
+|r17---sn--ab5l6nzk.googlevideo.com^
 |r1---sn-7yrq2plw.googlevideo.com^
 |r3.sn-qxo7rn7s.googlevideo.com^
 |r36---sn-5hnedne7.googlevideo.com^
@@ -42812,7 +42859,6 @@ ecom*-normal-lq.ecombdapi.com
 |r8.sn-qxa7en7z.googlevideo.com^
 |r16---sn-5hne6n7s.googlevideo.com^
 |r1---sn-1ldccajg.googlevideo.com^
-|r10---sn--n5pbvoj5caxu8-nbo6.googlevideo.com^
 |r23--sn-8xgp1vo-xfgee.googlevideo.com^
 |r8sn-4g57knke.googlevideo.com^
 |r48--sn-q4fl6ne6.googlevideo.com^
@@ -42821,6 +42867,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-5meuebl7.googlevideo.com^
 |r16---sn--4g5e6ns6.googlevideo.com^
 |r44.sn-4g57knl7.googlevideo.com^
+|r393---sn-5hnedn7k.googlevideo.com^
 |r4---sn--a5mekn7d.googlevideo.com^
 |r7---sn--8um-cnae.googlevideo.com^
 |r7.sn-ab5l6nsd.googlevideo.com^
@@ -43037,6 +43084,7 @@ ecom*-normal-lq.ecombdapi.com
 |r30---sn-4g57knzl.googlevideo.com^
 |r2---sn-kk751mbc.googlevideo.com^
 |r42---sn-aigllnek.googlevideo.com^
+|r11.sn-4g5ednll.googlevideo.com^
 |r9---sn-hp57kn7s.googlevideo.com^
 |r13---sn-4g5lzne6.googlevideo.com^
 |r26---sn-vgqs7ne7.googlevideo.com^
@@ -43101,7 +43149,6 @@ ecom*-normal-lq.ecombdapi.com
 |r40---sn-a5m7ln7r.googlevideo.com^
 |r2---sn-q4fl6nlz.googlevideo.com^
 |r14.sn-p5qs7nee.googlevideo.com^
-|r21---sn-5hnedn7d.googlevideo.com^
 |r1---sn-eotmxbol.googlevideo.com^
 |r1---sn-lsip6dhn.googlevideo.com^
 |r2sn-p5qlsnsl.googlevideo.com^
@@ -43140,6 +43187,7 @@ ecom*-normal-lq.ecombdapi.com
 |r302---sn-4g57knek.googlevideo.com^
 |r5.sn-q4fl6n7s.googlevideo.com^
 |r16---sn--uxax3vh50nugp5-8px6.googlevideo.com^
+|r0--sn-ab5l6nzl.googlevideo.com^
 |r1.sn-5ualdn7e.googlevideo.com^
 |r1---sn-qtbm8qnb.googlevideo.com^
 |r2.sn-nx57yney.googlevideo.com^
@@ -43215,6 +43263,7 @@ ecom*-normal-lq.ecombdapi.com
 |r8---sn--xouxa-njaz.googlevideo.com^
 |r1---sn-binwa37h.googlevideo.com^
 |r20---sn--quxapm-3c2e.googlevideo.com^
+|r7--sn-4g57knzs.googlevideo.com^
 |r1sn-a5mlrn7d.googlevideo.com^
 |r211---sn-4g57knek.googlevideo.com^
 |r32--sn-p5qlsnsk.googlevideo.com^
@@ -43483,6 +43532,7 @@ ecom*-normal-lq.ecombdapi.com
 |r7---sn-aigllnzz.googlevideo.com^
 |r1---sn-edjgnigq.googlevideo.com^
 |r27sn-a5mlrn7r.googlevideo.com^
+|r3--sn-vgqsenel.googlevideo.com^
 |r30.sn-4g57kn6y.googlevideo.com^
 |r9---sn-vgqs7nlr.googlevideo.com^
 |r14.sn-4g57knll.googlevideo.com^
@@ -43538,6 +43588,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-ni5qb23w.googlevideo.com^
 |r29---sn-nv47lnee.googlevideo.com^
 |r1---sn-5uaezn6r.googlevideo.com^
+|r1---sn-1pagfhz6.googlevideo.com^
 |r26.sn-25ge7n7d.googlevideo.com^
 |r2---sn-d5of3gee.googlevideo.com^
 |r30.sn-5uaezne7.googlevideo.com^
@@ -43644,7 +43695,6 @@ ecom*-normal-lq.ecombdapi.com
 |r18sn-ab5l6n7r.googlevideo.com^
 |r1---sn-4g5ednek.googlevideo.com^
 |r3.sn-8xgp1vo-xfgk.googlevideo.com^
-|r8---sn-5uaezn6r.googlevideo.com^
 |r1---sn-cjofaj6q.googlevideo.com^
 |r16.sn-p5qlsnlr.googlevideo.com^
 |r2---sn--cxab5jvh-cg0d.googlevideo.com^
@@ -43748,6 +43798,7 @@ ecom*-normal-lq.ecombdapi.com
 |r6.sn-ab5l6nes.googlevideo.com^
 |r25sn-4g57knkk.googlevideo.com^
 |r18--sn-ab5l6nsd.googlevideo.com^
+|r2---sn--8pgbpohxqp5-h5oz.googlevideo.com^
 |r11.sn-4g5e6nsy.googlevideo.com^
 |r3---sn-5uaeznzk.googlevideo.com^
 |r26--sn-vgqsenez.googlevideo.com^
@@ -43853,7 +43904,6 @@ ecom*-normal-lq.ecombdapi.com
 |r46--sn-5hne6nld.googlevideo.com^
 |r8---sn--25ge7nl6.googlevideo.com^
 |r32--sn-4g57kn6e.googlevideo.com^
-|r23--sn-5hne6nlz.googlevideo.com^
 |r9---sn-o097znze.googlevideo.com^
 |r7---sn-oguesn7y.googlevideo.com^
 |r11---sn-vgqsenes.googlevideo.com^
@@ -43876,6 +43926,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-2a44kdcu.googlevideo.com^
 |r19---sn--vgqsknes.googlevideo.com^
 |r36--sn-8xgp1vo-xfgee.googlevideo.com^
+|r10---sn--x2pm-3ufd.googlevideo.com^
 |r7.sn-vgqs7nl7.googlevideo.com^
 |r17sn-aigllnzk.googlevideo.com^
 |r18---sn--vgqsrnez.googlevideo.com^
@@ -44057,7 +44108,6 @@ ecom*-normal-lq.ecombdapi.com
 |r32--sn-ab5l6nlk.googlevideo.com^
 |r1---sn-smzio8d7.googlevideo.com^
 |r1---sn-uhvcpax0n5-xhue.googlevideo.com^
-|r1.sn-q4fl6nss.googlevideo.com^
 |r3---sn-q4fl6n76.googlevideo.com^
 |r32--sn-vgqs7nes.googlevideo.com^
 |r1---sn-3unysixs.googlevideo.com^
@@ -44157,6 +44207,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-5hne6ns6.googlevideo.com^
 |r36.sn-a5m7zne6.googlevideo.com^
 |r1---sn-vgqsenes.googlevideo.com^
+|r2sn-5hne6nlz.googlevideo.com^
 |r9---sn-5hneknes.googlevideo.com^
 |r1---sn-fn43jj6o.googlevideo.com^
 |r12sn-ab5l6nzd.googlevideo.com^
@@ -44365,6 +44416,7 @@ ecom*-normal-lq.ecombdapi.com
 |r34--sn-q4f7snez.googlevideo.com^
 |r10---sn--5np5po4v-c33ll.googlevideo.com^
 |r47.sn-4g57knzy.googlevideo.com^
+|r0sn-hp57kn7e.googlevideo.com^
 |r39---sn-p5qlsnsz.googlevideo.com^
 |r27---sn-aigllney.googlevideo.com^
 |r46--sn-aigllnz6.googlevideo.com^
@@ -44499,6 +44551,7 @@ ecom*-normal-lq.ecombdapi.com
 |r42sn-hp57kn7e.googlevideo.com^
 |r16---sn--uphxqvujvh-30as.googlevideo.com^
 |r1---sn-x52i1nmb.googlevideo.com^
+|r48sn-aigllnzd.googlevideo.com^
 |r37---sn-4g57knkr.googlevideo.com^
 |r47sn-hp57knss.googlevideo.com^
 |r473---sn-4g5e6nes.googlevideo.com^
@@ -44512,7 +44565,6 @@ ecom*-normal-lq.ecombdapi.com
 |r13---sn--uvu-c33k.googlevideo.com^
 |r13---sn-ab5sznlk.googlevideo.com^
 |r22.sn-h557snel.googlevideo.com^
-|r9.sn-5hne6nzk.googlevideo.com^
 |r9.sn-vgqsrnee.googlevideo.com^
 |r14---sn-q4flrn7y.googlevideo.com^
 |r5---sn-5uaezny6.googlevideo.com^
@@ -44796,13 +44848,13 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-vacoruz5.googlevideo.com^
 |r39--sn-p5qlsns6.googlevideo.com^
 |r49--sn-4g57kned.googlevideo.com^
+|r16---sn--5ualdn76.googlevideo.com^
 |r1---sn-yam6725k.googlevideo.com^
 |r17---sn--un57en7s.googlevideo.com^
 |r49sn-4g57kn6z.googlevideo.com^
 |r15---sn-4g5e6nlk.googlevideo.com^
 |r20---sn--aigl6n7d.googlevideo.com^
 |r25---sn-ab5l6nlr.googlevideo.com^
-|r1---sn-qfwqj1qu.googlevideo.com^
 |r5---sn-p5qlsn6e.googlevideo.com^
 |r13---sn-vgqskn7z.googlevideo.com^
 |r18sn-gvnuxaxjvh-bvwl.googlevideo.com^
@@ -44810,6 +44862,7 @@ ecom*-normal-lq.ecombdapi.com
 |r46.sn-o097zne6.googlevideo.com^
 |r6---sn-4g5e6ns6.googlevideo.com^
 |r18---sn-vgqsrnes.googlevideo.com^
+|r37--sn-p5qs7n7d.googlevideo.com^
 |r46.sn-ab5l6n7k.googlevideo.com^
 |r10---sn--n4v7snee.googlevideo.com^
 |r14.sn-a5m7ln7y.googlevideo.com^
@@ -45116,6 +45169,7 @@ ecom*-normal-lq.ecombdapi.com
 |r11sn-jvm-a5nl.googlevideo.com^
 |r49.sn-vgqsen7e.googlevideo.com^
 |r8--sn-vgqs7n7l.googlevideo.com^
+|r29--sn-ab5l6nzr.googlevideo.com^
 |r10--sn-4g57kney.googlevideo.com^
 |r1---sn-qet8tdjb.googlevideo.com^
 |r2---sn-sj8lq8an.googlevideo.com^
@@ -45192,7 +45246,6 @@ ecom*-normal-lq.ecombdapi.com
 |r42--sn-p5qlsnsl.googlevideo.com^
 |r1---sn-n26oarh3.googlevideo.com^
 |r31.sn-4g57kndk.googlevideo.com^
-|r18.sn-5hne6nsd.googlevideo.com^
 |r40sn-a5m7lnee.googlevideo.com^
 |r6--sn-u2bpouxgoxu-hxaz.googlevideo.com^
 |r15---sn--a5mlrn7l.googlevideo.com^
@@ -45238,6 +45291,7 @@ ecom*-normal-lq.ecombdapi.com
 |r32sn-4g5ednle.googlevideo.com^
 |r17---sn-ab5l6nzy.googlevideo.com^
 |r11---sn--n8v7znse.googlevideo.com^
+|r2.sn-q4f7snes.googlevideo.com^
 |r1---sn-668pffob.googlevideo.com^
 |r1---sn-7mrps7n2.googlevideo.com^
 |r44--sn-a5mlrn7d.googlevideo.com^
@@ -45285,6 +45339,7 @@ ecom*-normal-lq.ecombdapi.com
 |r16---sn--jpm-15bd.googlevideo.com^
 |r5sn-hpa7zney.googlevideo.com^
 |r1---sn-8hyeramj.googlevideo.com^
+|r3---sn--8pxuuxau5o15op5-q5ge.googlevideo.com^
 |r4---sn-5hnednez.googlevideo.com^
 |r42.sn-4g57kndk.googlevideo.com^
 |r14---sn-vgqsknll.googlevideo.com^
@@ -45417,7 +45472,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-xthuwiva.googlevideo.com^
 |r43--sn-4g57knsy.googlevideo.com^
 |r10sn-4g5e6nez.googlevideo.com^
-|r30.sn-vgqsenee.googlevideo.com^
 |r198---sn-4g57knzz.googlevideo.com^
 |r2---sn-nx57ynld.googlevideo.com^
 |r10---sn--n8v7knee.googlevideo.com^
@@ -45435,6 +45489,7 @@ ecom*-normal-lq.ecombdapi.com
 |r20.sn-vgqsrnl6.googlevideo.com^
 |r13---sn--3c27sn7l.googlevideo.com^
 |r7.sn-vgqsknsk.googlevideo.com^
+|r13---sn-a5meknzl.googlevideo.com^
 |r21.sn-qxa7en7l.googlevideo.com^
 |r11sn-ab5l6nlk.googlevideo.com^
 |r27---sn-4g57kndk.googlevideo.com^
@@ -45457,7 +45512,6 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-ptuqo7kd.googlevideo.com^
 |r35sn-p5qlsnsr.googlevideo.com^
 |r19---sn--huobi-5jje.googlevideo.com^
-|r28--sn-4g57kn6y.googlevideo.com^
 |r48.sn-a5m7znez.googlevideo.com^
 |r7--sn-ab5l6n7k.googlevideo.com^
 |r39--sn-nv47lnee.googlevideo.com^
@@ -45499,13 +45553,13 @@ ecom*-normal-lq.ecombdapi.com
 |r28sn-4g57kndr.googlevideo.com^
 |r23sn-aiglln7d.googlevideo.com^
 |r21---sn-ntq7yn7l.googlevideo.com^
+|r30sn-ab5l6n7e.googlevideo.com^
 |r14---sn-a5msen7z.googlevideo.com^
 |r9.sn-h557snez.googlevideo.com^
 |r1---sn-rn6q26r4.googlevideo.com^
 |r23---sn-4g57kndy.googlevideo.com^
 |r11sn-ab5l6nss.googlevideo.com^
 |r1---sn--i3belne6.googlevideo.com^
-|r19sn-4g57kn6z.googlevideo.com^
 |r15--sn-4g57knzd.googlevideo.com^
 |r14--sn-ab5l6n7r.googlevideo.com^
 |r38--sn-a5m7lnez.googlevideo.com^
@@ -45518,6 +45572,7 @@ ecom*-normal-lq.ecombdapi.com
 |r45--sn-4g5e6nes.googlevideo.com^
 |r1---sn-6c22asqm.googlevideo.com^
 |r21---sn-4g57kn7e.googlevideo.com^
+|r38--sn-n4v7sne7.googlevideo.com^
 |r40--sn-ni5f-t8ge.googlevideo.com^
 |r2---sn-dnc2uooo.googlevideo.com^
 |r42sn-o097znlk.googlevideo.com^
@@ -45609,7 +45664,6 @@ ecom*-normal-lq.ecombdapi.com
 |r12---sn--n8v7kn7e.googlevideo.com^
 |r1---sn-ffbqtc71.googlevideo.com^
 |r48---sn-5hnedn7k.googlevideo.com^
-|r18---sn--4pgnuapbiu-hiue.googlevideo.com^
 |r24---sn-aigllnzr.googlevideo.com^
 |r14---sn-4g57kn67.googlevideo.com^
 |r1---sn-hfz1a5ab.googlevideo.com^
@@ -45730,7 +45784,6 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-t8a6ue1a.googlevideo.com^
 |r23---sn-4g57knek.googlevideo.com^
 |r38sn-4g57knkl.googlevideo.com^
-|r49--sn-p5qs7n7d.googlevideo.com^
 |r48--sn-a5meknl6.googlevideo.com^
 |r48sn-4g5edned.googlevideo.com^
 |r41sn-hp57knsk.googlevideo.com^
@@ -45742,6 +45795,7 @@ ecom*-normal-lq.ecombdapi.com
 |r15sn-h557snez.googlevideo.com^
 |r1.sn-q4flrnle.googlevideo.com^
 |r45.sn-4g57kndk.googlevideo.com^
+|r1---sn-boe7wbf1.googlevideo.com^
 |r10---sn--bg0ezn7z.googlevideo.com^
 |r18sn-aigllnzd.googlevideo.com^
 |r47.sn-ab5l6nlr.googlevideo.com^
@@ -45752,7 +45806,6 @@ ecom*-normal-lq.ecombdapi.com
 |r4---sn--nfpuji-1gil.googlevideo.com^
 |r1---sn-vehjf8p4.googlevideo.com^
 |r1---sn-slzaet8a.googlevideo.com^
-|r24sn-ab5l6n7r.googlevideo.com^
 |r43---sn-4g57knr7.googlevideo.com^
 |r12--sn-aigllnzz.googlevideo.com^
 |r1---sn-cdixy5sz.googlevideo.com^
@@ -45820,7 +45873,6 @@ ecom*-normal-lq.ecombdapi.com
 |r17.sn-vgqsen7y.googlevideo.com^
 |r1---sn-aemqtjsj.googlevideo.com^
 |r2---sn-cvh76n7k.googlevideo.com^
-|r11---sn--axq7sn7e.googlevideo.com^
 |r41--sn-a5m7ln7r.googlevideo.com^
 |r1---sn-s6kwx6y5.googlevideo.com^
 |r8sn-npoe7n7r.googlevideo.com^
@@ -45839,6 +45891,7 @@ ecom*-normal-lq.ecombdapi.com
 |r26---sn-p5qlsn6e.googlevideo.com^
 |r1---sn-vtmku5u3.googlevideo.com^
 |r12---sn-4g5e6ns7.googlevideo.com^
+|r1---sn-24fgskn1.googlevideo.com^
 |r30--sn-vgqsen7l.googlevideo.com^
 |r1---sn-x8urmfho.googlevideo.com^
 |r1---sn-385iibhb.googlevideo.com^
@@ -45933,6 +45986,7 @@ ecom*-normal-lq.ecombdapi.com
 |r10---sn-a5m7ln7y.googlevideo.com^
 |r13.sn-hpa7znee.googlevideo.com^
 |r1---sn-t84x77pd.googlevideo.com^
+|r3---sn-qxa7en7e.googlevideo.com^
 |r31---sn-cvh7kn7k.googlevideo.com^
 |r27---sn-5hne6n7r.googlevideo.com^
 |r1---sn-xjc8g4zr.googlevideo.com^
@@ -46029,6 +46083,7 @@ ecom*-normal-lq.ecombdapi.com
 |r20---sn--uxa0n-ttjl.googlevideo.com^
 |r1---sn-t4pzpwgu.googlevideo.com^
 |r19---sn--8vq54voxbi5o5-5jjl.googlevideo.com^
+|r12sn-4g57kn7d.googlevideo.com^
 |r3---sn--gwpa-25ud.googlevideo.com^
 |r1---sn-q3q3gdqu.googlevideo.com^
 |r2---sn-arncqf3a.googlevideo.com^
@@ -46078,7 +46133,6 @@ ecom*-normal-lq.ecombdapi.com
 |r22--sn-p5qlsnlr.googlevideo.com^
 |r1---sn-pzrlpgwa.googlevideo.com^
 |r5sn-a5mekney.googlevideo.com^
-|r44--sn-4g57kn6r.googlevideo.com^
 |r7sn-aigllnz6.googlevideo.com^
 |r25--sn-4g57kn6s.googlevideo.com^
 |r23.sn-4g57knkz.googlevideo.com^
@@ -46107,6 +46161,7 @@ ecom*-normal-lq.ecombdapi.com
 |r45sn-ab5l6nzs.googlevideo.com^
 |r11.sn-vgqs7nls.googlevideo.com^
 |r1---sn-yd6yushn.googlevideo.com^
+|r3.sn-qxa7en7l.googlevideo.com^
 |r1---sn-qh55omqw.googlevideo.com^
 |r9---sn--q5u5bgv02-3c2s.googlevideo.com^
 |r20.sn-p5qlsns6.googlevideo.com^
@@ -46172,6 +46227,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-zgpmtk48.googlevideo.com^
 |r13sn-aigllnzl.googlevideo.com^
 |r2---sn--vov-h5ql.googlevideo.com^
+|r28---sn-a5mekned.googlevideo.com^
 |r29--sn-25ge7n7l.googlevideo.com^
 |r42--sn-4g57knz7.googlevideo.com^
 |r11---snn--vgqsknee.googlevideo.com^
@@ -46275,6 +46331,7 @@ ecom*-normal-lq.ecombdapi.com
 |r11.sn-4g5e6nss.googlevideo.com^
 |r23---sn-25ge7n7r.googlevideo.com^
 |r1---sn-2fbcdikg.googlevideo.com^
+|r395---sn-4g57kn6s.googlevideo.com^
 |r15---sn-hpa7zner.googlevideo.com^
 |r29---sn-4g57knl6.googlevideo.com^
 |r1---sn-o4pga8id.googlevideo.com^
@@ -46294,6 +46351,7 @@ ecom*-normal-lq.ecombdapi.com
 |r11---sn--un57sn76.googlevideo.com^
 |r17sn-hpa7zner.googlevideo.com^
 |r12.sn-vgqsened.googlevideo.com^
+|r13.youtube-nocookie.com^
 |r3---sn--h5q7dnes.googlevideo.com^
 |r1---sn-5hne6n7d.googlevideo.com^
 |r22.sn-a5m7zne6.googlevideo.com^
@@ -46487,7 +46545,6 @@ ecom*-normal-lq.ecombdapi.com
 |r38.sn-5uaeznd6.googlevideo.com^
 |r1---sn-7dvh7tb4.googlevideo.com^
 |r14.sn-5hne6nl6.googlevideo.com^
-|r3---sn-h557sns7.googlevideo.com^
 |r10---sn-aigl6n7s.googlevideo.com^
 |r6.sn-ab5l6nsr.googlevideo.com^
 |r1---sn-syvo4ctc.googlevideo.com^
@@ -46499,6 +46556,7 @@ ecom*-normal-lq.ecombdapi.com
 |r13.sn-qxo7rn7e.googlevideo.com^
 |r16---sn-a5m7ln7d.googlevideo.com^
 |r7---sn-q4fl6nsl.googlevideo.com^
+|r1---sn-em32l8ry.googlevideo.com^
 |r6--sn-5hnednlr.googlevideo.com^
 |r14--sn-25ge7nes.googlevideo.com^
 |r50.sn-ab5l6nel.googlevideo.com^
@@ -46623,7 +46681,6 @@ ecom*-normal-lq.ecombdapi.com
 |r11---sn-5uaezn6y.googlevideo.com^
 |r2---sn--5go7yner.googlevideo.com^
 |r18sn-q4f7snss.googlevideo.com^
-|r14---sn-q4flrne7.googlevideo.com^
 |r14.sn-4g5e6nez.googlevideo.com^
 |r2---sn-bhssf3r2.googlevideo.com^
 |r20---sn--4g5ednz7.googlevideo.com^
@@ -46861,6 +46918,7 @@ ecom*-normal-lq.ecombdapi.com
 |r15.sn-uhvcpax0n5-xhue.googlevideo.com^
 |r8sn-h557snel.googlevideo.com^
 |r14---sn--5uaezndl.googlevideo.com^
+|r9---sn-nx57ynld.googlevideo.com^
 |r5---sn--2uuxa3vh-jb3s.googlevideo.com^
 |r13---sn--vgqsenlz.googlevideo.com^
 |r14---sn-4g57knde.googlevideo.com^
@@ -46898,6 +46956,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2.sn-oguesn7y.googlevideo.com^
 |r46sn-aigllnz6.googlevideo.com^
 |r12sn-vgqsened.googlevideo.com^
+|r42sn-ab5l6nez.googlevideo.com^
 |r16---sn--qxo7rn7s.googlevideo.com^
 |r3---sn--5hne6nsd.googlevideo.com^
 |r11---sn-aigl6n7d.googlevideo.com^
@@ -46950,7 +47009,6 @@ ecom*-normal-lq.ecombdapi.com
 |r37--sn-q4f7snld.googlevideo.com^
 |r1---sn-aymin6sl.googlevideo.com^
 |r37sn-4g57kn66.googlevideo.com^
-|r8--sn-4g57kndd.googlevideo.com^
 |r26sn-5abxgpxuxaxjvh-55xe.googlevideo.com^
 |r10.sn-qxo7rn7e.googlevideo.com^
 |r11---sn--a5m7lnlz.googlevideo.com^
@@ -47109,7 +47167,6 @@ ecom*-normal-lq.ecombdapi.com
 |r7---sn-h557snee.googlevideo.com^
 |r16sn-uxap5nvoxg5-ixhl.googlevideo.com^
 |r2sn-ab5l6nss.googlevideo.com^
-|r12.sn-qxoedne7.googlevideo.com^
 |r10sn-a5m7lnee.googlevideo.com^
 |r29sn-5hne6n7e.googlevideo.com^
 |r19.sn-5hnekn76.googlevideo.com^
@@ -47338,6 +47395,7 @@ ecom*-normal-lq.ecombdapi.com
 |r42---sn-aigllnel.googlevideo.com^
 |r43sn-q4f7sn7l.googlevideo.com^
 |r19.sn-4g5edn6y.googlevideo.com^
+|r3---sn-p5qlsn6s.googlevideo.com^
 |r40--sn-8xgp1vo-xfge7.googlevideo.com^
 |r7---sn-ab5l6nzd.googlevideo.com^
 |r34---sn-aigllnes.googlevideo.com^
@@ -47421,6 +47479,7 @@ ecom*-normal-lq.ecombdapi.com
 |r21sn-hpa7zney.googlevideo.com^
 |r5.sn-p5qlsnss.googlevideo.com^
 |r19---sn--a5mekne7.googlevideo.com^
+|r33--sn-a5m7ln7r.googlevideo.com^
 |r2---sn-282jhila.googlevideo.com^
 |r38--sn-4g5e6nle.googlevideo.com^
 |r9---sn--5voxnp-aw0e.googlevideo.com^
@@ -47711,6 +47770,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-au7p3ral.googlevideo.com^
 |r39.sn-aigllnes.googlevideo.com^
 |r43sn-ab5l6nss.googlevideo.com^
+|r15.sn-p5qlsnrl.googlevideo.com^
 |r36sn-5hne6n7k.googlevideo.com^
 |r2---sn-2dnij6nw.googlevideo.com^
 |r10.sn-4g57knd7.googlevideo.com^
@@ -47808,7 +47868,6 @@ ecom*-normal-lq.ecombdapi.com
 |r5---sn--npoeen7y.googlevideo.com^
 |r20.sn-vgqsen7e.googlevideo.com^
 |r1---sn-spcuv7n1.googlevideo.com^
-|r8--sn-a5m7zned.googlevideo.com^
 |r1---sn--4gxx-25gee.googlevideo.com^
 |r49.sn-4g57kner.googlevideo.com^
 |r14---sn-ab5l6nls.googlevideo.com^
@@ -47937,7 +47996,6 @@ ecom*-normal-lq.ecombdapi.com
 |r3---sn-aigllnel.googlevideo.com^
 |r10---sn--5go7yn7l.googlevideo.com^
 |r13---sn-h557snee.googlevideo.com^
-|r1---sn-5tas6bvq.googlevideo.com^
 |r19.sn-a5m7zne6.googlevideo.com^
 |r3.sn-cvh7kn7z.googlevideo.com^
 |r8sn-q4f7snl6.googlevideo.com^
@@ -48029,6 +48087,7 @@ ecom*-normal-lq.ecombdapi.com
 |r21sn-n4v7kne7.googlevideo.com^
 |r11---sn--v2xooxuj5hcvqp5-2ois.googlevideo.com^
 |r16--sn-5hne6nez.googlevideo.com^
+|r5---sn--5hnednlk.googlevideo.com^
 |r1---sn-ikdercb3.googlevideo.com^
 |r15sn-a5mlrn7l.googlevideo.com^
 |r26sn-u2bpouxgoxu-hxaz.googlevideo.com^
@@ -48257,6 +48316,7 @@ ecom*-normal-lq.ecombdapi.com
 |r13---sn--bg0ezn7e.googlevideo.com^
 |r17---sn--ug5onuxaxjvh-n8vs.googlevideo.com^
 |r16---sn--5uaezn6r.googlevideo.com^
+|r1---sn-6hwu8dat.googlevideo.com^
 |r115---sn-5hne6nl6.googlevideo.com^
 |r28--sn-vgqsened.googlevideo.com^
 |r10---sn-4g5lznes.googlevideo.com^
@@ -48432,6 +48492,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn--qxau5-btqs.googlevideo.com^
 |r20---sn-aigllnek.googlevideo.com^
 |r32sn-a5m7zne6.googlevideo.com^
+|r11---sn--n02xgoxufvg3-2gbz.googlevideo.com^
 |r19.sn-aigllnee.googlevideo.com^
 |r3---sn--jxnj5-cjoe.googlevideo.com^
 |r17---sn--q4fl6ne7.googlevideo.com^
@@ -48564,6 +48625,7 @@ ecom*-normal-lq.ecombdapi.com
 |r32--sn-p5qs7nes.googlevideo.com^
 |r35.sn-aiglln7d.googlevideo.com^
 |r6---sn-4g5edndl.googlevideo.com^
+|r25---sn-p5qlsnss.googlevideo.com^
 |r1---sn-1cw1ocuo.googlevideo.com^
 |r1---sn-o74voy8k.googlevideo.com^
 |r29--sn-4g5edn7l.googlevideo.com^
@@ -48571,6 +48633,7 @@ ecom*-normal-lq.ecombdapi.com
 |r36.sn-hpa7zner.googlevideo.com^
 |r1--sn-a5meknl6.googlevideo.com^
 |r1.sn-4g57kn7e.googlevideo.com^
+|r1---sn-5akzd1ag.googlevideo.com^
 |r20---sn--3jxaa-unxe.googlevideo.com^
 |r10---sn-5uaeznk7.googlevideo.com^
 |r44---sn-aiglln7r.googlevideo.com^
@@ -48654,6 +48717,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-8u1ubjxi.googlevideo.com^
 |r29---sn-4g57kn7e.googlevideo.com^
 |r3--sn-hp57knsd.googlevideo.com^
+|r29---sn-n4v7knee.googlevideo.com^
 |r1---sn-gdo24ccw.googlevideo.com^
 |r12--sn-4g57kn6r.googlevideo.com^
 |r15---sn-a5mlrnez.googlevideo.com^
@@ -48680,7 +48744,7 @@ ecom*-normal-lq.ecombdapi.com
 |r18.sn-5hne6nz6.googlevideo.com^
 |r20--sn-h557snes.googlevideo.com^
 |r15sn-q4f7sn7l.googlevideo.com^
-|r0--sn-5hnedn7k.googlevideo.com^
+|r17---sn-q4flrne7.googlevideo.com^
 |r1---sn-b8qr25iu.googlevideo.com^
 |r16---sn-q4flrn7r.googlevideo.com^
 |r2---sn--2ugxh5a5-jb3s.googlevideo.com^
@@ -48721,6 +48785,7 @@ ecom*-normal-lq.ecombdapi.com
 |r18.sn-4g5e6nls.googlevideo.com^
 |r1---sn-nluu2qpp.googlevideo.com^
 |r34.sn-vgqs7nel.googlevideo.com^
+|r13---sn--gwpa-25ud.googlevideo.com^
 |r3---sn--hp57kn7l.googlevideo.com^
 |r1---sn-o1772r7s.googlevideo.com^
 |r6---sn--ab5szn7y.googlevideo.com^
@@ -48759,6 +48824,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-m3kgnm25.googlevideo.com^
 |r40---sn-p5qlsn6e.googlevideo.com^
 |r14---sn--3xoxu-ocve.googlevideo.com^
+|r36sn-4g5e6nle.googlevideo.com^
 |r49sn-ab5l6nsk.googlevideo.com^
 |r12--n-aigzrn7zgooglevideo.com^
 |r15---sn-ab5l6n7s.googlevideo.com^
@@ -48826,7 +48892,6 @@ ecom*-normal-lq.ecombdapi.com
 |r9.sn-vgqsrnes.googlevideo.com^
 |r40--sn-aigllnzd.googlevideo.com^
 |r1---sn-gzrlxb5v.googlevideo.com^
-|r1---sn-ab5szn7s.googlevideo.com^
 |r18---sn--8p85jvh-nv4s.googlevideo.com^
 |r31---sn-vgqsen7d.googlevideo.com^
 |r5---sn--gvnuxaxjvh-31ol.googlevideo.com^
@@ -48996,7 +49061,6 @@ ecom*-normal-lq.ecombdapi.com
 |r45sn-hpa7zner.googlevideo.com^
 |r1---sn-biuenrzz.googlevideo.com^
 |r20---sn-qxoedn7z.googlevideo.com^
-|r4--sn-ab5l6nlk.googlevideo.com^
 |r45--sn-4g57knzz.googlevideo.com^
 |r39sn-hpa7znel.googlevideo.com^
 |r41sn-4g57knze.googlevideo.com^
@@ -49009,7 +49073,6 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-exw5hnne.googlevideo.com^
 |r23sn-vgqsknee.googlevideo.com^
 |r3---sn-gwpa-jv3l.googlevideo.com^
-|r32sn-aigllnee.googlevideo.com^
 |r11---sn-hp57kn7e.googlevideo.com^
 |r32.sn-a5m7zned.googlevideo.com^
 |r45---sn-4g57knz6.googlevideo.com^
@@ -49042,7 +49105,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-oxdel23h.googlevideo.com^
 |r13---sn--n8v7znss.googlevideo.com^
 |r47--sn-n4v7kn7e.googlevideo.com^
-|r1---sn-2xrgdpqb.googlevideo.com^
 |r23sn-4g57knk6.googlevideo.com^
 |r9--sn-oguesn7k.googlevideo.com^
 |r22sn-x5guiuxaxjvh-q5jl.googlevideo.com^
@@ -49187,7 +49249,6 @@ ecom*-normal-lq.ecombdapi.com
 |r23sn-vgqsenez.googlevideo.com^
 |r22--sn-ab5l6nse.googlevideo.com^
 |r23sn-ab5l6ne6.googlevideo.com^
-|r4.sn-vgqsrn76.googlevideo.com^
 |r1---sn-etaxp6pq.googlevideo.com^
 |r14.sn-4g5ednsy.googlevideo.com^
 |r9---sn--vgqsknls.googlevideo.com^
@@ -49462,6 +49523,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-5mu2ikf4.googlevideo.com^
 |r1---sn-yic7dcmm.googlevideo.com^
 |r28sn-25ge7n7l.googlevideo.com^
+|r356---sn-4g5e6n7r.googlevideo.com^
 |r1---sn-1uotg4fz.googlevideo.com^
 |r18---sn-25ge7n7s.googlevideo.com^
 |r20---sn--huobi-5jje.googlevideo.com^
@@ -49524,6 +49586,7 @@ ecom*-normal-lq.ecombdapi.com
 |r15---sn--ci5gup-cive.googlevideo.com^
 |r12.sn-uhvcpax0n5-nh4l.a1.googlevideo^
 |r23--sn-ab5l6nsd.googlevideo.com^
+|r22--sn-vgqsener.googlevideo.com^
 |r6--sn-aigllnss.googlevideo.com^
 |r1---sn-i565sc4l.googlevideo.com^
 |r29sn-aiglln6y.googlevideo.com^
@@ -49678,7 +49741,6 @@ ecom*-normal-lq.ecombdapi.com
 |r19.sn-vgqsknls.googlevideo.com^
 |r48--sn-cvh7kn7l.googlevideo.com^
 |r436---sn-4g5ednee.googlevideo.com^
-|r2---sn--a5msen7z.googlevideo.com^
 |r1---sn-mudh4xxp.googlevideo.com^
 |r23---sn-4g57knz6.googlevideo.com^
 |r14---sn--p5qs7nel.googlevideo.com^
@@ -49839,6 +49901,7 @@ ecom*-normal-lq.ecombdapi.com
 |r7.sn-5hnekn7k.googlevideo.com^
 |r32.sn-oguesn7d.googlevideo.com^
 |r33--sn-oguesn7k.googlevideo.com^
+|r27sn-aigllnzl.googlevideo.com^
 |r19---sn-ab5l6nls.googlevideo.com^
 |r31--sn-hp57knse.googlevideo.com^
 |r4---sn-q4fl6n76.googlevideo.com^
@@ -50401,6 +50464,7 @@ ecom*-normal-lq.ecombdapi.com
 |r49---sn-cvh7kn7l.googlevideo.com^
 |r15.sn-q4fl6nzy.googlevideo.com^
 |r18sn-4g57knkr.googlevideo.com^
+|r8---sn--i3beln7k.googlevideo.com^
 |r29--sn-a5mekner.googlevideo.com^
 |r47--sn-cvh7kn7r.googlevideo.com^
 |r33sn-aiglln7l.googlevideo.com^
@@ -50677,6 +50741,7 @@ ecom*-normal-lq.ecombdapi.com
 |r9---sn-ab5l6ne6.googlevideo.com^
 |r21.sn-vgqs7n7k.googlevideo.com^
 |r43---sn-aigllnlr.googlevideo.com^
+|r35---sn-4g57kn6k.googlevideo.com^
 |r1---sn-ngwov8wa.googlevideo.com^
 |r16---sn-n02xgoxufvg3-2gbl.googlevideo.com^
 |r5---sn--ug5on-unxl.googlevideo.com^
@@ -50931,7 +50996,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-mca13f85.googlevideo.com^
 |r12---sn-5hne6nlz.googlevideo.com^
 |r13.sn-cvh7kn7z.googlevideo.com^
-|r12---sn--4g5edne6.googlevideo.com^
 |r2---sn-atvf1l2v.googlevideo.com^
 |r1---sn-2iotzct5.googlevideo.com^
 |r18---sn-4g5ednz7.googlevideo.com^
@@ -50974,7 +51038,6 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-zw747wty.googlevideo.com^
 |r11sn-q4fl6n7e.googlevideo.com^
 |r1---sn-8r86p1h7.googlevideo.com^
-|r25---sn-5hnedney.googlevideo.com^
 |r6---sn-ni5f-t8gl.googlevideo.com^
 |r2--sn-ab5l6n6l.googlevideo.com^
 |r2---sn-4dh7k6xl.googlevideo.com^
@@ -50985,6 +51048,7 @@ ecom*-normal-lq.ecombdapi.com
 |r18--sn-4g57knk6.googlevideo.com^
 |r10sn-p5qs7nee.googlevideo.com^
 |r45--sn-q4f7snl6.googlevideo.com^
+|r7--sn-25ge7n7r.googlevideo.com^
 |r10---sn--n02xgoxufvg3-2gbs.googlevideo.com^
 |r12--sn-a5m7lnee.googlevideo.com^
 |r36---sn-aigllnze.googlevideo.com^
@@ -51199,7 +51263,6 @@ ecom*-normal-lq.ecombdapi.com
 |r0--sn-o097znld.googlevideo.com^
 |r2---sn-6suzd6m7.googlevideo.com^
 |r37sn-ab5l6nzl.googlevideo.com^
-|r7---sn-8xgp1vo-xfge7.googlevideo.com^
 |r3--sn-p5qlsn67.googlevideo.com^
 |r36---sn-4g5e6nls.googlevideo.com^
 |r29sn-25ge7n7r.googlevideo.com^
@@ -51219,7 +51282,6 @@ ecom*-normal-lq.ecombdapi.com
 |r43sn-aiglln67.googlevideo.com^
 |r43sn-h557snez.googlevideo.com^
 |r42.sn-vgqs7nee.googlevideo.com^
-|r13sn-ni5f-t8gl.googlevideo.com^
 |r16--sn-hp57knse.googlevideo.com^
 |r25---sn-5hnedne7.googlevideo.com^
 |r9.sn-q4fl6ns6.googlevideo.com^
@@ -51283,12 +51345,12 @@ ecom*-normal-lq.ecombdapi.com
 |r15---sn-4g5e6nld.googlevideo.com^
 |r31--sn-p5qlsnlk.googlevideo.com^
 |r41---sn-a5m7ln7r.googlevideo.com^
+|r15---sn--cgjxoug5a-btol.googlevideo.com^
 |r46sn-a5mekn7d.googlevideo.com^
 |r10.sn-aigllnee.googlevideo.com^
 |r3---sn--gqn-vu2l.googlevideo.com^
 |r10sn-4g57kn6e.googlevideo.com^
 |r18.sn-a5m7znes.googlevideo.com^
-|r1---sn-kxxhdxhk.googlevideo.com^
 |r4---sn--42u-i5oy.googlevideo.com^
 |r1---sn-2o5bongh.googlevideo.com^
 |r3---sn-5hne6n7z.googlevideo.com^
@@ -51429,7 +51491,6 @@ ecom*-normal-lq.ecombdapi.com
 |r9--sn-5hne6nek.googlevideo.com^
 |r1---sn-kur8pdjr.googlevideo.com^
 |r4.sn-5hnedn7e.googlevideo.com^
-|r48---sn-aigllnes.googlevideo.com^
 |r18--sn-ab5l6n7k.googlevideo.com^
 |r27---sn-hp57knsk.googlevideo.com^
 |r49.sn-4g57knes.googlevideo.com^
@@ -51452,7 +51513,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-8d4u33ar.googlevideo.com^
 |r26---sn-4g5ednee.googlevideo.com^
 |r19---sn-a5mlrn7s.googlevideo.com^
-|r32sn-aigllnsr.googlevideo.com^
 |r155---sn-4g5e6nl6.googlevideo.com^
 |r31---sn-25ge7n7k.googlevideo.com^
 |r15---sn-q4flrne6.googlevideo.com^
@@ -51536,6 +51596,7 @@ ecom*-normal-lq.ecombdapi.com
 |r42sn-vgqs7n7d.googlevideo.com^
 |r29sn-a5mekney.googlevideo.com^
 |r1---sn-6wu3nw4m.googlevideo.com^
+|r2.sn-4g57kndk.googlevideo.com^
 |r33.sn-4g57knkk.googlevideo.com^
 |r8---sn-n02xgoxufvg3-2gbz.googlevideo.com^
 |r30---sn-4g57knes.googlevideo.com^
@@ -51563,7 +51624,6 @@ ecom*-normal-lq.ecombdapi.com
 |r17---sn-ab5l6nzd.googlevideo.com^
 |r47---sn-5hnedney.googlevideo.com^
 |r1sn-vgqsen7l.googlevideo.com^
-|r28---sn-aigllnzz.googlevideo.com^
 |r31sn-oguesn7l.googlevideo.com^
 |r40--sn-q4fl6ne7.googlevideo.com^
 |r3sn-4g57kn6d.googlevideo.com^
@@ -51591,7 +51651,6 @@ ecom*-normal-lq.ecombdapi.com
 |r36--sn-5hnednlr.googlevideo.com^
 |r13---sn--n8v7kn7z.googlevideo.com^
 |r20.sn-q4flrnld.googlevideo.com^
-|r6---sn--ab5l6nzk.googlevideo.com^
 |r2---sn--2gb7sn7z.googlevideo.com^
 |r19.sn-p5qs7nek.googlevideo.com^
 |r13---sn-5hne6nlk.googlevideo.com^
@@ -51667,6 +51726,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-jorinkeq.googlevideo.com^
 |r20sn-p5qs7nel.googlevideo.com^
 |r35sn-4g57knkl.googlevideo.com^
+|r15---sn-4g5e6ns7.googlevideo.com^
 |r18.sn-q4fl6nsy.googlevideo.com^
 |r1---sn-75txtqk5.googlevideo.com^
 |r1---sn-kmu7g2k1.googlevideo.com^
@@ -51880,7 +51940,6 @@ ecom*-normal-lq.ecombdapi.com
 |r12.sn-a5meknzr.googlevideo.com^
 |r11---sn-a5mlrn7r.googlevideo.com^
 |r1---sn-mn7z5sb7.googlevideo.com^
-|r20---sn-ab5szn7r.googlevideo.com^
 |r3---sn-vgqsenlz.googlevideo.com^
 |r11.sn-a5mekney.googlevideo.com^
 |r18---sn--4g5ednz7.googlevideo.com^
@@ -52007,6 +52066,7 @@ ecom*-normal-lq.ecombdapi.com
 |r12--sn-4g57knkr.googlevideo.com^
 |r1---sn-j8abe4re.googlevideo.com^
 |r1---sn-c6wulqvm.googlevideo.com^
+|r10---sn--5ualdn7y.googlevideo.com^
 |r1---sn-kgskpx2i.googlevideo.com^
 |r24--sn-gvnuxaxjvh-p3ue.googlevideo.com^
 |r9---sn-4g5e6ne6.googlevideo.com^
@@ -52234,7 +52294,6 @@ ecom*-normal-lq.ecombdapi.com
 |r17---sn-aigl6nek.googlevideo.com^
 |r8---sn-4g5e6ney.googlevideo.com^
 |r19sn-jvm-a5ne.googlevideo.com^
-|r41sn-4g57knky.googlevideo.com^
 |r16---sn-a5m7znel.googlevideo.com^
 |r41--sn-4g5e6nl6.googlevideo.com^
 |r20.sn-5hne6nld.googlevideo.com^
@@ -52655,7 +52714,6 @@ ecom*-normal-lq.ecombdapi.com
 |r20---sn--gqn-vhgs.googlevideo.com^
 |r5---sn--n4v7sn7y.googlevideo.com^
 |r46sn-4g57kn6l.googlevideo.com^
-|r10.sn-uhvcpax0n5-a5ne.googlevideo.com^
 |r29.sn-ab5l6nlr.googlevideo.com^
 |r16---sn-vgqsknse.googlevideo.com^
 |r12---sn--5hnedn7z.googlevideo.com^
@@ -52852,7 +52910,6 @@ ecom*-normal-lq.ecombdapi.com
 |rr4.sn-a5mlrn7l.googlevideo.com^
 |r10.sn-aiglln7l.googlevideo.com^
 |r17sn-4g57kn6l.googlevideo.com^
-|r2--sn-4g5edne6.googlevideo.com^
 |r4---sn-25ge7nsk.googlevideo.com^
 |r1---sn-1petc12s.googlevideo.com^
 |r11---sn--a5meknsd.googlevideo.com^
@@ -53233,7 +53290,6 @@ ecom*-normal-lq.ecombdapi.com
 |r7.sn-hpa7znel.googlevideo.com^
 |r11.sn-jvhj5nu-nh4l.googlevideo.com^
 |r123---sn-4g5e6nes.googlevideo.com^
-|r30---sn-a5m7znez.googlevideo.com^
 |r10---sn-4g57kn6d.googlevideo.com^
 |r36---sn-aiglln7d.googlevideo.com^
 |r17.sn-aigllnzl.googlevideo.com^
@@ -53287,7 +53343,6 @@ ecom*-normal-lq.ecombdapi.com
 |r46sn-cvh7kn7l.googlevideo.com^
 |r37--sn-q4fl6n7d.googlevideo.com^
 |r8---sn--4gxx-25ge7.googlevideo.com^
-|r7---sn--bvvbax-hn2d.googlevideo.com^
 |r13.sn-4g57kn7d.googlevideo.com^
 |r28sn-gvnuxaxjvh-p3ue.googlevideo.com^
 |r18.sn-cvh76n7l.googlevideo.com^
@@ -53371,7 +53426,6 @@ ecom*-normal-lq.ecombdapi.com
 |r42--sn-vgqsen7d.googlevideo.com^
 |r12---sn--un57sn76.googlevideo.com^
 |r43sn-vgqs7n7r.googlevideo.com^
-|r49--sn-a5m7znel.googlevideo.com^
 |r10.sn-p5qlsnlk.googlevideo.com^
 |r19---sn--pni5ooxunva-g5we.googlevideo.com^
 |r118---sn-4g57knkr.googlevideo.com^
@@ -53856,6 +53910,7 @@ ecom*-normal-lq.ecombdapi.com
 |r423---sn-4g5e6nes.googlevideo.com^
 |r18---sn--q4f7sn7d.googlevideo.com^
 |r2---sn-c328pzap.googlevideo.com^
+|r7---sn--a5mekn7k.googlevideo.com^
 |r16---sn--q4f7sn7z.googlevideo.com^
 |r17---sn--f5f7lnel.googlevideo.com^
 |r1---sn-xxqa22wq.googlevideo.com^
@@ -54143,6 +54198,7 @@ ecom*-normal-lq.ecombdapi.com
 |r9.sn-a5mlrn7r.googlevideo.com^
 |r1---sn-3dzgesbf.googlevideo.com^
 |r31sn-a5meknl6.googlevideo.com^
+|r48sn-p5qlsnee.googlevideo.com^
 |r4--sn-a5m7lnee.googlevideo.com^
 |r33--sn-ab5l6nzs.googlevideo.com^
 |rr4---sn-a5mlrn7r.googlevideo.com^
@@ -54244,6 +54300,7 @@ ecom*-normal-lq.ecombdapi.com
 |r26.sn-5hne6nl6.googlevideo.com^
 |r1---sn-mnn52tpd.googlevideo.com^
 |r26.sn-ab5l6nll.googlevideo.com^
+|r1---sn-46cxk8dd.googlevideo.com^
 |r4---sn--gphvo-ua8e.googlevideo.com^
 |r1---sn-piwamac3.googlevideo.com^
 |r2---sn--hpa7znsl.googlevideo.com^
@@ -54531,11 +54588,11 @@ ecom*-normal-lq.ecombdapi.com
 |r28sn-ab5l6nzy.googlevideo.com^
 |r23.sn-vgqs7n7r.googlevideo.com^
 |r44--sn-ab5l6n7k.googlevideo.com^
-|r1---sn-1snym56u.googlevideo.com^
 |r1---sn-qcfimz7o.googlevideo.com^
 |r1---sn-vao7tamw.googlevideo.com^
 |r5---sn-5uaezndl.googlevideo.com^
 |r15---sn--i3belne6.googlevideo.com^
+|r36---sn-a5m7znee.googlevideo.com^
 |r13sn-5hne6nlr.googlevideo.com^
 |r14---sn--fapo3ox25a-3uhe.googlevideo.com^
 |r1---sn-rnkjh55f.googlevideo.com^
@@ -54656,7 +54713,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn--ibj-i3bs.googlevideo.com^
 |r13---sn-vgqskn76.googlevideo.com^
 |r4sn-ab5l6n7k.googlevideo.com^
-|r33sn-aigllnzy.googlevideo.com^
 |r10sn-vgqs7nes.googlevideo.com^
 |r29--sn-aigllnzy.googlevideo.com^
 |r34sn-p5qlsnll.googlevideo.com^
@@ -54701,7 +54757,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-kndxlzts.googlevideo.com^
 |r10.sn-q4flrnez.googlevideo.com^
 |r229---sn-4g57knsy.googlevideo.com^
-|r6---sn--nu5gb5ux-q5je.googlevideo.com^
 |r10---sn--5hne6nsr.googlevideo.com^
 |r1---sn-svn1cizb.googlevideo.com^
 |r6--sn-gvnuxaxjvh-p3ue.googlevideo.com^
@@ -54766,7 +54821,6 @@ ecom*-normal-lq.ecombdapi.com
 |r6---sn-8xgp1vo-xfge7.googlevideo.com^
 |r32--sn-4g57kn6z.googlevideo.com^
 |r46--sn-25g7snee.googlevideo.com^
-|r9---sn-4g57knld.googlevideo.com^
 |r23---sn-p5qlsnly.googlevideo.com^
 |r23.sn-p5qlsnsz.googlevideo.com^
 |r1---sn-feirx3sh.googlevideo.com^
@@ -54810,7 +54864,6 @@ ecom*-normal-lq.ecombdapi.com
 |r49---sn-5hne6nez.googlevideo.com^
 |r1---sn-vxiiygy1.googlevideo.com^
 |r5---sn-q4fl6nsd.googlevideo.com^
-|r7---sn--5hnekn76.googlevideo.com^
 |r7sn-p5qlsnsk.googlevideo.com^
 |r17---sn--h5q7dnes.googlevideo.com^
 |r1---sn-j5gqdf5i.googlevideo.com^
@@ -54878,6 +54931,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-4arg5ady.googlevideo.com^
 |r21sn-vgqs7n7k.googlevideo.com^
 |r8--sn-oguesn7l.googlevideo.com^
+|r36.sn-aiglln7k.googlevideo.com^
 |r1---sn-r5euvchr.googlevideo.com^
 |r6.sn-hpa7zned.googlevideo.com^
 |r14sn-5hne6nld.googlevideo.com^
@@ -54894,6 +54948,7 @@ ecom*-normal-lq.ecombdapi.com
 |r25sn-oxmua5txg-8pxl.googlevideo.com^
 |r16---sn--npoe7n7r.googlevideo.com^
 |r44---sn-p5qlsnsl.googlevideo.com^
+|r25sn-gvnuxaxjvh-p3ue.googlevideo.com^
 |r31sn-hp57knls.googlevideo.com^
 |r2---sn--vgqskn7z.googlevideo.com^
 |r10.sn-5hne6nld.googlevideo.com^
@@ -54933,6 +54988,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-4g5ednls.googlevideo.com^
 |r1.sn-vgqsrnez.googlevideo.com^
 |r44.sn-vgqsenes.googlevideo.com^
+|r22---sn-ab5l6nlr.googlevideo.com^
 |r27sn-5abxgpxuxaxjvh-55xe.googlevideo.com^
 |r1---sn-qf1xh7fm.googlevideo.com^
 |r33--sn-4g5e6n7d.googlevideo.com^
@@ -55090,6 +55146,7 @@ ecom*-normal-lq.ecombdapi.com
 |r8---sn--jucj-0qpz.googlevideo.com^
 |r7.sn-25glenes.googlevideo.com^
 |r14---sn-vgqskn7l.googlevideo.com^
+|r21sn-vgqs7ned.googlevideo.com^
 |r34sn-n4v7sn7l.googlevideo.com^
 |r8---sn--hvcpjvh-0aol.googlevideo.com^
 |r7---sn--2gb7sn7z.googlevideo.com^
@@ -55254,7 +55311,6 @@ ecom*-normal-lq.ecombdapi.com
 |r6--sn-vgqs7nel.googlevideo.com^
 |r19sn-4g57knkl.googlevideo.com^
 |r42--sn-4g5e6n7r.googlevideo.com^
-|r8---sn-4g57knls.googlevideo.com^
 |r9.sn-vgqs7n7d.googlevideo.com^
 |r20sn-vgqsknee.googlevideo.com^
 |r1---sn-hl2doyvl.googlevideo.com^
@@ -55279,7 +55335,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1--sn-n4v7kn7e.googlevideo.com^
 |r1---sn-iyxb4zi1.googlevideo.com^
 |r6.sn-1gi7zn7l.googlevideo.com^
-|r9---sn--a5mlrn7z.googlevideo.com^
 |r23sn-4g57kn6y.googlevideo.com^
 |r17--sn-ab5l6nes.googlevideo.com^
 |r2---sn-6j52rjpe.googlevideo.com^
@@ -55340,6 +55395,7 @@ ecom*-normal-lq.ecombdapi.com
 |r15.sn-h557snes.googlevideo.com^
 |r1---sn-o1yt12lw.googlevideo.com^
 |r1---sn-bzzbidqh.googlevideo.com^
+|r1---sn-sjinsz71.googlevideo.com^
 |r20--sn-4g57knk6.googlevideo.com^
 |r2sn-jv2xauxaxjvh-jfce.googlevideo.com^
 |r13---sn--vojacq-q5je.googlevideo.com^
@@ -55568,7 +55624,6 @@ ecom*-normal-lq.ecombdapi.com
 |r42.sn-ab5l6n7d.googlevideo.com^
 |r30.sn-qxa7en7l.googlevideo.com^
 |r30sn-4g57kn7d.googlevideo.com^
-|r11---sn-ab5szn7e.googlevideo.com^
 |r13.sn-a5mlrn7r.googlevideo.com^
 |r16--sn-a5m7lnez.googlevideo.com^
 |r20--sn-vgqseney.googlevideo.com^
@@ -55643,7 +55698,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-1ac6qra8.googlevideo.com^
 |r14---sn-n4v7sn7l.googlevideo.com^
 |r21.sn-1gi7zn7e.googlevideo.com^
-|r5.sn-ab5l6n7e.googlevideo.com^
 |r16.sn-q4flrn7s.googlevideo.com^
 |r48--sn-5hne6nlr.googlevideo.com^
 |r18--sn-h557sn7r.googlevideo.com^
@@ -55770,7 +55824,6 @@ ecom*-normal-lq.ecombdapi.com
 |r16---sn-cvh7kn7z.googlevideo.com^
 |r87---sn-4g57knld.googlevideo.com^
 |r40.sn-5hnednld.googlevideo.com^
-|r13---sn-x1x7dn7s.googlevideo.com^
 |r1.sn-uhvcpax0n5-nh4l.a1.googlevideo^
 |r283---sn-4g57knlz.googlevideo.com^
 |r1---sn-5jn3n4dy.googlevideo.com^
@@ -55781,6 +55834,7 @@ ecom*-normal-lq.ecombdapi.com
 |r47sn-vgqs7nez.googlevideo.com^
 |r43sn-vgqs7nek.googlevideo.com^
 |r32---sn-oguesn7d.googlevideo.com^
+|r4---sn--axq7sn76.googlevideo.com^
 |r16---sn--3c27sn7s.googlevideo.com^
 |r8sn-a5m7ln7d.googlevideo.com^
 |r1---sn-u7iwgnbk.googlevideo.com^
@@ -55874,6 +55928,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn--bvvbax-2ime.googlevideo.com^
 |r1---sn-ftujad71.googlevideo.com^
 |r2---sn-a5m7znel.googlevideo.com^
+|r34.sn-5hnedn7d.googlevideo.com^
 |r10---sn--uvu-c33k.googlevideo.com^
 |r15--sn-4g57knlz.googlevideo.com^
 |r18---sn-aigzrne7.googlevideo.com^
@@ -56031,7 +56086,6 @@ ecom*-normal-lq.ecombdapi.com
 |r31sn-n0qqxoapo3-hnte.googlevideo.com^
 |r9---sn-p5qlsn6l.googlevideo.com^
 |r44sn-a5m7zne6.googlevideo.com^
-|r1---sn-ajzhavb6.googlevideo.com^
 |r31---sn-a5mekned.googlevideo.com^
 |r12---sn--vgpvouxa-3w5e.googlevideo.com^
 |r2---sn-q4jzbqrm.googlevideo.com^
@@ -56434,6 +56488,7 @@ ecom*-normal-lq.ecombdapi.com
 |r32sn-8xgp1vo-xfgee.googlevideo.com^
 |r9---sn-5hnedn7e.googlevideo.com^
 |r1---sn-1pk51qw6.googlevideo.com^
+|r1---sn-afnepjf1.googlevideo.com^
 |r2---sn-5hne6n7d.googlevideo.com^
 |r13---sn--gwpa-5bge.googlevideo.com^
 |r42--sn-a5m7zned.googlevideo.com^
@@ -56472,7 +56527,6 @@ ecom*-normal-lq.ecombdapi.com
 |r9---sn-h5q7dn7k.googlevideo.com^
 |r31.sn-h557snez.googlevideo.com^
 |r1---sn-6movfbic.googlevideo.com^
-|r4---sn--25ge7nld.googlevideo.com^
 |r17--sn-p5qs7n7d.googlevideo.com^
 |r4---sn-4g5e6nsk.googlevideo.com^
 |r17---sn-5hne6ns6.googlevideo.com^
@@ -56681,6 +56735,7 @@ ecom*-normal-lq.ecombdapi.com
 |r9.sn-aigllnek.googlevideo.com^
 |r6sn-cvh7kn7k.googlevideo.com^
 |r10---sn-p5qs7nee.googlevideo.com^
+|r1---sn-5ijwnjfx.googlevideo.com^
 |r28--sn-5hne6ne6.googlevideo.com^
 |r13---sn--q0-qmcs.googlevideo.com^
 |r14---sn--vgqsknez.googlevideo.com^
@@ -56871,7 +56926,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-dwrlaazk.googlevideo.com^
 |r36sn-5abxgpxuxaxjvh-55xe.googlevideo.com^
 |r9---sn--8pgbpohxqp5-h5oz.googlevideo.com^
-|r16--sn-a5mekner.googlevideo.com^
 |r18---sn-aigzrner7.googlevideo.com^
 |r21sn-4g57kndy.googlevideo.com^
 |r23--sn-5hnedn7l.googlevideo.com^
@@ -57445,10 +57499,10 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-12lqdzcz.googlevideo.com^
 |r36.sn-ab5l6ner.googlevideo.com^
 |r13.sn-4g57knzk.googlevideo.com^
+|r20.sn-25ge7nsl.googlevideo.com^
 |r47--sn-oguesn7d.googlevideo.com^
 |r1---sn-y85it6w4.googlevideo.com^
 |r19---sn-ab5szn7k.googlevideo.com^
-|r15.sn-4g57kn6k.googlevideo.com^
 |r1---sn--30a7yn7r.googlevideo.com^
 |r16---sn--qxa7sn7s.googlevideo.com^
 |r5---sn-q4flrney.googlevideo.com^
@@ -57602,6 +57656,7 @@ ecom*-normal-lq.ecombdapi.com
 |r10.sn-hp57knzl.googlevideo.com^
 |r34sn-h557snlz.googlevideo.com^
 |r18--sn-ab5l6nez.googlevideo.com^
+|r1.sn-hp57yn7r.googlevideo.com^
 |r1---sn--h5q7dnes.googlevideo.com^
 |r27sn-cvh76n7e.googlevideo.com^
 |r2---sn-5hnedn7e.googlevideo.com^
@@ -57762,6 +57817,7 @@ ecom*-normal-lq.ecombdapi.com
 |r40sn-4g57kn6y.googlevideo.com^
 |r19---sn--q4fl6n7e.googlevideo.com^
 |r1---sn-i52wuv7f.googlevideo.com^
+|r6.sn-ni5f-t8gl.googlevideo.com^
 |r1sn-h557snes.googlevideo.com^
 |r11sn-ab5l6nzy.googlevideo.com^
 |r6---sn-vgqsenez.googlevideo.com^
@@ -57826,6 +57882,7 @@ ecom*-normal-lq.ecombdapi.com
 |r16.sn-5hne6nz6.googlevideo.com^
 |r1---sn-5au8hobh.googlevideo.com^
 |r29--sn-4g5ednee.googlevideo.com^
+|r1---sn-q1qzt1o1.googlevideo.com^
 |r3--sn-4g5e6nle.googlevideo.com^
 |r23---sn-5hnednez.googlevideo.com^
 |r40.sn-4g57knl7.googlevideo.com^
@@ -57978,7 +58035,6 @@ ecom*-normal-lq.ecombdapi.com
 |r5---sn--ab5l6nzl.googlevideo.com^
 |r13.sn-5hnednld.googlevideo.com^
 |r50.sn-aigllnlz.googlevideo.com^
-|r2---sn--p5qs7nel.googlevideo.com^
 |r4.sn-5uaezny6.googlevideo.com^
 |r3---sn--5uh5o-f5fz.googlevideo.com^
 |r4---sn--aigl6nl7.googlevideo.com^
@@ -58073,7 +58129,6 @@ ecom*-normal-lq.ecombdapi.com
 |r5.sn-oguesn7l.googlevideo.com^
 |r2--sn-oguesn7d.googlevideo.com^
 |r16---sn-a5mekn6z.googlevideo.com^
-|r9sn-ab5l6n7k.googlevideo.com^
 |r14.sn-q4fl6n76.googlevideo.com^
 |r41.sn-vgqs7ned.googlevideo.com^
 |r46sn-hp57kns7.googlevideo.com^
@@ -58177,10 +58232,10 @@ ecom*-normal-lq.ecombdapi.com
 |r11.sn-ab5l6n7l.googlevideo.com^
 |r1.sn-npoe7n76.googlevideo.com^
 |r4---sn-4g5e6nz7.googlevideo.com^
-|r1---sn-vdx1nojv.googlevideo.com^
 |r16.sn-aigllney.googlevideo.com^
 |r2---sn--n8v7kn7s.googlevideo.com^
 |r2---sn-vgqsen7d.googlevideo.com^
+|r24---sn-4g57knls.googlevideo.com^
 |r5---sn--gvhuxax-cc0y.googlevideo.com^
 |r10.sn-a5meknzr.googlevideo.com^
 |r49sn-nv47lnel.googlevideo.com^
@@ -58463,7 +58518,6 @@ ecom*-normal-lq.ecombdapi.com
 |r23--sn-vgqsen7k.googlevideo.com^
 |r1---sn--qxoedn7e.googlevideo.com^
 |r2--sn-q4fl6ne6.googlevideo.com^
-|r38.sn-qxa7en7e.googlevideo.com^
 |r39sn-a5m7znes.googlevideo.com^
 |r6--sn-a5mlrn7k.googlevideo.com^
 |r2---sn-qswdg1hm.googlevideo.com^
@@ -58724,6 +58778,7 @@ ecom*-normal-lq.ecombdapi.com
 |r19.sn-ab5l6n6e.googlevideo.com^
 |r34---sn-4g57kn6k.googlevideo.com^
 |r2---sn-6ghk4ece.googlevideo.com^
+|r10---sn-5hne6nzs.googlevideo.com^
 |r39---sn-4g57kndr.googlevideo.com^
 |r11.sn-hp57kn6r.googlevideo.com^
 |r33--sn-vgqsknee.googlevideo.com^
@@ -58805,6 +58860,7 @@ ecom*-normal-lq.ecombdapi.com
 |r3---sn--nv47lnls.googlevideo.com^
 |r8.sn-nx57ynee.googlevideo.com^
 |r12---sn-aigl6n76.googlevideo.com^
+|r18sn-a5m7znel.googlevideo.com^
 |r24---sn-aigllnzd.googlevideo.com^
 |r11---sn--ogul7n7k.googlevideo.com^
 |r1---sn-3mzhsnlc.googlevideo.com^
@@ -58900,6 +58956,7 @@ ecom*-normal-lq.ecombdapi.com
 |r36---sn-4g57knzl.googlevideo.com^
 |r35--sn-4g57kn6y.googlevideo.com^
 |r9---sn-ab5szn7s.googlevideo.com^
+|r9---sn-25glen7r.googlevideo.com^
 |r20---sn-hp57knlr.googlevideo.com^
 |r45sn-q4f7snez.googlevideo.com^
 |r44--sn-aiglln67.googlevideo.com^
@@ -58917,6 +58974,7 @@ ecom*-normal-lq.ecombdapi.com
 |r12.sn-a5mlrnez.googlevideo.com^
 |r18--sn-hp57knly.googlevideo.com^
 |r16---sn--4g5ednsz.googlevideo.com^
+|r47sn-hpa7zned.googlevideo.com^
 |r8---sn--3c27sn7s.googlevideo.com^
 |r3--sn-n4v7sne7.googlevideo.com^
 |r1---sn--q4fl6nlr.googlevideo.com^
@@ -58935,6 +58993,7 @@ ecom*-normal-lq.ecombdapi.com
 |r15---sn--4g5e6nsr.googlevideo.com^
 |r13---sn--8vq54voxpo-5hql.googlevideo.com^
 |r48---sn-ab5l6n7d.googlevideo.com^
+|r35---sn-q4f7snls.googlevideo.com^
 |r46---sn-4g57knek.googlevideo.com^
 |r16---sn--n4g-jqb6.googlevideo.com^
 |r20---sn-hp57ynel.googlevideo.com^
@@ -59010,7 +59069,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-g2zf77rc.googlevideo.com^
 |r42--sn-5hne6n7d.googlevideo.com^
 |r1---sn-ct5ajc84.googlevideo.com^
-|r8.sn-25ge7nzs.googlevideo.com^
 |r0sn-j5caxoxu-hh0l.googlevideo.com^
 |r25--sn-5hnednlk.googlevideo.com^
 |r16---sn--hp57knlr.googlevideo.com^
@@ -59052,6 +59110,7 @@ ecom*-normal-lq.ecombdapi.com
 |r12---sn-vgqsrnez.googlevideo.com^
 |r29sn-h557sne6.googlevideo.com^
 |r0sn-vgqs7nez.googlevideo.com^
+|r6---sn--p5qs7n7z.googlevideo.com^
 |r32.sn-cvh76n7l.googlevideo.com^
 |r2---sn-p5qs7nes.googlevideo.com^
 |r1---sn-1ep4tkc8.googlevideo.com^
@@ -59113,7 +59172,6 @@ ecom*-normal-lq.ecombdapi.com
 |r37--sn-ab5l6ne6.googlevideo.com^
 |r18.sn-4g57knzy.googlevideo.com^
 |r20---sn-5hne6nsy.googlevideo.com^
-|r11.sn-25ge7n7r.googlevideo.com^
 |r26--sn-4g57kndk.googlevideo.com^
 |r11---sn--jtcxg-aixe.googlevideo.com^
 |r12--sn-aigllnzl.googlevideo.com^
@@ -59131,7 +59189,6 @@ ecom*-normal-lq.ecombdapi.com
 |r22---sn-4g57knk6.googlevideo.com^
 |r44--sn-a5mlrn7r.googlevideo.com^
 |r31.sn-oguesn7l.googlevideo.com^
-|r38--sn-hpa7znel.googlevideo.com^
 |r1---sn-p4knjuwi.googlevideo.com^
 |r4---sn--buq-njal.googlevideo.com^
 |r21.sn-a5m7znee.googlevideo.com^
@@ -59159,6 +59216,7 @@ ecom*-normal-lq.ecombdapi.com
 |r47--sn-25ge7nes.googlevideo.com^
 |r12---sn--ab5sznle.googlevideo.com^
 |r1---sn-2unt676q.googlevideo.com^
+|r29sn-a5m7lnee.googlevideo.com^
 |r9---sn--qxo7rn7s.googlevideo.com^
 |r310---sn-4g57knde.googlevideo.com^
 |r7.sn-a5mlrnes.googlevideo.com^
@@ -59203,6 +59261,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-znho7oob.googlevideo.com^
 |r14---sn--a5ms7n7l.googlevideo.com^
 |r19--sn-4g57kndy.googlevideo.com^
+|r3.sn-vgqsknel.googlevideo.com^
 |r346---sn-4g5edn7e.googlevideo.com^
 |r37---sn-aigl6ned.googlevideo.com^
 |r15sn-25ge7n7l.googlevideo.com^
@@ -59290,12 +59349,11 @@ ecom*-normal-lq.ecombdapi.com
 |r13---sn-ab5l6ndy.googlevideo.com^
 |r18---sn-ab5szn7z.googlevideo.com^
 |r36--sn-vgqs7n7l.googlevideo.com^
-|r1---sn-irvn5cv6.googlevideo.com^
+|r3---sn--ouxaob-5c8e.googlevideo.com^
 |r1.sn-5uaezny6.googlevideo.com^
 |r32sn-5hne6n7l.googlevideo.com^
 |r11.sn-a5m7lnlz.googlevideo.com^
 |r32--sn-4g5e6n7k.googlevideo.com^
-|r47--sn-ab5l6n7r.googlevideo.com^
 |r1---sn-uu1dwz2i.googlevideo.com^
 |r1sn-q4f7sn7r.googlevideo.com^
 |r1sn-vgqsenee.googlevideo.com^
@@ -59364,8 +59422,10 @@ ecom*-normal-lq.ecombdapi.com
 |r11.sn-o097znsz.googlevideo.com^
 |r0---sn-4g57knzs.googlevideo.com^
 |r2---sn--aigzrn7z.googlevideo.com^
+|r21sn-n4v7sn7l.googlevideo.com^
 |r465---sn-4g57knr7.googlevideo.com^
 |r1---sn-fwoal3lh.googlevideo.com^
+|r39---sn-4g57kn6e.googlevideo.com^
 |r6.sn-h5q7dn7k.googlevideo.com^
 |r23--sn-cvh76n7k.googlevideo.com^
 |r18---sn-4g5ednsd.googlevideo.com^
@@ -59479,7 +59539,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2sn-5hne6n7k.googlevideo.com^
 |r20--sn-5hne6n7k.googlevideo.com^
 |r44--sn-p5qs7n7d.googlevideo.com^
-|r1---sn-33bk7kfl.googlevideo.com^
+|r31sn-a5m7zne6.googlevideo.com^
 |r12---sn-ab5l6nsy.googlevideo.com^
 |r1---sn-a5meknll.googlevideo.com^
 |r174---sn-4g57kney.googlevideo.com^
@@ -59597,13 +59657,14 @@ ecom*-normal-lq.ecombdapi.com
 |r30---sn-cvh76n7e.googlevideo.com^
 |r41--sn-4g57knks.googlevideo.com^
 |r3---sn--8qj-i5ozz.googlevideo.com^
+|r13--sn-vgqs7nlk.googlevideo.com^
 |r40---sn-ab5l6nee.googlevideo.com^
 |r16---sn--n8v7kn7r.googlevideo.com^
 |r37.sn-aigllney.googlevideo.com^
 |r423---sn-4g57knls.googlevideo.com^
-|r38sn-q4f7sn7r.googlevideo.com^
 |r46--sn-aiglln7k.googlevideo.com^
 |r20---sn-a5m7ln7z.googlevideo.com^
+|r3---sn--vov-h5qe.googlevideo.com^
 |r34--sn-h557snez.googlevideo.com^
 |r6---sn-ab5l6nlr.googlevideo.com^
 |r23sn-vgqseney.googlevideo.com^
@@ -59696,6 +59757,7 @@ ecom*-normal-lq.ecombdapi.com
 |r15--sn-aigllnel.googlevideo.com^
 |r1---sn-lxhkvcde.googlevideo.com^
 |r4.sn-p5qs7ned.googlevideo.com^
+|r43--sn-4g5e6nl6.googlevideo.com^
 |r49sn-5hne6nlr.googlevideo.com^
 |r22sn-4g57knk6.googlevideo.com^
 |r22sn-uxap5nvoxg5-ixhl.googlevideo.com^
@@ -59801,7 +59863,6 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-kexaelm8.googlevideo.com^
 |r23--sn-4g57kn7l.googlevideo.com^
 |r47sn-qxa7en7l.googlevideo.com^
-|r24---sn-vgqs7ne6.googlevideo.com^
 |r1---sn-gadhb3eh.googlevideo.com^
 |r1---sn-f83bf17b.googlevideo.com^
 |r16.sn-q4fl6ns6.googlevideo.com^
@@ -59809,6 +59870,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-b2xhpbxy.googlevideo.com^
 |r49--sn-j5caxoxu-hh0l.googlevideo.com^
 |r9---sn--vgqs7nls.googlevideo.com^
+|r20---sn--5uaeznyz.googlevideo.com^
 |r42sn-5hne6nls.googlevideo.com^
 |r1---sn-pnyxfo28.googlevideo.com^
 |r29--sn-ab5l6nee.googlevideo.com^
@@ -59839,6 +59901,7 @@ ecom*-normal-lq.ecombdapi.com
 |r0sn-vgqsenes.googlevideo.com^
 |r1---sn--8pgbpohxqp5-h5oz.googlevideo.com^
 |r32.sn-1gi7zne7.googlevideo.com^
+|r14.sn-nx5s7n76.googlevideo.com^
 |r19.sn-5hne6nls.googlevideo.com^
 |r10.sn-q4fl6nlr.googlevideo.com^
 |r5.sn-5hne6nlk.googlevideo.com^
@@ -59931,7 +59994,6 @@ ecom*-normal-lq.ecombdapi.com
 |r18---sn--4g5e6ns7.googlevideo.com^
 |r18---sn-aigllnzz.googlevideo.com^
 |r7--sn-p5qlsnsy.googlevideo.com^
-|r36.sn-a5m7znee.googlevideo.com^
 |r11.sn-5hne6n7s.googlevideo.com^
 |r16--sn-hpa7znek.googlevideo.com^
 |r13---sn--cvh76n7k.googlevideo.com^
@@ -60038,6 +60100,7 @@ ecom*-normal-lq.ecombdapi.com
 |r7---sn--vgqsener.googlevideo.com^
 |r5--sn-p5qlsnll.googlevideo.com^
 |r1---sn-8e2q5dyx.googlevideo.com^
+|r15---sn-hp57ynl6.googlevideo.com^
 |r1---sn-7sqxumz8.googlevideo.com^
 |r16---sn-n4v7sn7s.googlevideo.com^
 |r37sn-x5guiuxaxjvh-q5jl.googlevideo.com^
@@ -60201,7 +60264,6 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn--5hne6nsr.googlevideo.com^
 |r16---sn--xguxaxjvh-bvwe.googlevideo.com^
 |r9---sn-o097znss.googlevideo.com^
-|r1--sn-vgqsene6.googlevideo.com^
 |r15---sn-ab5szn7r.googlevideo.com^
 |r9---sn--x2pm-f5fs.googlevideo.com^
 |rr2.sn-a5mekn6d.googlevideo.com^
@@ -60256,7 +60318,6 @@ ecom*-normal-lq.ecombdapi.com
 |r40--sn-a5meknlz.googlevideo.com^
 |r9---sn--30a7yn7r.googlevideo.com^
 |r1--sn-p5qlsnsr.googlevideo.com^
-|r15sn-npoe7n7r.googlevideo.com^
 |r12--sn-4g5e6nez.googlevideo.com^
 |r12.sn-5ualdn7y.googlevideo.com^
 |r59---sn-4g57knsy.googlevideo.com^
@@ -60336,6 +60397,7 @@ ecom*-normal-lq.ecombdapi.com
 |r0.sn-25ge7n7k.googlevideo.com^
 |r1---sn-liv6ucgx.googlevideo.com^
 |r10--sn-5hne6nld.googlevideo.com^
+|r3---sn-a5mlrn7y.googlevideo.com^
 |r36--sn-cvh76n7e.googlevideo.com^
 |r14.sn-o097znlr.googlevideo.com^
 |r5---sn--a5mlrn7r.googlevideo.com^
@@ -60378,6 +60440,7 @@ ecom*-normal-lq.ecombdapi.com
 |r16.sn-ab5l6nll.googlevideo.com^
 |r20---sn--aigl6n7z.googlevideo.com^
 |r4sn-8xgp1vo-cvne.googlevideo.com^
+|r1---sn-4qx253n6.googlevideo.com^
 |r32sn-aiglln6e.googlevideo.com^
 |r27sn-25ge7n7l.googlevideo.com^
 |r17---sn--uxax3vh50nugp5-8px6.googlevideo.com^
@@ -60459,6 +60522,7 @@ ecom*-normal-lq.ecombdapi.com
 |r5---sn--ja5gvjv-cvbs.googlevideo.com^
 |r35--sn-4g57knkk.googlevideo.com^
 |r1---sn-akwlyk3q.googlevideo.com^
+|r17---sn--n5pbvoj5caxu8-nboz.google^
 |r456---sn-4g5e6nls.googlevideo.com^
 |r0sn-4g57kn6e.googlevideo.com^
 |r8.sn-vgqs7nl7.googlevideo.com^
@@ -60526,7 +60590,6 @@ ecom*-normal-lq.ecombdapi.com
 |r11---sn-qxoedne7.googlevideo.com^
 |r50--sn-4g57kn7l.googlevideo.com^
 |r14---sn-5ualdnee.googlevideo.com^
-|r41---sn-4g57knsy.googlevideo.com^
 |r1---sn-ejgjxo8z.googlevideo.com^
 |r1---sn-jehrilhv.googlevideo.com^
 |r9---sn--a5meknes.googlevideo.com^
@@ -60603,6 +60666,7 @@ ecom*-normal-lq.ecombdapi.com
 |r5---sn--npoeenez.googlevideo.com^
 |r39---sn-5hne6nel.googlevideo.com^
 |r42--sn-p5qlsnly.googlevideo.com^
+|r22---sn-5hnedn7k.googlevideo.com^
 |r1---sn-ntnfqf3d.googlevideo.com^
 |r18---sn--a5meknel.googlevideo.com^
 |r281---sn-4g57knek.googlevideo.com^
@@ -60683,6 +60747,7 @@ ecom*-normal-lq.ecombdapi.com
 |r19.sn-4g5e6nl6.googlevideo.com^
 |r32sn-4g57kn7d.googlevideo.com^
 |r17--sn-4g57knd7.googlevideo.com^
+|r50--sn-n4v7kne7.googlevideo.com^
 |r20sn-4g57knsy.googlevideo.com^
 |r1---sn-4mg8feto.googlevideo.com^
 |r41.sn-ab5l6n7k.googlevideo.com^
@@ -60819,7 +60884,6 @@ ecom*-normal-lq.ecombdapi.com
 |r11---sn--5go7yn7l.googlevideo.com^
 |r1---sn-u36pyfc1.googlevideo.com^
 |r4---sn-ab5sznlk.googlevideo.com^
-|r8.sn-q4f7sn7z.googlevideo.com^
 |r1---sn-3pbaor8d.googlevideo.com^
 |r6---sn-4g57kn67.googlevideo.com^
 |r40---sn-vgqs7nel.googlevideo.com^
@@ -61146,6 +61210,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-tlofic4u.googlevideo.com^
 |r2---sn-jx64chn2.googlevideo.com^
 |r11---sn-nx5s7n7z.googlevideo.com^
+|r17---sn--30a7yn7k.googlevideo.com^
 |r3.sn-ab5l6n7e.googlevideo.com^
 |r1---sn-773jogg2.googlevideo.com^
 |r1---sn-dhyfif53.googlevideo.com^
@@ -61260,7 +61325,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-y6fxfhx1.googlevideo.com^
 |r29sn-p5qlsnsk.googlevideo.com^
 |r30--sn-gvnuxaxjvh-p3ue.googlevideo.com^
-|r1---sn-7pi2rc35.googlevideo.com^
 |r2---sn-3jgizwcl.googlevideo.com^
 |r33--sn-25ge7n7k.googlevideo.com^
 |r4sn-q4f7sn7r.googlevideo.com^
@@ -61654,7 +61718,6 @@ ecom*-normal-lq.ecombdapi.com
 |r22---sn-ab5l6nsd.googlevideo.com^
 |r7sn-nv47lnee.googlevideo.com^
 |r10--sn-5hne6nl7.googlevideo.com^
-|r43sn-hpa7znes.googlevideo.com^
 |r20.sn-4g57knzd.googlevideo.com^
 |r1---sn-rb5aoyt4.googlevideo.com^
 |r390---sn-4g57knde.googlevideo.com^
@@ -61676,6 +61739,7 @@ ecom*-normal-lq.ecombdapi.com
 |r35--sn-5hnedn7l.googlevideo.com^
 |r14---sn-4g5edns7.googlevideo.com^
 |r2sn-hp57kn7e.googlevideo.com^
+|www.analytic-google.com^
 |r46--sn-4g57kner.googlevideo.com^
 |r21--sn-25ge7n7l.googlevideo.com^
 |r2.sn-5ualdnee.googlevideo.com^
@@ -61909,7 +61973,6 @@ ecom*-normal-lq.ecombdapi.com
 |r267---sn-4g57knld.googlevideo.com^
 |r1---sn-dntvgvhi.googlevideo.com^
 |r18.sn-aigzrner.googlevideo.com^
-|r37--sn-ab5l6n67.googlevideo.com^
 |r1---sn-ahngvd7m.googlevideo.com^
 |r6sn-aigllnzk.googlevideo.com^
 |r4---sn--uxa3vhnxa-02be.googlevideo.com^
@@ -62024,7 +62087,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-g45ti8nl.googlevideo.com^
 |r20---sn--gxuog0-axqe.googlevideo.com^
 |r3---sn-hpa7zney.googlevideo.com^
-|r8sn-a5meknl7.googlevideo.com^
 |r13--sn-4g57knk6.googlevideo.com^
 |r17---sn--5np5po4v-c33z.googlevideo.com^
 |r1---sn-sq6t2kqc.googlevideo.com^
@@ -62065,6 +62127,7 @@ ecom*-normal-lq.ecombdapi.com
 |r14--sn-vgqs7n7r.googlevideo.com^
 |r16---sn--q4fl6ney.googlevideo.com^
 |r28.sn-1gi7zn7e.googlevideo.com^
+|r1---sn-7saksruj.googlevideo.com^
 |r50--sn-ab5l6n7d.googlevideo.com^
 |r1---sn-hwlximwo.googlevideo.com^
 |r18.sn-p5qs7n7z.googlevideo.com^
@@ -62120,6 +62183,7 @@ ecom*-normal-lq.ecombdapi.com
 |r45---sn-4g57kne6.googlevideo.com^
 |r19---sn-q4flrnl6.googlevideo.com^
 |r35--sn-vgqs7nee.googlevideo.com^
+|r30.sn-vgqsene6.googlevideo.com^
 |r1---sn-apruhaw5.googlevideo.com^
 |r42--sn-nv47lned.googlevideo.com^
 |r15.sn-oguesn7y.googlevideo.com^
@@ -62131,6 +62195,7 @@ ecom*-normal-lq.ecombdapi.com
 |r18---sn--gvnuxaxjvh-t3nl.googlevideo.com^
 |r13---sn-aiglln76.googlevideo.com^
 |r20---sn-ab5sznly.googlevideo.com^
+|r44sn-4g57kn6r.googlevideo.com^
 |r26---sn-a5mekned.googlevideo.com^
 |r34---sn-aigllnzs.googlevideo.com^
 |r7---sn--a5m7lnlz.googlevideo.com^
@@ -62220,6 +62285,7 @@ ecom*-normal-lq.ecombdapi.com
 |r4--sn-aiglln7k.googlevideo.com^
 |r1---sn-5xi5hl2u.googlevideo.com^
 |r19---sn-4g57kner.googlevideo.com^
+|r33.sn-h557snee.googlevideo.com^
 |r6.sn-a5m7znel.googlevideo.com^
 |r2---sn-aigl6n7s.googlevideo.com^
 |r1---sn-31ico4g3.googlevideo.com^
@@ -62328,7 +62394,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-hhhwrmjc.googlevideo.com^
 |r10---sn-vgqskn7e.googlevideo.com^
 |r408---sn-4g57knzz.googlevideo.com^
-|r10---sn--bxuovgf5t-vnas.googlevideo.com^
 |r311---sn-4g57knek.googlevideo.com^
 |r1---sn-empq7say.googlevideo.com^
 |r8sn-vgqs7ner.googlevideo.com^
@@ -62576,7 +62641,6 @@ ecom*-normal-lq.ecombdapi.com
 |r4.sn-aigl6n7s.googlevideo.com^
 |r19---sn--5go7ynez.googlevideo.com^
 |r5sn-hpa7znee.googlevideo.com^
-|r11---sn--5goeen7r.googlevideo.com^
 |r16---sn-p5qlsnsr.googlevideo.com^
 |r26sn-5hnedn7d.googlevideo.com^
 |r36sn-cvh7kn7d.googlevideo.com^
@@ -62847,6 +62911,7 @@ ecom*-normal-lq.ecombdapi.com
 |r38--sn-p5qlsnll.googlevideo.com^
 |r14sn-o097znlk.googlevideo.com^
 |r10---sn--0ub03g5pox-3c2l.googlevideo.com^
+|r10---sn-4g57kn76.googlevideo.com^
 |r2---sn-rz1ggvgx.googlevideo.com^
 |r41sn-a5mlrn7d.googlevideo.com^
 |r23---sn-hp57knsr.googlevideo.com^
@@ -63059,6 +63124,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-3v8z2fqm.googlevideo.com^
 |r20---sn-vgqsknld.googlevideo.com^
 |r21---sn-hp57knsk.googlevideo.com^
+|r21sn-p5qlsnll.googlevideo.com^
 |r13---sn--q4fl6n7s.googlevideo.com^
 |r49sn-p5qlsnlk.googlevideo.com^
 |r32sn-cvh7kn7l.googlevideo.com^
@@ -63592,6 +63658,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn--4g5e6n76.googlevideo.com^
 |r16.sn-p5qs7n7s.googlevideo.com^
 |r18---sn--f5f7ln7l.googlevideo.com^
+|r3.sn-q4flrne6.googlevideo.com^
 |r48.sn-cvh7kn7d.googlevideo.com^
 |r6sn-oxmua5txg-8pxe.googlevideo.com^
 |r17---sn--5ualdn7l.googlevideo.com^
@@ -63645,6 +63712,7 @@ ecom*-normal-lq.ecombdapi.com
 |r19---sn--q4fl6nly.googlevideo.com^
 |r19---sn-vgqs7n76.googlevideo.com^
 |r30sn-ab5l6nee.googlevideo.com^
+|r4---sn-nx57ynee.googlevideo.com^
 |r37.sn-5hne6n7r.googlevideo.com^
 |r15--sn-4g57kn6r.googlevideo.com^
 |r1---sn-1cxwlvfd.googlevideo.com^
@@ -63850,6 +63918,7 @@ ecom*-normal-lq.ecombdapi.com
 |r19sn-cvh76n7e.googlevideo.com^
 |r24sn-vgqs7n7e.googlevideo.com^
 |r34sn-ni5f-t8gl.googlevideo.com^
+|r32sn-hp57knsr.googlevideo.com^
 |r12.sn-aigllnee.googlevideo.com^
 |r32sn-a5mekn7d.googlevideo.com^
 |r23---sn-vgqs7n7d.googlevideo.com^
@@ -64259,6 +64328,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2.sn-q4fl6ne7.googlevideo.com^
 |r11---sn--ab5l6nzk.googlevideo.com^
 |r12--sn-hp57knls.googlevideo.com^
+|r46.sn-vgqsenel.googlevideo.com^
 |r23.sn-vgqsen7d.googlevideo.com^
 |r1---sn-paqngpoj.googlevideo.com^
 |r47---sn-aigllney.googlevideo.com^
@@ -64311,6 +64381,7 @@ ecom*-normal-lq.ecombdapi.com
 |r33sn-cvh76n7e.googlevideo.com^
 |r1---sn-qcidjng3.googlevideo.com^
 |r14.sn-vgqsknlz.googlevideo.com^
+|r28--sn-4g57kned.googlevideo.com^
 |r12---sn-4g57knze.googlevideo.com^
 |r20---sn-ab5sznle.googlevideo.com^
 |r16sn-ab5l6nsk.googlevideo.com^
@@ -64370,7 +64441,6 @@ ecom*-normal-lq.ecombdapi.com
 |r26---sn-vgqs7n7r.googlevideo.com^
 |r1---sn-dge1wh5y.googlevideo.com^
 |r17.sn-q4fl6n7z.googlevideo.com^
-|r35---sn-4g57knzz.googlevideo.com^
 |r14.sn-4g5lznl7.googlevideo.com^
 |r7---sn--npoeened.googlevideo.com^
 |r8--sn-q4fl6ne6.googlevideo.com^
@@ -64699,6 +64769,7 @@ ecom*-normal-lq.ecombdapi.com
 |r14---sn-vgqsen76.googlevideo.com^
 |r1---sn-azo84uwc.googlevideo.com^
 |r21.sn-vgqs7n7l.googlevideo.com^
+|r8.sn-8xgp1vo-xfgk.googlevideo.com^
 |r18sn-vgqsen7l.googlevideo.com^
 |r20sn-vgqs7nez.googlevideo.com^
 |r303---sn-4g5edne6.googlevideo.com^
@@ -64906,6 +64977,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-pgee4z2w.googlevideo.com^
 |r12---sn--o5n3-f5fe.googlevideo.com^
 |r1---sn-5omypvpa.googlevideo.com^
+|r30--sn-5hne6nl6.googlevideo.com^
 |r36sn-25g7snee.googlevideo.com^
 |r6sn-aiglln67.googlevideo.com^
 |r1---sn-ctcdf7xz.googlevideo.com^
@@ -64913,7 +64985,6 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-diroswav.googlevideo.com^
 |r46sn-a5mekner.googlevideo.com^
 |r3.sn-4g5edn7l.googlevideo.com^
-|r1---sn-okxbfybm.googlevideo.com^
 |r19---sn-4g5ednsz.googlevideo.com^
 |r47--sn-h557snl6.googlevideo.com^
 |r29---sn-oguesn7d.googlevideo.com^
@@ -64937,7 +65008,6 @@ ecom*-normal-lq.ecombdapi.com
 |r34--sn-vgqsenel.googlevideo.com^
 |r24sn-ab5l6nek.googlevideo.com^
 |r25---sn-aigllney.googlevideo.com^
-|r13---sn-ab5l6nsk.googlevideo.com^
 |r48---sn-vgqs7n7r.googlevideo.com^
 |r10.sn-vgqs7ne7.googlevideo.com^
 |r1---sn-wyr2fh66.googlevideo.com^
@@ -64962,6 +65032,7 @@ ecom*-normal-lq.ecombdapi.com
 |r28sn-ab5l6nlk.googlevideo.com^
 |r16.sn-5uaezn6r.googlevideo.com^
 |r17--sn-5hnedn7d.googlevideo.com^
+|r15sn-5abxgpxuxaxjvh-55xe.googlevideo.com^
 |r13.sn-ab5l6n7y.googlevideo.com^
 |r5---sn-4g57knk6.googlevideo.com^
 |r4---sn-4g57knkz.googlevideo.com^
@@ -65056,7 +65127,6 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-zzd3rac7.googlevideo.com^
 |r5.sn-vgqsen76.googlevideo.com^
 |r20.sn-nx5e6ne6.googlevideo.com^
-|r43sn-a5m7ln7d.googlevideo.com^
 |r16---sn-o097znss.googlevideo.com^
 |r8sn-q4f7snss.googlevideo.com^
 |r9sn-aigllnez.googlevideo.com^
@@ -65141,7 +65211,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-2tqtax4i.googlevideo.com^
 |r8--sn-aiglln7k.googlevideo.com^
 |r7--sn-4g57kn7l.googlevideo.com^
-|r1---sn-wz4tex2e.googlevideo.com^
 |r10sn-8xgp1vo-cvne.googlevideo.com^
 |r17sn-n4v7kne7.googlevideo.com^
 |r2sn-4g57knde.googlevideo.com^
@@ -65166,6 +65235,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-81dzfufe.googlevideo.com^
 |r6---sn--5ualdn7s.googlevideo.com^
 |r11--sn-4g57knkl.googlevideo.com^
+|r2---sn-ylfmp6o1.googlevideo.com^
 |r28--sn-4g57knl7.googlevideo.com^
 |r18---sn-vgqs7nes.googlevideo.com^
 |r3---sn--nx5e6n7d.googlevideo.com^
@@ -65240,6 +65310,7 @@ ecom*-normal-lq.ecombdapi.com
 |r14---sn--q4flrn7r.googlevideo.com^
 |r10.sn-4g57knld.googlevideo.com^
 |r5.sn-h557sne6.googlevideo.com^
+|r44--sn-4g57knks.googlevideo.com^
 |r61---sn-5hne6nlr.googlevideo.com^
 |r9sn-hpa7zned.googlevideo.com^
 |r41.sn-h557sn7r.googlevideo.com^
@@ -65467,6 +65538,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn--vgqsrn7d.googlevideo.com^
 |r16sn-aigllnez.googlevideo.com^
 |r31---sn-5hnedn7e.googlevideo.com^
+|r18---sn-p5qs7nee.googlevideo.com^
 |r2---sn--5hne6n7z.googlevideo.com^
 |r4---sn-ab5l6nek.googlevideo.com^
 |r492---sn-4g57knzk.googlevideo.com^
@@ -65497,6 +65569,7 @@ ecom*-normal-lq.ecombdapi.com
 |r12---sn--qxa7sn7l.googlevideo.com^
 |r27--sn-cvh7kn7r.googlevideo.com^
 |r34---sn-5hnednlk.googlevideo.com^
+|r37.sn-1gi7zn7l.googlevideo.com^
 |r46--sn-ab5l6ned.googlevideo.com^
 |r2---sn--4g5e6n7d.googlevideo.com^
 |r2---sn-ascettnd.googlevideo.com^
@@ -65527,6 +65600,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-hp57knls.googlevideo.com^
 |r39sn-ab5l6nsd.googlevideo.com^
 |r21---sn-a5m7ln7d.googlevideo.com^
+|r26---sn-ab5l6nee.googlevideo.com^
 |r215---sn-4g5edn7l.googlevideo.com^
 |r38--sn-cvh76n7l.googlevideo.com^
 |r8---sn--a5mlrn7r.googlevideo.com^
@@ -65718,6 +65792,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-tmkui3pq.googlevideo.com^
 |r15.sn-4g57knky.googlevideo.com^
 |r46sn-a5meknl7.googlevideo.com^
+|r13--sn-25ge7n7e.googlevideo.com^
 |r34--sn-4g5ednee.googlevideo.com^
 |r34---sn-a5m7lned.googlevideo.com^
 |r2sn-jvm-a5nl.googlevideo.com^
@@ -65751,7 +65826,6 @@ ecom*-normal-lq.ecombdapi.com
 |r5sn-vgqsenl7.googlevideo.com^
 |r33.sn-aigllnze.googlevideo.com^
 |r14.sn-h5q7dn7l.googlevideo.com^
-|r45sn-5hnedn7d.googlevideo.com^
 |r7.sn-aigl6ned.googlevideo.com^
 |r16---sn--aigzrn7z.googlevideo.com^
 |r19.sn-5hne6nsz.googlevideo.com^
@@ -65856,6 +65930,7 @@ ecom*-normal-lq.ecombdapi.com
 |r19.sn-ab5l6nes.googlevideo.com^
 |r15---sn--5go7yner.googlevideo.com^
 |r12---sn-nx57ynl6.googlevideo.com^
+|r1---sn-d52d3ked.googlevideo.com^
 |r1---sn-tohbq4wp.googlevideo.com^
 |r42--sn-4g5edne7.googlevideo.com^
 |r8---sn--nvopjoxu-25ve.googlevideo.com^
@@ -65987,6 +66062,7 @@ ecom*-normal-lq.ecombdapi.com
 |r3---sn-a5mekn6l.googlevideo.com^
 |r19---sn-5hne6nlz.googlevideo.com^
 |r16---sn-5hnedn7d.googlevideo.com^
+|r3.sn-vgqsrnl6.googlevideo.com^
 |r8---sn-4g5edney.googlevideo.com^
 |r3---sn-ab5l6nez.googlevideo.com^
 |r8---sn-q4flrnez.googlevideo.com^
@@ -66062,6 +66138,7 @@ ecom*-normal-lq.ecombdapi.com
 |r13---sn--uoxu-aw0e.googlevideo.com^
 |r5.sn-uhvcpax0n5-a5ne.googlevideo.com^
 |r6---sn--jna-i3b6.googlevideo.com^
+|r6---sn-a5mekner.googlevideo.com^
 |r12---sn--i3beln7d.googlevideo.com^
 |r20--sn-aigllnzl.googlevideo.com^
 |r7.sn-vgqsrnsd.googlevideo.com^
@@ -66385,7 +66462,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-eneb16ts.googlevideo.com^
 |r6---sn-a5m7znek.googlevideo.com^
 |r17sn-cvh76n7d.googlevideo.com^
-|r46---sn-5hnedne6.googlevideo.com^
 |r36sn-aigllnsr.googlevideo.com^
 |r27sn-ab5l6nse.googlevideo.com^
 |r31sn-h557snez.googlevideo.com^
@@ -66650,6 +66726,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn--gphvo-ua8e.googlevideo.com^
 |r15---sn-4gxx-25gee.googlevideo.com^
 |r44.sn-p5qlsnsl.googlevideo.com^
+|r3sn-5hne6nl6.googlevideo.com^
 |r2---sn-qxoedn7k.googlevideo.com^
 |r233---sn-4g57knls.googlevideo.com^
 |r30sn-ab5l6nzd.googlevideo.com^
@@ -66738,7 +66815,6 @@ ecom*-normal-lq.ecombdapi.com
 |r14---sn--p5qlsns6.googlevideo.com^
 |r37---sn-aigllnez.googlevideo.com^
 |r18sn-npoe7n7r.googlevideo.com^
-|r18---sn-hp57kn7e.googlevideo.com^
 |r39--sn-p5qlsnlr.googlevideo.com^
 |r15sn-a5mekner.googlevideo.com^
 |r13---sn-25ge7nl6.googlevideo.com^
@@ -67332,6 +67408,7 @@ ecom*-normal-lq.ecombdapi.com
 |r206---sn-5hnednl7.googlevideo.com^
 |r1---sn-2qyxst8o.googlevideo.com^
 |r17---sn--x2pm-f5fs.googlevideo.com^
+|r13sn-4g5edne7.googlevideo.com^
 |r3sn-ab5l6nss.googlevideo.com^
 |r36---sn-h557snez.googlevideo.com^
 |r1---sn-bgyyn4ne.googlevideo.com^
@@ -67348,7 +67425,6 @@ ecom*-normal-lq.ecombdapi.com
 |r4.sn-o097znsk.googlevideo.com^
 |r42---sn-qxa7en7l.googlevideo.com^
 |r14---sn-vgqsrnel.googlevideo.com^
-|r33sn-a5meknes.googlevideo.com^
 |r12---sn-vgqs7n7e.googlevideo.com^
 |r22---sn-4g57knkd.googlevideo.com^
 |r1---sn-3h5ohmu6.googlevideo.com^
@@ -67996,6 +68072,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-c6mxi3fc.googlevideo.com^
 |r14--sn-npoeen7r.googlevideo.com^
 |r49sn-a5m7znel.googlevideo.com^
+|r45---sn-ab5l6nls.googlevideo.com^
 |r21--sn-4g5e6nl6.googlevideo.com^
 |r27.sn-ab5l6nel.googlevideo.com^
 |r8---sn-4g57knzs.googlevideo.com^
@@ -68026,6 +68103,7 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-x2ncg2kl.googlevideo.com^
 |r30---sn-4g57kn6l.googlevideo.com^
 |r9---sn--cqi0c-q5je.googlevideo.com^
+|r50.sn-5hne6n7d.googlevideo.com^
 |r17.sn-vgqsrnee.googlevideo.com^
 |r42sn-hpa7zney.googlevideo.com^
 |r15---sn--h0jeener.googlevideo.com^
@@ -68101,6 +68179,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-4rh4yvbr.googlevideo.com^
 |r1---sn-fkc5yvnx.googlevideo.com^
 |r42sn-4g57knkd.googlevideo.com^
+|r28sn-a5m7lnee.googlevideo.com^
 |r16---sn--gvnuxaxjvh-n8vd.googlevideo.com^
 |r26--sn-a5mlrn7l.googlevideo.com^
 |r9---sn-4g5lznl7.googlevideo.com^
@@ -68294,7 +68373,6 @@ ecom*-normal-lq.ecombdapi.com
 |r19--sn-vgqs7ney.googlevideo.com^
 |r9---sn--2uuxa3vh-jb3l.googlevideo.com^
 |r15---sn-a5meknl7.googlevideo.com^
-|r1---sn-kul2dt3h.googlevideo.com^
 |r22--sn-p5qlsnse.googlevideo.com^
 |r49sn-25ge7nes.googlevideo.com^
 |r4---sn--oguelne7.googlevideo.com^
@@ -68380,7 +68458,6 @@ ecom*-normal-lq.ecombdapi.com
 |r16---sn-ab5l6nsk.googlevideo.com^
 |r46--sn-p5qs7nes.googlevideo.com^
 |r37sn-4g57knkz.googlevideo.com^
-|r17.sn-vgqs7n7y.googlevideo.com^
 |r4--sn-a5mlrn7d.googlevideo.com^
 |r1---sn-gyxubbws.googlevideo.com^
 |r0.sn-p5qlsnse.googlevideo.com^
@@ -68472,7 +68549,6 @@ ecom*-normal-lq.ecombdapi.com
 |r6.sn-4g5ednse.googlevideo.com^
 |r49---sn-hp57knsd.googlevideo.com^
 |r10---sn-hp57ynel.googlevideo.com^
-|r14---sn-a5m7zne6.googlevideo.com^
 |r14sn-ab5l6n7e.googlevideo.com^
 |r3sn-hp57kn7e.googlevideo.com^
 |r44sn-aigllnzk.googlevideo.com^
@@ -68489,6 +68565,7 @@ ecom*-normal-lq.ecombdapi.com
 |r35.sn-ab5l6ney.googlevideo.com^
 |r81---sn-4g5e6ne6.googlevideo.com^
 |r14---sn-25glenes.googlevideo.com^
+|r1---sn-5u4ruf4i.googlevideo.com^
 |r12sn-vgqs7nel.googlevideo.com^
 |r20---sn-hp57kn6r.googlevideo.com^
 |r27--sn-hpa7zner.googlevideo.com^
@@ -68606,7 +68683,6 @@ ecom*-normal-lq.ecombdapi.com
 |r3---sn-vgqs7ns7.googlevideo.com^
 |r38sn-oxmua5txg-8pxe.googlevideo.com^
 |r10---sn--2gb7sn7s.googlevideo.com^
-|r4sn-cvh7kn7r.googlevideo.com^
 |r41--sn-aigllnss.googlevideo.com^
 |r4sn-q4fl6n7l.googlevideo.com^
 |r1---sn-bqabsd1p.googlevideo.com^
@@ -68630,7 +68706,6 @@ ecom*-normal-lq.ecombdapi.com
 |r20.sn-vgqsrnes.googlevideo.com^
 |r10.sn-vgqskn7l.googlevideo.com^
 |r1---sn-jknp14h7.googlevideo.com^
-|r30sn-q4f7snl6.googlevideo.com^
 |r42---sn-4g57knke.googlevideo.com^
 |r10---sn--5ualdn7d.googlevideo.com^
 |r29sn-5abxgpxuxaxjvh-55xe.googlevideo.com^
@@ -69065,6 +69140,7 @@ ecom*-normal-lq.ecombdapi.com
 |r25--sn-cvh7kn7r.googlevideo.com^
 |r29--sn-a5meknlz.googlevideo.com^
 |r10sn-hp57knsl.googlevideo.com^
+|r25--sn-4g57knde.googlevideo.com^
 |r0sn-25ge7nes.googlevideo.com^
 |r24sn-nv47lnee.googlevideo.com^
 |r6.sn-q4fl6n7y.googlevideo.com^
@@ -69091,7 +69167,6 @@ ecom*-normal-lq.ecombdapi.com
 |r46.sn-cvh7kn7l.googlevideo.com^
 |r19---sn-4g5edne6.googlevideo.com^
 |r38sn-aigllnzd.googlevideo.com^
-|r1---sn-8wylo2xi.googlevideo.com^
 |r5.sn-p5qlsndd.googlevideo.com^
 |r1---sn-k7x3pt8c.googlevideo.com^
 |r6sn-ab5l6nse.googlevideo.com^
@@ -69249,7 +69324,6 @@ ecom*-normal-lq.ecombdapi.com
 |r11---sn-a5m7lnes.googlevideo.com^
 |r38---sn-q4f7snll.googlevideo.com^
 |r1---sn-o562jng3.googlevideo.com^
-|r0.sn-4g57knle.googlevideo.com^
 |r19---sn--n4v7knlk.googlevideo.com^
 |r36sn-8xgp1vo-cvne.googlevideo.com^
 |r1---sn--jpm-15b6.googlevideo.com^
@@ -69277,6 +69351,7 @@ ecom*-normal-lq.ecombdapi.com
 |r12---sn--npoeen7d.googlevideo.com^
 |r3---sn-q4flrnl6.googlevideo.com^
 |r3---sn-ab5szn7y.googlevideo.com^
+|r20---sn-o097znsr.googlevideo.com^
 |r15sn-cvh7knez.googlevideo.com^
 |r1---sn-3ibjul66.googlevideo.com^
 |r14.sn-q4flrnle.googlevideo.com^
@@ -69292,7 +69367,6 @@ ecom*-normal-lq.ecombdapi.com
 |r17.sn-aigllnzk.googlevideo.com^
 |r35---sn-4g57kn66.googlevideo.com^
 |r11---sn--cqi0c-q5je.googlevideo.com^
-|r1---sn-ab5l6n7z.googlevideo.com^
 |r9---sn--a5msen76.googlevideo.com^
 |r58---sn-5hne6nek.googlevideo.com^
 |r6---sn--ogueln7k.googlevideo.com^
@@ -69304,6 +69378,7 @@ ecom*-normal-lq.ecombdapi.com
 |r16---sn-vgqsrn7d.googlevideo.com^
 |r1---sn-u85qm4i6.googlevideo.com^
 |r7---sn-5hneknes.googlevideo.com^
+|r5---sn-vgqs7ney.googlevideo.com^
 |r13sn-h5obv-q5je.googlevideo.com^
 |r30sn-a5mekned.googlevideo.com^
 |r30sn-8xgp1vo-xfgd.googlevideo.com^
@@ -69368,6 +69443,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-lu8q45fy.googlevideo.com^
 |r44.sn-4g57knrl.googlevideo.com^
 |r13---sn--vgqsknel.googlevideo.com^
+|r44---sn-4g57kndr.googlevideo.com^
 |r8---sn--vgqs7ns7.googlevideo.com^
 |r31--sn-4g57kner.googlevideo.com^
 |r303---sn-4g5e6nes.googlevideo.com^
@@ -69429,7 +69505,6 @@ ecom*-normal-lq.ecombdapi.com
 |r17---sn-5hnekn7z.googlevideo.com^
 |r32sn-aiglln6y.googlevideo.com^
 |r43.sn-5hne6nld.googlevideo.com^
-|r28---sn-h557sne6.googlevideo.com^
 |r12.sn-4g57kndd.googlevideo.com^
 |r31--sn-5hne6n7r.googlevideo.com^
 |r6---sn--a5mekne7.googlevideo.com^
@@ -69557,7 +69632,6 @@ ecom*-normal-lq.ecombdapi.com
 |r43.sn-vgqs7n7d.googlevideo.com^
 |r40--sn-4g5e6nle.googlevideo.com^
 |r19---sn-qxoedne7.googlevideo.com^
-|r38.sn-hpa7znel.googlevideo.com^
 |r49---sn-4g57knsy.googlevideo.com^
 |r19sn-25ge7nes.googlevideo.com^
 |r16sn-5hne6n7r.googlevideo.com^
@@ -69607,6 +69681,7 @@ ecom*-normal-lq.ecombdapi.com
 |r22.sn-4g57knle.googlevideo.com^
 |r41--sn-p5qlsnsd.googlevideo.com^
 |r36sn-vgqsene6.googlevideo.com^
+|r14--sn-nv47lnel.googlevideo.com^
 |r30sn-aigllnez.googlevideo.com^
 |r30--sn-4g57kned.googlevideo.com^
 |r34sn-hp57knse.googlevideo.com^
@@ -69630,6 +69705,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-1qah4bcc.googlevideo.com^
 |r20---sn--jtcxg-3ipl.googlevideo.com^
 |r33---sn-4g57kndr.googlevideo.com^
+|r3sn-ab5l6ney.googlevideo.com^
 |r9--sn-4g5edney.googlevideo.com^
 |r12---sn--5uh5o-f5fs.googlevideo.com^
 |r26---sn-4g57kne6.googlevideo.com^
@@ -69639,7 +69715,6 @@ ecom*-normal-lq.ecombdapi.com
 |r6.sn-vgqsknlr.googlevideo.com^
 |r3.sn-q4flrne7.googlevideo.com^
 |r18.sn-aigllnes.googlevideo.com^
-|r11---sn--oapm-guhz.googlevideo.com^
 |r1---sn-7byu14jk.googlevideo.com^
 |r45sn-q4f7snss.googlevideo.com^
 |r48--sn-npoeen7r.googlevideo.com^
@@ -69693,7 +69768,6 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn--gqn-vhgs.googlevideo.com^
 |r15---sn-vgqsen7r.googlevideo.com^
 |r6.sn-5hnekn7d.googlevideo.com^
-|r1---sn-o097znlk.googlevideo.com^
 |r11---sn-25ge7n7s.googlevideo.com^
 |r50sn-vgqsen7k.googlevideo.com^
 |r34--sn-p5qs7n7d.googlevideo.com^
@@ -69952,6 +70026,7 @@ ecom*-normal-lq.ecombdapi.com
 |r27---sn-4g57kndl.googlevideo.com^
 |r36sn-n0qqxoapo3-hnte.googlevideo.com^
 |r18---sn--q4fl6n7z.googlevideo.com^
+|r35--sn-a5mlrn7d.googlevideo.com^
 |r339---sn-4g57knkz.googlevideo.com^
 |r28---sn-hpa7znee.googlevideo.com^
 |r8---sn--p5qlsnsd.googlevideo.com^
@@ -70154,6 +70229,7 @@ ecom*-normal-lq.ecombdapi.com
 |r46---sn-4g57knkz.googlevideo.com^
 |r8---sn-ivuoxu-ua8z.googlevideo.com^
 |r1---sn-sq54szmw.googlevideo.com^
+|r11.sn-a5meknel.googlevideo.com^
 |r43.youtube-nocookie.com^
 |r7---sn--bvvbax-2ime.googlevideo.com^
 |r5.sn-4g57kndd.googlevideo.com^
@@ -70187,7 +70263,6 @@ ecom*-normal-lq.ecombdapi.com
 |r17---sn--5np5po4v-c33e6.googlevideo.com^
 |r33--sn-p5qlsnll.googlevideo.com^
 |r44.sn-ab5l6nsd.googlevideo.com^
-|r1---sn-dhqm6wkj.googlevideo.com^
 |r3--sn-p5qlsnll.googlevideo.com^
 |r1---sn-cdzyovsq.googlevideo.com^
 |r25sn-q4f7sn7l.googlevideo.com^
@@ -70197,7 +70272,6 @@ ecom*-normal-lq.ecombdapi.com
 |r16---sn--vgqsrnek.googlevideo.com^
 |r5---sn--5qpnu5-xu1e.googlevideo.com^
 |r7---sn--a5mekney.googlevideo.com^
-|r28sn-ab5l6n67.googlevideo.com^
 |r2---sn-8xgp1vo-xfgd.googlevideo.com^
 |r34sn-p5qs7n7l.googlevideo.com^
 |r27.sn-p5qlsnsl.googlevideo.com^
@@ -70347,7 +70421,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-eu541yd7.googlevideo.com^
 |r1---sn-q56p7fq3.googlevideo.com^
 |r38---sn-4g57knzl.googlevideo.com^
-|r29sn-a5meknl7.googlevideo.com^
 |r1---sn-lyo4xkkb.googlevideo.com^
 |r20---sn-25ge7n7l.googlevideo.com^
 |r1---sn-c2pftavw.googlevideo.com^
@@ -70413,6 +70486,7 @@ ecom*-normal-lq.ecombdapi.com
 |r14---sn--q4flrnez.googlevideo.com^
 |r16--sn-a5m7znes.googlevideo.com^
 |r2---sn-vgqsknlz.googlevideo.com^
+|r33sn-vgqsenez.googlevideo.com^
 |r41.sn-4g57knke.googlevideo.com^
 |r13.sn-a5meknl7.googlevideo.com^
 |r2---sn-b8u-8pml.googlevideo.com^
@@ -70442,12 +70516,12 @@ ecom*-normal-lq.ecombdapi.com
 |r211---sn-5hne6ne6.googlevideo.com^
 |r18sn-qxa7en7l.googlevideo.com^
 |r34sn-hpa7znel.googlevideo.com^
+|r36sn-4g5ednle.googlevideo.com^
 |r7---sn--35153iuxa-unxe.googlevideo.com^
 |r20sn-ab5l6nzk.googlevideo.com^
 |r18---sn-cvh7kn7l.googlevideo.com^
 |r2---sn-hp57knle.googlevideo.com^
 |r28--sn-4g57knky.googlevideo.com^
-|r7---sn--q4flrnek.googlevideo.com^
 |r1--sn-ab5l6ner.googlevideo.com^
 |r1---sn-y84wuwgk.googlevideo.com^
 |r3--sn-aigllnzs.googlevideo.com^
@@ -70481,7 +70555,6 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn-238ccwho.googlevideo.com^
 |r48.sn-a5m7znee.googlevideo.com^
 |r5sn-cvh7kn7l.googlevideo.com^
-|r13.sn-aigllnez.googlevideo.com^
 |r46sn-aigllnel.googlevideo.com^
 |r251---sn-4g5e6ne6.googlevideo.com^
 |r42---sn-p5qlsnsz.googlevideo.com^
@@ -70499,6 +70572,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-ja6t112g.googlevideo.com^
 |r1---sn-soufkux4.googlevideo.com^
 |r18sn-aigllnzz.googlevideo.com^
+|r1---sn-sqtl7nme.googlevideo.com^
 |r17.sn-vgqsrn7l.googlevideo.com^
 |r2---sn-d58ssoga.googlevideo.com^
 |r5---sn--x0gvuxa-qo3e.googlevideo.com^
@@ -70516,6 +70590,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1.sn-5hne6n7e.googlevideo.com^
 |r32--sn-a5m7lnlz.googlevideo.com^
 |r3---sn-ab5sznl7.googlevideo.com^
+|r3---sn--poqvn5u-jb3s.googlevideo.com^
 |r19---sn-4g5e6nz7.googlevideo.com^
 |r1---sn-bpauvenk.googlevideo.com^
 |r8.sn-q4flrnek.googlevideo.com^
@@ -70904,6 +70979,7 @@ ecom*-normal-lq.ecombdapi.com
 |r42sn-j5caxoxu-hh0l.googlevideo.com^
 |r10sn-5hne6n7e.googlevideo.com^
 |r20---sn--qxa7sn7s.googlevideo.com^
+|r12--sn-ab5l6nzy.googlevideo.com^
 |r46---sn-4g57kn6l.googlevideo.com^
 |r9---sn--25ge7nl6.googlevideo.com^
 |r2--sn-vgqsknee.googlevideo.com^
@@ -71281,8 +71357,8 @@ ecom*-normal-lq.ecombdapi.com
 |r2---sn--5uaeznr6.googlevideo.com^
 |r12---sn--npoe7ned.googlevideo.com^
 |r1---sn-zhwxmtww.googlevideo.com^
+|r4---sn--ab5sznl7.googlevideo.com^
 |r4---sn--w5nuxa-c33y.googlevideo.com^
-|r1---sn-xsw14ci4.googlevideo.com^
 |r1---sn-d2nrizap.googlevideo.com^
 |r49.sn-ab5l6nez.googlevideo.com^
 |r1---sn-xfc1v7rx.googlevideo.com^
@@ -71339,6 +71415,7 @@ ecom*-normal-lq.ecombdapi.com
 |r7.sn-4g57kn6d.googlevideo.com^
 |r18---sn--bg0ezn7z.googlevideo.com^
 |r2---sn--vgqs7ney.googlevideo.com^
+|r5---sn--vgqsrn76.googlevideo.com^
 |r25---sn-4g57kney.googlevideo.com^
 |r5.sn-4g5ednsk.googlevideo.com^
 |r16---sn--n8v7zns7.googlevideo.com^
@@ -71518,6 +71595,7 @@ ecom*-normal-lq.ecombdapi.com
 |r5---sn--5hnekn76.googlevideo.com^
 |r5---sn--jtcxg-3ipl.googlevideo.com^
 |r1---sn-u2ez3l6b.googlevideo.com^
+|r24--sn-vgqs7nls.googlevideo.com^
 |r02---sn-4g57knek.googlevideo.com^
 |r1---sn-syyjthg2.googlevideo.com^
 |r15---sn--8qj-i5ole.googlevideo.com^
@@ -71935,7 +72013,6 @@ ecom*-normal-lq.ecombdapi.com
 |r16.sn-aigzrney.googlevideo.com^
 |r37--sn-5hne6nlz.googlevideo.com^
 |r12sn-x5guiuxaxjvh-q5jl.googlevideo.com^
-|r7.sn-oguesn7d.googlevideo.com^
 |r7.sn-ab5l6nez.googlevideo.com^
 |r33.sn-ab5l6n7e.googlevideo.com^
 |r1---sn-c23pfagj.googlevideo.com^
@@ -72122,7 +72199,6 @@ ecom*-normal-lq.ecombdapi.com
 |r22sn-vgqsen7e.googlevideo.com^
 |r5.sn-vgqsenel.googlevideo.com^
 |r8---sn--oapm-guhs.googlevideo.com^
-|r1---sn-lit5xqi7.googlevideo.com^
 |r1---sn-rpcpqg8e.googlevideo.com^
 |r13---sn-4g5e6nld.googlevideo.com^
 |r1---sn-cgzndxb2.googlevideo.com^
@@ -72381,6 +72457,7 @@ ecom*-normal-lq.ecombdapi.com
 |r7sn-4g57kn7d.googlevideo.com^
 |r0---sn-ab5l6nee.googlevideo.com^
 |r42.sn-vgqsen7l.googlevideo.com^
+|r43sn-a5meknl7.googlevideo.com^
 |r13sn-4g57kn7e.googlevideo.com^
 |r20sn-4g5ednle.googlevideo.com^
 |r13.sn-aigllnse.googlevideo.com^
@@ -72398,7 +72475,6 @@ ecom*-normal-lq.ecombdapi.com
 |r20.sn-vgqsrnsd.googlevideo.com^
 |r14sn-a5mekned.googlevideo.com^
 |r49--sn-ab5l6nse.googlevideo.com^
-|r2.sn-a5mlrn7z.googlevideo.com^
 |r2---sn-symvrm3l.googlevideo.com^
 |r1---sn-tb1pow62.googlevideo.com^
 |r1---sn-z18hude8.googlevideo.com^
@@ -72521,6 +72597,7 @@ ecom*-normal-lq.ecombdapi.com
 |r5--sn-ni5f-t8ge.googlevideo.com^
 |r13--sn-8xgp1vo-xfge7.googlevideo.com^
 |r19--sn-aigllnzd.googlevideo.com^
+|r1---sn-4kahtlri.googlevideo.com^
 |r2---sn-2th7vhxc.googlevideo.com^
 |r3---sn--x1x7snsl.googlevideo.com^
 |r8---sn--f5f7ln7y.googlevideo.com^
@@ -73030,6 +73107,7 @@ ecom*-normal-lq.ecombdapi.com
 |r15---sn--nx5e6n76.googlevideo.com^
 |r11---sn--a5meknel.googlevideo.com^
 |r20.sn-h557snes.googlevideo.com^
+|rr3---sn-jvhj5nu-nh4s.googlevideo.com^
 |r1.sn-vgqsened.googlevideo.com^
 |r13---sn-a5m7zned.googlevideo.com^
 |r24.sn-ab5l6nlr.googlevideo.com^
@@ -73121,7 +73199,6 @@ ecom*-normal-lq.ecombdapi.com
 |r35sn-vgqs7nee.googlevideo.com^
 |r1.sn-ab5l6nsy.googlevideo.com^
 |r14sn-ab5l6nzr.googlevideo.com^
-|r1---sn-gvkqdt3f.googlevideo.com^
 |r4---sn-q4fl6nz6.googlevideo.com^
 |r20---sn-o097znze.googlevideo.com^
 |r2---sn-5exsvnha.googlevideo.com^
@@ -73237,6 +73314,7 @@ ecom*-normal-lq.ecombdapi.com
 |r8.sn-4g5edndl.googlevideo.com^
 |r45--sn-hp57knss.googlevideo.com^
 |r10---sn-5ualdnle.googlevideo.com^
+|r4---sn-p5qlsnle.googlevideo.com^
 |r151---sn-4g5e6nls.googlevideo.com^
 |r25sn-cvh7kn7d.googlevideo.com^
 |r40--sn-q4f7snl6.googlevideo.com^
@@ -73303,6 +73381,7 @@ ecom*-normal-lq.ecombdapi.com
 |r50--sn-p5qlsnll.googlevideo.com^
 |r8---sn-hp57knsk.googlevideo.com^
 |r28--sn-aigllned.googlevideo.com^
+|r1---sn-vhwuuxim.googlevideo.com^
 |r6.sn-aigllnse.googlevideo.com^
 |r19sn-nv47lnel.googlevideo.com^
 |r8---sn--bg07dnss.googlevideo.com^
@@ -73336,7 +73415,6 @@ ecom*-normal-lq.ecombdapi.com
 |r29.sn-ab5l6n7k.googlevideo.com^
 |r18---sn-p5qlsnd6.googlevideo.com^
 |r18sn-o097znlk.googlevideo.com^
-|r1---sn-7dnynya8.googlevideo.com^
 |r24sn-cvh76n7k.googlevideo.com^
 |r9---sn-5hnekn7k.googlevideo.com^
 |r463---sn-4g5e6nez.googlevideo.com^
@@ -73543,6 +73621,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-s2lqjqru.googlevideo.com^
 |r9sn-4g5e6ne6.googlevideo.com^
 |r14---sn-vgqsdn7s.googlevideo.com^
+|r23.sn-ab5l6n7k.googlevideo.com^
 |r12---sn--p5qs7ned.googlevideo.com^
 |r31--sn-p5qlsnse.googlevideo.com^
 |r5--sn-a5meknek.googlevideo.com^
@@ -73643,6 +73722,7 @@ ecom*-normal-lq.ecombdapi.com
 |r10--sn-p5qlsns6.googlevideo.com^
 |r22sn-jvm-a5ns.googlevideo.com^
 |r3---sn--5ualdn7l.googlevideo.com^
+|r2---sn-u3p8qtgs.googlevideo.com^
 |r42sn-p5qlsnlr.googlevideo.com^
 |r49.sn-5hne6ner.googlevideo.com^
 |r17---sn--4g5ednld.googlevideo.com^
@@ -73809,6 +73889,7 @@ ecom*-normal-lq.ecombdapi.com
 |r35sn-hpa7zner.googlevideo.com^
 |r17---sn--cqi0c-q5je.googlevideo.com^
 |r17sn-npoeen7d.googlevideo.com^
+|r44--sn-ab5l6n6l.googlevideo.com^
 |r15sn-h557sn7r.googlevideo.com^
 |r29.sn-cvh76n7l.googlevideo.com^
 |r10---sn-p5qlsn6s.googlevideo.com^
@@ -73855,7 +73936,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-84asi7rn.googlevideo.com^
 |r101---sn-5hne6nel.googlevideo.com^
 |r23---sn-4g57kn6d.googlevideo.com^
-|r24.sn-4g57knll.googlevideo.com^
 |r13---sn--a5mekne7.googlevideo.com^
 |r4.sn-q4flrn7y.googlevideo.com^
 |r27.sn-4g57knzk.googlevideo.com^
@@ -73980,6 +74060,7 @@ ecom*-normal-lq.ecombdapi.com
 |r1--sn-h557sne7.googlevideo.com^
 |r14---sn--4g5e6nl6.googlevideo.com^
 |r3---sn--n5pbvoj5caxu8-nboz.googlevideo.com^
+|r2---sn-ntt1d5fn.googlevideo.com^
 |r10---sn--ab5szn7k.googlevideo.com^
 |r5.sn-5uaezn6r.googlevideo.com^
 |r1---sn-zmn2bw1l.googlevideo.com^
@@ -74104,7 +74185,6 @@ ecom*-normal-lq.ecombdapi.com
 |r7---sn--bvvbax-qxol6.googlevideo.com^
 |r46--sn-cvh7kn7k.googlevideo.com^
 |r1---sn-pnyev6mu.googlevideo.com^
-|r46sn-ab5l6nlk.googlevideo.com^
 |r8---sn--vgqs7nlr.googlevideo.com^
 |r1---sn-r8wchmb8.googlevideo.com^
 |r12---sn--5ualdn7e.googlevideo.com^
@@ -74140,7 +74220,6 @@ ecom*-normal-lq.ecombdapi.com
 |r20.sn-5hne6nsz.googlevideo.com^
 |r16sn-a5mlrn7k.googlevideo.com^
 |r8.sn-5uaeznyy.googlevideo.com^
-|r35.sn-4g57kn6e.googlevideo.com^
 |r306---sn-4g5ednle.googlevideo.com^
 |r1---sn-tqy2yf5m.googlevideo.com^
 |r15.sn-aigllnzd.googlevideo.com^
@@ -74155,7 +74234,6 @@ ecom*-normal-lq.ecombdapi.com
 |r38---sn-vgqs7ne6.googlevideo.com^
 |r1---sn-5q1fyxqh.googlevideo.com^
 |r5---sn-5hne6nlz.googlevideo.com^
-|r23sn-q4fl6ne7.googlevideo.com^
 |r11--sn-4g57knzy.googlevideo.com^
 |r1---sn-s4l3ect1.googlevideo.com^
 |r489---sn-4g57knkz.googlevideo.com^
@@ -74377,7 +74455,6 @@ ecom*-normal-lq.ecombdapi.com
 |r1---sn-i78x62d7.googlevideo.com^
 |r20---sn-a5meknll.googlevideo.com^
 |r20---sn--5hnednlk.googlevideo.com^
-|r431---sn-4g57kndd.googlevideo.com^
 |r4sn-5hne6nl6.googlevideo.com^
 |r20---sn-4g5e6nl6.googlevideo.com^
 |r2.sn-p5qs7n7l.googlevideo.com^
@@ -74387,6 +74464,7 @@ ecom*-normal-lq.ecombdapi.com
 |r3---sn--4g5ednly.googlevideo.com^
 |r9.sn-4g5e6nes.googlevideo.com^
 |r10---sn--vgqskned.googlevideo.com^
+|r29.sn-4g57kner.googlevideo.com^
 |r31sn-o097znlk.googlevideo.com^
 |r1--sn-4g57knkd.googlevideo.com^
 |r15--sn-vgqsenee.googlevideo.com^
@@ -74507,7 +74585,6 @@ ecom*-normal-lq.ecombdapi.com
 |r15---sn--0opoxu-2cjy.googlevideo.com^
 |r9.sn-q4fl6nsy.googlevideo.com^
 |r1---sn-afk3ky44.googlevideo.com^
-|r8.sn-25ge7nes.googlevideo.com^
 |r1---sn-8sjgm1o8.googlevideo.com^
 |r1---sn-ha4g2m2r.googlevideo.com^
 |r17.sn-aigllnek.googlevideo.com^
@@ -74584,7 +74661,6 @@ ecom*-normal-lq.ecombdapi.com
 ||adserver.*.dk^
 ||amanda.*.com^
 ||dnb.no-*
-||jessica.*.net^
 ||auglysingar.*.is^
 ||freediscordnitro.
 ||adidas-outlet*
