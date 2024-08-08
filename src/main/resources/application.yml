@@ -171,6 +171,7 @@ application:
       - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
       - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
       - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
+      - 'https://raw.githubusercontent.com/sdars/AdGuard-Rule/main/rule/mylist.txt' #name: 神殿
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'mylist.txt'
