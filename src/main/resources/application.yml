@@ -86,7 +86,7 @@ application:
       - 'https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts' #name: 1024_hosts
       - 'https://adaway.org/hosts.txt' #name: AdAway
       - 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #name: ad-wars
-      - 'https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts' #name: Google hosts
+      #- 'https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts' #name: Google hosts
       - 'https://hblock.molinero.dev/hosts' #name: Hblock
       - 'http://winhelp2002.mvps.org/hosts.txt' #name: Mvps
       - 'https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/basic/hosts.txt' #name: neoHosts Basic
@@ -105,7 +105,7 @@ application:
       - 'https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt' #name: Potterli20
       - 'https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward' #name: lingeringsound
       - 'https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt' #name: 5whys-adblock
-      - 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #name: 217heidai
+      #- 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #name: 217heidai
       - 'https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad-pc.txt' #name: halflife
       - 'https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt' #name: adblock_list
       - 'https://big.oisd.nl/' #name: oisd
