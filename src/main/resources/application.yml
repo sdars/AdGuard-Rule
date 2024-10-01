@@ -165,12 +165,12 @@ application:
       - 'https://raw.githubusercontent.com/DoingDog/XXKiller/main/f.txt' #name: XXKiller premium
       - 'https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt' #name: Spam404
       - 'https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list' #name: The Big List of Hacked Malware Web Sites
-      - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
+      #- 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
       #- 'https://github.com/Potterli20/file/releases/download/ad-youtube-hosts/ad-youtube-adguardhome.txt' #name: 冷莫-去youtube广告
       #- 'https://github.com/Potterli20/file/releases/download/ad-youtube-hosts/ad-youtube-adguardhome-dnstype.txt' #name: 冷莫-去youtube广告-dnstype
-      - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
-      - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
-      - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
+      #- 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
+      #- 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
+      #- 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
       - 'https://raw.githubusercontent.com/sdars/AdGuard-Rule/main/rule/mylist.txt' #name: 神殿
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
