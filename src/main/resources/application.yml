@@ -155,7 +155,6 @@ application:
       - 'https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/all.txt' #name: xndeye all
       - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt' #name: ADgk 主规则
       - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt' #name: ADgk 屏蔽百家号
-      - 'https://gitlab.com/rainmor/Adhosts-block/-/raw/master/hosts' #name: rainmor
       - 'https://raw.githubusercontent.com/DivineEngine/AdGuardFilter/master/filter.txt' #name: Connershua
       #- 'https://github.com/Potterli20/file/releases/download/ad-hosts-pro/ad-adguardhome.txt' #name: 冷莫
       #- 'https://github.com/Potterli20/file/releases/download/ad-hosts-pro/ad-adguardhome-dnstype.txt' #name: 冷莫-dnstype
