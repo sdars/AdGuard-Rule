@@ -73,21 +73,17 @@ application:
       - 'https://easylist-downloads.adblockplus.org/easylistchina.txt' #name: EasyList China
       - 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt' #name: 秋风
       - 'https://lingmao.655618.xyz/jiaoben/adg/%E6%99%B4%E9%9B%85/hosts.php' #name: 晴雅
+      - 'https://lingmao.655618.xyz/jiaoben/adg/%E6%99%B4%E9%9B%85/black.php' #name: 晴雅黑名单
       - 'https://lingmao.655618.xyz/jiaoben/adg/%E6%99%B4%E9%9B%85/dns.php' #name: 晴雅DNS
       #- 'https://nsfw.oisd.nl/' #name: nsfw
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt' #name: AdGuard Chinese filter
       - 'https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt' #name: 1Hosts (Lite)
-      - 'https://hblock.molinero.dev/hosts_adblock.txt' #name: Hblock
-      - 'https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker' #name: NEO DEV HOST
-      - 'https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt' #name: Fanboy’s Annoyances List
       - 'https://www.malwaredomainlist.com/hostslist/hosts.txt' #name: Malware Domain List
       - 'https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts' #name: StevenBlack
       - 'https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt' #name: iOSAdblockList
       - 'https://raw.githubusercontent.com/Maasea/sgmodule/master/Bilibili.Helper.sgmodule' #name: 去bilibili广告
       - 'https://raw.githubusercontent.com/Maasea/sgmodule/master/KeepAds.sgmodule' #name: 去keep广告
       - 'https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt' #name: NoAppDownload
-      - 'https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/all.txt' #name: xndeye all
-      - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt' #name: ADgk 主规则
       - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt' #name: ADgk 屏蔽百家号
       - 'https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list' #name: The Big List of Hacked Malware Web Sites
       - 'https://raw.githubusercontent.com/sdars/AdGuard-Rule/main/rule/mylist.txt' #name: 神殿
