@@ -1,4 +1,4 @@
-# Update time: 2025-01-03 20:44:56
+# Update time: 2025-01-04 09:46:49
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -3050,7 +3050,6 @@
 0.0.0.0 etl.xlmc.sandai.net
 0.0.0.0 analytics3.dopool.com
 0.0.0.0 vip.70qn.com
-0.0.0.0 ad.adriver.ru
 0.0.0.0 m.sfscooter.cn
 0.0.0.0 pptv.adx.admaster.com.cn
 0.0.0.0 etl-xlmc-ssl.sandai.net
@@ -3078,7 +3077,6 @@
 0.0.0.0 v.behe.com
 0.0.0.0 4009997658.com
 0.0.0.0 ef-dongfeng.tanx.com
-0.0.0.0 ad.propellerads.com
 0.0.0.0 www.555p555p.com
 0.0.0.0 s.appjiagu.com
 0.0.0.0 re.m.taobao.com
@@ -3552,7 +3550,6 @@
 0.0.0.0 gfyoyo.adpolestar.net
 0.0.0.0 cdnpa.hyperpromote.com
 0.0.0.0 f3.souid.com
-0.0.0.0 xxlargepop.com
 0.0.0.0 www.nkscdn.com
 0.0.0.0 hzs17.cnzz.com
 0.0.0.0 cdn.tanx.com
@@ -5545,7 +5542,6 @@
 0.0.0.0 ana.stg8.com
 0.0.0.0 poweredby.jads.co
 0.0.0.0 i.liadm.com
-0.0.0.0 ppoi.org
 0.0.0.0 www.abovede6.com
 0.0.0.0 ads.tripod.lycos.co.uk
 0.0.0.0 w88.go.com
@@ -6348,7 +6344,6 @@
 0.0.0.0 px.qucaigg.com
 0.0.0.0 sdk.hhaxmm.cn
 0.0.0.0 alpha.brand.sogou.com
-0.0.0.0 15.taboola.com
 0.0.0.0 js4.eastmoney.com
 0.0.0.0 mpush-api.aliyun.com
 0.0.0.0 update.sdk.jiguang.cn
@@ -6905,7 +6900,6 @@
 0.0.0.0 e.vaxyz.com
 0.0.0.0 35baba.cn
 0.0.0.0 d6.sina.com.cn
-0.0.0.0 ad.turn.com
 0.0.0.0 l.glrcy.cn
 0.0.0.0 gecko-hl.snssdk.com
 0.0.0.0 v1.res.log.hunantv.com
@@ -6979,7 +6973,6 @@
 0.0.0.0 w.irs03.com
 0.0.0.0 mixer.sina.cn
 0.0.0.0 vsohu.admaster.com.cn
-0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 wap.wooboo.com.cn
 0.0.0.0 vhd23.cnsanheng.cn
 0.0.0.0 mg.games.sina.com.cn
@@ -8338,7 +8331,6 @@
 0.0.0.0 ads.globo.com
 0.0.0.0 cmpp.gentags.net
 0.0.0.0 js3492.yongkang6.com
-0.0.0.0 ad.mail.ru
 0.0.0.0 jy.ggweb.net
 0.0.0.0 j.xinshipu.com
 0.0.0.0 t.sj.qq.com
@@ -10067,6 +10059,7 @@
 0.0.0.0 pkia.fr
 0.0.0.0 w141.hitbox.com
 0.0.0.0 www.spklds.com
+0.0.0.0 ad.adriver.ru
 0.0.0.0 fm3cafe.hu
 0.0.0.0 ldsfch.112.2o7.net
 0.0.0.0 tmstoyota.112.2o7.net
@@ -10124,6 +10117,7 @@
 0.0.0.0 e-2dj6wflioldzoco.stats.esomniture.com
 0.0.0.0 gpaper174.112.2o7.net
 0.0.0.0 images.directtrack.com
+0.0.0.0 ad.propellerads.com
 0.0.0.0 bbcdn.delivery.reklamz.com
 0.0.0.0 mx.adserver.yahoo.com
 0.0.0.0 thebrighttag.com
@@ -10961,6 +10955,7 @@
 0.0.0.0 www.mygreatrewards.com
 0.0.0.0 adcontent.gamespy.com
 0.0.0.0 adserv007.adtech.us
+0.0.0.0 xxlargepop.com
 0.0.0.0 abourselfi.com
 0.0.0.0 stat.56.com
 0.0.0.0 e-2dj6wfk4gkcpiep.stats.esomniture.com
@@ -14525,6 +14520,7 @@
 0.0.0.0 wigetmedia.com
 0.0.0.0 buy-ultram-online.iscool.nl
 0.0.0.0 www.ballsack.org
+0.0.0.0 ppoi.org
 0.0.0.0 www.directnetadvertising.net
 0.0.0.0 te.advance.net
 0.0.0.0 ads.veoh.com
@@ -15926,6 +15922,7 @@
 0.0.0.0 images3.linkwithin.com
 0.0.0.0 giles.uk.net
 0.0.0.0 cdn.zarget.com
+0.0.0.0 15.taboola.com
 0.0.0.0 pubimgs.sapo.pt
 0.0.0.0 bulldog.122.2o7.net
 0.0.0.0 laxnws.112.2o7.net
@@ -16874,6 +16871,7 @@
 0.0.0.0 media.betburdaaffiliates.com
 0.0.0.0 jdownloader.fr
 0.0.0.0 longrich.fr
+0.0.0.0 ad.turn.com
 0.0.0.0 media.trafficfactory.biz
 0.0.0.0 traffic.adwitty.com
 0.0.0.0 casino770.com
@@ -16996,6 +16994,7 @@
 0.0.0.0 ipacc1.adtech.us
 0.0.0.0 c.seznam.cz
 0.0.0.0 passpport.com
+0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 te.cleveland.net
 0.0.0.0 pier-import.fr
 0.0.0.0 tc.tradetracker.net
@@ -19319,6 +19318,7 @@
 0.0.0.0 ads.mefeedia.com
 0.0.0.0 ehg-careerbuilder.hitbox.com
 0.0.0.0 as.5.p2l.info
+0.0.0.0 ad.mail.ru
 0.0.0.0 sb4.shble.com
 0.0.0.0 jgen30.cjt1.net
 0.0.0.0 moneybot.net
@@ -48383,6 +48383,7 @@
 0.0.0.0 pgusrealestate.com
 0.0.0.0 www.allegrolokalnie.pl5239.cfd
 0.0.0.0 bank08.ads.mp.mydas.mobi
+0.0.0.0 info.amplitude.com
 0.0.0.0 booking.com-checkin.info
 0.0.0.0 www.agile3.org
 0.0.0.0 mint-star.pl
@@ -125571,6 +125572,7 @@
 0.0.0.0 junberetli.com
 0.0.0.0 api.speedshiftmedia.com
 0.0.0.0 zppun57wa.top
+0.0.0.0 geoworker.ayads.co
 0.0.0.0 www.olx-pl.rebsak.lol
 0.0.0.0 policja-ll2.online
 0.0.0.0 www.navicorpvn.com
