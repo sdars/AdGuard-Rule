@@ -1,4 +1,4 @@
-# Update time: 2025-01-11 20:41:51
+# Update time: 2025-01-12 09:58:11
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -48108,6 +48108,7 @@
 0.0.0.0 pgusrealestate.com
 0.0.0.0 www.allegrolokalnie.pl5239.cfd
 0.0.0.0 bank08.ads.mp.mydas.mobi
+0.0.0.0 info.amplitude.com
 0.0.0.0 booking.com-checkin.info
 0.0.0.0 www.agile3.org
 0.0.0.0 mint-star.pl
@@ -71216,6 +71217,7 @@
 0.0.0.0 www.allegro.pl93625oferta.pl
 0.0.0.0 trendmd.com
 0.0.0.0 www.zdrowasfera.pl
+0.0.0.0 gcheck.carthook.com
 0.0.0.0 olx.protect-me.shop
 0.0.0.0 www.bonmatelas.com
 0.0.0.0 fa72.infroil.com
@@ -82875,6 +82877,7 @@
 0.0.0.0 cgi.i-mobile.co.jp
 0.0.0.0 ebooks.com.pl
 0.0.0.0 www.eretracoih.com
+0.0.0.0 anziboo.com
 0.0.0.0 www.acolindev.com
 0.0.0.0 apiservices.krxd.net
 0.0.0.0 adrenalinejunkie.xyz
@@ -124367,6 +124370,7 @@
 0.0.0.0 junberetli.com
 0.0.0.0 api.speedshiftmedia.com
 0.0.0.0 zppun57wa.top
+0.0.0.0 geoworker.ayads.co
 0.0.0.0 www.olx-pl.rebsak.lol
 0.0.0.0 www.olx.pl-84232.icu
 0.0.0.0 policja-ll2.online
