@@ -1,4 +1,4 @@
-# Update time: 2025-02-02 09:50:30
+# Update time: 2025-02-02 20:39:25
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -3251,7 +3251,6 @@
 0.0.0.0 static.alimama.com
 0.0.0.0 eap.enorth.com.cn
 0.0.0.0 vg.aty.sohu.com
-0.0.0.0 coinhive.com
 0.0.0.0 st3.wagbridge.advertisement.tanx.com
 0.0.0.0 adx.adxglobal.com
 0.0.0.0 ecma.bdimg.com
@@ -6170,7 +6169,6 @@
 0.0.0.0 sm.domob.cn
 0.0.0.0 adsatt.go.starwave.com
 0.0.0.0 analytics.atdmt.com
-0.0.0.0 stats.bbc.co.uk
 0.0.0.0 storm-api.ad4game.com
 0.0.0.0 au.w.inmobi.cn
 0.0.0.0 tc.ci123.com
@@ -10447,6 +10445,7 @@
 0.0.0.0 anxiety.1.p2l.info
 0.0.0.0 www.bigbrandrewards.com
 0.0.0.0 counter9.sextracker.be
+0.0.0.0 coinhive.com
 0.0.0.0 reception-desk.net
 0.0.0.0 ads.paper.li
 0.0.0.0 tcadops.ca
@@ -15594,6 +15593,7 @@
 0.0.0.0 con-trnroayl.online
 0.0.0.0 pullipstyle.fr
 0.0.0.0 fls.doubleclick.net
+0.0.0.0 stats.bbc.co.uk
 0.0.0.0 track.msadcenter.rfjq.com
 0.0.0.0 adbucks.brandreachsys.com
 0.0.0.0 lcastorama.fr
@@ -33633,6 +33633,7 @@
 0.0.0.0 www.olx.cloud-redirect.shop
 0.0.0.0 o-lx.138262828.xyz
 0.0.0.0 analog.sms13.de
+0.0.0.0 www.designerbagcatalog.com
 0.0.0.0 vinted-polska-rr124.mptri.xyz
 0.0.0.0 imp.ambient-platform.com
 0.0.0.0 www.alignfordating.com
@@ -100400,7 +100401,6 @@
 0.0.0.0 financialtimesdfp415669142494.s.moatpixel.com
 0.0.0.0 cjlog.com
 0.0.0.0 www.vinted-pl-gkk219.livinglightly.life
-0.0.0.0 mvconf.uk.cloud.360safe.com
 0.0.0.0 www.sb.osik.skin
 0.0.0.0 spookysleet.com
 0.0.0.0 www.herebesussexdragons.com
@@ -128556,7 +128556,6 @@
 0.0.0.0 junberetli.com
 0.0.0.0 api.speedshiftmedia.com
 0.0.0.0 zppun57wa.top
-0.0.0.0 geoworker.ayads.co
 0.0.0.0 www.olx-pl.rebsak.lol
 0.0.0.0 www.olx.pl-84232.icu
 0.0.0.0 policja-ll2.online
