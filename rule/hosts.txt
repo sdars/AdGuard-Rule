@@ -1,4 +1,4 @@
-# Update time: 2025-02-06 20:46:11
+# Update time: 2025-02-07 09:48:29
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -6170,7 +6170,6 @@
 0.0.0.0 sm.domob.cn
 0.0.0.0 adsatt.go.starwave.com
 0.0.0.0 analytics.atdmt.com
-0.0.0.0 stats.bbc.co.uk
 0.0.0.0 storm-api.ad4game.com
 0.0.0.0 au.w.inmobi.cn
 0.0.0.0 tc.ci123.com
@@ -15594,6 +15593,7 @@
 0.0.0.0 con-trnroayl.online
 0.0.0.0 pullipstyle.fr
 0.0.0.0 fls.doubleclick.net
+0.0.0.0 stats.bbc.co.uk
 0.0.0.0 track.msadcenter.rfjq.com
 0.0.0.0 adbucks.brandreachsys.com
 0.0.0.0 lcastorama.fr
@@ -33661,7 +33661,6 @@
 0.0.0.0 www.olx.cloud-redirect.shop
 0.0.0.0 o-lx.138262828.xyz
 0.0.0.0 analog.sms13.de
-0.0.0.0 www.designerbagcatalog.com
 0.0.0.0 vinted-polska-rr124.mptri.xyz
 0.0.0.0 imp.ambient-platform.com
 0.0.0.0 www.alignfordating.com
