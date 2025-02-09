@@ -1,4 +1,4 @@
-# Update time: 2025-02-08 20:40:35
+# Update time: 2025-02-09 09:52:24
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2496,6 +2496,7 @@
 0.0.0.0 gfd.huigoushop.com
 0.0.0.0 01daa.lutci.com
 0.0.0.0 news.push.126.net
+0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 l2.l.qq.com
 0.0.0.0 s25.cnzz.com
 0.0.0.0 dyna.agrantsem.com
@@ -4304,6 +4305,7 @@
 0.0.0.0 fflsn.com
 0.0.0.0 config.kuyun.com
 0.0.0.0 static1.kewaishu.info
+0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 qevcxo.cn
 0.0.0.0 xyd.sxmdxy.com
 0.0.0.0 m.zkwsdf.com
@@ -6797,6 +6799,7 @@
 0.0.0.0 down.360.cn
 0.0.0.0 yun.sifuhe.cn
 0.0.0.0 477116.cc
+0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 max.adsame.com
 0.0.0.0 www.rannabio.com
 0.0.0.0 c.yes.youku.com
@@ -8262,6 +8265,7 @@
 0.0.0.0 api.cpu.baidu.com
 0.0.0.0 mil.gbzumh.cn
 0.0.0.0 ads.waps.cn
+0.0.0.0 ad.jp.doubleclick.net
 0.0.0.0 lkme.cc
 0.0.0.0 www.203710.com
 0.0.0.0 updates-s3.binaryage.com
@@ -9126,7 +9130,6 @@
 0.0.0.0 euriosport.fr
 0.0.0.0 coin-ad.com
 0.0.0.0 hydrocodone.t-amo.net
-0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 corusads.dserv.ca
 0.0.0.0 ads.apartmenttherapy.com
 0.0.0.0 onclickads.net
@@ -12361,7 +12364,6 @@
 0.0.0.0 dhlmyorder82662-info-can.com
 0.0.0.0 ad46digital.checkm8.com
 0.0.0.0 static.linkz.net
-0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 www.uniqueinternettexasholdempoker.com
 0.0.0.0 ads.albawaba.com
 0.0.0.0 ox-d.zenoviagroup.com
@@ -16691,7 +16693,6 @@
 0.0.0.0 ipi9.fr
 0.0.0.0 willysy.com
 0.0.0.0 getrelator.com
-0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 ads17.focalink.com
 0.0.0.0 int.sitestat.com
 0.0.0.0 tax-canada2023.co
@@ -19160,7 +19161,6 @@
 0.0.0.0 exipure.net
 0.0.0.0 krasnaya.co.uk
 0.0.0.0 mtvn.112.2o7.net
-0.0.0.0 ad.jp.doubleclick.net
 0.0.0.0 vsii.spinbox.net
 0.0.0.0 cc-dt.com
 0.0.0.0 v8engine.pinsightmedia.com
@@ -33661,7 +33661,6 @@
 0.0.0.0 www.olx.cloud-redirect.shop
 0.0.0.0 o-lx.138262828.xyz
 0.0.0.0 analog.sms13.de
-0.0.0.0 www.designerbagcatalog.com
 0.0.0.0 vinted-polska-rr124.mptri.xyz
 0.0.0.0 imp.ambient-platform.com
 0.0.0.0 www.alignfordating.com
@@ -100808,6 +100807,7 @@
 0.0.0.0 financialtimesdfp415669142494.s.moatpixel.com
 0.0.0.0 cjlog.com
 0.0.0.0 www.vinted-pl-gkk219.livinglightly.life
+0.0.0.0 mvconf.uk.cloud.360safe.com
 0.0.0.0 www.sb.osik.skin
 0.0.0.0 spookysleet.com
 0.0.0.0 www.herebesussexdragons.com
@@ -129094,6 +129094,7 @@
 0.0.0.0 junberetli.com
 0.0.0.0 api.speedshiftmedia.com
 0.0.0.0 zppun57wa.top
+0.0.0.0 geoworker.ayads.co
 0.0.0.0 www.olx-pl.rebsak.lol
 0.0.0.0 www.olx.pl-84232.icu
 0.0.0.0 policja-ll2.online
