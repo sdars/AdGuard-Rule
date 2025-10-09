@@ -1,4 +1,4 @@
-# Update time: 2025-10-09 09:56:04
+# Update time: 2025-10-09 20:54:34
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -3633,6 +3633,7 @@
 0.0.0.0 www.ihuanmei.com
 0.0.0.0 wm.20150.net
 0.0.0.0 a1.peoplecdn.cn
+0.0.0.0 as.casalemedia.com
 0.0.0.0 rcmd.pop.ijinshan.com
 0.0.0.0 c.dcghp.top
 0.0.0.0 match.p4p.1688.com
@@ -6934,6 +6935,7 @@
 0.0.0.0 m.ecenf.com
 0.0.0.0 hao916.com
 0.0.0.0 gen.alicdn.com
+0.0.0.0 api.airpush.com
 0.0.0.0 ad.cacafly.com
 0.0.0.0 yads.yahoo.co.jp
 0.0.0.0 vspa.admaster.com.cn
@@ -11164,7 +11166,6 @@
 0.0.0.0 www.c1.thecounter.de
 0.0.0.0 mb01.com
 0.0.0.0 oasc06006.247realmedia.com
-0.0.0.0 as.casalemedia.com
 0.0.0.0 layerprotect.com
 0.0.0.0 ads1.jev.co.za
 0.0.0.0 browsesentinel.com
@@ -17019,7 +17020,6 @@
 0.0.0.0 tattooshaha.info			# Facebook trojan
 0.0.0.0 www.gator.com
 0.0.0.0 j7.jmooreassoc.com
-0.0.0.0 api.airpush.com
 0.0.0.0 images.linkwithin.com
 0.0.0.0 clhctrk.com
 0.0.0.0 fejezet.com
@@ -28801,6 +28801,7 @@
 127.0.0.1 xpj28111.com
 127.0.0.1 www.securegfm.com
 127.0.0.1 buyu9956.com
+127.0.0.1 www.28830055.com
 127.0.0.1 worldmustbecrazy.j8inn1zektoe.com
 127.0.0.1 panther.adform.net
 127.0.0.1 g.yccdn.com
@@ -39690,7 +39691,6 @@
 0.0.0.0 batsolarlights.com
 0.0.0.0 wildcard.applovin.com.edgekey.net
 0.0.0.0 www.truenorthaiapp.com
-0.0.0.0 www.hwjz72j.cfd
 0.0.0.0 reboosteraix.com
 0.0.0.0 ad-wisteria.excite.co.jp
 0.0.0.0 s2s.aniview.com
@@ -50798,7 +50798,6 @@
 0.0.0.0 www.vexorafinapp.com
 0.0.0.0 search.effectivebrand.com
 0.0.0.0 teleghwvq.club
-0.0.0.0 www.bingosuperkids.com
 0.0.0.0 biedronka-zamyka-sklepy.24.eu
 0.0.0.0 links.sextracker.com
 0.0.0.0 www.bestdronefpv.com
@@ -55783,6 +55782,7 @@
 0.0.0.0 www.vinted.id11438.cfd
 0.0.0.0 efrionneye.com
 0.0.0.0 telegtnggg.click
+0.0.0.0 swap50xproair500.com
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 ad.org.vn
 0.0.0.0 www.soulcon.bestsellingbooknow.com
@@ -61502,7 +61502,6 @@
 0.0.0.0 ablink.comms.trainline.com
 0.0.0.0 technexa.sbs
 0.0.0.0 skimresources.com
-0.0.0.0 sgp.o2o.api.xiaomi.com
 0.0.0.0 pansychai.shop
 0.0.0.0 mad.uk.intellitxt.com
 0.0.0.0 1-free-share-buttons.com
@@ -81187,6 +81186,7 @@
 0.0.0.0 bbhwww.112.2o7.net
 0.0.0.0 olx.prywatna51259125812.icu
 0.0.0.0 younglustforum.pw
+0.0.0.0 www.downtowntodownhome.com
 0.0.0.0 www.teielkserp.cloud
 0.0.0.0 www.vinted.pl-zamowienie92754.cfd
 0.0.0.0 dsp.cityads.com
