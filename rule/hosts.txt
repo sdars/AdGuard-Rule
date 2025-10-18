@@ -1,4 +1,4 @@
-# Update time: 2025-10-17 20:54:14
+# Update time: 2025-10-18 09:52:30
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -3196,7 +3196,6 @@
 0.0.0.0 uimg.123hala.com
 0.0.0.0 ec.kejet.net
 0.0.0.0 www.jiedaibao.com
-0.0.0.0 ck.juicyads.com
 0.0.0.0 munion.mediav.com
 0.0.0.0 df.tanx.com
 0.0.0.0 weizjzg.com
@@ -3288,7 +3287,6 @@
 0.0.0.0 s79.cnzz.com
 0.0.0.0 img.gaore.com
 0.0.0.0 y76.ylems.club
-0.0.0.0 d8.zedo.com
 0.0.0.0 www.inoprosport.su
 0.0.0.0 h06.hxsame.hexun.com
 0.0.0.0 sdktmp.hubcloud.com.cn
@@ -4873,7 +4871,6 @@
 0.0.0.0 ds-ll.serving-sys.com
 0.0.0.0 api.bayimob.com
 0.0.0.0 mvads.kugou.com
-0.0.0.0 cdn1.smartadserver.com
 0.0.0.0 r.dmp.sina.cn
 0.0.0.0 www.szshouzhai.com
 0.0.0.0 8kd7ha.com
@@ -5205,7 +5202,6 @@
 0.0.0.0 ztyumn.ifeng.com
 0.0.0.0 game.rising.cn
 0.0.0.0 www.878090.com
-0.0.0.0 adcast.deviantart.com
 0.0.0.0 imp.go.sohu.com
 0.0.0.0 files2.sogou.com
 0.0.0.0 biz.live.xunlei.com
@@ -5670,7 +5666,6 @@
 0.0.0.0 c.piliangzhuce.cn
 0.0.0.0 jsc.marketgid.com
 0.0.0.0 pups.bdimg.com
-0.0.0.0 cdn.viglink.com
 0.0.0.0 tui.gtimg.com
 0.0.0.0 spark-dev.ad4game.com
 0.0.0.0 t.h5data.com
@@ -5944,7 +5939,6 @@
 0.0.0.0 ctr.hd.sohu.com
 0.0.0.0 s72.cnzz.com
 0.0.0.0 www.admaji.com
-0.0.0.0 adimages.go.com
 0.0.0.0 fjjmnh.com
 0.0.0.0 www.biqubao.com
 0.0.0.0 jiaoben.ganji.cn
@@ -6666,7 +6660,6 @@
 0.0.0.0 www.rannabio.com
 0.0.0.0 c.yes.youku.com
 0.0.0.0 wan.youku.com
-0.0.0.0 cdn.taboola.com
 0.0.0.0 sf1-fe-pack.pglstatp-toutiao.com
 0.0.0.0 track.china.com
 0.0.0.0 engine.tuicoco.com
@@ -6744,7 +6737,6 @@
 0.0.0.0 www.zhzzx.com
 0.0.0.0 3.up.qingdaonews.com
 0.0.0.0 rd.adn.agrantsem.com
-0.0.0.0 data.flurry.com
 0.0.0.0 pc.da.mgtv.com
 0.0.0.0 yxyhtea.com
 0.0.0.0 ad.sohu.com
@@ -10391,6 +10383,7 @@
 0.0.0.0 purryowl.com
 0.0.0.0 counter26.bravenet.com
 0.0.0.0 urlreload.net
+0.0.0.0 ck.juicyads.com
 0.0.0.0 www.wegetpaid.net
 0.0.0.0 oascentral.phoenixvillenews.com
 0.0.0.0 view.binlayer.com
@@ -10536,6 +10529,7 @@
 0.0.0.0 ad-vice.biz
 0.0.0.0 aolukglobal.122.2o7.net
 0.0.0.0 jambocast.com
+0.0.0.0 d8.zedo.com
 0.0.0.0 ads.simtel.net
 0.0.0.0 biserka.xyz
 0.0.0.0 def.dev-nano.com
@@ -13415,6 +13409,7 @@
 0.0.0.0 rev-cvnada-dep.com
 0.0.0.0 titkoshirek.wordpress.com
 0.0.0.0 www.bigsister.cxa.de
+0.0.0.0 cdn1.smartadserver.com
 0.0.0.0 vipmasajes.com
 0.0.0.0 click.a-ads.com
 0.0.0.0 kodu.neti.ee
@@ -14008,6 +14003,7 @@
 0.0.0.0 productresearchpanel.com
 0.0.0.0 ldglob02.adtech.us
 0.0.0.0 mudmonster.org
+0.0.0.0 adcast.deviantart.com
 0.0.0.0 u3305.71.spylog.com
 0.0.0.0 jnova.cjt1.net
 0.0.0.0 meteon.org
@@ -14864,6 +14860,7 @@
 0.0.0.0 banstex.com
 0.0.0.0 groupm.com
 0.0.0.0 manage001.adtech.fr
+0.0.0.0 cdn.viglink.com
 0.0.0.0 draco-artgallery.wz.cz
 0.0.0.0 oascentral.comics.com
 0.0.0.0 nf.5.p2l.info
@@ -15361,6 +15358,7 @@
 0.0.0.0 reklamtrk.com
 0.0.0.0 homehre.tripod.com
 0.0.0.0 netflix-memberships.com
+0.0.0.0 adimages.go.com
 0.0.0.0 fedex-rescheduel-delivery-date.com
 0.0.0.0 track.msadcenter.mur.com
 0.0.0.0 techms-shop.su
@@ -16608,6 +16606,7 @@
 0.0.0.0 adserver.soloserver.com
 0.0.0.0 ad.n2434.doubleclick.net
 0.0.0.0 denx.fr
+0.0.0.0 cdn.taboola.com
 0.0.0.0 pool-roularta.adhese.com
 0.0.0.0 espaceagazines.fr
 0.0.0.0 stellarium.fr
@@ -16734,6 +16733,7 @@
 0.0.0.0 hirado.top
 0.0.0.0 ph-ad16.focalink.com
 0.0.0.0 ww1510.smartadserver.com
+0.0.0.0 data.flurry.com
 0.0.0.0 offerx.co.uk
 0.0.0.0 www.bar.ry2002.02-ry014.snpr.hotmx.hair.zaam.net # In spam
 0.0.0.0 img.xnxx.com
@@ -28036,7 +28036,6 @@
 127.0.0.1 cymzc.com
 127.0.0.1 tg.yxdou.com
 127.0.0.1 www.aq44.com
-127.0.0.1 yingxiao.baidu.com
 127.0.0.1 statis.push.netease.com
 127.0.0.1 xl-trk.com
 127.0.0.1 baby.jiangongjixie.cn
@@ -33344,7 +33343,6 @@
 0.0.0.0 www.luxvision-exchange-app.net
 0.0.0.0 xmzhvan.cfd
 0.0.0.0 www.ogloszenie-32g22eg46fppmsty66qxy5.org
-0.0.0.0 aihealthcarecert.org
 0.0.0.0 www.brudnyromans.com
 0.0.0.0 comicbookmovie.us.intellitxt.com
 0.0.0.0 ads.adagent.chacha.com
@@ -39772,7 +39770,6 @@
 0.0.0.0 www.skecherssklep.org
 0.0.0.0 wildcard.applovin.com.edgekey.net
 0.0.0.0 www.truenorthaiapp.com
-0.0.0.0 www.hwjz72j.cfd
 0.0.0.0 ad-wisteria.excite.co.jp
 0.0.0.0 telegmqws.wiki
 0.0.0.0 s2s.aniview.com
@@ -53471,7 +53468,6 @@
 0.0.0.0 www.telegpioqi.cyou
 0.0.0.0 palmieroutlet.myshopify.com
 0.0.0.0 api.appmetrica.yandex.ru
-0.0.0.0 www.twoje-miasto.x9.eu
 0.0.0.0 www.telegkhbvf.work
 0.0.0.0 teiezmpthk.top
 0.0.0.0 www.werxwer.pl
@@ -60930,7 +60926,6 @@
 0.0.0.0 www.valtorenquistaro.site
 0.0.0.0 nhltonight.net
 0.0.0.0 adimages.sanomawsoy.fi
-0.0.0.0 woobids.com
 0.0.0.0 cspar.site
 0.0.0.0 www.kitreg.lat
 0.0.0.0 newsinlasvegas.com
@@ -64800,7 +64795,6 @@
 0.0.0.0 fvalid.appsflyer.com.akamaized.net
 0.0.0.0 xovnemefjet.com
 0.0.0.0 www.smartofisu.online
-0.0.0.0 telegihag.quest
 0.0.0.0 powerabrain.site
 0.0.0.0 bidgear.com
 0.0.0.0 bodariri.com
@@ -67359,7 +67353,6 @@
 0.0.0.0 cd.adition.com
 0.0.0.0 flapi.pl
 0.0.0.0 www.artusor.myshopify.com
-0.0.0.0 www.lexfort-rec.site
 0.0.0.0 www.shreejiestatemanagement.com
 0.0.0.0 www.analywatch.site
 0.0.0.0 smetrics.vodafone.es
@@ -77997,7 +77990,6 @@
 0.0.0.0 vinted.pl-4881242.cfd
 0.0.0.0 free-counter.co.uk
 0.0.0.0 www.amidrakonix.org
-0.0.0.0 www.igatel.site
 0.0.0.0 5i2.net
 0.0.0.0 www.awak-jaminwd.net
 0.0.0.0 tag.clrstm.com
@@ -78386,7 +78378,6 @@
 0.0.0.0 pqwaker.altervista.org
 0.0.0.0 targeting.unrulymedia.com
 0.0.0.0 hamsha.com
-0.0.0.0 harconsumer.112.2o7.net
 0.0.0.0 www.mondayklever.com
 0.0.0.0 abituicono.pro
 0.0.0.0 mechoviraq.com
