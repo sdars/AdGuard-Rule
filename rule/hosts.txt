@@ -1,4 +1,4 @@
-# Update time: 2025-11-03 20:56:04
+# Update time: 2025-11-04 10:03:44
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2497,6 +2497,7 @@
 0.0.0.0 846.move7.com
 0.0.0.0 api.ujian.cc
 0.0.0.0 www.poijugh.top
+0.0.0.0 c.adsco.re
 0.0.0.0 vivovip.mmszxc.top
 0.0.0.0 conversion.pro.cn
 0.0.0.0 hotupgrade.hpplay.cn
@@ -2606,11 +2607,9 @@
 0.0.0.0 dd.wx16999.com
 0.0.0.0 sit.gentags.net
 0.0.0.0 api721.analysys.cn
-0.0.0.0 ads.wapx.cn
 0.0.0.0 pibaba.com.cn
 0.0.0.0 8b4pea.c.admaster.com.cn
 0.0.0.0 i.ipinyou.com
-0.0.0.0 ad.sensismediasmart.com.au
 0.0.0.0 tect.hellobya.cn
 0.0.0.0 au.youmi.net
 0.0.0.0 go.dlads.cn
@@ -4360,7 +4359,6 @@
 0.0.0.0 cdn.adinall.com
 0.0.0.0 api-metrics-e2e.nonprod.flurry.com
 0.0.0.0 c3.gostats.cn
-0.0.0.0 ad.auditude.com
 0.0.0.0 www.qchannel01.cn
 0.0.0.0 media.tianjimedia.com
 0.0.0.0 rcv.union-wifi.com
@@ -5210,7 +5208,6 @@
 0.0.0.0 ztyumn.ifeng.com
 0.0.0.0 game.rising.cn
 0.0.0.0 www.878090.com
-0.0.0.0 adcast.deviantart.com
 0.0.0.0 imp.go.sohu.com
 0.0.0.0 files2.sogou.com
 0.0.0.0 biz.live.xunlei.com
@@ -5287,6 +5284,7 @@
 0.0.0.0 app.zhidian3g.cn
 0.0.0.0 w.sharethis.com
 0.0.0.0 www.tjhuajiantang.com
+0.0.0.0 atdmt.com
 0.0.0.0 p.unclecarm.cn
 0.0.0.0 gif.lu.sogoucdn.com
 0.0.0.0 2016.sina.cn
@@ -5628,6 +5626,7 @@
 0.0.0.0 2018.qucaigg.com
 0.0.0.0 log.adaptv.advertising.com
 0.0.0.0 canvas.gdt.qq.com
+0.0.0.0 c.codeonclick.com
 0.0.0.0 lylog.1391.com
 0.0.0.0 aexz.rm.fhxiaoshuo.com
 0.0.0.0 tb.code.twyxi.com
@@ -6936,7 +6935,6 @@
 0.0.0.0 m.ecenf.com
 0.0.0.0 hao916.com
 0.0.0.0 gen.alicdn.com
-0.0.0.0 api.airpush.com
 0.0.0.0 ad.cacafly.com
 0.0.0.0 yads.yahoo.co.jp
 0.0.0.0 vspa.admaster.com.cn
@@ -8032,7 +8030,6 @@
 0.0.0.0 www.tj-cmys.com
 0.0.0.0 conv.youdao.com
 0.0.0.0 bce.baidu.com
-0.0.0.0 ad.3dnews.ru
 0.0.0.0 dap.pagechoice.net
 0.0.0.0 tejia.taobao.com
 0.0.0.0 t1.jzkapp.com
@@ -8123,7 +8120,6 @@
 0.0.0.0 un2.banmamedia.com
 0.0.0.0 api.cpu.baidu.com
 0.0.0.0 mil.gbzumh.cn
-0.0.0.0 ads.waps.cn
 0.0.0.0 lkme.cc
 0.0.0.0 www.203710.com
 0.0.0.0 updates-s3.binaryage.com
@@ -9165,7 +9161,6 @@
 0.0.0.0 a.mktw.net
 0.0.0.0 socom.es
 0.0.0.0 stats.ladotstats.nl
-0.0.0.0 c.adsco.re
 0.0.0.0 besacon.fr
 0.0.0.0 se.adserver.yahoo.com
 0.0.0.0 vda.oipzyrzffum.ovh
@@ -9334,11 +9329,13 @@
 0.0.0.0 www.topreward.site
 0.0.0.0 store-downloads.com
 0.0.0.0 www.pawnauctions.net
+0.0.0.0 ads.wapx.cn
 0.0.0.0 lovedonesproducts.com
 0.0.0.0 ehg-foxsports.hitbox.com
 0.0.0.0 arcadia1998.web.fc2.com
 0.0.0.0 bergeresdefrance.fr
 0.0.0.0 c2.somalisounds.com
+0.0.0.0 ad.sensismediasmart.com.au
 0.0.0.0 adquantum.fr
 0.0.0.0 hebdotop.com
 0.0.0.0 track.vivid.com
@@ -12544,6 +12541,7 @@
 0.0.0.0 niche247.trade
 0.0.0.0 ehg-pacifictheatres.hitbox.com
 0.0.0.0 bannersnack.fr
+0.0.0.0 ad.auditude.com
 0.0.0.0 ad.dk.doubleclick.net
 0.0.0.0 katch.ne.jp
 0.0.0.0 clckcloud.com
@@ -14018,6 +14016,7 @@
 0.0.0.0 productresearchpanel.com
 0.0.0.0 ldglob02.adtech.us
 0.0.0.0 mudmonster.org
+0.0.0.0 adcast.deviantart.com
 0.0.0.0 u3305.71.spylog.com
 0.0.0.0 jnova.cjt1.net
 0.0.0.0 meteon.org
@@ -14146,7 +14145,6 @@
 0.0.0.0 viagra-pill.blogspot.com
 0.0.0.0 littleduck.fr
 0.0.0.0 americankitchen.fr
-0.0.0.0 atdmt.com
 0.0.0.0 ehg-himedia.hitbox.com
 0.0.0.0 a-redirect.com
 0.0.0.0 adcode.adengage.com
@@ -14776,7 +14774,6 @@
 0.0.0.0 www.iovation.co.uk
 0.0.0.0 pourcentfilers.com
 0.0.0.0 global-redirect.net
-0.0.0.0 c.codeonclick.com
 0.0.0.0 timeofflife.com
 0.0.0.0 enpresse.1.p2l.info
 0.0.0.0 faceboook-replyei0ki.montadalitihad.com
@@ -17027,6 +17024,7 @@
 0.0.0.0 tattooshaha.info			# Facebook trojan
 0.0.0.0 www.gator.com
 0.0.0.0 j7.jmooreassoc.com
+0.0.0.0 api.airpush.com
 0.0.0.0 images.linkwithin.com
 0.0.0.0 clhctrk.com
 0.0.0.0 fejezet.com
@@ -18952,6 +18950,7 @@
 0.0.0.0 ads.koreanfriendfinder.com
 0.0.0.0 ncsf.fr
 0.0.0.0 w147.hitbox.com
+0.0.0.0 ad.3dnews.ru
 0.0.0.0 c5.somalisounds.com
 0.0.0.0 r7.romeflirt.com
 0.0.0.0 c.admob.com
@@ -19088,6 +19087,7 @@
 0.0.0.0 www.infinite-ads.com
 0.0.0.0 ams1-mobile.adnxs.com
 0.0.0.0 exipure.net
+0.0.0.0 ads.waps.cn
 0.0.0.0 krasnaya.co.uk
 0.0.0.0 mtvn.112.2o7.net
 0.0.0.0 ad.jp.doubleclick.net
@@ -28039,7 +28039,6 @@
 127.0.0.1 cymzc.com
 127.0.0.1 tg.yxdou.com
 127.0.0.1 www.aq44.com
-127.0.0.1 yingxiao.baidu.com
 127.0.0.1 statis.push.netease.com
 127.0.0.1 xl-trk.com
 127.0.0.1 baby.jiangongjixie.cn
@@ -28805,6 +28804,7 @@
 127.0.0.1 xpj28111.com
 127.0.0.1 www.securegfm.com
 127.0.0.1 buyu9956.com
+127.0.0.1 www.28830055.com
 127.0.0.1 worldmustbecrazy.j8inn1zektoe.com
 127.0.0.1 panther.adform.net
 127.0.0.1 g.yccdn.com
@@ -30914,6 +30914,7 @@
 0.0.0.0 www.kootiouths.com
 0.0.0.0 www.instorm.com
 0.0.0.0 5dtvhh.cfd
+0.0.0.0 www.shain-log4rtf.surge.sh
 0.0.0.0 www.archimediontravestora.cyou
 0.0.0.0 pl2.landovn.com
 0.0.0.0 bcaeuprod.112.2o7.net
@@ -34866,6 +34867,7 @@
 0.0.0.0 miroxa-viax.net
 0.0.0.0 cjq.be3q.ru
 0.0.0.0 www.szwedzka-chata.online
+0.0.0.0 aihealthcarecert.org
 0.0.0.0 www.brudnyromans.com
 0.0.0.0 watercancervirgo.top
 0.0.0.0 comicbookmovie.us.intellitxt.com
@@ -41026,6 +41028,7 @@
 0.0.0.0 lichtbitspire-app.com
 0.0.0.0 www.thepropertycatch.com
 0.0.0.0 openingpureed.lat
+0.0.0.0 www.hoglpolska.com
 0.0.0.0 www.matrix-ai-app.net
 0.0.0.0 fbpodgladacz.wordpress.com
 0.0.0.0 www.chonxahf.com
@@ -61775,6 +61778,7 @@
 0.0.0.0 www.tradezenonaisystem.com
 0.0.0.0 img.adtiming.com
 0.0.0.0 sklepguesspolska.com
+0.0.0.0 faktoriameblowa.online
 0.0.0.0 kurtkerem.com
 0.0.0.0 immediateaspect-app.net
 0.0.0.0 mobile.confsettings.com
@@ -62599,6 +62603,7 @@
 0.0.0.0 www.immediate-phoenix-engine.com
 0.0.0.0 www.telegfslhu.fan
 0.0.0.0 www.crypto-veltrixio.com
+0.0.0.0 us-west-2.event.prod.bidr.io
 0.0.0.0 www.stockblastpro.app
 0.0.0.0 upchemicals.co.in
 0.0.0.0 measure.vndirect.com.vn
@@ -62908,6 +62913,7 @@
 0.0.0.0 neitherref.my
 0.0.0.0 palmieroutlet.myshopify.com
 0.0.0.0 api.appmetrica.yandex.ru
+0.0.0.0 www.twoje-miasto.x9.eu
 0.0.0.0 www.bitgeldpro-platform.com
 0.0.0.0 www.telegkhbvf.work
 0.0.0.0 teiezmpthk.top
@@ -63550,6 +63556,7 @@
 0.0.0.0 erritz.xcartpro.com
 0.0.0.0 supermeble.shop
 0.0.0.0 interquestinteresting.top
+0.0.0.0 adtools.matrix-cash.com
 0.0.0.0 www.testewordpress.piquedigital.com.br
 0.0.0.0 www.temporary.nsx.pl
 0.0.0.0 adserver.news.com.au
@@ -73314,6 +73321,7 @@
 0.0.0.0 www.selanikokullari.com
 0.0.0.0 www.luronixtraderplatform.com
 0.0.0.0 adimages.sanomawsoy.fi
+0.0.0.0 woobids.com
 0.0.0.0 cspar.site
 0.0.0.0 corextrynopro.net
 0.0.0.0 huylac.com
@@ -74313,7 +74321,6 @@
 0.0.0.0 www.telegoympn.club
 0.0.0.0 ablink.comms.trainline.com
 0.0.0.0 skimresources.com
-0.0.0.0 sgp.o2o.api.xiaomi.com
 0.0.0.0 www.psiontlage.com
 0.0.0.0 www.kwiepinleg.org
 0.0.0.0 chain-reaction-trading.com
@@ -74530,6 +74537,7 @@
 0.0.0.0 www.olx-pl.poustelo.cfd
 0.0.0.0 smetrics.aaas.org
 0.0.0.0 tatlikeyif.com
+0.0.0.0 tmy8ery6b51v.netlify.app
 0.0.0.0 www.epure-paylensystem.com
 0.0.0.0 wmail-chat.com
 0.0.0.0 bitaimethod.info
@@ -78618,6 +78626,7 @@
 0.0.0.0 desv383oqqc0.cloudfront.net #[Popcorn Metrics]
 0.0.0.0 fvalid.appsflyer.com.akamaized.net
 0.0.0.0 www.smartofisu.online
+0.0.0.0 telegihag.quest
 0.0.0.0 powerabrain.site
 0.0.0.0 bidgear.com
 0.0.0.0 bodariri.com
@@ -81189,6 +81198,7 @@
 0.0.0.0 gamblingdeposit.com
 0.0.0.0 ladyluckclub.net
 0.0.0.0 1zone1.free.fr
+0.0.0.0 eliartekstilotomasyon.com
 0.0.0.0 www.btcalrex.com
 0.0.0.0 www.vinted.78456.me
 0.0.0.0 www.travelocityca.com
@@ -95352,6 +95362,7 @@
 0.0.0.0 immediate-iplex-20.com
 0.0.0.0 weejerrick.com
 0.0.0.0 d077aa.r.axf8.net
+0.0.0.0 www.qubitcoin-software.com
 0.0.0.0 www.fantomsombrix-app.com
 0.0.0.0 pl27.landovn.com
 0.0.0.0 www.quantuaccraxplatform.com
@@ -97597,6 +97608,7 @@
 0.0.0.0 pqwaker.altervista.org
 0.0.0.0 targeting.unrulymedia.com
 0.0.0.0 hamsha.com
+0.0.0.0 harconsumer.112.2o7.net
 0.0.0.0 www.mondayklever.com
 0.0.0.0 tshirtartcontest.com
 0.0.0.0 www.caly-film.refy.pl
@@ -97945,6 +97957,7 @@
 0.0.0.0 gry-vulkanvegas-pl.com
 0.0.0.0 www.spot30sanorexapp.com
 0.0.0.0 spot-codrix.com
+0.0.0.0 www.krzepiak.com
 0.0.0.0 teleginzxi.asia
 0.0.0.0 learn4fun.org
 0.0.0.0 www.staatrixgen-ai.com
@@ -111208,6 +111221,7 @@
 0.0.0.0 dennisgaragedoors.com
 0.0.0.0 www.buyelectro.pl
 0.0.0.0 satliandgy.com
+0.0.0.0 www.bit-bumex.net
 0.0.0.0 www.dczlzypogzv.work
 0.0.0.0 telegsxza.skin
 0.0.0.0 immediateprofit-app.net
@@ -117219,7 +117233,6 @@
 0.0.0.0 adpulsex.com
 0.0.0.0 situational-judgement-test.com
 0.0.0.0 logger.adthrive.com
-0.0.0.0 tracking.medpagetoday.com
 0.0.0.0 clairongainlux.net
 0.0.0.0 bestpromosoffers.world
 0.0.0.0 www.btciplex.com
@@ -119287,7 +119300,6 @@
 0.0.0.0 aqualorentiumaristorq.icu
 0.0.0.0 stportal.eclick.vn
 0.0.0.0 immediateblast.com
-0.0.0.0 inatv.pl
 0.0.0.0 coin777br.online
 0.0.0.0 www.xblackh.cfd
 0.0.0.0 msmobiles.de.intellitxt.com
