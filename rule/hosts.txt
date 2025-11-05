@@ -1,4 +1,4 @@
-# Update time: 2025-11-04 20:59:14
+# Update time: 2025-11-05 10:05:14
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2512,6 +2512,7 @@
 0.0.0.0 sestat.baidu.com
 0.0.0.0 qi.wndlkj.com
 0.0.0.0 e.joyxv.com
+0.0.0.0 edge.quantserve.com
 0.0.0.0 rtb.adview.cn
 0.0.0.0 game.baichuanhd.cn
 0.0.0.0 cf-ad.ad-stir.com
@@ -5025,7 +5026,6 @@
 0.0.0.0 js.moatads.com
 0.0.0.0 m.168ey.com
 0.0.0.0 ssh.hbhtbn.com
-0.0.0.0 ads.intergi.com
 0.0.0.0 lg2.jointreport-switch.com
 0.0.0.0 s.go.sohu.com
 0.0.0.0 m.649649.com
@@ -7177,6 +7177,7 @@
 0.0.0.0 c16cp358.com
 0.0.0.0 g.koowo.com
 0.0.0.0 js.sghjtc.xyz
+0.0.0.0 ds.serving-sys.com
 0.0.0.0 mmg.aty.cp45.ott.cibntv.net
 0.0.0.0 wap.tanwan.com
 0.0.0.0 cdn.aiclicash.com
@@ -9160,7 +9161,6 @@
 0.0.0.0 imserv001.adtech.us
 0.0.0.0 xphones-2019.info
 0.0.0.0 cbsspln.112.2o7.net
-0.0.0.0 edge.quantserve.com
 0.0.0.0 counter2.hitbox.com
 0.0.0.0 opsonew3org.sg
 0.0.0.0 ads7.advance.net
@@ -13732,6 +13732,7 @@
 0.0.0.0 oasc09.247realmedia.com
 0.0.0.0 track.msadcenter.toj.com
 0.0.0.0 oralse.ca
+0.0.0.0 ads.intergi.com
 0.0.0.0 no.adserver.yahoo.com
 0.0.0.0 www.camion.idps.co.uk
 0.0.0.0 doesok.top
@@ -17478,7 +17479,6 @@
 0.0.0.0 dnslogs.net
 0.0.0.0 www.traktrafficflow.com
 0.0.0.0 7x.cc
-0.0.0.0 ds.serving-sys.com
 0.0.0.0 addstock.co.uk
 0.0.0.0 ad4.adfarm1.adition.com
 0.0.0.0 ads.gamespyid.com
@@ -28805,7 +28805,6 @@
 127.0.0.1 xpj28111.com
 127.0.0.1 www.securegfm.com
 127.0.0.1 buyu9956.com
-127.0.0.1 www.28830055.com
 127.0.0.1 worldmustbecrazy.j8inn1zektoe.com
 127.0.0.1 panther.adform.net
 127.0.0.1 g.yccdn.com
@@ -47989,7 +47988,6 @@
 0.0.0.0 slimxxxtubebnd.ddns.name
 0.0.0.0 bertklanmo.com
 0.0.0.0 www.qilexotrader26ai-app.com
-0.0.0.0 valmarionthesia.sbs
 0.0.0.0 trade350engine.com
 0.0.0.0 stats.dongphim.net
 0.0.0.0 energypulse.lat
@@ -65765,7 +65763,6 @@
 0.0.0.0 www.eurosystem-platform.com
 0.0.0.0 www.telegqvsz.homes
 0.0.0.0 www.algoamrix.co
-0.0.0.0 sawmillscotland.com
 0.0.0.0 www.tradenix-ai-soft.com
 0.0.0.0 aolwbautoblog.122.2o7.net
 0.0.0.0 navdmp.com
@@ -74317,7 +74314,6 @@
 0.0.0.0 www.telegoympn.club
 0.0.0.0 ablink.comms.trainline.com
 0.0.0.0 skimresources.com
-0.0.0.0 sgp.o2o.api.xiaomi.com
 0.0.0.0 www.psiontlage.com
 0.0.0.0 www.kwiepinleg.org
 0.0.0.0 chain-reaction-trading.com
@@ -81193,6 +81189,7 @@
 0.0.0.0 gamblingdeposit.com
 0.0.0.0 ladyluckclub.net
 0.0.0.0 1zone1.free.fr
+0.0.0.0 eliartekstilotomasyon.com
 0.0.0.0 www.btcalrex.com
 0.0.0.0 www.vinted.78456.me
 0.0.0.0 www.travelocityca.com
@@ -81724,7 +81721,6 @@
 0.0.0.0 www.loading-delivery2.com
 0.0.0.0 2yggs7.lat
 0.0.0.0 agroteks-gbi.online
-0.0.0.0 file.blackint3.com
 0.0.0.0 pubmatic-winners-us-east-1-rtb.adroll.com
 0.0.0.0 aereluxeron.net
 0.0.0.0 guru3d.us.intellitxt.com
@@ -97949,7 +97945,6 @@
 0.0.0.0 gry-vulkanvegas-pl.com
 0.0.0.0 www.spot30sanorexapp.com
 0.0.0.0 spot-codrix.com
-0.0.0.0 www.krzepiak.com
 0.0.0.0 teleginzxi.asia
 0.0.0.0 learn4fun.org
 0.0.0.0 www.staatrixgen-ai.com
@@ -104288,7 +104283,6 @@
 0.0.0.0 dmp-log.yomedia.vn
 0.0.0.0 traffic.buyservices.com
 0.0.0.0 st-a.anthill.vn
-0.0.0.0 rigtradeline.com
 0.0.0.0 corvandilix.icu
 0.0.0.0 www.roadlow.xyz
 0.0.0.0 startnow.com
