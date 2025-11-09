@@ -1,4 +1,4 @@
-# Update time: 2025-11-09 10:08:40
+# Update time: 2025-11-09 20:49:24
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2509,6 +2509,7 @@
 0.0.0.0 jecoglegru.com
 0.0.0.0 m.dceni.com
 0.0.0.0 seordl.cn
+0.0.0.0 admd.yam.com
 0.0.0.0 sestat.baidu.com
 0.0.0.0 qi.wndlkj.com
 0.0.0.0 e.joyxv.com
@@ -3878,7 +3879,6 @@
 0.0.0.0 download.adsage.com
 0.0.0.0 cdn.viccscxz.cn
 0.0.0.0 www.vangmobi.com
-0.0.0.0 eu-gmtdmp.gd1.mookie1.com
 0.0.0.0 adp.propellerads.com
 0.0.0.0 wap.txwdn.com
 0.0.0.0 ad.pixnet.net
@@ -4161,6 +4161,7 @@
 0.0.0.0 scene.vip.xunlei.com
 0.0.0.0 dvser02.china.com
 0.0.0.0 a.ad7.com
+0.0.0.0 cas.criteo.com
 0.0.0.0 pixel-a.sitescout.com
 0.0.0.0 12i.cn
 0.0.0.0 cdntest.a8tiyu.com
@@ -4354,6 +4355,7 @@
 0.0.0.0 cdn.adinall.com
 0.0.0.0 api-metrics-e2e.nonprod.flurry.com
 0.0.0.0 c3.gostats.cn
+0.0.0.0 ad.auditude.com
 0.0.0.0 www.qchannel01.cn
 0.0.0.0 media.tianjimedia.com
 0.0.0.0 rcv.union-wifi.com
@@ -9165,7 +9167,6 @@
 0.0.0.0 promo.mes-meilleurs-films.fr
 0.0.0.0 play-poker-free.forsearch.net
 0.0.0.0 glassesofwine.com
-0.0.0.0 admd.yam.com
 0.0.0.0 audacity.pl
 0.0.0.0 weight-loss.hut1.ru
 0.0.0.0 online-forex-trading-systems.blogspot.com
@@ -11627,6 +11628,7 @@
 0.0.0.0 fe.lea.lycos.es
 0.0.0.0 oamsrhads.us.publicus.com
 0.0.0.0 partner.magna.ru
+0.0.0.0 eu-gmtdmp.gd1.mookie1.com
 0.0.0.0 text-link-ads.com
 0.0.0.0 paintnet.es
 0.0.0.0 sunmaker.com
@@ -12185,7 +12187,6 @@
 0.0.0.0 ca-biepicardie.fr
 0.0.0.0 festicolor.fr
 0.0.0.0 wv.5.p2l.info
-0.0.0.0 cas.criteo.com
 0.0.0.0 techreview.adbureau.net
 0.0.0.0 oascentral.fortunecity.com
 0.0.0.0 tracking.craktraffic.com
@@ -12533,7 +12534,6 @@
 0.0.0.0 niche247.trade
 0.0.0.0 ehg-pacifictheatres.hitbox.com
 0.0.0.0 bannersnack.fr
-0.0.0.0 ad.auditude.com
 0.0.0.0 ad.dk.doubleclick.net
 0.0.0.0 katch.ne.jp
 0.0.0.0 clckcloud.com
@@ -28805,6 +28805,7 @@
 127.0.0.1 xpj28111.com
 127.0.0.1 www.securegfm.com
 127.0.0.1 buyu9956.com
+127.0.0.1 www.28830055.com
 127.0.0.1 worldmustbecrazy.j8inn1zektoe.com
 127.0.0.1 panther.adform.net
 127.0.0.1 g.yccdn.com
@@ -40496,6 +40497,7 @@
 0.0.0.0 rynox-stride-aiapp.net
 0.0.0.0 www.oltharenquessa.cyou
 0.0.0.0 banners.crakcash.com
+0.0.0.0 www.olajgarden.pl
 0.0.0.0 www.ethereumolux17x.com
 0.0.0.0 www.hard-vs-softgolfballs.net
 0.0.0.0 austin.logs.roku.com
@@ -75708,6 +75710,7 @@
 0.0.0.0 registeredagentsinmississippi.com
 0.0.0.0 ablink.comms.trainline.com
 0.0.0.0 skimresources.com
+0.0.0.0 sgp.o2o.api.xiaomi.com
 0.0.0.0 www.psiontlage.com
 0.0.0.0 www.kwiepinleg.org
 0.0.0.0 chain-reaction-trading.com
@@ -121986,6 +121989,7 @@
 0.0.0.0 stportal.eclick.vn
 0.0.0.0 immediateblast.com
 0.0.0.0 deepseekv3-trader.com
+0.0.0.0 inatv.pl
 0.0.0.0 coin777br.online
 0.0.0.0 www.xblackh.cfd
 0.0.0.0 msmobiles.de.intellitxt.com
