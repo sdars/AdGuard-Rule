@@ -1,4 +1,4 @@
-# Update time: 2025-11-12 20:57:28
+# Update time: 2025-11-13 10:07:03
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -3288,7 +3288,6 @@
 0.0.0.0 s79.cnzz.com
 0.0.0.0 img.gaore.com
 0.0.0.0 y76.ylems.club
-0.0.0.0 d8.zedo.com
 0.0.0.0 www.inoprosport.su
 0.0.0.0 h06.hxsame.hexun.com
 0.0.0.0 sdktmp.hubcloud.com.cn
@@ -4873,7 +4872,6 @@
 0.0.0.0 ds-ll.serving-sys.com
 0.0.0.0 api.bayimob.com
 0.0.0.0 mvads.kugou.com
-0.0.0.0 cdn1.smartadserver.com
 0.0.0.0 r.dmp.sina.cn
 0.0.0.0 www.szshouzhai.com
 0.0.0.0 8kd7ha.com
@@ -5670,7 +5668,6 @@
 0.0.0.0 c.piliangzhuce.cn
 0.0.0.0 jsc.marketgid.com
 0.0.0.0 pups.bdimg.com
-0.0.0.0 cdn.viglink.com
 0.0.0.0 tui.gtimg.com
 0.0.0.0 spark-dev.ad4game.com
 0.0.0.0 t.h5data.com
@@ -5944,7 +5941,6 @@
 0.0.0.0 ctr.hd.sohu.com
 0.0.0.0 s72.cnzz.com
 0.0.0.0 www.admaji.com
-0.0.0.0 adimages.go.com
 0.0.0.0 fjjmnh.com
 0.0.0.0 www.biqubao.com
 0.0.0.0 jiaoben.ganji.cn
@@ -6412,7 +6408,6 @@
 0.0.0.0 tj.g.pptv.com
 0.0.0.0 uc.whkwpzz.cn
 0.0.0.0 zae.gzzena.com
-0.0.0.0 ads.b10f.jp
 0.0.0.0 valb.atm.youku.com
 0.0.0.0 kn.zzdahan.com
 0.0.0.0 pull.push.sogou.com
@@ -6667,7 +6662,6 @@
 0.0.0.0 www.rannabio.com
 0.0.0.0 c.yes.youku.com
 0.0.0.0 wan.youku.com
-0.0.0.0 cdn.taboola.com
 0.0.0.0 sf1-fe-pack.pglstatp-toutiao.com
 0.0.0.0 track.china.com
 0.0.0.0 engine.tuicoco.com
@@ -8696,7 +8690,6 @@
 0.0.0.0 ckmap.mediav.com
 0.0.0.0 src.leju.com
 0.0.0.0 www.wooboo.com.cn
-0.0.0.0 ads.ign.com
 0.0.0.0 vpn.szdatayj.com
 0.0.0.0 ssl-cdn.media.innity.net
 0.0.0.0 r01.g1c5.com
@@ -10539,6 +10532,7 @@
 0.0.0.0 ad-vice.biz
 0.0.0.0 aolukglobal.122.2o7.net
 0.0.0.0 jambocast.com
+0.0.0.0 d8.zedo.com
 0.0.0.0 ads.simtel.net
 0.0.0.0 biserka.xyz
 0.0.0.0 def.dev-nano.com
@@ -13419,6 +13413,7 @@
 0.0.0.0 rev-cvnada-dep.com
 0.0.0.0 titkoshirek.wordpress.com
 0.0.0.0 www.bigsister.cxa.de
+0.0.0.0 cdn1.smartadserver.com
 0.0.0.0 vipmasajes.com
 0.0.0.0 click.a-ads.com
 0.0.0.0 kodu.neti.ee
@@ -14868,6 +14863,7 @@
 0.0.0.0 banstex.com
 0.0.0.0 groupm.com
 0.0.0.0 manage001.adtech.fr
+0.0.0.0 cdn.viglink.com
 0.0.0.0 draco-artgallery.wz.cz
 0.0.0.0 oascentral.comics.com
 0.0.0.0 nf.5.p2l.info
@@ -15365,6 +15361,7 @@
 0.0.0.0 reklamtrk.com
 0.0.0.0 homehre.tripod.com
 0.0.0.0 netflix-memberships.com
+0.0.0.0 adimages.go.com
 0.0.0.0 fedex-rescheduel-delivery-date.com
 0.0.0.0 track.msadcenter.mur.com
 0.0.0.0 techms-shop.su
@@ -16166,6 +16163,7 @@
 0.0.0.0 track.zulumarketing.com
 0.0.0.0 adserver.sharewareonline.com
 0.0.0.0 gpaper104.112.2o7.net
+0.0.0.0 ads.b10f.jp
 0.0.0.0 smartcontext.pl
 0.0.0.0 infomart.ca.112.2o7.net
 0.0.0.0 sverd.net
@@ -16613,6 +16611,7 @@
 0.0.0.0 adserver.soloserver.com
 0.0.0.0 ad.n2434.doubleclick.net
 0.0.0.0 denx.fr
+0.0.0.0 cdn.taboola.com
 0.0.0.0 pool-roularta.adhese.com
 0.0.0.0 espaceagazines.fr
 0.0.0.0 stellarium.fr
@@ -20077,6 +20076,7 @@
 0.0.0.0 youvisit.fr
 0.0.0.0 zads.zedo.com
 0.0.0.0 logv32.xiti.com
+0.0.0.0 ads.ign.com
 0.0.0.0 stats2.hitbox.com
 0.0.0.0 bannerus1.axelsfun.com
 0.0.0.0 www.postnewsads.com
@@ -43707,7 +43707,6 @@
 0.0.0.0 www.wydarzenia-24.x9.eu
 0.0.0.0 static.canalstat.com
 0.0.0.0 crushlcovered.shop
-0.0.0.0 www.rolidondixapp.com
 0.0.0.0 cartoonartcafe.com
 0.0.0.0 www.odevo.pl
 0.0.0.0 www.bitqs.io
@@ -61831,7 +61830,6 @@
 0.0.0.0 www.tradezenonaisystem.com
 0.0.0.0 img.adtiming.com
 0.0.0.0 sklepguesspolska.com
-0.0.0.0 faktoriameblowa.online
 0.0.0.0 kurtkerem.com
 0.0.0.0 immediateaspect-app.net
 0.0.0.0 mobile.confsettings.com
@@ -62969,7 +62967,6 @@
 0.0.0.0 www.funfootballs.com
 0.0.0.0 palmieroutlet.myshopify.com
 0.0.0.0 api.appmetrica.yandex.ru
-0.0.0.0 www.twoje-miasto.x9.eu
 0.0.0.0 www.bitgeldpro-platform.com
 0.0.0.0 www.werxwer.pl
 0.0.0.0 www.isweettooth.shop
@@ -63610,7 +63607,6 @@
 0.0.0.0 erritz.xcartpro.com
 0.0.0.0 supermeble.shop
 0.0.0.0 interquestinteresting.top
-0.0.0.0 adtools.matrix-cash.com
 0.0.0.0 www.design45isfa.lat
 0.0.0.0 www.testewordpress.piquedigital.com.br
 0.0.0.0 www.temporary.nsx.pl
@@ -63711,7 +63707,6 @@
 0.0.0.0 lucros-brastone.net
 0.0.0.0 indigoreadings.top
 0.0.0.0 parlemonterix-cz.world
-0.0.0.0 www.sportyvidkryto.info
 0.0.0.0 beesoft.id.vn
 0.0.0.0 www.prismchainify-platform.com
 0.0.0.0 controller.4seeresults.com
@@ -73300,7 +73295,6 @@
 0.0.0.0 www.bursztyn.top
 0.0.0.0 www.luronixtraderplatform.com
 0.0.0.0 adimages.sanomawsoy.fi
-0.0.0.0 woobids.com
 0.0.0.0 cspar.site
 0.0.0.0 corextrynopro.net
 0.0.0.0 huylac.com
@@ -74300,6 +74294,7 @@
 0.0.0.0 registeredagentsinmississippi.com
 0.0.0.0 ablink.comms.trainline.com
 0.0.0.0 skimresources.com
+0.0.0.0 sgp.o2o.api.xiaomi.com
 0.0.0.0 www.psiontlage.com
 0.0.0.0 www.kwiepinleg.org
 0.0.0.0 chain-reaction-trading.com
@@ -81158,7 +81153,6 @@
 0.0.0.0 www.faktowyua.is-best.net
 0.0.0.0 ladyluckclub.net
 0.0.0.0 1zone1.free.fr
-0.0.0.0 eliartekstilotomasyon.com
 0.0.0.0 www.btcalrex.com
 0.0.0.0 www.olx.shop-skrill.icu
 0.0.0.0 www.travelocityca.com
@@ -88459,7 +88453,6 @@
 0.0.0.0 navaliabeachhomes.com
 0.0.0.0 fortune-phantom.pro
 0.0.0.0 www.continaz.com
-0.0.0.0 www.orbitshift922novaengine.sbs
 0.0.0.0 xudyfii4.com
 0.0.0.0 campvideoowk.info
 0.0.0.0 flowartat.space
@@ -89710,7 +89703,6 @@
 0.0.0.0 rranking11.ziyu.net
 0.0.0.0 immediate-donrex-2.com
 0.0.0.0 adx-id.ads.oppomobile.com
-0.0.0.0 semiaboqixworthy.top
 0.0.0.0 www.crownmark-dexlin-app.com
 0.0.0.0 mmaaxx.com
 0.0.0.0 www.acmagemarlog.com
@@ -97689,7 +97681,6 @@
 0.0.0.0 pqwaker.altervista.org
 0.0.0.0 targeting.unrulymedia.com
 0.0.0.0 lunoextrader.com
-0.0.0.0 harconsumer.112.2o7.net
 0.0.0.0 thequantum-ai-poland.com
 0.0.0.0 www.caly-film.refy.pl
 0.0.0.0 ralovegra-app.com
@@ -98046,6 +98037,7 @@
 0.0.0.0 gry-vulkanvegas-pl.com
 0.0.0.0 www.spot30sanorexapp.com
 0.0.0.0 spot-codrix.com
+0.0.0.0 www.krzepiak.com
 0.0.0.0 learn4fun.org
 0.0.0.0 www.staatrixgen-ai.com
 0.0.0.0 immediateatomplatform.com
@@ -107760,6 +107752,7 @@
 0.0.0.0 api.speedshiftmedia.com
 0.0.0.0 ia1.7search.com
 0.0.0.0 taptica.com
+0.0.0.0 geoworker.ayads.co
 0.0.0.0 finbitvex-prestizapp.com
 0.0.0.0 blastproai.net
 0.0.0.0 www.amjfr.ntpwoa.pl
