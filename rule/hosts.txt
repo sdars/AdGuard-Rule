@@ -1,4 +1,4 @@
-# Update time: 2025-11-24 10:18:52
+# Update time: 2025-11-24 20:58:02
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2512,7 +2512,6 @@
 0.0.0.0 sestat.baidu.com
 0.0.0.0 qi.wndlkj.com
 0.0.0.0 e.joyxv.com
-0.0.0.0 edge.quantserve.com
 0.0.0.0 rtb.adview.cn
 0.0.0.0 game.baichuanhd.cn
 0.0.0.0 cf-ad.ad-stir.com
@@ -5026,7 +5025,6 @@
 0.0.0.0 js.moatads.com
 0.0.0.0 m.168ey.com
 0.0.0.0 ssh.hbhtbn.com
-0.0.0.0 ads.intergi.com
 0.0.0.0 lg2.jointreport-switch.com
 0.0.0.0 s.go.sohu.com
 0.0.0.0 m.649649.com
@@ -6773,7 +6771,6 @@
 0.0.0.0 wtradv.market.xiaomi.com
 0.0.0.0 t4.agrantsem.com
 0.0.0.0 wl.houyi.baofeng.net
-0.0.0.0 clk.atdmt.com
 0.0.0.0 a2.openxt.cn
 0.0.0.0 m.vjuei.com
 0.0.0.0 wm.69shi.cn
@@ -7179,7 +7176,6 @@
 0.0.0.0 c16cp358.com
 0.0.0.0 g.koowo.com
 0.0.0.0 js.sghjtc.xyz
-0.0.0.0 ds.serving-sys.com
 0.0.0.0 mmg.aty.cp45.ott.cibntv.net
 0.0.0.0 wap.tanwan.com
 0.0.0.0 cdn.aiclicash.com
@@ -7713,7 +7709,6 @@
 0.0.0.0 jupin.mediav.com
 0.0.0.0 s122.cnzz.com
 0.0.0.0 zhidian3g.cn
-0.0.0.0 d.adroll.com
 0.0.0.0 service.epro.sogou.com
 0.0.0.0 tantanapp.com
 0.0.0.0 nad-stage1.ad-stir.com
@@ -8169,13 +8164,11 @@
 0.0.0.0 js74.yqjxzw.com
 0.0.0.0 aecpm.alicdn.com
 0.0.0.0 panda.kdnet.net
-0.0.0.0 cdn.adnxs.com
 0.0.0.0 afp.alicdn.com
 0.0.0.0 dsp.simba.taobao.com
 0.0.0.0 s3m.mediav.com
 0.0.0.0 s1.adform.net
 0.0.0.0 s.abcache.com
-0.0.0.0 ads.globo.com
 0.0.0.0 cmpp.gentags.net
 0.0.0.0 js3492.yongkang6.com
 0.0.0.0 jy.ggweb.net
@@ -8684,7 +8677,6 @@
 0.0.0.0 ckmap.mediav.com
 0.0.0.0 src.leju.com
 0.0.0.0 www.wooboo.com.cn
-0.0.0.0 ads.ign.com
 0.0.0.0 vpn.szdatayj.com
 0.0.0.0 ssl-cdn.media.innity.net
 0.0.0.0 r01.g1c5.com
@@ -9166,6 +9158,7 @@
 0.0.0.0 imserv001.adtech.us
 0.0.0.0 xphones-2019.info
 0.0.0.0 cbsspln.112.2o7.net
+0.0.0.0 edge.quantserve.com
 0.0.0.0 counter2.hitbox.com
 0.0.0.0 opsonew3org.sg
 0.0.0.0 ads7.advance.net
@@ -13736,6 +13729,7 @@
 0.0.0.0 oasc09.247realmedia.com
 0.0.0.0 track.msadcenter.toj.com
 0.0.0.0 oralse.ca
+0.0.0.0 ads.intergi.com
 0.0.0.0 no.adserver.yahoo.com
 0.0.0.0 www.camion.idps.co.uk
 0.0.0.0 doesok.top
@@ -16814,6 +16808,7 @@
 0.0.0.0 xml.realtime-bid.com
 0.0.0.0 tiplanet.fr
 0.0.0.0 shockgore.com
+0.0.0.0 clk.atdmt.com
 0.0.0.0 cablyshaw.com
 0.0.0.0 microsoftwindows.112.2o7.net
 0.0.0.0 gpaper195.112.2o7.net
@@ -17482,6 +17477,7 @@
 0.0.0.0 dnslogs.net
 0.0.0.0 www.traktrafficflow.com
 0.0.0.0 7x.cc
+0.0.0.0 ds.serving-sys.com
 0.0.0.0 addstock.co.uk
 0.0.0.0 ad4.adfarm1.adition.com
 0.0.0.0 ads.gamespyid.com
@@ -18457,6 +18453,7 @@
 0.0.0.0 afftracking.justanswer.com
 0.0.0.0 nc.ru.redtram.com
 0.0.0.0 erectile.byethost33.com
+0.0.0.0 d.adroll.com
 0.0.0.0 gamerz123.com
 0.0.0.0 foxsimpsons.112.2o7.net
 0.0.0.0 izmsj.co.jp
@@ -19233,6 +19230,7 @@
 0.0.0.0 clicktrack.onlineemailmarketing.com
 0.0.0.0 adserve5.nikkeibp.co.jp
 0.0.0.0 jgen40.cjt1.net
+0.0.0.0 cdn.adnxs.com
 0.0.0.0 madeleinekrook.nl
 0.0.0.0 vhowland.co.uk
 0.0.0.0 jgen12.cjt1.net
@@ -19247,6 +19245,7 @@
 0.0.0.0 clickit.go2net.com
 0.0.0.0 modlily.net
 0.0.0.0 code.adtlgc.com
+0.0.0.0 ads.globo.com
 0.0.0.0 tcimg.com
 0.0.0.0 ads.mefeedia.com
 0.0.0.0 ehg-careerbuilder.hitbox.com
@@ -20077,6 +20076,7 @@
 0.0.0.0 youvisit.fr
 0.0.0.0 zads.zedo.com
 0.0.0.0 logv32.xiti.com
+0.0.0.0 ads.ign.com
 0.0.0.0 stats2.hitbox.com
 0.0.0.0 bannerus1.axelsfun.com
 0.0.0.0 www.postnewsads.com
@@ -31599,7 +31599,6 @@
 0.0.0.0 www.torgadotradersystem.com
 0.0.0.0 plataforma-finxorgpt.net
 0.0.0.0 axelonbit-app.com
-0.0.0.0 sslstatic.yomedia.vn
 0.0.0.0 banners.thirdmovies.com
 0.0.0.0 cmokx.com
 0.0.0.0 scardshocc.world
@@ -57054,7 +57053,6 @@
 0.0.0.0 collect.adsorb.com
 0.0.0.0 maxtracker.net
 0.0.0.0 track.addict-mobile.net
-0.0.0.0 joypath.info
 0.0.0.0 immediate-capexai.net
 0.0.0.0 tradilum.com
 0.0.0.0 xelmarionethonet.sbs
@@ -65918,6 +65916,7 @@
 0.0.0.0 karbondengeleme.com
 0.0.0.0 www.bitbinvest.pro
 0.0.0.0 logc149.xiti.com
+0.0.0.0 2yt27.lat
 0.0.0.0 img.macromill.com
 0.0.0.0 ali1761663999154.aliexpressmarketing.cc
 0.0.0.0 api.jeeng.com
@@ -69548,6 +69547,7 @@
 0.0.0.0 ablink.comms.trainline.com
 0.0.0.0 skimresources.com
 0.0.0.0 rtsm.xyz
+0.0.0.0 sgp.o2o.api.xiaomi.com
 0.0.0.0 chain-reaction-trading.com
 0.0.0.0 luvirexbitapp.com
 0.0.0.0 www.ankarasertifika.net
@@ -89157,7 +89157,6 @@
 0.0.0.0 tradenexusapp.net
 0.0.0.0 www.saynototyranny.org
 0.0.0.0 watanet.work
-0.0.0.0 stred-finoria-app.com
 0.0.0.0 www.theimmediate-avonex.com
 0.0.0.0 smaad.jp
 0.0.0.0 uk2.thor.rtk.io
@@ -93442,7 +93441,6 @@
 0.0.0.0 dobitakur-platform.com
 0.0.0.0 www.oferta21837381.icu
 0.0.0.0 am.adlooxtracking.com
-0.0.0.0 ideoclick.com
 0.0.0.0 www.ballisoprano.com
 0.0.0.0 www.synaptikron.com
 0.0.0.0 www.vs9svidetelstvo.top
@@ -94162,7 +94160,6 @@
 0.0.0.0 repubblikkensi.info
 0.0.0.0 econn.consultcapps.com
 0.0.0.0 www.chainwizard-ai.com
-0.0.0.0 pulsarforge460titanline.sbs
 0.0.0.0 www.uyuiiiuo.weebly.com
 0.0.0.0 default.exp-tas.com
 0.0.0.0 vinted.pl-4428529.cfd
@@ -110257,6 +110254,7 @@
 0.0.0.0 stportal.eclick.vn
 0.0.0.0 immediateblast.com
 0.0.0.0 deepseekv3-trader.com
+0.0.0.0 inatv.pl
 0.0.0.0 msmobiles.de.intellitxt.com
 0.0.0.0 crypfoxz.xyz
 0.0.0.0 wapster.pl
@@ -110924,7 +110922,6 @@
 0.0.0.0 restilen.pl
 0.0.0.0 vovawia.com
 0.0.0.0 lumivorenth.com
-0.0.0.0 www.futurapotere.world
 0.0.0.0 fakty30a.is-best.net
 0.0.0.0 ads.bulldogcpi.com
 0.0.0.0 pacyfka99.pl
