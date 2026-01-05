@@ -1,4 +1,4 @@
-# Update time: 2026-01-05 10:33:13
+# Update time: 2026-01-05 21:03:27
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2512,6 +2512,7 @@
 0.0.0.0 sestat.baidu.com
 0.0.0.0 qi.wndlkj.com
 0.0.0.0 e.joyxv.com
+0.0.0.0 edge.quantserve.com
 0.0.0.0 rtb.adview.cn
 0.0.0.0 game.baichuanhd.cn
 0.0.0.0 cf-ad.ad-stir.com
@@ -3195,6 +3196,7 @@
 0.0.0.0 uimg.123hala.com
 0.0.0.0 ec.kejet.net
 0.0.0.0 www.jiedaibao.com
+0.0.0.0 ck.juicyads.com
 0.0.0.0 munion.mediav.com
 0.0.0.0 df.tanx.com
 0.0.0.0 weizjzg.com
@@ -3286,6 +3288,7 @@
 0.0.0.0 s79.cnzz.com
 0.0.0.0 img.gaore.com
 0.0.0.0 y76.ylems.club
+0.0.0.0 d8.zedo.com
 0.0.0.0 www.inoprosport.su
 0.0.0.0 h06.hxsame.hexun.com
 0.0.0.0 sdktmp.hubcloud.com.cn
@@ -3877,6 +3880,7 @@
 0.0.0.0 download.adsage.com
 0.0.0.0 cdn.viccscxz.cn
 0.0.0.0 www.vangmobi.com
+0.0.0.0 eu-gmtdmp.gd1.mookie1.com
 0.0.0.0 adp.propellerads.com
 0.0.0.0 wap.txwdn.com
 0.0.0.0 ad.pixnet.net
@@ -6736,6 +6740,7 @@
 0.0.0.0 www.zhzzx.com
 0.0.0.0 3.up.qingdaonews.com
 0.0.0.0 rd.adn.agrantsem.com
+0.0.0.0 data.flurry.com
 0.0.0.0 pc.da.mgtv.com
 0.0.0.0 yxyhtea.com
 0.0.0.0 ad.sohu.com
@@ -7180,6 +7185,7 @@
 0.0.0.0 c16cp358.com
 0.0.0.0 g.koowo.com
 0.0.0.0 js.sghjtc.xyz
+0.0.0.0 ds.serving-sys.com
 0.0.0.0 mmg.aty.cp45.ott.cibntv.net
 0.0.0.0 wap.tanwan.com
 0.0.0.0 cdn.aiclicash.com
@@ -8175,7 +8181,6 @@
 0.0.0.0 s3m.mediav.com
 0.0.0.0 s1.adform.net
 0.0.0.0 s.abcache.com
-0.0.0.0 ads.globo.com
 0.0.0.0 cmpp.gentags.net
 0.0.0.0 js3492.yongkang6.com
 0.0.0.0 jy.ggweb.net
@@ -8684,7 +8689,6 @@
 0.0.0.0 ckmap.mediav.com
 0.0.0.0 src.leju.com
 0.0.0.0 www.wooboo.com.cn
-0.0.0.0 ads.ign.com
 0.0.0.0 vpn.szdatayj.com
 0.0.0.0 ssl-cdn.media.innity.net
 0.0.0.0 r01.g1c5.com
@@ -9166,7 +9170,6 @@
 0.0.0.0 imserv001.adtech.us
 0.0.0.0 xphones-2019.info
 0.0.0.0 cbsspln.112.2o7.net
-0.0.0.0 edge.quantserve.com
 0.0.0.0 counter2.hitbox.com
 0.0.0.0 opsonew3org.sg
 0.0.0.0 ads7.advance.net
@@ -10383,7 +10386,6 @@
 0.0.0.0 purryowl.com
 0.0.0.0 counter26.bravenet.com
 0.0.0.0 urlreload.net
-0.0.0.0 ck.juicyads.com
 0.0.0.0 www.wegetpaid.net
 0.0.0.0 oascentral.phoenixvillenews.com
 0.0.0.0 view.binlayer.com
@@ -10529,7 +10531,6 @@
 0.0.0.0 ad-vice.biz
 0.0.0.0 aolukglobal.122.2o7.net
 0.0.0.0 jambocast.com
-0.0.0.0 d8.zedo.com
 0.0.0.0 ads.simtel.net
 0.0.0.0 biserka.xyz
 0.0.0.0 def.dev-nano.com
@@ -11623,7 +11624,6 @@
 0.0.0.0 fe.lea.lycos.es
 0.0.0.0 oamsrhads.us.publicus.com
 0.0.0.0 partner.magna.ru
-0.0.0.0 eu-gmtdmp.gd1.mookie1.com
 0.0.0.0 text-link-ads.com
 0.0.0.0 paintnet.es
 0.0.0.0 sunmaker.com
@@ -16741,7 +16741,6 @@
 0.0.0.0 hirado.top
 0.0.0.0 ph-ad16.focalink.com
 0.0.0.0 ww1510.smartadserver.com
-0.0.0.0 data.flurry.com
 0.0.0.0 offerx.co.uk
 0.0.0.0 www.bar.ry2002.02-ry014.snpr.hotmx.hair.zaam.net # In spam
 0.0.0.0 img.xnxx.com
@@ -17486,7 +17485,6 @@
 0.0.0.0 dnslogs.net
 0.0.0.0 www.traktrafficflow.com
 0.0.0.0 7x.cc
-0.0.0.0 ds.serving-sys.com
 0.0.0.0 addstock.co.uk
 0.0.0.0 ad4.adfarm1.adition.com
 0.0.0.0 ads.gamespyid.com
@@ -19253,6 +19251,7 @@
 0.0.0.0 clickit.go2net.com
 0.0.0.0 modlily.net
 0.0.0.0 code.adtlgc.com
+0.0.0.0 ads.globo.com
 0.0.0.0 tcimg.com
 0.0.0.0 ads.mefeedia.com
 0.0.0.0 ehg-careerbuilder.hitbox.com
@@ -20083,6 +20082,7 @@
 0.0.0.0 youvisit.fr
 0.0.0.0 zads.zedo.com
 0.0.0.0 logv32.xiti.com
+0.0.0.0 ads.ign.com
 0.0.0.0 stats2.hitbox.com
 0.0.0.0 bannerus1.axelsfun.com
 0.0.0.0 www.postnewsads.com
@@ -28811,7 +28811,6 @@
 127.0.0.1 xpj28111.com
 127.0.0.1 www.securegfm.com
 127.0.0.1 buyu9956.com
-127.0.0.1 www.28830055.com
 127.0.0.1 worldmustbecrazy.j8inn1zektoe.com
 127.0.0.1 panther.adform.net
 127.0.0.1 g.yccdn.com
@@ -44939,7 +44938,6 @@
 0.0.0.0 www.optimaenerji.net
 0.0.0.0 www.disompolys.homes
 0.0.0.0 cdn.adligature.com
-0.0.0.0 www.immediatesprix.co
 0.0.0.0 zencudo.co.uk
 0.0.0.0 cdn.x-lift.jp
 0.0.0.0 pl.centrumoferty.com
@@ -82125,7 +82123,6 @@
 0.0.0.0 swiftbitmontera.com
 0.0.0.0 maidforyou1985.com
 0.0.0.0 www.taraftariumcanlitv.site
-0.0.0.0 jgl.microad.net
 0.0.0.0 www.dedrivalesquandromithelora.rest
 0.0.0.0 nefcities.com
 0.0.0.0 ybinst5.ec.yimg.com
@@ -89417,7 +89414,6 @@
 0.0.0.0 medi-8.net
 0.0.0.0 trezordevicesupport.com
 0.0.0.0 www.sevastopolalko24.shop
-0.0.0.0 img001.com
 0.0.0.0 16aq.cn
 0.0.0.0 www.vulkanvegas43.com
 0.0.0.0 www.diabetes.vn.ua
