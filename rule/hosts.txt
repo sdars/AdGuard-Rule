@@ -1,4 +1,4 @@
-# Update time: 2026-01-06 10:22:08
+# Update time: 2026-01-06 21:00:36
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2609,7 +2609,6 @@
 0.0.0.0 pibaba.com.cn
 0.0.0.0 8b4pea.c.admaster.com.cn
 0.0.0.0 i.ipinyou.com
-0.0.0.0 ad.sensismediasmart.com.au
 0.0.0.0 tect.hellobya.cn
 0.0.0.0 au.youmi.net
 0.0.0.0 go.dlads.cn
@@ -4360,7 +4359,6 @@
 0.0.0.0 cdn.adinall.com
 0.0.0.0 api-metrics-e2e.nonprod.flurry.com
 0.0.0.0 c3.gostats.cn
-0.0.0.0 ad.auditude.com
 0.0.0.0 www.qchannel01.cn
 0.0.0.0 media.tianjimedia.com
 0.0.0.0 rcv.union-wifi.com
@@ -8035,7 +8033,6 @@
 0.0.0.0 www.tj-cmys.com
 0.0.0.0 conv.youdao.com
 0.0.0.0 bce.baidu.com
-0.0.0.0 ad.3dnews.ru
 0.0.0.0 dap.pagechoice.net
 0.0.0.0 tejia.taobao.com
 0.0.0.0 t1.jzkapp.com
@@ -8772,6 +8769,7 @@
 0.0.0.0 bu02.zybang.com
 0.0.0.0 mldy.yxxgab.cn
 0.0.0.0 pag.qdwght.com
+0.0.0.0 adson.awempire.com
 0.0.0.0 www.duiba.com.cn
 0.0.0.0 bd4.chuiyue.com
 0.0.0.0 www.hblinwei.com
@@ -9341,6 +9339,7 @@
 0.0.0.0 arcadia1998.web.fc2.com
 0.0.0.0 bergeresdefrance.fr
 0.0.0.0 c2.somalisounds.com
+0.0.0.0 ad.sensismediasmart.com.au
 0.0.0.0 adquantum.fr
 0.0.0.0 hebdotop.com
 0.0.0.0 track.vivid.com
@@ -12547,6 +12546,7 @@
 0.0.0.0 niche247.trade
 0.0.0.0 ehg-pacifictheatres.hitbox.com
 0.0.0.0 bannersnack.fr
+0.0.0.0 ad.auditude.com
 0.0.0.0 ad.dk.doubleclick.net
 0.0.0.0 katch.ne.jp
 0.0.0.0 clckcloud.com
@@ -18955,6 +18955,7 @@
 0.0.0.0 ads.koreanfriendfinder.com
 0.0.0.0 ncsf.fr
 0.0.0.0 w147.hitbox.com
+0.0.0.0 ad.3dnews.ru
 0.0.0.0 c5.somalisounds.com
 0.0.0.0 r7.romeflirt.com
 0.0.0.0 c.admob.com
@@ -20201,7 +20202,6 @@
 0.0.0.0 zeroredirect.com
 0.0.0.0 adserver.affiliatemg.com
 0.0.0.0 ads.scorecardresearch.com
-0.0.0.0 adson.awempire.com
 0.0.0.0 creatives.livejasmin.com
 0.0.0.0 gostats.com
 0.0.0.0 adserv.bravenet.com
@@ -33641,6 +33641,7 @@
 0.0.0.0 vn-platform.bidgear.com
 0.0.0.0 www.microngroup.pro
 0.0.0.0 www.nexusproai.com
+0.0.0.0 homeautomation485d.info
 0.0.0.0 trinitymirror.grapeshot.co.uk
 0.0.0.0 genmay.us.intellitxt.com
 0.0.0.0 fidato-paycore-app.net
@@ -44940,6 +44941,7 @@
 0.0.0.0 www.optimaenerji.net
 0.0.0.0 www.disompolys.homes
 0.0.0.0 cdn.adligature.com
+0.0.0.0 www.immediatesprix.co
 0.0.0.0 zencudo.co.uk
 0.0.0.0 cdn.x-lift.jp
 0.0.0.0 pl.centrumoferty.com
@@ -47720,6 +47722,7 @@
 0.0.0.0 strefamlodych.pl
 0.0.0.0 mp.apmebf.com
 0.0.0.0 thebugs.ws
+0.0.0.0 lunarexiomax-app.com
 0.0.0.0 adv.autosurf.vn
 0.0.0.0 www.raizinvelink.com
 0.0.0.0 smetrics.kone.vn
@@ -72600,6 +72603,7 @@
 0.0.0.0 9wje5g.lat
 0.0.0.0 warsawsneakers.pl
 0.0.0.0 bagtr.com
+0.0.0.0 dutpoinfos.xyz
 0.0.0.0 coinmaskeapp.com
 0.0.0.0 orripterme.site
 0.0.0.0 quantaikritik.com
@@ -91938,6 +91942,7 @@
 0.0.0.0 slimxxxtubefzc.ddns.name
 0.0.0.0 ozgunfiltre.com
 0.0.0.0 www.9wje5g.lat
+0.0.0.0 blockchainjoblist.com
 0.0.0.0 www.writestami.pro
 0.0.0.0 legosatsuguluk.world
 0.0.0.0 www.goldpathnetwork.mom
