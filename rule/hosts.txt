@@ -1,4 +1,4 @@
-# Update time: 2026-01-29 10:43:44
+# Update time: 2026-01-29 21:16:10
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -4894,6 +4894,7 @@
 0.0.0.0 cee1.iteye.com
 0.0.0.0 slides.discovery.tom.com
 0.0.0.0 e.fcunq.com
+0.0.0.0 ads8.com
 0.0.0.0 s23.cnzz.com
 0.0.0.0 emarbox.com
 0.0.0.0 cca.mob.com
@@ -5031,6 +5032,7 @@
 0.0.0.0 js.moatads.com
 0.0.0.0 m.168ey.com
 0.0.0.0 ssh.hbhtbn.com
+0.0.0.0 ads.intergi.com
 0.0.0.0 lg2.jointreport-switch.com
 0.0.0.0 s.go.sohu.com
 0.0.0.0 m.649649.com
@@ -6862,7 +6864,6 @@
 0.0.0.0 apas.aipai.com
 0.0.0.0 www.cfdanet.com
 0.0.0.0 e-p4p.163.com
-0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 stage-uev.ad-stir.com
 0.0.0.0 vt.ipinyou.com
 0.0.0.0 imindmap.cc
@@ -8182,6 +8183,7 @@
 0.0.0.0 s3m.mediav.com
 0.0.0.0 s1.adform.net
 0.0.0.0 s.abcache.com
+0.0.0.0 ads.globo.com
 0.0.0.0 cmpp.gentags.net
 0.0.0.0 js3492.yongkang6.com
 0.0.0.0 jy.ggweb.net
@@ -10601,6 +10603,7 @@
 0.0.0.0 bigdata.adups.com
 0.0.0.0 rss.buysellads.com
 0.0.0.0 msft-ssp-emea.adnxs.com
+0.0.0.0 saouryadi.in
 0.0.0.0 advertpro.sitepoint.com
 0.0.0.0 w157.hitbox.com
 0.0.0.0 accomodation-tastes.net
@@ -13495,7 +13498,6 @@
 0.0.0.0 ads25.focalink.com
 0.0.0.0 counter14.sextracker.be
 0.0.0.0 hit2.hotlog.ru
-0.0.0.0 ads8.com
 0.0.0.0 coinverti.com
 0.0.0.0 atlanticos.fr
 0.0.0.0 ourtoolbar.com
@@ -13775,7 +13777,6 @@
 0.0.0.0 oasc09.247realmedia.com
 0.0.0.0 track.msadcenter.toj.com
 0.0.0.0 oralse.ca
-0.0.0.0 ads.intergi.com
 0.0.0.0 no.adserver.yahoo.com
 0.0.0.0 www.camion.idps.co.uk
 0.0.0.0 doesok.top
@@ -17006,6 +17007,7 @@
 0.0.0.0 www.goatse.ru
 0.0.0.0 incentivegateway.com
 0.0.0.0 push-notification.tools
+0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 premiumvideoupdates.com
 0.0.0.0 hommetendance.fr
 0.0.0.0 ad.ntvmsnbc.com
@@ -17485,6 +17487,7 @@
 0.0.0.0 ads.pitchforkmedia.com
 0.0.0.0 banners.nextcard.com
 0.0.0.0 fanniemae.fr
+0.0.0.0 trifama.com
 0.0.0.0 get-express-vpn.com
 0.0.0.0 www.kolks.nl
 0.0.0.0 app3.letmacwork.world
@@ -19332,7 +19335,6 @@
 0.0.0.0 clickit.go2net.com
 0.0.0.0 modlily.net
 0.0.0.0 code.adtlgc.com
-0.0.0.0 ads.globo.com
 0.0.0.0 tcimg.com
 0.0.0.0 ads.mefeedia.com
 0.0.0.0 ehg-careerbuilder.hitbox.com
@@ -19667,6 +19669,7 @@
 0.0.0.0 kh3.kimhasa.com
 0.0.0.0 asm2.z1.adserver.com
 0.0.0.0 d3.zedo.com
+0.0.0.0 www.crystaltao.art
 0.0.0.0 vnumedia02.webtrekk.net
 0.0.0.0 muttuelle.fr
 0.0.0.0 blueconic.net
@@ -28896,6 +28899,7 @@
 127.0.0.1 xpj28111.com
 127.0.0.1 www.securegfm.com
 127.0.0.1 buyu9956.com
+127.0.0.1 www.28830055.com
 127.0.0.1 worldmustbecrazy.j8inn1zektoe.com
 127.0.0.1 panther.adform.net
 127.0.0.1 g.yccdn.com
@@ -35631,6 +35635,7 @@
 0.0.0.0 brandmuscleinstantimpactstaging.112.2o7.net
 0.0.0.0 thayhiltonlongisland.112.2o7.net
 0.0.0.0 vulkanvegas100.pl
+0.0.0.0 www.gls-group-com-5.top
 0.0.0.0 st-a.vtvdigital.vn
 0.0.0.0 planworldl.info
 0.0.0.0 autencaffe.pro
@@ -39931,6 +39936,7 @@
 0.0.0.0 analytics.teko.vn
 0.0.0.0 www.jeunesseglobal.com
 0.0.0.0 www.southwestbullion.com
+0.0.0.0 srv.adngin.com
 0.0.0.0 adyogis.gotrackier.com
 0.0.0.0 www.s-menus.com
 0.0.0.0 www.videomakersh.info
@@ -53189,6 +53195,7 @@
 0.0.0.0 gispector.com
 0.0.0.0 pitchzufol.pro
 0.0.0.0 apps.conduit-banners.com
+0.0.0.0 www.naneteziruluriputu.online
 0.0.0.0 www.exotie.com
 0.0.0.0 embed.tempest-identity.prod.saymedia.com
 0.0.0.0 snapcamsforum.cc
@@ -57117,6 +57124,7 @@
 0.0.0.0 e4tyhl.bond
 0.0.0.0 www.olx.oferta798349.sbs
 0.0.0.0 adimages.sanomawsoy.fi
+0.0.0.0 woobids.com
 0.0.0.0 dangkymetub.net
 0.0.0.0 guestresrevationgate.com
 0.0.0.0 nytrwinterhaven.112.2o7.net
@@ -71268,6 +71276,7 @@
 0.0.0.0 imbc.onthewifi.com
 0.0.0.0 d.applvn.com
 0.0.0.0 svoltmassi.pro
+0.0.0.0 ads.359group.com
 0.0.0.0 yogabiol.info
 0.0.0.0 cingualr.com
 0.0.0.0 www.apteka-antykoncepcja.pl
@@ -76485,6 +76494,7 @@
 0.0.0.0 www.seansikowo.pl
 0.0.0.0 accesergeter.com
 0.0.0.0 www.funklicks.com
+0.0.0.0 www.znajomisingle.space
 0.0.0.0 www.hobyray.com
 0.0.0.0 ad3.speedbit.com
 0.0.0.0 pl.ezviona.com
@@ -77929,6 +77939,7 @@
 0.0.0.0 riorancholive.com
 0.0.0.0 powerad.ai
 0.0.0.0 stats.hara.vn
+0.0.0.0 www.cryptoportalh.info
 0.0.0.0 www.zl9pug.icu
 0.0.0.0 figralia.com
 0.0.0.0 www.redemptionengine.com
