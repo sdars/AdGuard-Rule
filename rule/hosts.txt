@@ -1,4 +1,4 @@
-# Update time: 2026-02-16 10:54:02
+# Update time: 2026-02-16 21:22:16
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2497,7 +2497,6 @@
 0.0.0.0 846.move7.com
 0.0.0.0 api.ujian.cc
 0.0.0.0 www.poijugh.top
-0.0.0.0 c.adsco.re
 0.0.0.0 vivovip.mmszxc.top
 0.0.0.0 conversion.pro.cn
 0.0.0.0 hotupgrade.hpplay.cn
@@ -3634,7 +3633,6 @@
 0.0.0.0 www.ihuanmei.com
 0.0.0.0 wm.20150.net
 0.0.0.0 a1.peoplecdn.cn
-0.0.0.0 as.casalemedia.com
 0.0.0.0 rcmd.pop.ijinshan.com
 0.0.0.0 c.dcghp.top
 0.0.0.0 match.p4p.1688.com
@@ -5286,7 +5284,6 @@
 0.0.0.0 app.zhidian3g.cn
 0.0.0.0 w.sharethis.com
 0.0.0.0 www.tjhuajiantang.com
-0.0.0.0 atdmt.com
 0.0.0.0 p.unclecarm.cn
 0.0.0.0 gif.lu.sogoucdn.com
 0.0.0.0 2016.sina.cn
@@ -5305,7 +5302,6 @@
 0.0.0.0 ayidaye.m.zwdu.com
 0.0.0.0 cm.fastapi.net
 0.0.0.0 ng3.ads.warnerbros.com
-0.0.0.0 aka-cdn-ns.adtechus.com
 0.0.0.0 us-match.taboola.com
 0.0.0.0 qqt.zhw666.cn
 0.0.0.0 d7.sina.com.cn
@@ -5629,7 +5625,6 @@
 0.0.0.0 2018.qucaigg.com
 0.0.0.0 log.adaptv.advertising.com
 0.0.0.0 canvas.gdt.qq.com
-0.0.0.0 c.codeonclick.com
 0.0.0.0 lylog.1391.com
 0.0.0.0 aexz.rm.fhxiaoshuo.com
 0.0.0.0 tb.code.twyxi.com
@@ -5678,7 +5673,6 @@
 0.0.0.0 c.piliangzhuce.cn
 0.0.0.0 jsc.marketgid.com
 0.0.0.0 pups.bdimg.com
-0.0.0.0 cdn.viglink.com
 0.0.0.0 tui.gtimg.com
 0.0.0.0 spark-dev.ad4game.com
 0.0.0.0 t.h5data.com
@@ -5968,7 +5962,6 @@
 0.0.0.0 mms2017.admaster.com.cn
 0.0.0.0 mb.atm.youku.com
 0.0.0.0 vn543.com
-0.0.0.0 aka-cdn.adtechus.com
 0.0.0.0 s52.cnzz.com
 0.0.0.0 e.wonwg.com
 0.0.0.0 tracking.m6r.eu
@@ -6939,7 +6932,6 @@
 0.0.0.0 m.ecenf.com
 0.0.0.0 hao916.com
 0.0.0.0 gen.alicdn.com
-0.0.0.0 api.airpush.com
 0.0.0.0 ad.cacafly.com
 0.0.0.0 yads.yahoo.co.jp
 0.0.0.0 vspa.admaster.com.cn
@@ -7512,7 +7504,6 @@
 0.0.0.0 fanyi1.fanyi100.com.cn
 0.0.0.0 gg.uuu9.com
 0.0.0.0 appdriver.cn
-0.0.0.0 assets.applovin.com
 0.0.0.0 banner.as.admaster.com.cn
 0.0.0.0 m.62mao.com
 0.0.0.0 vista.tgbus.com
@@ -8708,7 +8699,6 @@
 0.0.0.0 src.leju.com
 0.0.0.0 www.wooboo.com.cn
 0.0.0.0 ads.ign.com
-0.0.0.0 cache.betweendigital.com
 0.0.0.0 vpn.szdatayj.com
 0.0.0.0 ssl-cdn.media.innity.net
 0.0.0.0 r01.g1c5.com
@@ -9175,6 +9165,7 @@
 0.0.0.0 a.mktw.net
 0.0.0.0 socom.es
 0.0.0.0 stats.ladotstats.nl
+0.0.0.0 c.adsco.re
 0.0.0.0 besacon.fr
 0.0.0.0 se.adserver.yahoo.com
 0.0.0.0 vda.oipzyrzffum.ovh
@@ -11242,6 +11233,7 @@
 0.0.0.0 www.c1.thecounter.de
 0.0.0.0 mb01.com
 0.0.0.0 oasc06006.247realmedia.com
+0.0.0.0 as.casalemedia.com
 0.0.0.0 www.jvidzaixian.com
 0.0.0.0 layerprotect.com
 0.0.0.0 ads1.jev.co.za
@@ -14312,6 +14304,7 @@
 0.0.0.0 littleduck.fr
 0.0.0.0 www.portlanfleathergoods.com
 0.0.0.0 americankitchen.fr
+0.0.0.0 atdmt.com
 0.0.0.0 ehg-himedia.hitbox.com
 0.0.0.0 a-redirect.com
 0.0.0.0 adcode.adengage.com
@@ -14350,6 +14343,7 @@
 0.0.0.0 adv.adview.pl
 0.0.0.0 www.virtumundo.com
 0.0.0.0 www9.counter.bloke.com
+0.0.0.0 aka-cdn-ns.adtechus.com
 0.0.0.0 bellglobemediapublishing.122.2o7.net
 0.0.0.0 ads.espn.adsonar.com
 0.0.0.0 jsfactory.net
@@ -14957,6 +14951,7 @@
 0.0.0.0 www.iovation.co.uk
 0.0.0.0 pourcentfilers.com
 0.0.0.0 global-redirect.net
+0.0.0.0 c.codeonclick.com
 0.0.0.0 timeofflife.com
 0.0.0.0 enpresse.1.p2l.info
 0.0.0.0 faceboook-replyei0ki.montadalitihad.com
@@ -15056,6 +15051,7 @@
 0.0.0.0 banstex.com
 0.0.0.0 groupm.com
 0.0.0.0 manage001.adtech.fr
+0.0.0.0 cdn.viglink.com
 0.0.0.0 draco-artgallery.wz.cz
 0.0.0.0 oascentral.comics.com
 0.0.0.0 nf.5.p2l.info
@@ -15588,6 +15584,7 @@
 0.0.0.0 homehre.ifrance.com
 0.0.0.0 stopsms.biz
 0.0.0.0 healthfood.syoutikubai.com
+0.0.0.0 aka-cdn.adtechus.com
 0.0.0.0 jmvisuals.com
 0.0.0.0 bestadbid.com
 0.0.0.0 api.intentiq.com
@@ -17267,6 +17264,7 @@
 0.0.0.0 tattooshaha.info			# Facebook trojan
 0.0.0.0 www.gator.com
 0.0.0.0 j7.jmooreassoc.com
+0.0.0.0 api.airpush.com
 0.0.0.0 images.linkwithin.com
 0.0.0.0 clhctrk.com
 0.0.0.0 fejezet.com
@@ -18360,6 +18358,7 @@
 0.0.0.0 mh-miyoshi.jp
 0.0.0.0 www.sun-inet.or.jp
 0.0.0.0 connecting-to.com
+0.0.0.0 assets.applovin.com
 0.0.0.0 filter.mediacpc.com
 0.0.0.0 bs.url.tw
 0.0.0.0 ads.internic.co.il
@@ -20413,6 +20412,7 @@
 0.0.0.0 bannerus1.axelsfun.com
 0.0.0.0 www.postnewsads.com
 0.0.0.0 ebayadvertising.com
+0.0.0.0 cache.betweendigital.com
 0.0.0.0 trace.qq.com
 0.0.0.0 ehg-bskyb.hitbox.com
 0.0.0.0 seniului.v6.navy
@@ -28490,6 +28490,7 @@
 127.0.0.1 adm.zookingsoft.com
 127.0.0.1 ced.sascdn.com
 127.0.0.1 data2.xinba.com
+127.0.0.1 nextlnk1.com
 127.0.0.1 popcash.net
 127.0.0.1 russianwomansite.com
 127.0.0.1 s121.cnzz.com
@@ -29145,6 +29146,7 @@
 127.0.0.1 xpj28111.com
 127.0.0.1 www.securegfm.com
 127.0.0.1 buyu9956.com
+127.0.0.1 www.28830055.com
 127.0.0.1 worldmustbecrazy.j8inn1zektoe.com
 127.0.0.1 panther.adform.net
 127.0.0.1 g.yccdn.com
@@ -33918,6 +33920,7 @@
 0.0.0.0 www.rewardszoneusa.com
 0.0.0.0 www.booking-process-help.com
 0.0.0.0 ls.skimresources.com
+0.0.0.0 redwirehardware.com
 0.0.0.0 safe.urgent--alert.com
 0.0.0.0 omon1488.org
 0.0.0.0 www.4cock.com
@@ -35793,6 +35796,7 @@
 0.0.0.0 textad.sexsearch.com
 0.0.0.0 privatproxy-blog.xyz
 0.0.0.0 icrossedtheborder.com
+0.0.0.0 www.pepcohu.shop
 0.0.0.0 www.spellonwords.com
 0.0.0.0 www.pnqy6ntx.bambus-live.de
 0.0.0.0 www.jazzzy2mix.pro
@@ -35918,7 +35922,6 @@
 0.0.0.0 a.bitmango.com
 0.0.0.0 cdn-1.convertexperiments.com
 0.0.0.0 www.insuranceexchangehq.com
-0.0.0.0 f7v3un.lat
 0.0.0.0 hipsiksokis.net
 0.0.0.0 jsrdn.com
 0.0.0.0 globusdate.com
@@ -52618,7 +52621,6 @@
 0.0.0.0 clinicamariauxiliadora.com
 0.0.0.0 www.aonethrx.club
 0.0.0.0 www.artistsagainstdonaldtrump.com
-0.0.0.0 ad.period-calendar.com
 0.0.0.0 www.fh5safh.xyz
 0.0.0.0 www.security-update.ocry.com
 0.0.0.0 vertex-capital-ai-app.com
@@ -59518,7 +59520,6 @@
 0.0.0.0 www.banne2s.ero-advertising.com
 0.0.0.0 turbo.adsbynimbus.com
 0.0.0.0 common.duapps.com
-0.0.0.0 reserve-view-center.com
 0.0.0.0 hostingercp.coomjangee.co.kr
 0.0.0.0 click.advertnative.com
 0.0.0.0 www.tsmoked.sbs
@@ -61105,7 +61106,6 @@
 0.0.0.0 www.dickmuriformayor.com
 0.0.0.0 jp1-bid.adsrvr.org
 0.0.0.0 www.strimduanze.rest
-0.0.0.0 www.tasteaexpert.sbs
 0.0.0.0 www.riccardochinnici.it
 0.0.0.0 www.dealepix.com
 0.0.0.0 www.synthorex-app.com
@@ -76838,7 +76838,6 @@
 0.0.0.0 www.lonelycheatingwives.com
 0.0.0.0 lawroles.com
 0.0.0.0 acconscaps.rest
-0.0.0.0 www.superga-pl.com
 0.0.0.0 nl4.hit.stat24.com
 0.0.0.0 tpciletsgo.112.2o7.net
 0.0.0.0 tags.tiqcdn.com
@@ -81733,6 +81732,7 @@
 0.0.0.0 disbag.disrebate.sbs
 0.0.0.0 empoweredcreationsllc.com
 0.0.0.0 kekehasiz.digital
+0.0.0.0 rlog.popin.cc
 0.0.0.0 www.direct-guest-rooom.com
 0.0.0.0 www.obtdev.com
 0.0.0.0 www.speedd.net
@@ -81945,6 +81945,7 @@
 0.0.0.0 gw.mediation.unity3d.com
 0.0.0.0 maidforyou1985.com
 0.0.0.0 storemus.com
+0.0.0.0 jgl.microad.net
 0.0.0.0 londoncounsellingandtherapyhub.com
 0.0.0.0 www.sfarfstali.rest
 0.0.0.0 iisosjsbbay245g.xyz
@@ -93418,7 +93419,6 @@
 0.0.0.0 www.etrackthis.com
 0.0.0.0 www.bungwsemis.rest
 0.0.0.0 stportal.eclick.vn
-0.0.0.0 inatv.pl
 0.0.0.0 www.vwaoxe.com
 0.0.0.0 msmobiles.de.intellitxt.com
 0.0.0.0 wapster.pl
