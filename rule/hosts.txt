@@ -1,4 +1,4 @@
-# Update time: 2026-02-23 10:54:15
+# Update time: 2026-02-23 21:24:12
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2497,7 +2497,6 @@
 0.0.0.0 846.move7.com
 0.0.0.0 api.ujian.cc
 0.0.0.0 www.poijugh.top
-0.0.0.0 c.adsco.re
 0.0.0.0 vivovip.mmszxc.top
 0.0.0.0 conversion.pro.cn
 0.0.0.0 hotupgrade.hpplay.cn
@@ -5631,7 +5630,6 @@
 0.0.0.0 2018.qucaigg.com
 0.0.0.0 log.adaptv.advertising.com
 0.0.0.0 canvas.gdt.qq.com
-0.0.0.0 c.codeonclick.com
 0.0.0.0 lylog.1391.com
 0.0.0.0 aexz.rm.fhxiaoshuo.com
 0.0.0.0 tb.code.twyxi.com
@@ -8037,7 +8035,6 @@
 0.0.0.0 www.tj-cmys.com
 0.0.0.0 conv.youdao.com
 0.0.0.0 bce.baidu.com
-0.0.0.0 ad.3dnews.ru
 0.0.0.0 dap.pagechoice.net
 0.0.0.0 tejia.taobao.com
 0.0.0.0 t1.jzkapp.com
@@ -8711,7 +8708,6 @@
 0.0.0.0 src.leju.com
 0.0.0.0 www.wooboo.com.cn
 0.0.0.0 ads.ign.com
-0.0.0.0 cache.betweendigital.com
 0.0.0.0 vpn.szdatayj.com
 0.0.0.0 ssl-cdn.media.innity.net
 0.0.0.0 r01.g1c5.com
@@ -9180,6 +9176,7 @@
 0.0.0.0 a.mktw.net
 0.0.0.0 socom.es
 0.0.0.0 stats.ladotstats.nl
+0.0.0.0 c.adsco.re
 0.0.0.0 besacon.fr
 0.0.0.0 se.adserver.yahoo.com
 0.0.0.0 vda.oipzyrzffum.ovh
@@ -14987,6 +14984,7 @@
 0.0.0.0 www.iovation.co.uk
 0.0.0.0 pourcentfilers.com
 0.0.0.0 global-redirect.net
+0.0.0.0 c.codeonclick.com
 0.0.0.0 timeofflife.com
 0.0.0.0 enpresse.1.p2l.info
 0.0.0.0 faceboook-replyei0ki.montadalitihad.com
@@ -19292,6 +19290,7 @@
 0.0.0.0 ads.koreanfriendfinder.com
 0.0.0.0 ncsf.fr
 0.0.0.0 w147.hitbox.com
+0.0.0.0 ad.3dnews.ru
 0.0.0.0 c5.somalisounds.com
 0.0.0.0 r7.romeflirt.com
 0.0.0.0 c.admob.com
@@ -20459,6 +20458,7 @@
 0.0.0.0 bannerus1.axelsfun.com
 0.0.0.0 www.postnewsads.com
 0.0.0.0 ebayadvertising.com
+0.0.0.0 cache.betweendigital.com
 0.0.0.0 trace.qq.com
 0.0.0.0 ehg-bskyb.hitbox.com
 0.0.0.0 seniului.v6.navy
@@ -31084,7 +31084,6 @@
 0.0.0.0 rantiko.online
 0.0.0.0 vapaalla.org
 0.0.0.0 www.sklepsorelpolska.co
-0.0.0.0 www.virussweep.sa.com
 0.0.0.0 www.sermontide.top
 0.0.0.0 sophosdefence.com
 0.0.0.0 hoterpinkers.com
@@ -46994,7 +46993,6 @@
 0.0.0.0 document.nexustrail.world
 0.0.0.0 agyahooag.112.2o7.net
 0.0.0.0 aceshowbiz.us.intellitxt.com
-0.0.0.0 cindysanyu.com
 0.0.0.0 wszystkodladomu24.com
 0.0.0.0 maplesoftcom.112.2o7.net
 0.0.0.0 www.gmial.com
@@ -47980,7 +47978,6 @@
 0.0.0.0 www.bc406dd9.flyjasper.ca
 0.0.0.0 ads.freecaster.tv
 0.0.0.0 www.x-park.net
-0.0.0.0 www.filmyhd4k.pl
 0.0.0.0 cocshop-eu.com
 0.0.0.0 click.e.bbcmail.co.uk
 0.0.0.0 www.crcentro.com
@@ -62751,7 +62748,6 @@
 0.0.0.0 cigarsmokinfool.com
 0.0.0.0 cafemom.us.intellitxt.com
 0.0.0.0 h.nexac.com
-0.0.0.0 rc3.i2i.jp
 0.0.0.0 www.pl-5526192jbbtwaop33177219tysabfss7970336.sbs
 0.0.0.0 www.vitipdecre.rest
 0.0.0.0 prod.us-east-1.cxm-bcn.publisher-services.amazon.dev
@@ -71339,7 +71335,6 @@
 0.0.0.0 www.travelocoity.com
 0.0.0.0 svn21.com
 0.0.0.0 www.olceserecycling.com
-0.0.0.0 veryvoga.pl
 0.0.0.0 www.interviewernetwork.com
 0.0.0.0 laboroflove.us.intellitxt.com
 0.0.0.0 afte.mopo.jp
@@ -77134,7 +77129,6 @@
 0.0.0.0 www.everythingisstory.com
 0.0.0.0 veltraquant.net
 0.0.0.0 ikiyakibucash.live
-0.0.0.0 adserver.alt.com
 0.0.0.0 www.consorcio-sean.com
 0.0.0.0 www.subscription-reload.com
 0.0.0.0 fluxwingup.top
@@ -80166,7 +80160,6 @@
 0.0.0.0 server.iad.liveperson.net
 0.0.0.0 www.maregargo.rest
 0.0.0.0 logicashup.pro
-0.0.0.0 widget.nl.eu.criteo.com
 0.0.0.0 sdk-assets-zy8pe3h4v8msjk6x2sq4.stackpathdns.com
 0.0.0.0 poinpulsa.com
 0.0.0.0 kap1talfocus.top
@@ -89639,7 +89632,6 @@
 0.0.0.0 app-sji.marketo.com
 0.0.0.0 movebuddha.getcouponupdates.com
 0.0.0.0 tls.dxsvr.com
-0.0.0.0 a.overlay.top
 0.0.0.0 greatgrace.ru
 0.0.0.0 www.aktim.top
 0.0.0.0 adollatech.com
