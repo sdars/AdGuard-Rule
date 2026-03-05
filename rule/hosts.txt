@@ -1,4 +1,4 @@
-# Update time: 2026-03-04 21:15:41
+# Update time: 2026-03-05 10:47:20
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2607,7 +2607,6 @@
 0.0.0.0 dd.wx16999.com
 0.0.0.0 sit.gentags.net
 0.0.0.0 api721.analysys.cn
-0.0.0.0 ads.wapx.cn
 0.0.0.0 pibaba.com.cn
 0.0.0.0 8b4pea.c.admaster.com.cn
 0.0.0.0 i.ipinyou.com
@@ -3943,7 +3942,6 @@
 0.0.0.0 s.vaedan.top
 0.0.0.0 sit.pagechoice.net
 0.0.0.0 toruk.tanx.com
-0.0.0.0 adserver.yahoo.com
 0.0.0.0 bdlm.120askimages.com
 0.0.0.0 ad.player.baidu.com
 0.0.0.0 www.9948000.com
@@ -4899,7 +4897,6 @@
 0.0.0.0 guce.advertising.com
 0.0.0.0 cpro.zol.com.cn
 0.0.0.0 img.ferlie.net
-0.0.0.0 a.baidu.com
 0.0.0.0 cee1.iteye.com
 0.0.0.0 slides.discovery.tom.com
 0.0.0.0 e.fcunq.com
@@ -7131,7 +7128,6 @@
 0.0.0.0 a-cn.duoyi.com
 0.0.0.0 ssdk.adkmob.com
 0.0.0.0 s.17173cdn.com
-0.0.0.0 ads2.contentabc.com
 0.0.0.0 www.jiq336.com
 0.0.0.0 qianclick.baidu.com
 0.0.0.0 xn--wxtr9fwyxk9c.top
@@ -7176,7 +7172,6 @@
 0.0.0.0 s89.cnzz.com
 0.0.0.0 m.emgwq.com
 0.0.0.0 secure-yt.imrworldwide.com
-0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 t.channeladvisor.com
 0.0.0.0 mp.sohu.com
 0.0.0.0 ads.feelingtouch.com
@@ -8139,7 +8134,6 @@
 0.0.0.0 un2.banmamedia.com
 0.0.0.0 api.cpu.baidu.com
 0.0.0.0 mil.gbzumh.cn
-0.0.0.0 ads.waps.cn
 0.0.0.0 lkme.cc
 0.0.0.0 www.203710.com
 0.0.0.0 updates-s3.binaryage.com
@@ -9380,6 +9374,7 @@
 0.0.0.0 www.topreward.site
 0.0.0.0 store-downloads.com
 0.0.0.0 www.pawnauctions.net
+0.0.0.0 ads.wapx.cn
 0.0.0.0 lovedonesproducts.com
 0.0.0.0 ehg-foxsports.hitbox.com
 0.0.0.0 arcadia1998.web.fc2.com
@@ -10087,6 +10082,7 @@
 0.0.0.0 apiadapter.ad5track.com
 0.0.0.0 ads.xbox-scene.com
 0.0.0.0 oas.adservingml.com
+0.0.0.0 www.jeuxjackpotcasino.com
 0.0.0.0 gcirm.argusleader.com
 0.0.0.0 counter4all.dk
 0.0.0.0 gcirm.courier-journal.com
@@ -10719,6 +10715,7 @@
 0.0.0.0 www.smokyshadecj.name
 0.0.0.0 zazerygu.pro
 0.0.0.0 utrace.fr
+0.0.0.0 www.morvalent.uk
 0.0.0.0 rts.pgmediaserve.com
 0.0.0.0 nactx.com
 0.0.0.0 ehg-clearchannel.hitbox.com
@@ -11921,6 +11918,7 @@
 0.0.0.0 www.mb01.com
 0.0.0.0 bestwatersystems.net
 0.0.0.0 rtb19.adscience.nl
+0.0.0.0 adserver.yahoo.com
 0.0.0.0 espub.fr
 0.0.0.0 games.superappbox.com
 0.0.0.0 twoj-typ.pl
@@ -11961,6 +11959,7 @@
 0.0.0.0 ad-score.com
 0.0.0.0 gpaper212.112.2o7.net
 0.0.0.0 adserv004.adtech.us
+0.0.0.0 www.tattnexa.tattoo
 0.0.0.0 app2.letmacwork.world
 0.0.0.0 safe.hyperpaysys.com
 0.0.0.0 bigdata.adfuture.cn
@@ -12429,6 +12428,7 @@
 0.0.0.0 www.georgewatson.plus.com
 0.0.0.0 hydrocodone.visa-usa.ru
 0.0.0.0 s.visilabs.net
+0.0.0.0 www.white-dock.net
 0.0.0.0 track.xapads.com
 0.0.0.0 pixel.sitescout.com
 0.0.0.0 hunkemuller.fr
@@ -12543,6 +12543,7 @@
 0.0.0.0 neszmely.eu
 0.0.0.0 adv.webmd.com
 0.0.0.0 en.ultrex.ru
+0.0.0.0 www.kryzantor.uk
 0.0.0.0 www.clipsfan.com
 0.0.0.0 herpes.4.p2l.info
 0.0.0.0 kiclq.comfortykive.xyz
@@ -13687,6 +13688,7 @@
 0.0.0.0 mononoteapp.firebaseio.com
 0.0.0.0 js.hsleadflows.net
 0.0.0.0 www.bitmedia.io
+0.0.0.0 a.baidu.com
 0.0.0.0 www.magento-analytics.com
 0.0.0.0 www.ndbsoft.be
 0.0.0.0 last-chainleash.net
@@ -17143,6 +17145,7 @@
 0.0.0.0 emisja.contentstream.pl
 0.0.0.0 adnetworkperformance.com
 0.0.0.0 callfor-articles.com
+0.0.0.0 www.helvora.help
 0.0.0.0 www.igameup.com
 0.0.0.0 platinmods.fr
 0.0.0.0 cpm20.com
@@ -17708,6 +17711,7 @@
 0.0.0.0 searscom.112.2o7.net
 0.0.0.0 tracker.mattel.com
 0.0.0.0 ehg-qualcomm.hitbox.com
+0.0.0.0 ads2.contentabc.com
 0.0.0.0 dailynewstonight.com
 0.0.0.0 y3.ifengimg.com
 0.0.0.0 www.obesitycheck.com
@@ -17798,6 +17802,7 @@
 0.0.0.0 www.gmads.net
 0.0.0.0 toprxshopplace.com
 0.0.0.0 www.brghterimagelab.com
+0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 click.maaxmarket.com
 0.0.0.0 pexkr.comfortykive.xyz
 0.0.0.0 ads.shovtvnet.com
@@ -19518,6 +19523,7 @@
 0.0.0.0 www.infinite-ads.com
 0.0.0.0 ams1-mobile.adnxs.com
 0.0.0.0 exipure.net
+0.0.0.0 ads.waps.cn
 0.0.0.0 krasnaya.co.uk
 0.0.0.0 mtvn.112.2o7.net
 0.0.0.0 ad.jp.doubleclick.net
@@ -33004,7 +33010,6 @@
 0.0.0.0 science-open-reviewed.com
 0.0.0.0 www.moqega.com
 0.0.0.0 xxxbullet.com
-0.0.0.0 7fb.ru
 0.0.0.0 getclicky.com
 0.0.0.0 rok-tuwima.pl
 0.0.0.0 solevomj.com
@@ -34520,6 +34525,7 @@
 0.0.0.0 www.rhythmflyfishing.com
 0.0.0.0 us.tracking.justpremium.com
 0.0.0.0 summer-morning-2dac.wlouie-kymetacorp.workers.dev
+0.0.0.0 oldexcurs.top
 0.0.0.0 sa.bbc.co.uk #[may affect iPlayer app]
 0.0.0.0 gannett.gcion.com #[glb.adtechus.com]
 0.0.0.0 www.catalonless.pro
@@ -36253,7 +36259,6 @@
 0.0.0.0 www.clarityfield.org
 0.0.0.0 go1.aniview.com
 0.0.0.0 www.countinval.rest
-0.0.0.0 sklepkody24.pl
 0.0.0.0 www.alvionix.com
 0.0.0.0 openx.imoti.net
 0.0.0.0 nikefootball.112.2o7.net
@@ -42163,6 +42168,7 @@
 0.0.0.0 www.jvplists.com
 0.0.0.0 mojaplatnosczaspotify.com
 0.0.0.0 4info.com
+0.0.0.0 www.go-link.network
 0.0.0.0 vanguardair.com
 0.0.0.0 pogonruda.pl
 0.0.0.0 www.surf4dollarplus.com
@@ -58888,6 +58894,7 @@
 0.0.0.0 sdk-controller.widespace.com
 0.0.0.0 szonisko.pl
 0.0.0.0 brainxwide.sbs
+0.0.0.0 keisu02.eproof.com
 0.0.0.0 notepad.plus
 0.0.0.0 fly-ads.net
 0.0.0.0 app.gammaplatform.com
@@ -77315,7 +77322,6 @@
 0.0.0.0 www.asadcdn.com
 0.0.0.0 starinvest.net
 0.0.0.0 as.criteo.com
-0.0.0.0 inforcolon.rest
 0.0.0.0 www.admez.com
 0.0.0.0 mastertag.effiliation.com
 0.0.0.0 kap1talline.top
@@ -78568,6 +78574,7 @@
 0.0.0.0 builtthorough.com
 0.0.0.0 www.norelladigital.pro
 0.0.0.0 www.cda-zalukaj.prv.pl
+0.0.0.0 www.konsor.ru
 0.0.0.0 www.sitetracker.com
 0.0.0.0 www.kryptono.exchange
 0.0.0.0 www.my.turnwive.top
@@ -79676,7 +79683,6 @@
 0.0.0.0 pheedo.com
 0.0.0.0 stats.pandora.com
 0.0.0.0 www.evkc.com
-0.0.0.0 physical309.site
 0.0.0.0 www.yankeundes.rest
 0.0.0.0 interzed.com
 0.0.0.0 twinklephone.com
@@ -82676,6 +82682,7 @@
 0.0.0.0 search.mywebsearch.com
 0.0.0.0 www.ageofbrave.com
 0.0.0.0 www.ascensoluxentia-app.com
+0.0.0.0 danielnebo.com
 0.0.0.0 mickaelbook.com
 0.0.0.0 microad.jp
 0.0.0.0 65wf52t.lat
@@ -88033,6 +88040,7 @@
 0.0.0.0 minozefnd.com
 0.0.0.0 metering.pagesuite.com
 0.0.0.0 cdn.admitad.com
+0.0.0.0 searchignited.com #[Parking.Service]
 0.0.0.0 www.ijoaplbdvxexpxuqex.top
 0.0.0.0 www.vantaggio-it.digital
 0.0.0.0 4f-vareso.club
