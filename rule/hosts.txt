@@ -1,4 +1,4 @@
-# Update time: 2026-03-21 21:07:15
+# Update time: 2026-03-22 11:14:32
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -3942,6 +3942,7 @@
 0.0.0.0 s.vaedan.top
 0.0.0.0 sit.pagechoice.net
 0.0.0.0 toruk.tanx.com
+0.0.0.0 adserver.yahoo.com
 0.0.0.0 bdlm.120askimages.com
 0.0.0.0 ad.player.baidu.com
 0.0.0.0 www.9948000.com
@@ -4897,7 +4898,6 @@
 0.0.0.0 guce.advertising.com
 0.0.0.0 cpro.zol.com.cn
 0.0.0.0 img.ferlie.net
-0.0.0.0 a.baidu.com
 0.0.0.0 cee1.iteye.com
 0.0.0.0 slides.discovery.tom.com
 0.0.0.0 e.fcunq.com
@@ -7173,7 +7173,6 @@
 0.0.0.0 s89.cnzz.com
 0.0.0.0 m.emgwq.com
 0.0.0.0 secure-yt.imrworldwide.com
-0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 t.channeladvisor.com
 0.0.0.0 mp.sohu.com
 0.0.0.0 ads.feelingtouch.com
@@ -8094,6 +8093,7 @@
 0.0.0.0 img1.pszyzxh.org
 0.0.0.0 rwq.youle55.com
 0.0.0.0 wisepush.video.baidu.com
+0.0.0.0 adserver.juicyads.com
 0.0.0.0 activity.tuifish.com
 0.0.0.0 803.tianya.cn
 0.0.0.0 sfk.t58b.com
@@ -9363,6 +9363,7 @@
 0.0.0.0 www.nutabuse.com
 0.0.0.0 ukrashulya.ru
 0.0.0.0 adserver.intentiq.com
+0.0.0.0 www.extrabrick.com
 0.0.0.0 poetryfoundation.fr
 0.0.0.0 col-med.com
 0.0.0.0 delivery.swid.switchads.com
@@ -10777,6 +10778,7 @@
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 ads.webmd.com
 0.0.0.0 celexa.3.p2l.info
+0.0.0.0 www.ultratemps.com
 0.0.0.0 www.liveadexchanger.com
 0.0.0.0 postcanada.ship-express.info
 0.0.0.0 clicks.natwest.com
@@ -11958,7 +11960,6 @@
 0.0.0.0 www.mb01.com
 0.0.0.0 bestwatersystems.net
 0.0.0.0 rtb19.adscience.nl
-0.0.0.0 adserver.yahoo.com
 0.0.0.0 espub.fr
 0.0.0.0 games.superappbox.com
 0.0.0.0 twoj-typ.pl
@@ -13743,6 +13744,7 @@
 0.0.0.0 mononoteapp.firebaseio.com
 0.0.0.0 js.hsleadflows.net
 0.0.0.0 www.bitmedia.io
+0.0.0.0 a.baidu.com
 0.0.0.0 www.magento-analytics.com
 0.0.0.0 www.ndbsoft.be
 0.0.0.0 last-chainleash.net
@@ -15075,6 +15077,7 @@
 0.0.0.0 darmowe-zakupy.com
 0.0.0.0 voluumtrk3.com
 0.0.0.0 buspirone.1.p2l.info
+0.0.0.0 www.tradewinning.com
 0.0.0.0 ads.7days.ae
 0.0.0.0 www.easyadservice.com
 0.0.0.0 tourismelenslievin.fr
@@ -16810,6 +16813,7 @@
 0.0.0.0 media1.popmarker.com
 0.0.0.0 track.msadcenter.zul.com
 0.0.0.0 c.company-target.com
+0.0.0.0 easewave.digital
 0.0.0.0 logs.eresmas.com
 0.0.0.0 bestwing.org
 0.0.0.0 falcon1.net
@@ -17901,6 +17905,7 @@
 0.0.0.0 www.gmads.net
 0.0.0.0 toprxshopplace.com
 0.0.0.0 www.brghterimagelab.com
+0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 click.maaxmarket.com
 0.0.0.0 pexkr.comfortykive.xyz
 0.0.0.0 ads.shovtvnet.com
@@ -19574,7 +19579,6 @@
 0.0.0.0 dkb01.webtrekk.net
 0.0.0.0 media-angel.de
 0.0.0.0 webkurchatov.ru
-0.0.0.0 adserver.juicyads.com
 0.0.0.0 k.intellitxt.com
 0.0.0.0 bankofamerica.tt.omtrdc.net
 0.0.0.0 c0.adalyser.com
@@ -20348,6 +20352,7 @@
 0.0.0.0 www.offerx.co.uk
 0.0.0.0 ads.roanoke.com
 0.0.0.0 la1dwne9cn5c.com
+0.0.0.0 www.baseequip.com
 0.0.0.0 clickthru.net
 0.0.0.0 adsfac.eu
 0.0.0.0 b.myspace.com
@@ -36748,7 +36753,6 @@
 0.0.0.0 agentpounce.com
 0.0.0.0 hgpwa.sbs
 0.0.0.0 go1.aniview.com
-0.0.0.0 sklepkody24.pl
 0.0.0.0 openx.imoti.net
 0.0.0.0 nikefootball.112.2o7.net
 0.0.0.0 gardentoolsoutlet.shop
@@ -83013,7 +83017,6 @@
 0.0.0.0 authenticmarketingai.com
 0.0.0.0 stats.pandora.com
 0.0.0.0 www.evkc.com
-0.0.0.0 physical309.site
 0.0.0.0 2mpact.com
 0.0.0.0 www.pr4ess.info
 0.0.0.0 www.centeredcedar.cfd
