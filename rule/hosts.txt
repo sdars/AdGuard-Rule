@@ -1,4 +1,4 @@
-# Update time: 2026-04-13 11:44:37
+# Update time: 2026-04-13 22:01:32
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -6237,7 +6237,6 @@
 0.0.0.0 js4.eastmoney.com
 0.0.0.0 mpush-api.aliyun.com
 0.0.0.0 update.sdk.jiguang.cn
-255.255.255.255	broadcasthost
 0.0.0.0 e.dydd.xyz
 0.0.0.0 www.vegaschina.cn
 0.0.0.0 tpush.html5.qq.com
@@ -12660,6 +12659,7 @@
 0.0.0.0 laxnws.112.2o7.net
 0.0.0.0 s3-ap-southeast-2-amazonaws.com
 0.0.0.0 clicksor.com
+255.255.255.255	broadcasthost
 0.0.0.0 nytimesnonsampled.112.2o7.net
 0.0.0.0 w124.hitbox.com
 0.0.0.0 ehg-idg.hitbox.com
@@ -32164,6 +32164,7 @@
 0.0.0.0 www.qssa.co.uk
 0.0.0.0 o1.inviziads.com
 0.0.0.0 kaizentraffic.com
+0.0.0.0 www.reduxmediia.com
 0.0.0.0 financialservicesrelease.com
 0.0.0.0 www.brestinavolk.info
 0.0.0.0 pl-promocja.sbs
@@ -33705,7 +33706,6 @@
 0.0.0.0 www.nevicpachi.rest
 0.0.0.0 www.amersvikplekk.top
 0.0.0.0 digitalmediaonline.us.intellitxt.com
-0.0.0.0 www.ultracirco.rest
 0.0.0.0 www.stirrednurs.lustfab.com
 0.0.0.0 sindloersme.ink
 0.0.0.0 ua1.hit.stat24.com
@@ -39499,7 +39499,6 @@
 0.0.0.0 dolkrynth.vip
 0.0.0.0 f7ield.info
 0.0.0.0 heavensenttributes.site
-0.0.0.0 goawos.com
 0.0.0.0 app.subiz.com.vn
 0.0.0.0 engage8829thscr.deltadna.net
 0.0.0.0 smetrics.ni.com
@@ -45132,7 +45131,6 @@
 0.0.0.0 ad-seek.jp
 0.0.0.0 www.yxsfj.com
 0.0.0.0 www.aglobalmemorials.site
-0.0.0.0 www.rusesofia.b-cdn.net
 0.0.0.0 geo.jetpackdigital.com
 0.0.0.0 capitalgroupfxs.com
 0.0.0.0 www.deliqa.casa
@@ -51637,7 +51635,6 @@
 0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 www.beauty-direct.pl
 0.0.0.0 bestprocurementmanager.com
-0.0.0.0 www.9-205-155-1.cprapid.com
 0.0.0.0 www.garanagiomil.com
 0.0.0.0 afkrealm.com
 0.0.0.0 analytics.bluekai.com
@@ -53135,7 +53132,6 @@
 0.0.0.0 log.daibieunhandan.vn
 0.0.0.0 auth.cityads.com
 0.0.0.0 doogi.eu
-0.0.0.0 sale-shop.org
 0.0.0.0 www.selvioquant-app.com
 0.0.0.0 g2afse.com
 0.0.0.0 draghbamboo.crete-mix.com
@@ -63969,7 +63965,6 @@
 0.0.0.0 www.unforetold.site
 0.0.0.0 service.videoplaza.tv
 0.0.0.0 wisla-zyskor.net
-0.0.0.0 www.cdial.prevostgo.com
 0.0.0.0 static.scroll.com
 0.0.0.0 burajas.com
 0.0.0.0 amateurspain.com
@@ -66157,7 +66152,6 @@
 0.0.0.0 www.lflatapartaments.com
 0.0.0.0 www.mail12.rangemailer.top
 0.0.0.0 www.foreclousure.com
-0.0.0.0 impulscrescente-fr.com
 0.0.0.0 cks.connatix.com
 0.0.0.0 smart-base.site
 0.0.0.0 www.d-artmixture.com
@@ -75364,6 +75358,7 @@
 0.0.0.0 x.fidelity-media.com
 0.0.0.0 www.prestigioluxvia.com
 0.0.0.0 probolan50.pl
+0.0.0.0 www.trackk8er.pro
 0.0.0.0 media.proadscdn.com
 0.0.0.0 www.dbgsustainability.online
 0.0.0.0 www.sc.pages03.net
@@ -95088,7 +95083,6 @@
 0.0.0.0 www.steady-plan.site
 0.0.0.0 www.therackunit.com
 0.0.0.0 log.saigondautu.com.vn
-0.0.0.0 www.remixfit.shop
 0.0.0.0 as.a.bypass.jp
 0.0.0.0 www.flyinsidefs.com
 0.0.0.0 gadasiano.autos
@@ -96341,7 +96335,6 @@
 0.0.0.0 api.ipstack.com
 0.0.0.0 dotstoconnect.net
 0.0.0.0 omdftwppjaywp4.vercel.app
-0.0.0.0 www.sveletrans.rest
 0.0.0.0 www.oberglinta.top
 0.0.0.0 auraxapp-fr.fyi
 0.0.0.0 www.rowquartz.jaradhuffman.com
