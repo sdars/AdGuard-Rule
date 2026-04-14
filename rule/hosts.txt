@@ -1,4 +1,4 @@
-# Update time: 2026-04-13 22:01:32
+# Update time: 2026-04-14 11:32:32
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -3906,7 +3906,6 @@
 0.0.0.0 v.heygugu.com
 0.0.0.0 c.f1zd.com
 0.0.0.0 baiducom.bj.bcebos.com
-0.0.0.0 ctxtad.tribalfusion.com
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 pic.bloggerads.net
 0.0.0.0 ib.snssdk.com.edgekey.net
@@ -3943,7 +3942,6 @@
 0.0.0.0 s.vaedan.top
 0.0.0.0 sit.pagechoice.net
 0.0.0.0 toruk.tanx.com
-0.0.0.0 adserver.yahoo.com
 0.0.0.0 bdlm.120askimages.com
 0.0.0.0 ad.player.baidu.com
 0.0.0.0 www.9948000.com
@@ -4899,7 +4897,6 @@
 0.0.0.0 guce.advertising.com
 0.0.0.0 cpro.zol.com.cn
 0.0.0.0 img.ferlie.net
-0.0.0.0 a.baidu.com
 0.0.0.0 cee1.iteye.com
 0.0.0.0 slides.discovery.tom.com
 0.0.0.0 e.fcunq.com
@@ -5525,7 +5522,6 @@
 0.0.0.0 ssp.4hw.com.cn
 0.0.0.0 adver.qq.com
 0.0.0.0 v3.cnzz.com
-0.0.0.0 b.am15.net
 0.0.0.0 mobile.dreport.meituan.net
 0.0.0.0 1.xilu.com
 0.0.0.0 staging-ads.flurry.com
@@ -6215,7 +6211,6 @@
 0.0.0.0 a.xywy.com
 0.0.0.0 click2.hd.sohu.com
 0.0.0.0 e.zkwsdf.com
-0.0.0.0 api.viglink.com
 0.0.0.0 u.vlion.cn
 0.0.0.0 pimg1.126.net
 0.0.0.0 j.kfd3sm2c.com
@@ -6237,6 +6232,7 @@
 0.0.0.0 js4.eastmoney.com
 0.0.0.0 mpush-api.aliyun.com
 0.0.0.0 update.sdk.jiguang.cn
+255.255.255.255	broadcasthost
 0.0.0.0 e.dydd.xyz
 0.0.0.0 www.vegaschina.cn
 0.0.0.0 tpush.html5.qq.com
@@ -7131,7 +7127,6 @@
 0.0.0.0 a-cn.duoyi.com
 0.0.0.0 ssdk.adkmob.com
 0.0.0.0 s.17173cdn.com
-0.0.0.0 ads2.contentabc.com
 0.0.0.0 www.jiq336.com
 0.0.0.0 qianclick.baidu.com
 0.0.0.0 xn--wxtr9fwyxk9c.top
@@ -7176,7 +7171,6 @@
 0.0.0.0 s89.cnzz.com
 0.0.0.0 m.emgwq.com
 0.0.0.0 secure-yt.imrworldwide.com
-0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 t.channeladvisor.com
 0.0.0.0 mp.sohu.com
 0.0.0.0 ads.feelingtouch.com
@@ -8097,7 +8091,6 @@
 0.0.0.0 img1.pszyzxh.org
 0.0.0.0 rwq.youle55.com
 0.0.0.0 wisepush.video.baidu.com
-0.0.0.0 adserver.juicyads.com
 0.0.0.0 activity.tuifish.com
 0.0.0.0 803.tianya.cn
 0.0.0.0 sfk.t58b.com
@@ -8684,7 +8677,6 @@
 0.0.0.0 debug.mssp.adunite.com
 0.0.0.0 offline-adv.oray.com
 0.0.0.0 temai.m.taobao.com
-0.0.0.0 an.yandex.ru
 0.0.0.0 ping.acc.sogou.com
 0.0.0.0 p.lu.sogou.com
 0.0.0.0 stats.cn.ronghub.com
@@ -9153,6 +9145,7 @@
 0.0.0.0 traffic.spot.im
 0.0.0.0 wait3sec.org
 0.0.0.0 wienerz.oewabox.at
+0.0.0.0 desertdreamtour.com
 0.0.0.0 adserver.terra.com.br
 0.0.0.0 ads.chipcenter.com
 0.0.0.0 hit-counter.udub.com
@@ -12512,6 +12505,7 @@
 0.0.0.0 ads.paxnet.co.kr
 0.0.0.0 photos2.pop6.com
 0.0.0.0 tracking.edvisors.com
+0.0.0.0 alt-mk-sports.com
 0.0.0.0 saltyapplepie.com
 0.0.0.0 or.5.p2l.info
 0.0.0.0 oj.likewut.net
@@ -12659,7 +12653,6 @@
 0.0.0.0 laxnws.112.2o7.net
 0.0.0.0 s3-ap-southeast-2-amazonaws.com
 0.0.0.0 clicksor.com
-255.255.255.255	broadcasthost
 0.0.0.0 nytimesnonsampled.112.2o7.net
 0.0.0.0 w124.hitbox.com
 0.0.0.0 ehg-idg.hitbox.com
@@ -13122,6 +13115,7 @@
 0.0.0.0 bntbcstglobal.112.2o7.net
 0.0.0.0 bzresults.122.2o7.net
 0.0.0.0 a.kaytri.com
+0.0.0.0 l2.cuyouthmusic.com
 0.0.0.0 gpaper162.112.2o7.net
 0.0.0.0 execulink.112.2o7.net
 0.0.0.0 static.freeskreen.com
@@ -13472,6 +13466,7 @@
 0.0.0.0 www.clickspring.net	#used by a spyware product called PurityScan
 0.0.0.0 www.homewares.org
 0.0.0.0 tracker.mattel.com
+0.0.0.0 ads2.contentabc.com
 0.0.0.0 dailynewstonight.com
 0.0.0.0 www.obesitycheck.com
 0.0.0.0 reverso.refr.adgtw.orangeads.fr
@@ -13523,6 +13518,7 @@
 0.0.0.0 critiquefilm.fr
 0.0.0.0 www.russian-sex.com
 0.0.0.0 www.gmads.net
+0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 click.maaxmarket.com
 0.0.0.0 ads.shovtvnet.com
 0.0.0.0 ads51.console.adtarget.com.tr
@@ -14277,6 +14273,7 @@
 0.0.0.0 textad.traficdublu.ro
 0.0.0.0 maccleanersecurity.com
 0.0.0.0 c7.zedo.com
+0.0.0.0 www.dlinktour.com
 0.0.0.0 static.plista.com
 0.0.0.0 metro.uk.intellitxt.com
 0.0.0.0 e2.cdn.qnsr.com
@@ -14892,6 +14889,7 @@
 0.0.0.0 benefitsorganic.com
 0.0.0.0 ad.prv.pl
 0.0.0.0 ccieurope.fr
+0.0.0.0 an.yandex.ru
 0.0.0.0 ad.fr.doubleclick.net
 0.0.0.0 office.officenet.co.kr
 0.0.0.0 media7.popmarker.com
@@ -15108,6 +15106,7 @@
 0.0.0.0 imssl01.adtech.us
 0.0.0.0 w121.hitbox.com
 0.0.0.0 www.mightymagoo.com
+0.0.0.0 www.bonuxsarrive.com
 0.0.0.0 redirectnet.net
 0.0.0.0 ad1.hotel.com
 0.0.0.0 www.counter7.sextracker.be
@@ -15771,6 +15770,7 @@
 0.0.0.0 hit8.hotlog.ru
 0.0.0.0 date.and-have.fun
 0.0.0.0 ad50digital.checkm8.com
+0.0.0.0 www.bayareafyuerzk.com
 0.0.0.0 aoldlama.122.2o7.net
 0.0.0.0 cdn.nsimg.net
 0.0.0.0 tomsonguitars.co.uk
@@ -16638,6 +16638,7 @@
 0.0.0.0 windows-cnd-update.com
 0.0.0.0 elyses.fr
 0.0.0.0 pool.distilled.ie
+0.0.0.0 ctxtad.tribalfusion.com
 0.0.0.0 fashion-online.net
 0.0.0.0 ad.adnetwork.com.br
 0.0.0.0 secure-nz.imrworldwide.com
@@ -16677,6 +16678,7 @@
 0.0.0.0 ads.adsrvmedia.com
 0.0.0.0 bestwatersystems.net
 0.0.0.0 rtb19.adscience.nl
+0.0.0.0 adserver.yahoo.com
 0.0.0.0 espub.fr
 0.0.0.0 games.superappbox.com
 0.0.0.0 www.wrestlewebnews.com
@@ -16838,6 +16840,7 @@
 0.0.0.0 static.vpptechnologies.com
 0.0.0.0 affiliate.exabytes.com.my
 0.0.0.0 tag.crsspxl.com
+0.0.0.0 www.bluecollarparanormal.com
 0.0.0.0 geoads.osdn.com
 0.0.0.0 6w1.sharedlinkconnect.com
 0.0.0.0 delivery.myswitchads.com
@@ -17572,6 +17575,7 @@
 0.0.0.0 syngeta.fr
 0.0.0.0 js.hsleadflows.net
 0.0.0.0 www.bitmedia.io
+0.0.0.0 a.baidu.com
 0.0.0.0 www.magento-analytics.com
 0.0.0.0 www.ndbsoft.be
 0.0.0.0 last-chainleash.net
@@ -18181,6 +18185,7 @@
 0.0.0.0 hirturi.blogspot.hu
 0.0.0.0 webcounter.com
 0.0.0.0 ws06.home.sapo.pt
+0.0.0.0 b.am15.net
 0.0.0.0 rtl-most.blogspot.hu
 0.0.0.0 spinbox.techtracker.com
 0.0.0.0 www.ontheweb.com
@@ -18820,6 +18825,7 @@
 0.0.0.0 jgen4.cjt1.net
 0.0.0.0 office365-eu-update.com
 0.0.0.0 adserv.mywebtimes.com
+0.0.0.0 api.viglink.com
 0.0.0.0 societergenerale.fr
 0.0.0.0 www.freefuelcoupon.com
 0.0.0.0 r6.ritikajoshi.com
@@ -20207,7 +20213,6 @@
 0.0.0.0 of3d.fr
 0.0.0.0 j4.jmooreassoc.com
 0.0.0.0 spiritualbrakes.com
-0.0.0.0 www.yodobashi.com
 0.0.0.0 gamejolt.fr
 0.0.0.0 super.oewabox.at
 0.0.0.0 pl.ads.justpremium.com
@@ -20479,6 +20484,7 @@
 0.0.0.0 hg17.hitbox.com
 0.0.0.0 media-angel.de
 0.0.0.0 webkurchatov.ru
+0.0.0.0 adserver.juicyads.com
 0.0.0.0 c0.adalyser.com
 0.0.0.0 www.supportwindowlane.uk
 0.0.0.0 twoje-nagrody.pl
@@ -66029,6 +66035,7 @@
 0.0.0.0 convedisia.rest
 0.0.0.0 www.jyskpl-rabat.top
 0.0.0.0 360in.com
+0.0.0.0 www.yodobashi.com
 0.0.0.0 api.segment.io
 0.0.0.0 cpm.super-links.net
 0.0.0.0 manshibtelecom.com
