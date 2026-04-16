@@ -1,4 +1,4 @@
-# Update time: 2026-04-15 21:57:22
+# Update time: 2026-04-16 11:38:38
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2497,7 +2497,6 @@
 0.0.0.0 846.move7.com
 0.0.0.0 api.ujian.cc
 0.0.0.0 www.poijugh.top
-0.0.0.0 c.adsco.re
 0.0.0.0 vivovip.mmszxc.top
 0.0.0.0 conversion.pro.cn
 0.0.0.0 hotupgrade.hpplay.cn
@@ -2510,7 +2509,6 @@
 0.0.0.0 jecoglegru.com
 0.0.0.0 m.dceni.com
 0.0.0.0 seordl.cn
-0.0.0.0 admd.yam.com
 0.0.0.0 sestat.baidu.com
 0.0.0.0 qi.wndlkj.com
 0.0.0.0 e.joyxv.com
@@ -2607,11 +2605,9 @@
 0.0.0.0 dd.wx16999.com
 0.0.0.0 sit.gentags.net
 0.0.0.0 api721.analysys.cn
-0.0.0.0 ads.wapx.cn
 0.0.0.0 pibaba.com.cn
 0.0.0.0 8b4pea.c.admaster.com.cn
 0.0.0.0 i.ipinyou.com
-0.0.0.0 ad.sensismediasmart.com.au
 0.0.0.0 tect.hellobya.cn
 0.0.0.0 au.youmi.net
 0.0.0.0 go.dlads.cn
@@ -4363,7 +4359,6 @@
 0.0.0.0 cdn.adinall.com
 0.0.0.0 api-metrics-e2e.nonprod.flurry.com
 0.0.0.0 c3.gostats.cn
-0.0.0.0 ad.auditude.com
 0.0.0.0 www.qchannel01.cn
 0.0.0.0 media.tianjimedia.com
 0.0.0.0 rcv.union-wifi.com
@@ -5633,7 +5628,6 @@
 0.0.0.0 2018.qucaigg.com
 0.0.0.0 log.adaptv.advertising.com
 0.0.0.0 canvas.gdt.qq.com
-0.0.0.0 c.codeonclick.com
 0.0.0.0 lylog.1391.com
 0.0.0.0 aexz.rm.fhxiaoshuo.com
 0.0.0.0 tb.code.twyxi.com
@@ -6122,7 +6116,6 @@
 0.0.0.0 fpb.docin.com
 0.0.0.0 config.mobisage.cn
 0.0.0.0 zs5.cnzz.com
-0.0.0.0 adserver.adtechus.com
 0.0.0.0 intf.cnzz.com
 0.0.0.0 cdnonetag-onead.cdn.hinet.net
 0.0.0.0 ad.unimhk.com
@@ -6212,7 +6205,6 @@
 0.0.0.0 a.xywy.com
 0.0.0.0 click2.hd.sohu.com
 0.0.0.0 e.zkwsdf.com
-0.0.0.0 api.viglink.com
 0.0.0.0 u.vlion.cn
 0.0.0.0 pimg1.126.net
 0.0.0.0 j.kfd3sm2c.com
@@ -6234,7 +6226,6 @@
 0.0.0.0 js4.eastmoney.com
 0.0.0.0 mpush-api.aliyun.com
 0.0.0.0 update.sdk.jiguang.cn
-255.255.255.255	broadcasthost
 0.0.0.0 e.dydd.xyz
 0.0.0.0 www.vegaschina.cn
 0.0.0.0 tpush.html5.qq.com
@@ -6830,7 +6821,6 @@
 0.0.0.0 op00w.baiyangzs.com
 0.0.0.0 c.gj.qq.com
 0.0.0.0 log.xiaozuowen.net
-0.0.0.0 c.silvinst.com
 0.0.0.0 adsfs.oppomobile.com
 0.0.0.0 adsys.sinovision.net
 0.0.0.0 c41.clicki.cn
@@ -8043,7 +8033,6 @@
 0.0.0.0 www.tj-cmys.com
 0.0.0.0 conv.youdao.com
 0.0.0.0 bce.baidu.com
-0.0.0.0 ad.3dnews.ru
 0.0.0.0 dap.pagechoice.net
 0.0.0.0 tejia.taobao.com
 0.0.0.0 t1.jzkapp.com
@@ -8134,7 +8123,6 @@
 0.0.0.0 un2.banmamedia.com
 0.0.0.0 api.cpu.baidu.com
 0.0.0.0 mil.gbzumh.cn
-0.0.0.0 ads.waps.cn
 0.0.0.0 lkme.cc
 0.0.0.0 www.203710.com
 0.0.0.0 updates-s3.binaryage.com
@@ -8782,7 +8770,6 @@
 0.0.0.0 bu02.zybang.com
 0.0.0.0 mldy.yxxgab.cn
 0.0.0.0 pag.qdwght.com
-0.0.0.0 adson.awempire.com
 0.0.0.0 www.duiba.com.cn
 0.0.0.0 bd4.chuiyue.com
 0.0.0.0 www.hblinwei.com
@@ -8970,6 +8957,7 @@
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 corusads.dserv.ca
 0.0.0.0 ads.apartmenttherapy.com
+0.0.0.0 www.americanresortresolutions.com
 0.0.0.0 assets.percentmobile.com
 0.0.0.0 devguardmap.org
 0.0.0.0 ehg-moma.hitbox.com.112.2o7.net
@@ -9137,6 +9125,8 @@
 0.0.0.0 advertising.paltalk.com
 0.0.0.0 gravitron.chron.com
 0.0.0.0 oascentral.rcrnews.com
+0.0.0.0 ads.wapx.cn
+0.0.0.0 ad.sensismediasmart.com.au
 0.0.0.0 creditmuteuel.fr
 0.0.0.0 www.auto-runmz.com
 0.0.0.0 www.moncasinoonline.com
@@ -10356,6 +10346,7 @@
 0.0.0.0 coquine-dispo.com
 0.0.0.0 howtotroll.org
 0.0.0.0 sportydesktops.com
+0.0.0.0 www.sauteenacoochee.com
 0.0.0.0 ads.lycos.com
 0.0.0.0 getrunkhomuto.info
 0.0.0.0 wdm29.com
@@ -10756,6 +10747,7 @@
 0.0.0.0 mmoframes.com
 0.0.0.0 arbrever.fr
 0.0.0.0 accountcanceled.com
+0.0.0.0 in-aoke.com
 0.0.0.0 usnews.122.2o7.net
 0.0.0.0 filmfanatic.com
 0.0.0.0 www.btvm.ne.jp
@@ -10874,6 +10866,7 @@
 0.0.0.0 vc-login.com
 0.0.0.0 ehg-pacifictheatres.hitbox.com
 0.0.0.0 bannersnack.fr
+0.0.0.0 ad.auditude.com
 0.0.0.0 ad.dk.doubleclick.net
 0.0.0.0 tearbelt.com
 0.0.0.0 impch.tradedoubler.com
@@ -12062,6 +12055,7 @@
 0.0.0.0 www.choicesurveypanel.com
 0.0.0.0 ads20.focalink.com
 0.0.0.0 pourcentfilers.com
+0.0.0.0 c.codeonclick.com
 0.0.0.0 enpresse.1.p2l.info
 0.0.0.0 faceboook-replyei0ki.montadalitihad.com
 0.0.0.0 webadv.co
@@ -12530,6 +12524,7 @@
 0.0.0.0 www12.glam.com
 0.0.0.0 col.mobileads.msn.com
 0.0.0.0 dc43.s290.meetrics.net
+0.0.0.0 adserver.adtechus.com
 0.0.0.0 ads.adworldnetwork.com
 0.0.0.0 apac.rel.msn.com
 0.0.0.0 gigaonclick.com
@@ -12656,6 +12651,7 @@
 0.0.0.0 laxnws.112.2o7.net
 0.0.0.0 s3-ap-southeast-2-amazonaws.com
 0.0.0.0 clicksor.com
+255.255.255.255	broadcasthost
 0.0.0.0 nytimesnonsampled.112.2o7.net
 0.0.0.0 w124.hitbox.com
 0.0.0.0 ehg-idg.hitbox.com
@@ -13980,6 +13976,7 @@
 0.0.0.0 clients-access.com
 0.0.0.0 c2366475.c.youradexchange.com
 0.0.0.0 grtexch.com
+0.0.0.0 www.mexdrugs.com
 0.0.0.0 banners.iop.org
 0.0.0.0 drm-server13-login-microsoftonline.com
 0.0.0.0 gautmont.fr
@@ -14420,6 +14417,7 @@
 0.0.0.0 static.oroll.com
 0.0.0.0 secimage.adtech.fr
 0.0.0.0 exipure.net
+0.0.0.0 ads.waps.cn
 0.0.0.0 mtvn.112.2o7.net
 0.0.0.0 cc-dt.com
 0.0.0.0 www.affiliation-france.com
@@ -15274,6 +15272,7 @@
 0.0.0.0 westjet.112.2o7.net
 0.0.0.0 a.mktw.net
 0.0.0.0 stats.ladotstats.nl
+0.0.0.0 c.adsco.re
 0.0.0.0 besacon.fr
 0.0.0.0 se.adserver.yahoo.com
 0.0.0.0 bluekai.com
@@ -15286,6 +15285,7 @@
 0.0.0.0 promo.mes-meilleurs-films.fr
 0.0.0.0 play-poker-free.forsearch.net
 0.0.0.0 glassesofwine.com
+0.0.0.0 admd.yam.com
 0.0.0.0 audacity.pl
 0.0.0.0 weight-loss.hut1.ru
 0.0.0.0 online-forex-trading-systems.blogspot.com
@@ -16760,6 +16760,7 @@
 0.0.0.0 superbrewards.com
 0.0.0.0 ads.economist.com
 0.0.0.0 inateck.fr
+0.0.0.0 www.hotpanic.net
 0.0.0.0 usadmm.dotomi.com
 0.0.0.0 track.msadcenter.lzwp.com
 0.0.0.0 aolwpaim.112.2o7.net
@@ -16879,6 +16880,7 @@
 0.0.0.0 askbot.com
 0.0.0.0 promojustforyou.click
 0.0.0.0 aehistory.112.2o7.net
+0.0.0.0 www.raspberryketoneslim.com
 0.0.0.0 oascentral.consumerreports.org
 0.0.0.0 newsnetw.oewabox.at
 0.0.0.0 def.5.p2l.info
@@ -18205,6 +18207,7 @@
 0.0.0.0 usdeeds.acemlna.com
 0.0.0.0 GEOpolice.com
 0.0.0.0 admedia.wsod.com
+0.0.0.0 www.slidingdoorlocks.com
 0.0.0.0 urc.taboolasyndication.com
 0.0.0.0 utauniv-lyon2.fr
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
@@ -18837,6 +18840,7 @@
 0.0.0.0 jgen4.cjt1.net
 0.0.0.0 office365-eu-update.com
 0.0.0.0 adserv.mywebtimes.com
+0.0.0.0 api.viglink.com
 0.0.0.0 societergenerale.fr
 0.0.0.0 www.freefuelcoupon.com
 0.0.0.0 r6.ritikajoshi.com
@@ -19371,6 +19375,7 @@
 0.0.0.0 stat.netmonitor.fi
 0.0.0.0 gpaper184.112.2o7.net
 0.0.0.0 adserver.archant.co.uk
+0.0.0.0 c.silvinst.com
 0.0.0.0 www.counter11.sextracker.be
 0.0.0.0 ads146.console.adtarget.com.tr
 0.0.0.0 vitalitymax.1.p2l.info
@@ -20459,6 +20464,7 @@
 0.0.0.0 bridgemanstt.com
 0.0.0.0 amoxicillin.ourtablets.com
 0.0.0.0 nt.new-cars.com.es
+0.0.0.0 ad.3dnews.ru
 0.0.0.0 r7.romeflirt.com
 0.0.0.0 fondprof.oewabox.at
 0.0.0.0 x-images.com
@@ -21135,6 +21141,7 @@
 0.0.0.0 track.webgains.com
 0.0.0.0 k7.karbilyazilim.com
 0.0.0.0 www.tynt.com
+0.0.0.0 adson.awempire.com
 0.0.0.0 adserv.bravenet.com
 0.0.0.0 speedboink.com
 0.0.0.0 411playz.com
@@ -63988,7 +63995,6 @@
 0.0.0.0 www.unforetold.site
 0.0.0.0 service.videoplaza.tv
 0.0.0.0 wisla-zyskor.net
-0.0.0.0 www.cdial.prevostgo.com
 0.0.0.0 static.scroll.com
 0.0.0.0 burajas.com
 0.0.0.0 amateurspain.com
@@ -66176,7 +66182,6 @@
 0.0.0.0 www.lflatapartaments.com
 0.0.0.0 www.mail12.rangemailer.top
 0.0.0.0 www.foreclousure.com
-0.0.0.0 impulscrescente-fr.com
 0.0.0.0 cks.connatix.com
 0.0.0.0 smart-base.site
 0.0.0.0 www.d-artmixture.com
@@ -75493,7 +75498,6 @@
 0.0.0.0 www.vinted.kupteraz4920148.sbs
 0.0.0.0 www.faktya.is-best.net
 0.0.0.0 wiodomoscitodaylin.com
-0.0.0.0 ammaedereg.rest
 0.0.0.0 www.twoje-filmyvod.pl
 0.0.0.0 www.codes8tack.com
 0.0.0.0 banners.perfectgonzo.com
@@ -92609,7 +92613,6 @@
 0.0.0.0 tags-prod.vrvm.com
 0.0.0.0 hiwobai.pro
 0.0.0.0 www.valenthe-horizon-fr.com
-0.0.0.0 tracking.admarketplace.net.edgekey.net
 0.0.0.0 notify.nuviad.com
 0.0.0.0 terrafika.com
 0.0.0.0 4uhye73e.cfd
@@ -101321,7 +101324,6 @@
 0.0.0.0 valoral-activanc.net
 0.0.0.0 www.petroqonyx-hu.fyi
 0.0.0.0 nqjem.com
-0.0.0.0 pl-5861869262.cyou
 0.0.0.0 www.revaminstretchmark.pl
 0.0.0.0 onedrive-log.foxvian.cfd
 0.0.0.0 www.ddail.co.uk
