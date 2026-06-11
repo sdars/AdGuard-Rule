@@ -1,4 +1,4 @@
-# Update time: 2026-06-10 23:57:33
+# Update time: 2026-06-11 12:50:36
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -4899,6 +4899,7 @@
 0.0.0.0 guce.advertising.com
 0.0.0.0 cpro.zol.com.cn
 0.0.0.0 img.ferlie.net
+0.0.0.0 a.baidu.com
 0.0.0.0 cee1.iteye.com
 0.0.0.0 slides.discovery.tom.com
 0.0.0.0 e.fcunq.com
@@ -6236,7 +6237,6 @@
 0.0.0.0 js4.eastmoney.com
 0.0.0.0 mpush-api.aliyun.com
 0.0.0.0 update.sdk.jiguang.cn
-255.255.255.255	broadcasthost
 0.0.0.0 e.dydd.xyz
 0.0.0.0 www.vegaschina.cn
 0.0.0.0 tpush.html5.qq.com
@@ -12732,6 +12732,7 @@
 0.0.0.0 laxnws.112.2o7.net
 0.0.0.0 s3-ap-southeast-2-amazonaws.com
 0.0.0.0 clicksor.com
+255.255.255.255	broadcasthost
 0.0.0.0 openais.maricosnc.it
 0.0.0.0 nytimesnonsampled.112.2o7.net
 0.0.0.0 w124.hitbox.com
@@ -15560,6 +15561,7 @@
 0.0.0.0 rmbn.ru
 0.0.0.0 gossipsbollywoods.com
 0.0.0.0 www.xxxtoolbar.com
+0.0.0.0 www.pdxsenior.com
 0.0.0.0 wolverineworldwide.fr
 0.0.0.0 beauten.fr
 0.0.0.0 c4.cembuyukhanli.com
@@ -16386,6 +16388,7 @@
 0.0.0.0 www.technocost.com
 0.0.0.0 itssure.shop
 0.0.0.0 au.adserver.yahoo.com
+0.0.0.0 www.dzzzsc.com
 0.0.0.0 counter10.bravenet.com
 0.0.0.0 scoietegenerale.fr
 0.0.0.0 ads.mofos.com
@@ -17740,7 +17743,6 @@
 0.0.0.0 syngeta.fr
 0.0.0.0 js.hsleadflows.net
 0.0.0.0 www.bitmedia.io
-0.0.0.0 a.baidu.com
 0.0.0.0 www.magento-analytics.com
 0.0.0.0 www.ndbsoft.be
 0.0.0.0 last-chainleash.net
@@ -28481,7 +28483,6 @@
 127.0.0.1 instantresp.com
 127.0.0.1 wan.rising.cn
 127.0.0.1 www.liveinternet.ru
-127.0.0.1 www.yb6.me
 127.0.0.1 buyu9930.com
 127.0.0.1 www.um0592.com
 127.0.0.1 www.55998448.com
@@ -93988,6 +93989,7 @@
 0.0.0.0 www.42rr3fee.top
 0.0.0.0 naurosdjaiowrpodjl.site
 0.0.0.0 apture.com
+0.0.0.0 selmoriaq.info
 0.0.0.0 log.baomoi.com
 0.0.0.0 gablesmith.eu
 0.0.0.0 avoadsservices.com
