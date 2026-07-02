@@ -1,4 +1,4 @@
-# Update time: 2026-07-01 22:53:01
+# Update time: 2026-07-02 12:13:50
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2964,6 +2964,7 @@
 0.0.0.0 ad.api.3g.tudou.com
 0.0.0.0 8b6fxa.viqiyi.admaster.com.cn
 0.0.0.0 stream.snssdk.com
+0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 x.jd.com
 0.0.0.0 mqqadr.reader.qq.com
 0.0.0.0 vs2.gzcu.u3.ucweb.com
@@ -3623,6 +3624,7 @@
 0.0.0.0 impservice.dictapp.youdao.com
 0.0.0.0 counter.marketgid.com
 0.0.0.0 d.kugou.com
+0.0.0.0 admedia.com
 0.0.0.0 o.if.qidian.com
 0.0.0.0 t1n.cn
 0.0.0.0 api.e.mi.com
@@ -5263,6 +5265,7 @@
 0.0.0.0 img.ads.csdn.net
 0.0.0.0 p.qlogo.cn
 0.0.0.0 sync-eu.exe.bid
+0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 market.52pk.com
 0.0.0.0 www.qumi.com
 0.0.0.0 wangdq.com
@@ -6166,6 +6169,7 @@
 0.0.0.0 geo.gridsumdissector.com
 0.0.0.0 tips.gamevvip.com
 0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 ads-a.juicyads.com
 0.0.0.0 adimg.mobile.sina.cn
 0.0.0.0 m.cuoss.com
 0.0.0.0 static.bmob.cn
@@ -6242,6 +6246,7 @@
 0.0.0.0 js4.eastmoney.com
 0.0.0.0 mpush-api.aliyun.com
 0.0.0.0 update.sdk.jiguang.cn
+255.255.255.255	broadcasthost
 0.0.0.0 e.dydd.xyz
 0.0.0.0 www.vegaschina.cn
 0.0.0.0 tpush.html5.qq.com
@@ -6948,6 +6953,7 @@
 0.0.0.0 pv.xcar.com.cn
 0.0.0.0 www.kejet.com
 0.0.0.0 www.dianomi.com
+0.0.0.0 a.adroll.com
 0.0.0.0 910weixin.com
 0.0.0.0 images.enet.com.cn
 0.0.0.0 cdn.atwola.com
@@ -6971,6 +6977,7 @@
 0.0.0.0 m-hayakawa.ad.dev.nend.net
 0.0.0.0 adsatt.disney.starwave.com
 0.0.0.0 beyondcompare.cc
+0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 amps.yoyi.com.cn
 0.0.0.0 dns2.oadz.com
 0.0.0.0 is.snssdk.com
@@ -9268,6 +9275,7 @@
 0.0.0.0 www.groundofsuccess.com
 0.0.0.0 amateur.xxxcounter.com
 0.0.0.0 counter39.bravenet.com
+0.0.0.0 www.haikuservices.com
 0.0.0.0 medleyads.com
 0.0.0.0 www3.addfreestats.com
 0.0.0.0 service.adtech.fr
@@ -11772,7 +11780,6 @@
 0.0.0.0 jf71qh5v14.com
 0.0.0.0 techreview.112.2o7.net
 0.0.0.0 adserver.pressboard.ca
-0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 legrando.fr
 0.0.0.0 ads214.console.adtarget.com.tr
 0.0.0.0 ezl.com
@@ -12671,7 +12678,6 @@
 0.0.0.0 y.cdn.adblade.com
 0.0.0.0 pm.adsafeprotected.com
 0.0.0.0 ticketforchange.fr
-0.0.0.0 ads-a.juicyads.com
 0.0.0.0 ads.adgoto.com
 0.0.0.0 www.keybinary.com
 0.0.0.0 cdn.wwwpromoter.com
@@ -12759,7 +12765,6 @@
 0.0.0.0 laxnws.112.2o7.net
 0.0.0.0 s3-ap-southeast-2-amazonaws.com
 0.0.0.0 clicksor.com
-255.255.255.255	broadcasthost
 0.0.0.0 openais.maricosnc.it
 0.0.0.0 nytimesnonsampled.112.2o7.net
 0.0.0.0 w124.hitbox.com
@@ -12970,6 +12975,7 @@
 0.0.0.0 www.careertake.com
 0.0.0.0 gcirm.muskogeephoenix.com
 0.0.0.0 id5576.al21.luxup.ru
+0.0.0.0 www.erincranor.com
 127.0.0.1	localhost
 0.0.0.0 www.monetizemore.com
 0.0.0.0 crrect.sa.com
@@ -13413,7 +13419,6 @@
 0.0.0.0 umgpjdlllhl.ru
 0.0.0.0 www.itrackerpro.com
 0.0.0.0 pmelon.com
-0.0.0.0 a.adroll.com
 0.0.0.0 www.nedstat.com
 0.0.0.0 cadsans.com
 0.0.0.0 adserv.quality-channel.de
@@ -13437,7 +13442,6 @@
 0.0.0.0 miner.pr0gramm.com
 0.0.0.0 adserver9.contextad.com
 0.0.0.0 doors.co.kr
-0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 www.tvccpt.com
 0.0.0.0 www.everestgroupcorp.com
 0.0.0.0 hurricaneprotection.com
@@ -15876,7 +15880,6 @@
 0.0.0.0 svd2.adtlgc.com
 0.0.0.0 enerweb.oewabox.at
 0.0.0.0 rapid-glade-cde8.asoumare042024.workers.dev
-0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 fuzzy-afternoon.surge.sh
 0.0.0.0 sanbuzs.com
 0.0.0.0 www.cydoor.com
@@ -16514,6 +16517,7 @@
 0.0.0.0 organikusok.blogspot.hu
 0.0.0.0 ads.pni.com
 0.0.0.0 ssl-msn.oewabox.at
+0.0.0.0 www.feudlands.com
 0.0.0.0 npmpecd.com
 0.0.0.0 shortcut-links.com
 0.0.0.0 buy-valium.hut1.ru
@@ -16546,7 +16550,6 @@
 0.0.0.0 caisse-apargne.fr
 0.0.0.0 advert-time.com
 0.0.0.0 track.enviodemails.com
-0.0.0.0 admedia.com
 0.0.0.0 www.fripta.com
 0.0.0.0 f11098.privacy4browsers.com
 0.0.0.0 beauty.finaltips.com
@@ -16595,6 +16598,7 @@
 0.0.0.0 www.webtrekk.net
 0.0.0.0 www.diffuselec.com
 0.0.0.0 topshoponline.ru
+0.0.0.0 www.sealabour.living
 0.0.0.0 cache.addthis.com
 0.0.0.0 tracking.vcommission.com
 0.0.0.0 delivery.adnuntius.com
@@ -28826,6 +28830,7 @@
 127.0.0.1 buyu9966.com
 127.0.0.1 uds24.com
 127.0.0.1 www.3152018.com
+127.0.0.1 0oaqgsk54hm5.com
 127.0.0.1 buyu9923.com
 127.0.0.1 redpaper-10006092.cos.myqcloud.com
 127.0.0.1 www.yueba423.com
@@ -39531,6 +39536,7 @@
 0.0.0.0 harborby.eu
 0.0.0.0 vtrenjfmkcdlws.com
 0.0.0.0 www.vdhu.com
+0.0.0.0 pub-2be0bbb40aa1430f839f8ba2dc282e40.r2.dev
 0.0.0.0 www.texeaxqmvk.shop
 0.0.0.0 unstrdefoa.cyou
 0.0.0.0 www.ezebra.sale-pme-legend.shop
@@ -43331,6 +43337,7 @@
 0.0.0.0 execnova.com
 0.0.0.0 ads.mobadvent.com
 0.0.0.0 www.autryclub.com
+0.0.0.0 www.lppapwajateng.org
 0.0.0.0 www.erritz.xcartpro.com
 0.0.0.0 www.zuristone.info
 0.0.0.0 imajoli.com
@@ -56384,6 +56391,7 @@
 0.0.0.0 freecharge.demdex.net
 0.0.0.0 mariastein.shop
 0.0.0.0 douglas.stadiumshop.sbs
+0.0.0.0 classic.dexlonghis.shop
 0.0.0.0 faircroft-corebit-soft.com
 0.0.0.0 www.focusgardens.shop
 0.0.0.0 www.inanihangi.cyou
@@ -72104,6 +72112,7 @@
 0.0.0.0 mybloglog.com
 0.0.0.0 blogadswap.com
 0.0.0.0 sportingbeteur.adsrv.eacdn.com
+0.0.0.0 kategorie-4838849.xyz
 0.0.0.0 www.azraokul.com
 0.0.0.0 www.reliablepey.online
 0.0.0.0 tereqozmrc.shop
@@ -96764,7 +96773,6 @@
 0.0.0.0 kanterivib.cyou
 0.0.0.0 www.stepmelse.bilhons.com
 0.0.0.0 stportal.eclick.vn
-0.0.0.0 inatv.pl
 0.0.0.0 block-apple.com
 0.0.0.0 msmobiles.de.intellitxt.com
 0.0.0.0 wapster.pl
@@ -99487,6 +99495,7 @@
 0.0.0.0 www.androidsecurityplus.com
 0.0.0.0 api.cheatsheet.me
 0.0.0.0 the-ozone-project.com
+0.0.0.0 evertherenous.info
 0.0.0.0 pixel.cdnwidget.com
 0.0.0.0 www.boxtruckuniversity.com
 0.0.0.0 www.harborbasketdaily.eu
