@@ -1,4 +1,4 @@
-# Update time: 2026-07-03 22:27:13
+# Update time: 2026-07-04 11:54:12
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2926,7 +2926,6 @@
 0.0.0.0 cntrack.madserving.com
 0.0.0.0 nfh.cnshef.com
 0.0.0.0 u1.img.mobile.sina.cn
-0.0.0.0 ads.juicyads.com
 0.0.0.0 vs8.gzcu.u3.ucweb.com
 0.0.0.0 x.infzm.com
 0.0.0.0 growingio.com
@@ -9459,6 +9458,7 @@
 0.0.0.0 prilosec.1.p2l.info
 0.0.0.0 auxin-box.com
 0.0.0.0 ads.gorillanation.com
+0.0.0.0 ads.juicyads.com
 0.0.0.0 van-city-sign-on.com
 0.0.0.0 oascentral.dailybreeze.com
 0.0.0.0 www.aeqs.com
@@ -88578,7 +88578,6 @@
 0.0.0.0 guest-pend22751.com
 0.0.0.0 pocwarszawastore.shop
 0.0.0.0 texenqzmxv.shop
-0.0.0.0 tracking.admarketplace.net.edgekey.net
 0.0.0.0 www.pomoc-mail.netlify.app
 0.0.0.0 notify.nuviad.com
 0.0.0.0 alderwell.eu
@@ -96774,7 +96773,6 @@
 0.0.0.0 kanterivib.cyou
 0.0.0.0 www.stepmelse.bilhons.com
 0.0.0.0 stportal.eclick.vn
-0.0.0.0 inatv.pl
 0.0.0.0 block-apple.com
 0.0.0.0 msmobiles.de.intellitxt.com
 0.0.0.0 wapster.pl
