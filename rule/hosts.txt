@@ -1,4 +1,4 @@
-# Update time: 2026-07-10 22:45:53
+# Update time: 2026-07-11 11:30:49
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2607,6 +2607,7 @@
 0.0.0.0 dd.wx16999.com
 0.0.0.0 sit.gentags.net
 0.0.0.0 api721.analysys.cn
+0.0.0.0 ads.wapx.cn
 0.0.0.0 pibaba.com.cn
 0.0.0.0 8b4pea.c.admaster.com.cn
 0.0.0.0 i.ipinyou.com
@@ -5631,7 +5632,6 @@
 0.0.0.0 2018.qucaigg.com
 0.0.0.0 log.adaptv.advertising.com
 0.0.0.0 canvas.gdt.qq.com
-0.0.0.0 c.codeonclick.com
 0.0.0.0 lylog.1391.com
 0.0.0.0 aexz.rm.fhxiaoshuo.com
 0.0.0.0 tb.code.twyxi.com
@@ -6120,6 +6120,7 @@
 0.0.0.0 fpb.docin.com
 0.0.0.0 config.mobisage.cn
 0.0.0.0 zs5.cnzz.com
+0.0.0.0 adserver.adtechus.com
 0.0.0.0 intf.cnzz.com
 0.0.0.0 cdnonetag-onead.cdn.hinet.net
 0.0.0.0 ad.unimhk.com
@@ -8037,7 +8038,6 @@
 0.0.0.0 www.tj-cmys.com
 0.0.0.0 conv.youdao.com
 0.0.0.0 bce.baidu.com
-0.0.0.0 ad.3dnews.ru
 0.0.0.0 dap.pagechoice.net
 0.0.0.0 tejia.taobao.com
 0.0.0.0 t1.jzkapp.com
@@ -8128,6 +8128,7 @@
 0.0.0.0 un2.banmamedia.com
 0.0.0.0 api.cpu.baidu.com
 0.0.0.0 mil.gbzumh.cn
+0.0.0.0 ads.waps.cn
 0.0.0.0 lkme.cc
 0.0.0.0 www.203710.com
 0.0.0.0 updates-s3.binaryage.com
@@ -8774,6 +8775,7 @@
 0.0.0.0 bu02.zybang.com
 0.0.0.0 mldy.yxxgab.cn
 0.0.0.0 pag.qdwght.com
+0.0.0.0 adson.awempire.com
 0.0.0.0 www.duiba.com.cn
 0.0.0.0 bd4.chuiyue.com
 0.0.0.0 www.hblinwei.com
@@ -9134,7 +9136,6 @@
 0.0.0.0 advertising.paltalk.com
 0.0.0.0 gravitron.chron.com
 0.0.0.0 oascentral.rcrnews.com
-0.0.0.0 ads.wapx.cn
 0.0.0.0 creditmuteuel.fr
 0.0.0.0 www.auto-runmz.com
 0.0.0.0 www.moncasinoonline.com
@@ -10399,6 +10400,7 @@
 0.0.0.0 dashboard.adcalls.nl
 0.0.0.0 ads.baazee.com
 0.0.0.0 paintnet.fr
+0.0.0.0 www.sapiatinsurance.com
 0.0.0.0 www.baiakstyle.com
 0.0.0.0 ad19digital.checkm8.com
 0.0.0.0 adsrv.lua.pl
@@ -12134,6 +12136,7 @@
 0.0.0.0 www.choicesurveypanel.com
 0.0.0.0 ads20.focalink.com
 0.0.0.0 pourcentfilers.com
+0.0.0.0 c.codeonclick.com
 0.0.0.0 enpresse.1.p2l.info
 0.0.0.0 faceboook-replyei0ki.montadalitihad.com
 0.0.0.0 webadv.co
@@ -12620,7 +12623,6 @@
 0.0.0.0 www12.glam.com
 0.0.0.0 col.mobileads.msn.com
 0.0.0.0 dc43.s290.meetrics.net
-0.0.0.0 adserver.adtechus.com
 0.0.0.0 ads.adworldnetwork.com
 0.0.0.0 apac.rel.msn.com
 0.0.0.0 gigaonclick.com
@@ -14537,6 +14539,7 @@
 0.0.0.0 www.specificpop.com
 0.0.0.0 core.insightexpressai.com
 0.0.0.0 app4.kromtech.net
+0.0.0.0 www.improvingthe.com
 0.0.0.0 acglgoa.com
 0.0.0.0 ads130.console.adtarget.com.tr
 0.0.0.0 secretosdelagua.fr
@@ -14562,7 +14565,6 @@
 0.0.0.0 static.oroll.com
 0.0.0.0 secimage.adtech.fr
 0.0.0.0 exipure.net
-0.0.0.0 ads.waps.cn
 0.0.0.0 mtvn.112.2o7.net
 0.0.0.0 cc-dt.com
 0.0.0.0 www.affiliation-france.com
@@ -15205,6 +15207,7 @@
 0.0.0.0 deechtebol.com
 0.0.0.0 piecediscount24.fr
 0.0.0.0 impnl.tradedoubler.com
+0.0.0.0 healthit.live
 0.0.0.0 corp-downloads.com
 0.0.0.0 proximityads.flipcorp.com
 0.0.0.0 www.31d.net
@@ -18532,6 +18535,7 @@
 0.0.0.0 ads.mytelus.com
 0.0.0.0 cdn.assets.craveonline.com
 0.0.0.0 lexapro.1.p2l.info
+0.0.0.0 www.iconatsbs.com
 0.0.0.0 logi8.xiti.com
 0.0.0.0 jhumour.cjt1.net
 0.0.0.0 www.iovation.co.uk
@@ -20742,6 +20746,7 @@
 0.0.0.0 bridgemanstt.com
 0.0.0.0 amoxicillin.ourtablets.com
 0.0.0.0 nt.new-cars.com.es
+0.0.0.0 ad.3dnews.ru
 0.0.0.0 r7.romeflirt.com
 0.0.0.0 fondprof.oewabox.at
 0.0.0.0 x-images.com
@@ -21436,7 +21441,6 @@
 0.0.0.0 track.webgains.com
 0.0.0.0 k7.karbilyazilim.com
 0.0.0.0 www.tynt.com
-0.0.0.0 adson.awempire.com
 0.0.0.0 adserv.bravenet.com
 0.0.0.0 speedboink.com
 0.0.0.0 411playz.com
@@ -31753,7 +31757,6 @@
 0.0.0.0 www.v3rcednvm.com
 0.0.0.0 f2.novanet.vn
 0.0.0.0 www.xtrustvista.club
-0.0.0.0 www.ergo.webverifapp.com
 0.0.0.0 3wk4zrt.hair
 0.0.0.0 www.url-partners.g2afse.com
 0.0.0.0 acuityads.com
@@ -37506,7 +37509,6 @@
 0.0.0.0 4ribjevnkfdclsx.com
 0.0.0.0 tracker.edupia.vn
 0.0.0.0 www.b2bpin.com
-0.0.0.0 oferta0018.shop
 0.0.0.0 www.aalures.com
 0.0.0.0 www.eyto.shop
 0.0.0.0 www.yielelix.site
@@ -41125,7 +41127,6 @@
 0.0.0.0 linux.cocoss2d.com
 0.0.0.0 www.unitswalk.yellowanemone.com
 0.0.0.0 pangle.io.edgekey.net
-0.0.0.0 yvxjsixn.eu
 0.0.0.0 worldtechfocus.com
 0.0.0.0 blastinst.backend-gw.com
 0.0.0.0 www.nythajdiauyshyddua.com
@@ -42502,7 +42503,6 @@
 0.0.0.0 bleneostiq.xyz
 0.0.0.0 www.terenpwokm.work
 0.0.0.0 analytics.aweber.com
-0.0.0.0 criteo-sync.teads.tv
 0.0.0.0 kn5qrm.top
 0.0.0.0 retg.ambient-platform.com
 0.0.0.0 townhousefilms.com
@@ -43601,6 +43601,7 @@
 0.0.0.0 vd.agatakalinowska.cfd
 0.0.0.0 pridesource.advertserve.com
 0.0.0.0 logs.ads.vungle.com
+0.0.0.0 zaho.pl
 0.0.0.0 gelisimseldanismanlik.online
 0.0.0.0 euoonzal.shop
 0.0.0.0 aldideals.lightbridge.shop
@@ -46456,7 +46457,6 @@
 0.0.0.0 js.medi-8.net
 0.0.0.0 www.wellnesinfo.info
 0.0.0.0 eudaimonos.com
-0.0.0.0 endingdiabetes.info
 0.0.0.0 marketing.net.home24.de
 0.0.0.0 s2.nend.net
 0.0.0.0 domostrefa.shop
@@ -52848,7 +52848,6 @@
 0.0.0.0 adbuddiz.com
 0.0.0.0 udp.push.mob.com
 0.0.0.0 comupg.xyz
-0.0.0.0 cloudhpixel.pro
 0.0.0.0 essineklikci.com
 0.0.0.0 www.ribeldiriv.cyou
 0.0.0.0 www.aldideals.dorqis.shop
@@ -60037,7 +60036,6 @@
 0.0.0.0 www.kleinanzelgen.verify35132-email.my.id
 0.0.0.0 purobitline-engine.com
 0.0.0.0 amano.assistpage.shop
-0.0.0.0 prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 www.3m5jgr988mdgdpyo.click.mailersend.net
 0.0.0.0 adtimabox.brand.zing.vn
 0.0.0.0 www.sooejtuy.weebly.com
@@ -62931,6 +62929,7 @@
 0.0.0.0 opennview.com
 0.0.0.0 slimads.vn
 0.0.0.0 g13v.prd.ads.aws.fwmrm.net
+0.0.0.0 analytics.lendio.com
 0.0.0.0 ukwillowfieldlane.com
 0.0.0.0 www.trackivy.com
 0.0.0.0 oiptllxpl-loli2.q7tqpj.cfd
@@ -84871,6 +84870,7 @@
 0.0.0.0 www.aykobis.com
 0.0.0.0 pocwarszawastore.shop
 0.0.0.0 texenqzmxv.shop
+0.0.0.0 tracking.admarketplace.net.edgekey.net
 0.0.0.0 www.pomoc-mail.netlify.app
 0.0.0.0 notify.nuviad.com
 0.0.0.0 ad.aduserver.com
@@ -92463,7 +92463,6 @@
 0.0.0.0 update-address.microsofs.ccwu.cc
 0.0.0.0 www.stepmelse.bilhons.com
 0.0.0.0 stportal.eclick.vn
-0.0.0.0 inatv.pl
 0.0.0.0 block-apple.com
 0.0.0.0 polskawjednymprzypadkowymdniu.info
 0.0.0.0 msmobiles.de.intellitxt.com
@@ -93001,6 +93000,7 @@
 0.0.0.0 www.restorationsnarrow.lol
 0.0.0.0 www.spizzdialo.cyou
 0.0.0.0 rabbitrifle.com
+0.0.0.0 filmeo.tv
 0.0.0.0 www.optimizezgate.privateequityreporting.com
 0.0.0.0 reclaemarg.cyou
 0.0.0.0 www.guideacco.digital
