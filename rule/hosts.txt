@@ -1,4 +1,4 @@
-# Update time: 2026-07-11 21:44:12
+# Update time: 2026-07-12 11:42:34
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2540,7 +2540,6 @@
 0.0.0.0 spark.ad4game.com
 0.0.0.0 ns8.adk2x.com
 0.0.0.0 m.xxkio.com
-0.0.0.0 ads.mopub.com
 0.0.0.0 fz.letv.com
 0.0.0.0 l.yidianzixun.com
 0.0.0.0 xshellcn.com
@@ -2744,7 +2743,6 @@
 0.0.0.0 g1.08160.cn
 0.0.0.0 s117.cnzz.com
 0.0.0.0 video.ureport.push.qq.com
-0.0.0.0 ads.nexage.com
 0.0.0.0 kstj.baidu.com
 0.0.0.0 reg.wisecleaner.com
 0.0.0.0 loadm.exelator.com
@@ -2926,7 +2924,6 @@
 0.0.0.0 cntrack.madserving.com
 0.0.0.0 nfh.cnshef.com
 0.0.0.0 u1.img.mobile.sina.cn
-0.0.0.0 ads.juicyads.com
 0.0.0.0 vs8.gzcu.u3.ucweb.com
 0.0.0.0 x.infzm.com
 0.0.0.0 growingio.com
@@ -3623,7 +3620,6 @@
 0.0.0.0 impservice.dictapp.youdao.com
 0.0.0.0 counter.marketgid.com
 0.0.0.0 d.kugou.com
-0.0.0.0 admedia.com
 0.0.0.0 o.if.qidian.com
 0.0.0.0 t1n.cn
 0.0.0.0 api.e.mi.com
@@ -6243,7 +6239,6 @@
 0.0.0.0 js4.eastmoney.com
 0.0.0.0 mpush-api.aliyun.com
 0.0.0.0 update.sdk.jiguang.cn
-255.255.255.255	broadcasthost
 0.0.0.0 e.dydd.xyz
 0.0.0.0 www.vegaschina.cn
 0.0.0.0 tpush.html5.qq.com
@@ -7182,7 +7177,6 @@
 0.0.0.0 ad.winrar.com.cn
 0.0.0.0 v.tf.360.cn
 0.0.0.0 s89.cnzz.com
-0.0.0.0 ads.mp.mydas.mobi
 0.0.0.0 m.emgwq.com
 0.0.0.0 secure-yt.imrworldwide.com
 0.0.0.0 adspaces.ero-advertising.com
@@ -9101,6 +9095,7 @@
 0.0.0.0 nmcommancomedia.112.2o7.net
 0.0.0.0 ads.tmcs.net
 0.0.0.0 smibs.112.2o7.net
+0.0.0.0 ads.mopub.com
 0.0.0.0 lap-click.tr.line.me
 0.0.0.0 microsoft-cnd.com
 0.0.0.0 websiteeco.com
@@ -9294,6 +9289,7 @@
 0.0.0.0 bidclix.net
 0.0.0.0 ox-d.hypeads.org
 0.0.0.0 ask-gps.ru
+0.0.0.0 ads.nexage.com
 0.0.0.0 ads.catholic.org
 0.0.0.0 www.cookoven.com
 0.0.0.0 c.ie.msn.com
@@ -9460,6 +9456,7 @@
 0.0.0.0 prilosec.1.p2l.info
 0.0.0.0 auxin-box.com
 0.0.0.0 ads.gorillanation.com
+0.0.0.0 ads.juicyads.com
 0.0.0.0 van-city-sign-on.com
 0.0.0.0 oascentral.dailybreeze.com
 0.0.0.0 www.aeqs.com
@@ -12770,6 +12767,7 @@
 0.0.0.0 laxnws.112.2o7.net
 0.0.0.0 s3-ap-southeast-2-amazonaws.com
 0.0.0.0 clicksor.com
+255.255.255.255	broadcasthost
 0.0.0.0 openais.maricosnc.it
 0.0.0.0 nytimesnonsampled.112.2o7.net
 0.0.0.0 w124.hitbox.com
@@ -16563,6 +16561,7 @@
 0.0.0.0 caisse-apargne.fr
 0.0.0.0 advert-time.com
 0.0.0.0 track.enviodemails.com
+0.0.0.0 admedia.com
 0.0.0.0 www.fripta.com
 0.0.0.0 f11098.privacy4browsers.com
 0.0.0.0 beauty.finaltips.com
@@ -19937,6 +19936,7 @@
 0.0.0.0 fanniemae.fr
 0.0.0.0 www.kolks.nl
 0.0.0.0 app3.letmacwork.world
+0.0.0.0 ads.mp.mydas.mobi
 0.0.0.0 toprxshopplace.com
 0.0.0.0 www.brghterimagelab.com
 0.0.0.0 pexkr.comfortykive.xyz
@@ -33705,7 +33705,6 @@
 0.0.0.0 dpdlocalq-pl.cyou
 0.0.0.0 xxxbullet.com
 0.0.0.0 www.timberexports.info
-0.0.0.0 7fb.ru
 0.0.0.0 www.phaslevel.site
 0.0.0.0 getclicky.com
 0.0.0.0 rok-tuwima.pl
@@ -34468,7 +34467,6 @@
 0.0.0.0 pl36.landovn.com
 0.0.0.0 assets.minutemediacdn.com
 0.0.0.0 www.rapidcounter.com
-0.0.0.0 undermossy.com
 0.0.0.0 www.7228.eu
 0.0.0.0 insights.dice.com
 0.0.0.0 accommodationlink.click
@@ -42507,6 +42505,7 @@
 0.0.0.0 bleneostiq.xyz
 0.0.0.0 www.terenpwokm.work
 0.0.0.0 analytics.aweber.com
+0.0.0.0 criteo-sync.teads.tv
 0.0.0.0 kn5qrm.top
 0.0.0.0 retg.ambient-platform.com
 0.0.0.0 townhousefilms.com
@@ -46200,7 +46199,6 @@
 0.0.0.0 www.turboakpro600system.com
 0.0.0.0 bizible.com
 0.0.0.0 verizon.demdex.net
-0.0.0.0 www.aloyetisustam.com
 0.0.0.0 resanarlier.com
 0.0.0.0 sanalytics.enterprise.spectrum.com
 0.0.0.0 www.tereqdcvpl.wiki
@@ -54695,7 +54693,6 @@
 0.0.0.0 stemboastfulrattle.com
 0.0.0.0 capamneou.com
 0.0.0.0 freecharge.demdex.net
-0.0.0.0 classic.dexlonghis.shop
 0.0.0.0 faircroft-corebit-soft.com
 0.0.0.0 www.inanihangi.cyou
 0.0.0.0 www.raccocalte.cyou
@@ -57750,7 +57747,6 @@
 0.0.0.0 flimscurtn.cyou
 0.0.0.0 e01.taggyad.jp
 0.0.0.0 1stcentral1stcentralinsurancestaging.112.2o7.net
-0.0.0.0 www.endeaesemp.cyou
 0.0.0.0 hagensdogcare.com
 0.0.0.0 adscare.myad.vn
 0.0.0.0 aldi-eu.tyzpantry.shop
@@ -76195,7 +76191,6 @@
 0.0.0.0 booking-openroom.com
 0.0.0.0 www.3mx9qvz.skin
 0.0.0.0 1nqpocpux-ahhf.k9jmmt.qpon
-0.0.0.0 www.superga-pl.com
 0.0.0.0 nl4.hit.stat24.com
 0.0.0.0 tpciletsgo.112.2o7.net
 0.0.0.0 tags.tiqcdn.com
@@ -81017,7 +81012,6 @@
 0.0.0.0 thefieldmark.shop
 0.0.0.0 vinted.10209j8j8.shop
 0.0.0.0 promptcanyon.net
-0.0.0.0 rlog.popin.cc
 0.0.0.0 www.speedd.net
 0.0.0.0 codon.vn
 0.0.0.0 www.truthandhappiness.com
@@ -87271,7 +87265,6 @@
 0.0.0.0 209089883cc.shop
 0.0.0.0 bob.dmpxs.com
 0.0.0.0 l6angk.top
-0.0.0.0 www.lventoria.shop
 0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 www.freehostservers.com
 0.0.0.0 www.registrycleanertop.com
@@ -90676,7 +90669,6 @@
 0.0.0.0 www.fyroza.digital
 0.0.0.0 j2waycm.netmng.com
 0.0.0.0 la.vnbusiness.vn
-0.0.0.0 www.tuffesmist.cyou
 0.0.0.0 www.cinematraffic.com
 0.0.0.0 pillsmoney.com
 0.0.0.0 js.hs-analytics.net #[HubSpot Analytics Tracking Code]
@@ -92468,7 +92460,6 @@
 0.0.0.0 chip.de.intellitxt.com
 0.0.0.0 www.donoszrodla.info
 0.0.0.0 cdn.gumgum.com
-0.0.0.0 jadcenter.com
 0.0.0.0 applovin2-asia-imp.aarki.net
 0.0.0.0 www.deichmannoutletsde.com
 0.0.0.0 www.holinthed.com
@@ -92476,6 +92467,7 @@
 0.0.0.0 update-address.microsofs.ccwu.cc
 0.0.0.0 www.stepmelse.bilhons.com
 0.0.0.0 stportal.eclick.vn
+0.0.0.0 inatv.pl
 0.0.0.0 block-apple.com
 0.0.0.0 polskawjednymprzypadkowymdniu.info
 0.0.0.0 msmobiles.de.intellitxt.com
