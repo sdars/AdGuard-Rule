@@ -1,4 +1,4 @@
-# Update time: 2026-07-17 21:55:57
+# Update time: 2026-07-18 11:17:43
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -3943,7 +3943,6 @@
 0.0.0.0 s.vaedan.top
 0.0.0.0 sit.pagechoice.net
 0.0.0.0 toruk.tanx.com
-0.0.0.0 adserver.yahoo.com
 0.0.0.0 bdlm.120askimages.com
 0.0.0.0 ad.player.baidu.com
 0.0.0.0 www.9948000.com
@@ -4899,7 +4898,6 @@
 0.0.0.0 guce.advertising.com
 0.0.0.0 cpro.zol.com.cn
 0.0.0.0 img.ferlie.net
-0.0.0.0 a.baidu.com
 0.0.0.0 cee1.iteye.com
 0.0.0.0 slides.discovery.tom.com
 0.0.0.0 e.fcunq.com
@@ -7131,7 +7129,6 @@
 0.0.0.0 a-cn.duoyi.com
 0.0.0.0 ssdk.adkmob.com
 0.0.0.0 s.17173cdn.com
-0.0.0.0 ads2.contentabc.com
 0.0.0.0 www.jiq336.com
 0.0.0.0 qianclick.baidu.com
 0.0.0.0 xn--wxtr9fwyxk9c.top
@@ -7176,7 +7173,6 @@
 0.0.0.0 s89.cnzz.com
 0.0.0.0 m.emgwq.com
 0.0.0.0 secure-yt.imrworldwide.com
-0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 t.channeladvisor.com
 0.0.0.0 mp.sohu.com
 0.0.0.0 ads.feelingtouch.com
@@ -8097,7 +8093,6 @@
 0.0.0.0 img1.pszyzxh.org
 0.0.0.0 rwq.youle55.com
 0.0.0.0 wisepush.video.baidu.com
-0.0.0.0 adserver.juicyads.com
 0.0.0.0 activity.tuifish.com
 0.0.0.0 803.tianya.cn
 0.0.0.0 sfk.t58b.com
@@ -8684,7 +8679,6 @@
 0.0.0.0 debug.mssp.adunite.com
 0.0.0.0 offline-adv.oray.com
 0.0.0.0 temai.m.taobao.com
-0.0.0.0 an.yandex.ru
 0.0.0.0 ping.acc.sogou.com
 0.0.0.0 p.lu.sogou.com
 0.0.0.0 stats.cn.ronghub.com
@@ -11256,6 +11250,7 @@
 0.0.0.0 admerize.be
 0.0.0.0 post.rmbn.ru
 0.0.0.0 go.lfstmedia.com
+0.0.0.0 www.cpension.com
 0.0.0.0 www.ebayadvertising.com
 0.0.0.0 extrahoney.net
 0.0.0.0 ad.ne.com
@@ -11656,6 +11651,7 @@
 0.0.0.0 buy-vicodin.hut1.ru
 0.0.0.0 bannerpower.com
 0.0.0.0 fafarge.fr
+0.0.0.0 www.cjtest.com
 0.0.0.0 computersoostynaarlo.nl
 0.0.0.0 hitbox.com
 0.0.0.0 gtamoding.fr
@@ -13610,6 +13606,7 @@
 0.0.0.0 www.clickspring.net	#used by a spyware product called PurityScan
 0.0.0.0 www.homewares.org
 0.0.0.0 tracker.mattel.com
+0.0.0.0 ads2.contentabc.com
 0.0.0.0 dailynewstonight.com
 0.0.0.0 newlovez3.co
 0.0.0.0 www.obesitycheck.com
@@ -13663,6 +13660,7 @@
 0.0.0.0 critiquefilm.fr
 0.0.0.0 www.russian-sex.com
 0.0.0.0 www.gmads.net
+0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 click.maaxmarket.com
 0.0.0.0 ads.shovtvnet.com
 0.0.0.0 ads51.console.adtarget.com.tr
@@ -15067,6 +15065,7 @@
 0.0.0.0 benefitsorganic.com
 0.0.0.0 ad.prv.pl
 0.0.0.0 ccieurope.fr
+0.0.0.0 an.yandex.ru
 0.0.0.0 ad.fr.doubleclick.net
 0.0.0.0 office.officenet.co.kr
 0.0.0.0 media7.popmarker.com
@@ -16895,6 +16894,7 @@
 0.0.0.0 ads.adsrvmedia.com
 0.0.0.0 bestwatersystems.net
 0.0.0.0 rtb19.adscience.nl
+0.0.0.0 adserver.yahoo.com
 0.0.0.0 espub.fr
 0.0.0.0 games.superappbox.com
 0.0.0.0 www.wrestlewebnews.com
@@ -17826,6 +17826,7 @@
 0.0.0.0 syngeta.fr
 0.0.0.0 js.hsleadflows.net
 0.0.0.0 www.bitmedia.io
+0.0.0.0 a.baidu.com
 0.0.0.0 www.magento-analytics.com
 0.0.0.0 www.ndbsoft.be
 0.0.0.0 last-chainleash.net
@@ -20273,6 +20274,7 @@
 0.0.0.0 dbbsrv.com
 0.0.0.0 klikk.linkpulse.com
 0.0.0.0 ads.ad-center.com
+0.0.0.0 www.compacfurniture.com
 0.0.0.0 users.maxcluster.net
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 apnx-match.dotomi.com
@@ -20797,6 +20799,7 @@
 0.0.0.0 media-angel.de
 0.0.0.0 webkurchatov.ru
 0.0.0.0 www.mycitycue.com
+0.0.0.0 adserver.juicyads.com
 0.0.0.0 c0.adalyser.com
 0.0.0.0 www.supportwindowlane.uk
 0.0.0.0 twoje-nagrody.pl
@@ -28593,6 +28596,7 @@
 127.0.0.1 instantresp.com
 127.0.0.1 wan.rising.cn
 127.0.0.1 www.liveinternet.ru
+127.0.0.1 www.yb6.me
 127.0.0.1 buyu9930.com
 127.0.0.1 www.um0592.com
 127.0.0.1 www.55998448.com
@@ -37281,7 +37285,6 @@
 0.0.0.0 4ribjevnkfdclsx.com
 0.0.0.0 tracker.edupia.vn
 0.0.0.0 www.b2bpin.com
-0.0.0.0 oferta0018.shop
 0.0.0.0 www.aalures.com
 0.0.0.0 www.eyto.shop
 0.0.0.0 www.yielelix.site
@@ -40745,7 +40748,6 @@
 0.0.0.0 linux.cocoss2d.com
 0.0.0.0 www.unitswalk.yellowanemone.com
 0.0.0.0 pangle.io.edgekey.net
-0.0.0.0 yvxjsixn.eu
 0.0.0.0 worldtechfocus.com
 0.0.0.0 blastinst.backend-gw.com
 0.0.0.0 www.nythajdiauyshyddua.com
@@ -42064,7 +42066,6 @@
 0.0.0.0 tapblended.mobile-israel.com
 0.0.0.0 www.terenpwokm.work
 0.0.0.0 analytics.aweber.com
-0.0.0.0 criteo-sync.teads.tv
 0.0.0.0 kn5qrm.top
 0.0.0.0 frictio247a3.my.id
 0.0.0.0 retg.ambient-platform.com
@@ -58935,7 +58936,6 @@
 0.0.0.0 cododrive.site
 0.0.0.0 www.mossharrow.vip
 0.0.0.0 amano.assistpage.shop
-0.0.0.0 prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 adtimabox.brand.zing.vn
 0.0.0.0 www.sooejtuy.weebly.com
 0.0.0.0 www.pl11.landurt.com
@@ -90109,7 +90109,6 @@
 0.0.0.0 www.megangoldish.shop
 0.0.0.0 www.stepmelse.bilhons.com
 0.0.0.0 stportal.eclick.vn
-0.0.0.0 inatv.pl
 0.0.0.0 block-apple.com
 0.0.0.0 polskawjednymprzypadkowymdniu.info
 0.0.0.0 msmobiles.de.intellitxt.com
