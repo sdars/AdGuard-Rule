@@ -1,4 +1,4 @@
-# Update time: 2026-07-27 11:53:30
+# Update time: 2026-07-27 22:54:11
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -3623,7 +3623,6 @@
 0.0.0.0 impservice.dictapp.youdao.com
 0.0.0.0 counter.marketgid.com
 0.0.0.0 d.kugou.com
-0.0.0.0 admedia.com
 0.0.0.0 o.if.qidian.com
 0.0.0.0 t1n.cn
 0.0.0.0 api.e.mi.com
@@ -4093,7 +4092,6 @@
 0.0.0.0 tracker.tgbus.com
 0.0.0.0 rescn.u3.ucweb.com
 0.0.0.0 count.game.pps.tv
-0.0.0.0 ads.admarvel.com
 0.0.0.0 count.mail.163.com
 0.0.0.0 tjlog.easou.com
 0.0.0.0 m.data.mob.com
@@ -7088,7 +7086,6 @@
 0.0.0.0 publish-pic-cpu.baidu.com
 0.0.0.0 tracker.taboola.com
 0.0.0.0 www.wenxuemi6.com
-0.0.0.0 ads.ad4game.com
 0.0.0.0 kz.admaster.com.cn
 0.0.0.0 msg.shouji.360.cn
 0.0.0.0 strip.alicdn.com
@@ -10659,6 +10656,7 @@
 0.0.0.0 oascentral.washtimes.com
 0.0.0.0 nyttechnology.112.2o7.net
 0.0.0.0 aolsvc.122.2o7.net
+0.0.0.0 ads.admarvel.com
 0.0.0.0 photos8.pop6.com
 0.0.0.0 www.apogara.plus.com
 0.0.0.0 dra.amazon-adsystem.com
@@ -13572,6 +13570,7 @@
 0.0.0.0 www.probusinesshub.com
 0.0.0.0 redherring.ngadcenter.net
 0.0.0.0 lrt7a.coldcertainchannel.com
+0.0.0.0 ads.ad4game.com
 0.0.0.0 ishinomakicatering.web.fc2.com
 0.0.0.0 avndrealouer.fr
 0.0.0.0 zeroredirect2.com
@@ -16576,6 +16575,7 @@
 0.0.0.0 caisse-apargne.fr
 0.0.0.0 advert-time.com
 0.0.0.0 track.enviodemails.com
+0.0.0.0 admedia.com
 0.0.0.0 www.fripta.com
 0.0.0.0 f11098.privacy4browsers.com
 0.0.0.0 beauty.finaltips.com
@@ -28611,6 +28611,7 @@
 127.0.0.1 instantresp.com
 127.0.0.1 wan.rising.cn
 127.0.0.1 www.liveinternet.ru
+127.0.0.1 www.yb6.me
 127.0.0.1 buyu9930.com
 127.0.0.1 www.um0592.com
 127.0.0.1 www.55998448.com
@@ -42358,7 +42359,6 @@
 0.0.0.0 alphaai-solution.com
 0.0.0.0 breedgeldoord.com
 0.0.0.0 dmp.adblade.com
-0.0.0.0 www.eastborough.shop
 0.0.0.0 hljhrly.com
 0.0.0.0 media.adnetwork.vn
 0.0.0.0 ir.doubleclick.net
@@ -49710,6 +49710,7 @@
 0.0.0.0 verizon.demdex.net
 0.0.0.0 www.qvantaro.live
 0.0.0.0 lunexorainvestment-plattform-de.com
+0.0.0.0 www.aloyetisustam.com
 0.0.0.0 sanalytics.enterprise.spectrum.com
 0.0.0.0 www.tereqdcvpl.wiki
 0.0.0.0 www.swimyfog.litknit.com
@@ -77869,6 +77870,7 @@
 0.0.0.0 notice.tcsrsj.com
 0.0.0.0 palmangels-clothing.com
 0.0.0.0 www.oculv.com
+0.0.0.0 static.hatid.com
 0.0.0.0 cwportal.112.2o7.net
 0.0.0.0 datacloud.tealiumiq.com
 0.0.0.0 bitalphaai-new.com
@@ -86222,6 +86224,7 @@
 0.0.0.0 foret-rendoire.live
 0.0.0.0 novacapitex-platform.com
 0.0.0.0 www.vaporfasci.cyou
+0.0.0.0 pelkruvilanz-es.live
 0.0.0.0 clicktraq.mtree.com
 0.0.0.0 survata.com
 0.0.0.0 ads.fptplay.net.vn
@@ -97103,7 +97106,6 @@
 0.0.0.0 dobramyslaxcjnwwolnejchwili.site
 0.0.0.0 olx.zakup82719584.shop
 0.0.0.0 pocwarszawastore.shop
-0.0.0.0 tracking.admarketplace.net.edgekey.net
 0.0.0.0 krynthelixombravane-ai.live
 0.0.0.0 notify.nuviad.com
 0.0.0.0 www.fritexiumprimo-engine.com
@@ -101109,7 +101111,6 @@
 0.0.0.0 adobeanalytics.allegis-partners.com
 0.0.0.0 kontikuss.com
 0.0.0.0 vinted.ofeer2r39831.xyz
-0.0.0.0 down.feiyang163.com
 0.0.0.0 www.unwarraaanted.info
 0.0.0.0 fidatopaycore.pro
 0.0.0.0 hbitatrzovin.com
@@ -106336,7 +106337,6 @@
 0.0.0.0 stportal.eclick.vn
 0.0.0.0 www.mzaltrov.live
 0.0.0.0 deepseekv3-trader.com
-0.0.0.0 inatv.pl
 0.0.0.0 block-apple.com
 0.0.0.0 www.polskasciezkawfn.site
 0.0.0.0 polskawjednymprzypadkowymdniu.info
