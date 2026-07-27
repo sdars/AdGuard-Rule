@@ -1,4 +1,4 @@
-# Update time: 2026-07-26 21:46:03
+# Update time: 2026-07-27 11:53:30
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2964,7 +2964,6 @@
 0.0.0.0 ad.api.3g.tudou.com
 0.0.0.0 8b6fxa.viqiyi.admaster.com.cn
 0.0.0.0 stream.snssdk.com
-0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 x.jd.com
 0.0.0.0 mqqadr.reader.qq.com
 0.0.0.0 vs2.gzcu.u3.ucweb.com
@@ -6168,7 +6167,6 @@
 0.0.0.0 geo.gridsumdissector.com
 0.0.0.0 tips.gamevvip.com
 0.0.0.0 analytics.query.yahoo.com
-0.0.0.0 ads-a.juicyads.com
 0.0.0.0 adimg.mobile.sina.cn
 0.0.0.0 m.cuoss.com
 0.0.0.0 static.bmob.cn
@@ -6245,6 +6243,7 @@
 0.0.0.0 js4.eastmoney.com
 0.0.0.0 mpush-api.aliyun.com
 0.0.0.0 update.sdk.jiguang.cn
+255.255.255.255	broadcasthost
 0.0.0.0 e.dydd.xyz
 0.0.0.0 www.vegaschina.cn
 0.0.0.0 tpush.html5.qq.com
@@ -12413,6 +12412,7 @@
 0.0.0.0 exchange.scalemonk.com
 0.0.0.0 ad.nozonedata.com
 0.0.0.0 api.affinesystems.com
+0.0.0.0 wgdcjd8kxd.olijfgent.be
 0.0.0.0 dqs001.adtech.us
 0.0.0.0 travelight.online
 0.0.0.0 figyelo-net.com
@@ -12692,6 +12692,7 @@
 0.0.0.0 y.cdn.adblade.com
 0.0.0.0 pm.adsafeprotected.com
 0.0.0.0 ticketforchange.fr
+0.0.0.0 ads-a.juicyads.com
 0.0.0.0 ads.adgoto.com
 0.0.0.0 www.keybinary.com
 0.0.0.0 cdn.wwwpromoter.com
@@ -12779,7 +12780,6 @@
 0.0.0.0 laxnws.112.2o7.net
 0.0.0.0 s3-ap-southeast-2-amazonaws.com
 0.0.0.0 clicksor.com
-255.255.255.255	broadcasthost
 0.0.0.0 openais.maricosnc.it
 0.0.0.0 nytimesnonsampled.112.2o7.net
 0.0.0.0 w124.hitbox.com
@@ -15903,6 +15903,7 @@
 0.0.0.0 svd2.adtlgc.com
 0.0.0.0 enerweb.oewabox.at
 0.0.0.0 rapid-glade-cde8.asoumare042024.workers.dev
+0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 fuzzy-afternoon.surge.sh
 0.0.0.0 sanbuzs.com
 0.0.0.0 www.cydoor.com
@@ -33985,6 +33986,7 @@
 0.0.0.0 www.bystrydochodal-pl.com
 0.0.0.0 mietowki.shop
 0.0.0.0 widget.subiz.xyz
+0.0.0.0 intelapptech.com
 0.0.0.0 solanalchi.cyou
 0.0.0.0 www.brynvexsoftware.com
 0.0.0.0 www.tereqhxwna.fit
@@ -39047,6 +39049,7 @@
 0.0.0.0 tracker.edupia.vn
 0.0.0.0 instantprofitx5.live
 0.0.0.0 www.b2bpin.com
+0.0.0.0 oferta0018.shop
 0.0.0.0 www.aalures.com
 0.0.0.0 www.eyto.shop
 0.0.0.0 tenutaaurelia-ai.live
@@ -72264,6 +72267,7 @@
 0.0.0.0 thegoldiumizer.com
 0.0.0.0 fingahvf.top
 0.0.0.0 ack.mynv.jp
+0.0.0.0 routeiva.com
 0.0.0.0 www.quellrendoire-fr.com
 0.0.0.0 morvixchain.live
 0.0.0.0 metrics.ticketmaster.com
@@ -97099,6 +97103,7 @@
 0.0.0.0 dobramyslaxcjnwwolnejchwili.site
 0.0.0.0 olx.zakup82719584.shop
 0.0.0.0 pocwarszawastore.shop
+0.0.0.0 tracking.admarketplace.net.edgekey.net
 0.0.0.0 krynthelixombravane-ai.live
 0.0.0.0 notify.nuviad.com
 0.0.0.0 www.fritexiumprimo-engine.com
@@ -101104,6 +101109,7 @@
 0.0.0.0 adobeanalytics.allegis-partners.com
 0.0.0.0 kontikuss.com
 0.0.0.0 vinted.ofeer2r39831.xyz
+0.0.0.0 down.feiyang163.com
 0.0.0.0 www.unwarraaanted.info
 0.0.0.0 fidatopaycore.pro
 0.0.0.0 hbitatrzovin.com
@@ -106330,6 +106336,7 @@
 0.0.0.0 stportal.eclick.vn
 0.0.0.0 www.mzaltrov.live
 0.0.0.0 deepseekv3-trader.com
+0.0.0.0 inatv.pl
 0.0.0.0 block-apple.com
 0.0.0.0 www.polskasciezkawfn.site
 0.0.0.0 polskawjednymprzypadkowymdniu.info
