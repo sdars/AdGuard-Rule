@@ -1,4 +1,4 @@
-# Update time: 2026-08-10 10:25:13
+# Update time: 2026-08-11 10:18:53
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -3943,6 +3943,7 @@
 0.0.0.0 s.vaedan.top
 0.0.0.0 sit.pagechoice.net
 0.0.0.0 toruk.tanx.com
+0.0.0.0 adserver.yahoo.com
 0.0.0.0 bdlm.120askimages.com
 0.0.0.0 ad.player.baidu.com
 0.0.0.0 www.9948000.com
@@ -6236,6 +6237,7 @@
 0.0.0.0 js4.eastmoney.com
 0.0.0.0 mpush-api.aliyun.com
 0.0.0.0 update.sdk.jiguang.cn
+255.255.255.255	broadcasthost
 0.0.0.0 e.dydd.xyz
 0.0.0.0 www.vegaschina.cn
 0.0.0.0 tpush.html5.qq.com
@@ -7175,6 +7177,7 @@
 0.0.0.0 s89.cnzz.com
 0.0.0.0 m.emgwq.com
 0.0.0.0 secure-yt.imrworldwide.com
+0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 t.channeladvisor.com
 0.0.0.0 mp.sohu.com
 0.0.0.0 ads.feelingtouch.com
@@ -8682,6 +8685,7 @@
 0.0.0.0 debug.mssp.adunite.com
 0.0.0.0 offline-adv.oray.com
 0.0.0.0 temai.m.taobao.com
+0.0.0.0 an.yandex.ru
 0.0.0.0 ping.acc.sogou.com
 0.0.0.0 p.lu.sogou.com
 0.0.0.0 stats.cn.ronghub.com
@@ -11022,6 +11026,7 @@
 0.0.0.0 www.neonpack.com
 0.0.0.0 burns.adtech.us
 0.0.0.0 www.coconutsport.com
+0.0.0.0 www.prabvisa.com
 0.0.0.0 r5.ritikajoshi.com
 0.0.0.0 mcfg.sandai.net
 0.0.0.0 citrix.market2lead.com
@@ -12776,7 +12781,6 @@
 0.0.0.0 laxnws.112.2o7.net
 0.0.0.0 s3-ap-southeast-2-amazonaws.com
 0.0.0.0 clicksor.com
-255.255.255.255	broadcasthost
 0.0.0.0 openais.maricosnc.it
 0.0.0.0 nytimesnonsampled.112.2o7.net
 0.0.0.0 w124.hitbox.com
@@ -13673,7 +13677,6 @@
 0.0.0.0 critiquefilm.fr
 0.0.0.0 www.russian-sex.com
 0.0.0.0 www.gmads.net
-0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 click.maaxmarket.com
 0.0.0.0 ads.shovtvnet.com
 0.0.0.0 ads51.console.adtarget.com.tr
@@ -15081,7 +15084,6 @@
 0.0.0.0 benefitsorganic.com
 0.0.0.0 ad.prv.pl
 0.0.0.0 ccieurope.fr
-0.0.0.0 an.yandex.ru
 0.0.0.0 ad.fr.doubleclick.net
 0.0.0.0 office.officenet.co.kr
 0.0.0.0 media7.popmarker.com
@@ -16919,7 +16921,6 @@
 0.0.0.0 ads.adsrvmedia.com
 0.0.0.0 bestwatersystems.net
 0.0.0.0 rtb19.adscience.nl
-0.0.0.0 adserver.yahoo.com
 0.0.0.0 espub.fr
 0.0.0.0 games.superappbox.com
 0.0.0.0 www.wrestlewebnews.com
@@ -17422,6 +17423,7 @@
 0.0.0.0 suhunsoo.uk
 0.0.0.0 adserver.sanomawsoy.fi
 0.0.0.0 www.yceml.net
+0.0.0.0 www.pelistvseries.com
 0.0.0.0 oascentral.artistirect.com
 0.0.0.0 top100-images.rambler.ru
 0.0.0.0 apiapple.com
@@ -44888,6 +44890,7 @@
 0.0.0.0 adfstat.yandex.ru
 0.0.0.0 www.finlab6-qui33.com
 0.0.0.0 rescivolta-app.com
+0.0.0.0 www.klarrendbach-app.live
 0.0.0.0 exotic-lime-olunrtbr.edgeone.dev
 0.0.0.0 www.finance95-dolores22.sbs
 0.0.0.0 r.logrocket.io
@@ -52501,6 +52504,7 @@
 0.0.0.0 concudopia.cyou
 0.0.0.0 www.anastasiasaffiliate.com
 0.0.0.0 yzvex.digital
+0.0.0.0 ad.wanderlist.com
 0.0.0.0 www.asseevolara.net
 0.0.0.0 track.celtra.com
 0.0.0.0 static1.wiinvent.tv
@@ -56588,6 +56592,7 @@
 0.0.0.0 gsf-cf.softonic.com #[Win32/OpenCandy.C]
 0.0.0.0 www.sphervibe.site
 0.0.0.0 cdn.betrad.com
+0.0.0.0 spnet5.i-mobile.co.jp
 0.0.0.0 kokorostore.it
 0.0.0.0 awarialaptopa.pl
 0.0.0.0 pl.melaleuca.com
@@ -62799,6 +62804,7 @@
 0.0.0.0 lacasadialicedesenzano.it
 0.0.0.0 www.emobi-sys.com
 0.0.0.0 cdn.rossoad.com
+0.0.0.0 www.ukdailybriefwire.life
 0.0.0.0 www.turoinvenza-ai.live
 0.0.0.0 index-winners-ap-southeast-1-rtb.adroll.com
 0.0.0.0 www.deathinformed.com
@@ -64784,6 +64790,7 @@
 0.0.0.0 www.syntwarei.site
 0.0.0.0 svaniconch.cyou
 0.0.0.0 www.mygeldronai.org
+0.0.0.0 zagran423.web.id
 0.0.0.0 geld-ryvox.digital
 0.0.0.0 bitlitesync.org
 0.0.0.0 immediateai-pro.com
@@ -67876,6 +67883,7 @@
 0.0.0.0 polviosithx.digital
 0.0.0.0 nuvialabimmune.pl
 0.0.0.0 www.lumirentvene.digital
+0.0.0.0 cafuturedigest.com
 0.0.0.0 www.chainatarax500.live
 0.0.0.0 gtrack.kueezrtb.com
 0.0.0.0 tag.mtrcs.samba.tv
@@ -73444,6 +73452,7 @@
 0.0.0.0 www.wp.ubrvgc.net
 0.0.0.0 g13v.prd.ads.aws.fwmrm.net
 0.0.0.0 clickpeach.liateq.com
+0.0.0.0 analytics.lendio.com
 0.0.0.0 camwberolo.info
 0.0.0.0 ukwillowfieldlane.com
 0.0.0.0 www.pulpofagio.cyou
@@ -79908,6 +79917,7 @@
 0.0.0.0 codziennaprzestrzendobrychpomyslow.site
 0.0.0.0 www.certoinvestancia-ai.live
 0.0.0.0 www.winstovex.shop
+0.0.0.0 velranwert.de
 0.0.0.0 www.ncbstx.com
 0.0.0.0 orveztil-app.digital
 0.0.0.0 www.villaturtayland.com
@@ -90704,6 +90714,7 @@
 0.0.0.0 foret-rendoire.live
 0.0.0.0 novacapitex-platform.com
 0.0.0.0 www.subclbispi.cyou
+0.0.0.0 pelkruvilanz-es.live
 0.0.0.0 clicktraq.mtree.com
 0.0.0.0 survata.com
 0.0.0.0 ads.fptplay.net.vn
@@ -97554,6 +97565,7 @@
 0.0.0.0 comunitati.app
 0.0.0.0 spokojnykierunekvtrmqalokalnie.site
 0.0.0.0 rendifelsgelder.live
+0.0.0.0 strangerinamerica.com
 0.0.0.0 analyticsresults.datev.de
 0.0.0.0 btcalturonpro76.com
 0.0.0.0 or-lb.gumgum.com
@@ -102505,7 +102517,6 @@
 0.0.0.0 dobramyslaxcjnwwolnejchwili.site
 0.0.0.0 olx.zakup82719584.shop
 0.0.0.0 ahorelo.net
-0.0.0.0 tracking.admarketplace.net.edgekey.net
 0.0.0.0 krynthelixombravane-ai.live
 0.0.0.0 www.orizano.net
 0.0.0.0 notify.nuviad.com
@@ -106018,6 +106029,7 @@
 0.0.0.0 uropoincol.cyou
 0.0.0.0 www.btcexovoltv520.live
 0.0.0.0 www.fintrixgpt.net
+0.0.0.0 www.skechersbuty.com
 0.0.0.0 www.rente-lucavie-app.com
 0.0.0.0 www.securichain24.net
 0.0.0.0 omniture.artinstitutes.edu
@@ -112432,7 +112444,6 @@
 0.0.0.0 chained-leonardmin.wasmer.app
 0.0.0.0 www.mzaltrov.live
 0.0.0.0 deepseekv3-trader.com
-0.0.0.0 inatv.pl
 0.0.0.0 block-apple.com
 0.0.0.0 www.polskasciezkawfn.site
 0.0.0.0 www.bjaurora.com
@@ -116194,6 +116205,7 @@
 0.0.0.0 10168.hittail.com
 0.0.0.0 www.weriaokidoapddaoldiak.com
 0.0.0.0 www.spnccrzone.com
+0.0.0.0 zykanordrift.click
 0.0.0.0 promo.cams.com
 0.0.0.0 aureuswealth-app.com
 0.0.0.0 snarldibos.cyou
