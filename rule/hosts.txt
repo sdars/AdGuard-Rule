@@ -1,4 +1,4 @@
-# Update time: 2026-08-19 21:00:47
+# Update time: 2026-08-20 09:43:35
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2540,7 +2540,6 @@
 0.0.0.0 spark.ad4game.com
 0.0.0.0 ns8.adk2x.com
 0.0.0.0 m.xxkio.com
-0.0.0.0 ads.mopub.com
 0.0.0.0 fz.letv.com
 0.0.0.0 l.yidianzixun.com
 0.0.0.0 xshellcn.com
@@ -2744,7 +2743,6 @@
 0.0.0.0 g1.08160.cn
 0.0.0.0 s117.cnzz.com
 0.0.0.0 video.ureport.push.qq.com
-0.0.0.0 ads.nexage.com
 0.0.0.0 kstj.baidu.com
 0.0.0.0 reg.wisecleaner.com
 0.0.0.0 loadm.exelator.com
@@ -2926,7 +2924,6 @@
 0.0.0.0 cntrack.madserving.com
 0.0.0.0 nfh.cnshef.com
 0.0.0.0 u1.img.mobile.sina.cn
-0.0.0.0 ads.juicyads.com
 0.0.0.0 vs8.gzcu.u3.ucweb.com
 0.0.0.0 x.infzm.com
 0.0.0.0 growingio.com
@@ -4092,7 +4089,6 @@
 0.0.0.0 tracker.tgbus.com
 0.0.0.0 rescn.u3.ucweb.com
 0.0.0.0 count.game.pps.tv
-0.0.0.0 ads.admarvel.com
 0.0.0.0 count.mail.163.com
 0.0.0.0 tjlog.easou.com
 0.0.0.0 m.data.mob.com
@@ -4158,7 +4154,6 @@
 0.0.0.0 mlb.did.ijinshan.com
 0.0.0.0 btn.onlylady.com
 0.0.0.0 titan01.babytree.com
-0.0.0.0 ads.yahoo.com
 0.0.0.0 b17.wenjutv.com
 0.0.0.0 e.xkqpco.com.com
 0.0.0.0 images.tyyjzs.cn
@@ -6242,7 +6237,6 @@
 0.0.0.0 js4.eastmoney.com
 0.0.0.0 mpush-api.aliyun.com
 0.0.0.0 update.sdk.jiguang.cn
-255.255.255.255	broadcasthost
 0.0.0.0 e.dydd.xyz
 0.0.0.0 www.vegaschina.cn
 0.0.0.0 tpush.html5.qq.com
@@ -7087,7 +7081,6 @@
 0.0.0.0 publish-pic-cpu.baidu.com
 0.0.0.0 tracker.taboola.com
 0.0.0.0 www.wenxuemi6.com
-0.0.0.0 ads.ad4game.com
 0.0.0.0 kz.admaster.com.cn
 0.0.0.0 msg.shouji.360.cn
 0.0.0.0 strip.alicdn.com
@@ -7181,7 +7174,6 @@
 0.0.0.0 ad.winrar.com.cn
 0.0.0.0 v.tf.360.cn
 0.0.0.0 s89.cnzz.com
-0.0.0.0 ads.mp.mydas.mobi
 0.0.0.0 m.emgwq.com
 0.0.0.0 secure-yt.imrworldwide.com
 0.0.0.0 adspaces.ero-advertising.com
@@ -8438,7 +8430,6 @@
 0.0.0.0 business.inveno.com
 0.0.0.0 p.appjiagu.com
 0.0.0.0 p.ssp.qq.com
-0.0.0.0 ads.trafficjunky.net
 0.0.0.0 js.sanwen.net
 0.0.0.0 smucdn.com
 0.0.0.0 a.beilamusi.com
@@ -9100,6 +9091,7 @@
 0.0.0.0 nmcommancomedia.112.2o7.net
 0.0.0.0 ads.tmcs.net
 0.0.0.0 smibs.112.2o7.net
+0.0.0.0 ads.mopub.com
 0.0.0.0 lap-click.tr.line.me
 0.0.0.0 microsoft-cnd.com
 0.0.0.0 websiteeco.com
@@ -9293,6 +9285,7 @@
 0.0.0.0 bidclix.net
 0.0.0.0 ox-d.hypeads.org
 0.0.0.0 ask-gps.ru
+0.0.0.0 ads.nexage.com
 0.0.0.0 ads.catholic.org
 0.0.0.0 www.cookoven.com
 0.0.0.0 c.ie.msn.com
@@ -9459,6 +9452,7 @@
 0.0.0.0 prilosec.1.p2l.info
 0.0.0.0 auxin-box.com
 0.0.0.0 ads.gorillanation.com
+0.0.0.0 ads.juicyads.com
 0.0.0.0 van-city-sign-on.com
 0.0.0.0 oascentral.dailybreeze.com
 0.0.0.0 www.aeqs.com
@@ -10668,6 +10662,7 @@
 0.0.0.0 oascentral.washtimes.com
 0.0.0.0 nyttechnology.112.2o7.net
 0.0.0.0 aolsvc.122.2o7.net
+0.0.0.0 ads.admarvel.com
 0.0.0.0 photos8.pop6.com
 0.0.0.0 www.apogara.plus.com
 0.0.0.0 dra.amazon-adsystem.com
@@ -10731,6 +10726,7 @@
 0.0.0.0 sajour.fr
 0.0.0.0 ws03.home.sapo.pt
 0.0.0.0 consumerspanel.frge.io
+0.0.0.0 ads.yahoo.com
 0.0.0.0 www8.counter.bloke.com
 0.0.0.0 wahoha.com
 0.0.0.0 data.murdoog.com
@@ -11242,6 +11238,7 @@
 0.0.0.0 marigo.redbacksburger.info
 0.0.0.0 ads.traffichaus.com
 0.0.0.0 clk.tradedoubler.com
+0.0.0.0 www.quintaalegrealgarve.com
 0.0.0.0 dp-sync.dotomi.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 cs.adxpansion.com
@@ -12796,6 +12793,7 @@
 0.0.0.0 laxnws.112.2o7.net
 0.0.0.0 s3-ap-southeast-2-amazonaws.com
 0.0.0.0 clicksor.com
+255.255.255.255	broadcasthost
 0.0.0.0 openais.maricosnc.it
 0.0.0.0 nytimesnonsampled.112.2o7.net
 0.0.0.0 w124.hitbox.com
@@ -13592,6 +13590,7 @@
 0.0.0.0 www.probusinesshub.com
 0.0.0.0 redherring.ngadcenter.net
 0.0.0.0 lrt7a.coldcertainchannel.com
+0.0.0.0 ads.ad4game.com
 0.0.0.0 ishinomakicatering.web.fc2.com
 0.0.0.0 avndrealouer.fr
 0.0.0.0 zeroredirect2.com
@@ -14908,6 +14907,7 @@
 0.0.0.0 affiliate.mlntracker.com
 0.0.0.0 w137.hitbox.com
 0.0.0.0 clownsong.com
+0.0.0.0 ads.trafficjunky.net
 0.0.0.0 moodoo.com.cn
 0.0.0.0 tps31.doubleverify.com
 0.0.0.0 this.content.served.by.adshuffle.com
@@ -16281,6 +16281,7 @@
 0.0.0.0 w28.hitbox.com
 0.0.0.0 s.clicktale.net
 0.0.0.0 topcashvibes.com
+0.0.0.0 www.quotling.com
 0.0.0.0 ant.conversive.nl
 0.0.0.0 adserver.lunarpages.com
 0.0.0.0 verify.rambler-profile.site
@@ -17573,6 +17574,7 @@
 0.0.0.0 zip.er.cz
 0.0.0.0 ads.virtualcountries.com
 0.0.0.0 wellbutrin.3.p2l.info
+0.0.0.0 www.partilla.com
 0.0.0.0 innoveox.fr
 0.0.0.0 track.msadcenter.qymv.com
 0.0.0.0 www.cryptocoinsad.com
@@ -20004,6 +20006,7 @@
 0.0.0.0 fanniemae.fr
 0.0.0.0 www.kolks.nl
 0.0.0.0 app3.letmacwork.world
+0.0.0.0 ads.mp.mydas.mobi
 0.0.0.0 toprxshopplace.com
 0.0.0.0 www.brghterimagelab.com
 0.0.0.0 pexkr.comfortykive.xyz
@@ -30008,6 +30011,7 @@
 127.0.0.1 xpj28111.com
 127.0.0.1 www.securegfm.com
 127.0.0.1 buyu9956.com
+127.0.0.1 www.28830055.com
 127.0.0.1 worldmustbecrazy.j8inn1zektoe.com
 127.0.0.1 panther.adform.net
 127.0.0.1 g.yccdn.com
@@ -40911,7 +40915,6 @@
 0.0.0.0 banners.realitycash.com
 0.0.0.0 nusatoyota.co.id
 0.0.0.0 www.xulvertikai.live
-0.0.0.0 www.aldica.frimexmake.shop
 0.0.0.0 www.zivcodocraft.site
 0.0.0.0 exponentialjsint8023749877114.s.moatpixel.com
 0.0.0.0 promiv.com
@@ -48465,7 +48468,6 @@
 0.0.0.0 moringaactives.pl
 0.0.0.0 ads.brazzers.com
 0.0.0.0 instanttradeai.com
-0.0.0.0 aldi.pynvek.shop
 0.0.0.0 www.drgenov.com
 0.0.0.0 finance99-libero3.space
 0.0.0.0 www.titanfundrelixsystem.com
@@ -53236,6 +53238,7 @@
 0.0.0.0 aetheriswealthapptrade.com
 0.0.0.0 socarplatform.pro
 0.0.0.0 www.canadawealthgold.live
+0.0.0.0 www.mistrzpiekarz.mom
 0.0.0.0 www.portaldruku.pl
 0.0.0.0 reserve.18syun.com
 0.0.0.0 www.demiloxur.shop
@@ -55481,7 +55484,6 @@
 0.0.0.0 pussl48.com
 0.0.0.0 www.limpidorendaro.digital
 0.0.0.0 www.melidroarybw.digital
-0.0.0.0 belcando.mom
 0.0.0.0 atfitreasonyou.live
 0.0.0.0 www.firmeassetrix.pro
 0.0.0.0 me.podatkinf.com
@@ -68215,7 +68217,6 @@
 0.0.0.0 www.acclareten.cyou
 0.0.0.0 adsflame.com
 0.0.0.0 verogestivondtrade.com
-0.0.0.0 www.dontradezip-system.com
 0.0.0.0 www.metaverseprofit.app
 0.0.0.0 www.bitcoinblueprint.app
 0.0.0.0 www.finhub5-temporibus38.sbs
@@ -73322,7 +73323,6 @@
 0.0.0.0 gweryxalvonsoft.com
 0.0.0.0 ap.adups.com
 0.0.0.0 fusionquest.com
-0.0.0.0 www.cut-theatr.shop
 0.0.0.0 quantrexblaze-gpt.net
 0.0.0.0 webclients.net #[Webclients Ad Network]
 0.0.0.0 log.giaoducthoidai.vn
@@ -78583,7 +78583,6 @@
 0.0.0.0 contents.adingo.jp.eimg.jp
 0.0.0.0 golvurikenz-nl.live
 0.0.0.0 nordicnestchic.com
-0.0.0.0 idecoideas.com
 0.0.0.0 www.doubravainvestek.net
 0.0.0.0 idg.blueconic.net
 0.0.0.0 lovoxazevuvo.com
@@ -94507,7 +94506,6 @@
 0.0.0.0 immediateprocapex-system.com
 0.0.0.0 handbuiltceramics.mom
 0.0.0.0 gpt-tradingpro.com
-0.0.0.0 rlog.popin.cc
 0.0.0.0 neuralforgesoftware.shop
 0.0.0.0 www.andescapitalgpt-app.digital
 0.0.0.0 www.biondeck.site
@@ -99296,6 +99294,7 @@
 0.0.0.0 wulzaro.shop
 0.0.0.0 ahorelo.net
 0.0.0.0 finny1-et56.sbs
+0.0.0.0 tracking.admarketplace.net.edgekey.net
 0.0.0.0 www.orizano.net
 0.0.0.0 notify.nuviad.com
 0.0.0.0 www.fritexiumprimo-engine.com
@@ -108791,6 +108790,7 @@
 0.0.0.0 www.mzaltrov.live
 0.0.0.0 deepseekv3-trader.com
 0.0.0.0 www.holoorlogic.site
+0.0.0.0 inatv.pl
 0.0.0.0 block-apple.com
 0.0.0.0 www.polskasciezkawfn.site
 0.0.0.0 www.bjaurora.com
