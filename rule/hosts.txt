@@ -1,4 +1,4 @@
-# Update time: 2026-08-21 09:48:56
+# Update time: 2026-08-21 21:02:25
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2964,7 +2964,6 @@
 0.0.0.0 ad.api.3g.tudou.com
 0.0.0.0 8b6fxa.viqiyi.admaster.com.cn
 0.0.0.0 stream.snssdk.com
-0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 x.jd.com
 0.0.0.0 mqqadr.reader.qq.com
 0.0.0.0 vs2.gzcu.u3.ucweb.com
@@ -6168,7 +6167,6 @@
 0.0.0.0 geo.gridsumdissector.com
 0.0.0.0 tips.gamevvip.com
 0.0.0.0 analytics.query.yahoo.com
-0.0.0.0 ads-a.juicyads.com
 0.0.0.0 adimg.mobile.sina.cn
 0.0.0.0 m.cuoss.com
 0.0.0.0 static.bmob.cn
@@ -6245,6 +6243,7 @@
 0.0.0.0 js4.eastmoney.com
 0.0.0.0 mpush-api.aliyun.com
 0.0.0.0 update.sdk.jiguang.cn
+255.255.255.255	broadcasthost
 0.0.0.0 e.dydd.xyz
 0.0.0.0 www.vegaschina.cn
 0.0.0.0 tpush.html5.qq.com
@@ -12714,6 +12713,7 @@
 0.0.0.0 y.cdn.adblade.com
 0.0.0.0 pm.adsafeprotected.com
 0.0.0.0 ticketforchange.fr
+0.0.0.0 ads-a.juicyads.com
 0.0.0.0 ads.adgoto.com
 0.0.0.0 www.keybinary.com
 0.0.0.0 cdn.wwwpromoter.com
@@ -12801,7 +12801,6 @@
 0.0.0.0 laxnws.112.2o7.net
 0.0.0.0 s3-ap-southeast-2-amazonaws.com
 0.0.0.0 clicksor.com
-255.255.255.255	broadcasthost
 0.0.0.0 openais.maricosnc.it
 0.0.0.0 nytimesnonsampled.112.2o7.net
 0.0.0.0 w124.hitbox.com
@@ -15937,6 +15936,7 @@
 0.0.0.0 svd2.adtlgc.com
 0.0.0.0 enerweb.oewabox.at
 0.0.0.0 rapid-glade-cde8.asoumare042024.workers.dev
+0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 fuzzy-afternoon.surge.sh
 0.0.0.0 sanbuzs.com
 0.0.0.0 www.cydoor.com
@@ -28671,7 +28671,6 @@
 127.0.0.1 instantresp.com
 127.0.0.1 wan.rising.cn
 127.0.0.1 www.liveinternet.ru
-127.0.0.1 www.yb6.me
 127.0.0.1 buyu9930.com
 127.0.0.1 www.um0592.com
 127.0.0.1 www.55998448.com
@@ -28945,7 +28944,6 @@
 127.0.0.1 buyu9966.com
 127.0.0.1 uds24.com
 127.0.0.1 www.3152018.com
-127.0.0.1 0oaqgsk54hm5.com
 127.0.0.1 buyu9923.com
 127.0.0.1 redpaper-10006092.cos.myqcloud.com
 127.0.0.1 www.yueba423.com
@@ -32752,6 +32750,7 @@
 0.0.0.0 aggatrecei.cyou
 0.0.0.0 www.rheinvexortrade.de
 0.0.0.0 mata.ero-advertising.com
+0.0.0.0 agroracibozambezia.com
 0.0.0.0 truculentrate.com
 0.0.0.0 immediatev4app.shop
 0.0.0.0 fuentoroai-solution.com
@@ -43206,6 +43205,7 @@
 0.0.0.0 www.valutimone.net
 0.0.0.0 www.gitnexzolotrade.com
 0.0.0.0 bank03.ads.dt.mydas.mobi
+0.0.0.0 havaninvestimentossa.live
 0.0.0.0 picolucrenca.com
 0.0.0.0 bitdexappai.com
 0.0.0.0 www.coroainvestenca.net
@@ -54900,6 +54900,7 @@
 0.0.0.0 pussl48.com
 0.0.0.0 www.limpidorendaro.digital
 0.0.0.0 www.melidroarybw.digital
+0.0.0.0 belcando.mom
 0.0.0.0 atfitreasonyou.live
 0.0.0.0 me.podatkinf.com
 0.0.0.0 www.quixbit.app
@@ -72261,6 +72262,7 @@
 0.0.0.0 gweryxalvonsoft.com
 0.0.0.0 ap.adups.com
 0.0.0.0 fusionquest.com
+0.0.0.0 www.cut-theatr.shop
 0.0.0.0 quantrexblaze-gpt.net
 0.0.0.0 webclients.net #[Webclients Ad Network]
 0.0.0.0 log.giaoducthoidai.vn
@@ -72646,6 +72648,7 @@
 0.0.0.0 fingahvf.top
 0.0.0.0 snaptraderaitrade.com
 0.0.0.0 ack.mynv.jp
+0.0.0.0 routeiva.com
 0.0.0.0 untangleverything.com
 0.0.0.0 metrics.ticketmaster.com
 0.0.0.0 www.finlab8-fugiat36.sbs
@@ -86595,6 +86598,7 @@
 0.0.0.0 excite.us.intellitxt.com
 0.0.0.0 kpt-space-krakow.lovable.app
 0.0.0.0 www.subclbispi.cyou
+0.0.0.0 pelkruvilanz-es.live
 0.0.0.0 clicktraq.mtree.com
 0.0.0.0 survata.com
 0.0.0.0 ads.fptplay.net.vn
@@ -100114,6 +100118,7 @@
 0.0.0.0 alarmline.com.br
 0.0.0.0 www.myzykanordriftapp.org
 0.0.0.0 www.akse-luxerise-engine.com
+0.0.0.0 www.vulkanvegas48.com
 0.0.0.0 dmp.gravity4.com
 0.0.0.0 finxorgpt.org
 0.0.0.0 bgb-china.com
@@ -105358,6 +105363,7 @@
 0.0.0.0 cattleya-clutch.shop
 0.0.0.0 www.prymaxassets-ai.live
 0.0.0.0 rx-stats3.unrulymedia.com
+0.0.0.0 auronixpro.click
 0.0.0.0 vnoskaduren.net
 0.0.0.0 gm.mob.com
 0.0.0.0 tnkexchange.com
