@@ -1,4 +1,4 @@
-# Update time: 2026-08-31 00:34:29
+# Update time: 2026-08-31 13:18:33
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -3906,7 +3906,6 @@
 0.0.0.0 v.heygugu.com
 0.0.0.0 c.f1zd.com
 0.0.0.0 baiducom.bj.bcebos.com
-0.0.0.0 ctxtad.tribalfusion.com
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 pic.bloggerads.net
 0.0.0.0 ib.snssdk.com.edgekey.net
@@ -5525,7 +5524,6 @@
 0.0.0.0 ssp.4hw.com.cn
 0.0.0.0 adver.qq.com
 0.0.0.0 v3.cnzz.com
-0.0.0.0 b.am15.net
 0.0.0.0 mobile.dreport.meituan.net
 0.0.0.0 1.xilu.com
 0.0.0.0 staging-ads.flurry.com
@@ -6237,7 +6235,6 @@
 0.0.0.0 js4.eastmoney.com
 0.0.0.0 mpush-api.aliyun.com
 0.0.0.0 update.sdk.jiguang.cn
-255.255.255.255	broadcasthost
 0.0.0.0 e.dydd.xyz
 0.0.0.0 www.vegaschina.cn
 0.0.0.0 tpush.html5.qq.com
@@ -6833,7 +6830,6 @@
 0.0.0.0 op00w.baiyangzs.com
 0.0.0.0 c.gj.qq.com
 0.0.0.0 log.xiaozuowen.net
-0.0.0.0 c.silvinst.com
 0.0.0.0 adsfs.oppomobile.com
 0.0.0.0 adsys.sinovision.net
 0.0.0.0 c41.clicki.cn
@@ -7177,7 +7173,6 @@
 0.0.0.0 s89.cnzz.com
 0.0.0.0 m.emgwq.com
 0.0.0.0 secure-yt.imrworldwide.com
-0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 t.channeladvisor.com
 0.0.0.0 mp.sohu.com
 0.0.0.0 ads.feelingtouch.com
@@ -8268,7 +8263,6 @@
 0.0.0.0 ad2.bloggerads.net
 0.0.0.0 license.lumion3d.net
 0.0.0.0 playinfo.gomlab.com
-0.0.0.0 c.l.qq.com
 0.0.0.0 hzs9.cnzz.com
 0.0.0.0 px.owneriq.net
 0.0.0.0 recv-vd.gridsumdissector.cn
@@ -8685,7 +8679,6 @@
 0.0.0.0 debug.mssp.adunite.com
 0.0.0.0 offline-adv.oray.com
 0.0.0.0 temai.m.taobao.com
-0.0.0.0 an.yandex.ru
 0.0.0.0 ping.acc.sogou.com
 0.0.0.0 p.lu.sogou.com
 0.0.0.0 stats.cn.ronghub.com
@@ -12799,6 +12792,7 @@
 0.0.0.0 laxnws.112.2o7.net
 0.0.0.0 s3-ap-southeast-2-amazonaws.com
 0.0.0.0 clicksor.com
+255.255.255.255	broadcasthost
 0.0.0.0 openais.maricosnc.it
 0.0.0.0 nytimesnonsampled.112.2o7.net
 0.0.0.0 w124.hitbox.com
@@ -13697,6 +13691,7 @@
 0.0.0.0 critiquefilm.fr
 0.0.0.0 www.russian-sex.com
 0.0.0.0 www.gmads.net
+0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 click.maaxmarket.com
 0.0.0.0 ads.shovtvnet.com
 0.0.0.0 ads51.console.adtarget.com.tr
@@ -14772,6 +14767,7 @@
 0.0.0.0 ads.specificclick.com
 0.0.0.0 email.positionly.com
 0.0.0.0 www.grabbit-rabbit.com
+0.0.0.0 c.l.qq.com
 0.0.0.0 f18085.privacy4browsers.com
 0.0.0.0 www.briskappmu.name
 0.0.0.0 www25.glam.com
@@ -15112,6 +15108,7 @@
 0.0.0.0 benefitsorganic.com
 0.0.0.0 ad.prv.pl
 0.0.0.0 ccieurope.fr
+0.0.0.0 an.yandex.ru
 0.0.0.0 ad.fr.doubleclick.net
 0.0.0.0 office.officenet.co.kr
 0.0.0.0 media7.popmarker.com
@@ -16915,6 +16912,7 @@
 0.0.0.0 windows-cnd-update.com
 0.0.0.0 elyses.fr
 0.0.0.0 pool.distilled.ie
+0.0.0.0 ctxtad.tribalfusion.com
 0.0.0.0 fashion-online.net
 0.0.0.0 wfflxx.com
 0.0.0.0 ad.adnetwork.com.br
@@ -18524,6 +18522,7 @@
 0.0.0.0 hirturi.blogspot.hu
 0.0.0.0 webcounter.com
 0.0.0.0 ws06.home.sapo.pt
+0.0.0.0 b.am15.net
 0.0.0.0 rtl-most.blogspot.hu
 0.0.0.0 spinbox.techtracker.com
 0.0.0.0 www.ontheweb.com
@@ -19727,6 +19726,7 @@
 0.0.0.0 stat.netmonitor.fi
 0.0.0.0 gpaper184.112.2o7.net
 0.0.0.0 adserver.archant.co.uk
+0.0.0.0 c.silvinst.com
 0.0.0.0 www.counter11.sextracker.be
 0.0.0.0 ads146.console.adtarget.com.tr
 0.0.0.0 vitalitymax.1.p2l.info
@@ -50678,7 +50678,6 @@
 0.0.0.0 www.gracecore.com
 0.0.0.0 grabraeuber.de
 0.0.0.0 www.meetonlyhot.com
-0.0.0.0 www.mojnocleg.com
 0.0.0.0 www.72goldzino91.com
 0.0.0.0 doc-serwis.live
 0.0.0.0 vulkanvegas54.com
@@ -93729,6 +93728,7 @@
 0.0.0.0 chained-leonardmin.wasmer.app
 0.0.0.0 www.cdhzgt.com
 0.0.0.0 www.holoorlogic.site
+0.0.0.0 inatv.pl
 0.0.0.0 block-apple.com
 0.0.0.0 msmobiles.de.intellitxt.com
 0.0.0.0 wapster.pl
