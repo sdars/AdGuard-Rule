@@ -1,4 +1,4 @@
-# Update time: 2026-09-08 12:20:46
+# Update time: 2026-09-09 00:32:21
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -5680,7 +5680,6 @@
 0.0.0.0 z.sora.yoyi.com.cn
 0.0.0.0 miui.hftaili.com
 0.0.0.0 o.4x25v.cn
-0.0.0.0 us.adserver.yahoo.com
 0.0.0.0 www.7540.com
 0.0.0.0 abc.douguo.com
 0.0.0.0 a.vlion.cn
@@ -5806,6 +5805,7 @@
 0.0.0.0 pg-ad-b1.ws.126.net
 0.0.0.0 xnt.di2y21.top
 0.0.0.0 gx38.cn
+0.0.0.0 ads.creative-serving.com
 0.0.0.0 b.vlion.cn
 0.0.0.0 i.snssdk.com
 0.0.0.0 omgmta.play.aiseet.atianqi.com
@@ -6035,7 +6035,6 @@
 0.0.0.0 www2.xinmin.cn
 0.0.0.0 counter.awempire.com
 0.0.0.0 log.liusha.info
-0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 tracking.v.tf.360.cn
 0.0.0.0 pstarv.cn
 0.0.0.0 bdapi.ads.oppomobile.com
@@ -6394,7 +6393,6 @@
 0.0.0.0 icon.cnzz.com
 0.0.0.0 um.cavuc.com
 0.0.0.0 ads.union.jd.com
-0.0.0.0 su.addthis.com
 0.0.0.0 ifacelog.iqiyi.com
 0.0.0.0 zs9.cnzz.com
 0.0.0.0 www.jiq339.com
@@ -6641,7 +6639,6 @@
 0.0.0.0 rtb.admaster.com.cn
 0.0.0.0 click3forhz.adsmogo.com
 0.0.0.0 dis.us.criteo.com
-0.0.0.0 ww251.smartadserver.com
 0.0.0.0 huichuan.sm.cn
 0.0.0.0 e.tf.360.cn
 0.0.0.0 ms.cmcm.com
@@ -7731,6 +7728,7 @@
 0.0.0.0 cti.w55c.net
 0.0.0.0 na.nawpush.com
 0.0.0.0 l.fastapi.net
+0.0.0.0 c1.popads.net
 0.0.0.0 x.zhidian3g.cn
 0.0.0.0 cn-trc.taboola.com
 0.0.0.0 xtruh.uranus.sogou.com
@@ -7760,6 +7758,7 @@
 0.0.0.0 file.bmob.cn
 0.0.0.0 d3.sinaimg.cn
 0.0.0.0 ee.wz382.cn
+0.0.0.0 c2.popads.net
 0.0.0.0 clickc.admaster.com.cn
 0.0.0.0 www.adworks.att.com.turn.com
 0.0.0.0 www.millennialmedia.com
@@ -8467,7 +8466,6 @@
 0.0.0.0 zdw.w8.com.cn
 0.0.0.0 www8.xitek.com
 0.0.0.0 storage.29293.com
-0.0.0.0 www.onclicktop.com
 0.0.0.0 inside.bitcomet.com
 0.0.0.0 m.m19ud.cn
 0.0.0.0 caclick.baidu.com
@@ -12344,7 +12342,6 @@
 0.0.0.0 api.linkgist.com
 0.0.0.0 protection.ILpolice.com
 0.0.0.0 exchange.scalemonk.com
-0.0.0.0 ads.creative-serving.com
 0.0.0.0 ad.nozonedata.com
 0.0.0.0 api.affinesystems.com
 0.0.0.0 wgdcjd8kxd.olijfgent.be
@@ -12582,6 +12579,7 @@
 0.0.0.0 counter9.bravenet.com
 0.0.0.0 bn.bfast.com
 0.0.0.0 adsxyz.com
+0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 payforme.top
 0.0.0.0 jerry.proweb.net
 0.0.0.0 nd.5.p2l.info
@@ -13194,6 +13192,7 @@
 0.0.0.0 bellybuttons.sa.com
 0.0.0.0 pagesjauenes.fr
 0.0.0.0 ads114.console.adtarget.com.tr
+0.0.0.0 ww251.smartadserver.com
 0.0.0.0 ps-us.amazon-adsystem.com
 0.0.0.0 x4.lov3.net
 0.0.0.0 track.msadcenter.ltp.com
@@ -14279,7 +14278,6 @@
 0.0.0.0 ehg-cedarpoint.hitbox.com
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 1us.cqcounter.com
-0.0.0.0 c1.popads.net
 0.0.0.0 sec.hit.gemius.pl
 0.0.0.0 lbrtry.com
 0.0.0.0 protection.LCpolice.com
@@ -18729,6 +18727,7 @@
 0.0.0.0 himicrosoft.com
 0.0.0.0 912.lazulya.com
 0.0.0.0 w9.hitbox.com
+0.0.0.0 us.adserver.yahoo.com
 0.0.0.0 pixel.tapad.com
 0.0.0.0 cdn.augur.io
 0.0.0.0 www.duotrader.com
@@ -19397,6 +19396,7 @@
 0.0.0.0 gabrielahlavack.samcart.com
 0.0.0.0 unme-asso.fr
 0.0.0.0 idb.hitbox.com
+0.0.0.0 su.addthis.com
 0.0.0.0 jgen26.cjt1.net
 0.0.0.0 3dns-3.adobe.com
 0.0.0.0 cdn.acloudvideos.com
@@ -20677,7 +20677,6 @@
 0.0.0.0 www.quartersnorth.lat
 0.0.0.0 a.ad.playstation.net
 0.0.0.0 livesfoot.fr
-0.0.0.0 c2.popads.net
 0.0.0.0 web-spider.net
 0.0.0.0 webtrends.thisis.co.uk
 0.0.0.0 w105.hitbox.com
@@ -21383,6 +21382,7 @@
 0.0.0.0 zu1.november-lax.com
 0.0.0.0 www.iovenesweb.com
 0.0.0.0 www3.counter.bloke.com
+0.0.0.0 www.onclicktop.com
 0.0.0.0 cnhienid.122.2o7.net
 0.0.0.0 ads.domeus.com
 0.0.0.0 discountads.net
@@ -28707,6 +28707,7 @@
 127.0.0.1 instantresp.com
 127.0.0.1 wan.rising.cn
 127.0.0.1 www.liveinternet.ru
+127.0.0.1 www.yb6.me
 127.0.0.1 buyu9930.com
 127.0.0.1 www.um0592.com
 127.0.0.1 www.55998448.com
@@ -34820,6 +34821,7 @@
 0.0.0.0 nissangofuku.live
 0.0.0.0 lumecapitanca.net
 0.0.0.0 dariakaya.live
+0.0.0.0 www.ln.dd9sey.cfd
 0.0.0.0 globalsafezone.com
 0.0.0.0 otwarte24.com.pl
 0.0.0.0 tracking.tuyenquang.gov.vn
@@ -41581,6 +41583,7 @@
 0.0.0.0 nvfrd.com
 0.0.0.0 pangle.io.edgekey.net
 0.0.0.0 www.profitezfundrun-es.live
+0.0.0.0 yvxjsixn.eu
 0.0.0.0 www.ottomillimetri.mom
 0.0.0.0 www.altraxtrade94.net
 0.0.0.0 adlogs.ad2iction.com
@@ -60896,6 +60899,7 @@
 0.0.0.0 xonahesfuel.site
 0.0.0.0 z8q5yw.lat
 0.0.0.0 sixsilver.mom
+0.0.0.0 prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 veltriven.com
 0.0.0.0 lumisarvestre.com
 0.0.0.0 adtimabox.brand.zing.vn
@@ -82252,6 +82256,7 @@
 0.0.0.0 maidforyou1985.com
 0.0.0.0 www.coinhdinom.store
 0.0.0.0 www.5zz.tw0jkurierc.cam
+0.0.0.0 jgl.microad.net
 0.0.0.0 www.2fd3ref.casa
 0.0.0.0 www.woda-lecznicza.mom
 0.0.0.0 www.rabrayhub.site
@@ -89514,6 +89519,7 @@
 0.0.0.0 sockshock.com
 0.0.0.0 www.e-kino.tv
 0.0.0.0 www.23vulkanvegas.com
+0.0.0.0 www.crimsontideled.top
 0.0.0.0 www.optimint.site
 0.0.0.0 www.twt.o8fgwc.top
 0.0.0.0 sync.alphonso.tv
