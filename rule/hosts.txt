@@ -1,4 +1,4 @@
-# Update time: 2026-09-18 00:49:03
+# Update time: 2026-09-18 12:27:30
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -3451,6 +3451,7 @@
 0.0.0.0 gfyoyo.adpolestar.net
 0.0.0.0 cdnpa.hyperpromote.com
 0.0.0.0 f3.souid.com
+0.0.0.0 xxlargepop.com
 0.0.0.0 www.nkscdn.com
 0.0.0.0 hzs17.cnzz.com
 0.0.0.0 cdn.tanx.com
@@ -6242,6 +6243,7 @@
 0.0.0.0 js4.eastmoney.com
 0.0.0.0 mpush-api.aliyun.com
 0.0.0.0 update.sdk.jiguang.cn
+255.255.255.255	broadcasthost
 0.0.0.0 e.dydd.xyz
 0.0.0.0 www.vegaschina.cn
 0.0.0.0 tpush.html5.qq.com
@@ -9989,7 +9991,6 @@
 0.0.0.0 sinu24.de
 0.0.0.0 adcontent.gamespy.com
 0.0.0.0 adserv007.adtech.us
-0.0.0.0 xxlargepop.com
 0.0.0.0 www.shrimahaveercollege.com
 0.0.0.0 stat.56.com
 0.0.0.0 e-2dj6wfk4gkcpiep.stats.esomniture.com
@@ -12648,6 +12649,7 @@
 0.0.0.0 oclopes.fr
 0.0.0.0 divx.112.2o7.net
 0.0.0.0 admin.digitalacre.com
+0.0.0.0 www.damncheapguns.com
 0.0.0.0 rtb28.adscience.nl
 0.0.0.0 ma.wp.pl
 0.0.0.0 www.autohipnose.com
@@ -12808,7 +12810,6 @@
 0.0.0.0 laxnws.112.2o7.net
 0.0.0.0 s3-ap-southeast-2-amazonaws.com
 0.0.0.0 clicksor.com
-255.255.255.255	broadcasthost
 0.0.0.0 openais.maricosnc.it
 0.0.0.0 nytimesnonsampled.112.2o7.net
 0.0.0.0 w124.hitbox.com
@@ -15550,6 +15551,7 @@
 0.0.0.0 www.rtkmyz.cfd
 0.0.0.0 adserver.corusradionetwork.com
 0.0.0.0 rootbuzz.com
+0.0.0.0 invited.blueconferencefield.com
 0.0.0.0 7zip.fr
 0.0.0.0 ads.adk2.com
 0.0.0.0 dontwatch.us
@@ -18619,6 +18621,7 @@
 0.0.0.0 ph-ad13.focalink.com
 0.0.0.0 foodeveryhour.com
 0.0.0.0 adopt.precisead.com
+0.0.0.0 www.bjseverlastingoils.com
 0.0.0.0 nationalpost.112.2o7.net
 0.0.0.0 adengine.rt.ru
 0.0.0.0 w133.hitbox.com
@@ -28723,7 +28726,6 @@
 127.0.0.1 instantresp.com
 127.0.0.1 wan.rising.cn
 127.0.0.1 www.liveinternet.ru
-127.0.0.1 www.yb6.me
 127.0.0.1 buyu9930.com
 127.0.0.1 www.um0592.com
 127.0.0.1 www.55998448.com
@@ -49865,7 +49867,6 @@
 0.0.0.0 copyalgo.org
 0.0.0.0 engage12348wrdvs.deltadna.net
 0.0.0.0 communicate.gimbal.com
-0.0.0.0 www.artistikstudyo.live
 0.0.0.0 2iju3nw2.skin
 0.0.0.0 www.faelmoro.com
 0.0.0.0 www.polunexaproai.com
@@ -82094,6 +82095,7 @@
 0.0.0.0 www.luxemyshop.com
 0.0.0.0 everfield.mobi
 0.0.0.0 dianomi.com
+0.0.0.0 montrealgazette.stats.com
 0.0.0.0 65xps.com
 0.0.0.0 www.zipitfast.com
 0.0.0.0 teleinpros.club
