@@ -1,4 +1,4 @@
-# Update time: 2026-09-23 12:33:53
+# Update time: 2026-09-24 00:44:11
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -3942,7 +3942,6 @@
 0.0.0.0 s.vaedan.top
 0.0.0.0 sit.pagechoice.net
 0.0.0.0 toruk.tanx.com
-0.0.0.0 adserver.yahoo.com
 0.0.0.0 bdlm.120askimages.com
 0.0.0.0 ad.player.baidu.com
 0.0.0.0 www.9948000.com
@@ -4153,7 +4152,6 @@
 0.0.0.0 mlb.did.ijinshan.com
 0.0.0.0 btn.onlylady.com
 0.0.0.0 titan01.babytree.com
-0.0.0.0 ads.yahoo.com
 0.0.0.0 b17.wenjutv.com
 0.0.0.0 e.xkqpco.com.com
 0.0.0.0 images.tyyjzs.cn
@@ -4899,7 +4897,6 @@
 0.0.0.0 guce.advertising.com
 0.0.0.0 cpro.zol.com.cn
 0.0.0.0 img.ferlie.net
-0.0.0.0 a.baidu.com
 0.0.0.0 cee1.iteye.com
 0.0.0.0 slides.discovery.tom.com
 0.0.0.0 e.fcunq.com
@@ -7177,7 +7174,6 @@
 0.0.0.0 s89.cnzz.com
 0.0.0.0 m.emgwq.com
 0.0.0.0 secure-yt.imrworldwide.com
-0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 t.channeladvisor.com
 0.0.0.0 mp.sohu.com
 0.0.0.0 ads.feelingtouch.com
@@ -8431,7 +8427,6 @@
 0.0.0.0 business.inveno.com
 0.0.0.0 p.appjiagu.com
 0.0.0.0 p.ssp.qq.com
-0.0.0.0 ads.trafficjunky.net
 0.0.0.0 js.sanwen.net
 0.0.0.0 smucdn.com
 0.0.0.0 a.beilamusi.com
@@ -8686,7 +8681,6 @@
 0.0.0.0 debug.mssp.adunite.com
 0.0.0.0 offline-adv.oray.com
 0.0.0.0 temai.m.taobao.com
-0.0.0.0 an.yandex.ru
 0.0.0.0 ping.acc.sogou.com
 0.0.0.0 p.lu.sogou.com
 0.0.0.0 stats.cn.ronghub.com
@@ -10733,6 +10727,7 @@
 0.0.0.0 sajour.fr
 0.0.0.0 ws03.home.sapo.pt
 0.0.0.0 consumerspanel.frge.io
+0.0.0.0 ads.yahoo.com
 0.0.0.0 www8.counter.bloke.com
 0.0.0.0 wahoha.com
 0.0.0.0 data.murdoog.com
@@ -13709,6 +13704,7 @@
 0.0.0.0 www.russian-sex.com
 0.0.0.0 www.diperformancetransmissions.com
 0.0.0.0 www.gmads.net
+0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 click.maaxmarket.com
 0.0.0.0 ads.shovtvnet.com
 0.0.0.0 ads51.console.adtarget.com.tr
@@ -14934,6 +14930,7 @@
 0.0.0.0 affiliate.mlntracker.com
 0.0.0.0 w137.hitbox.com
 0.0.0.0 clownsong.com
+0.0.0.0 ads.trafficjunky.net
 0.0.0.0 moodoo.com.cn
 0.0.0.0 tps31.doubleverify.com
 0.0.0.0 this.content.served.by.adshuffle.com
@@ -15128,6 +15125,7 @@
 0.0.0.0 benefitsorganic.com
 0.0.0.0 ad.prv.pl
 0.0.0.0 ccieurope.fr
+0.0.0.0 an.yandex.ru
 0.0.0.0 ad.fr.doubleclick.net
 0.0.0.0 office.officenet.co.kr
 0.0.0.0 media7.popmarker.com
@@ -16976,6 +16974,7 @@
 0.0.0.0 ads.adsrvmedia.com
 0.0.0.0 bestwatersystems.net
 0.0.0.0 rtb19.adscience.nl
+0.0.0.0 adserver.yahoo.com
 0.0.0.0 espub.fr
 0.0.0.0 games.superappbox.com
 0.0.0.0 www.wrestlewebnews.com
@@ -17921,6 +17920,7 @@
 0.0.0.0 syngeta.fr
 0.0.0.0 js.hsleadflows.net
 0.0.0.0 www.bitmedia.io
+0.0.0.0 a.baidu.com
 0.0.0.0 www.magento-analytics.com
 0.0.0.0 www.ndbsoft.be
 0.0.0.0 last-chainleash.net
@@ -28730,7 +28730,6 @@
 127.0.0.1 instantresp.com
 127.0.0.1 wan.rising.cn
 127.0.0.1 www.liveinternet.ru
-127.0.0.1 www.yb6.me
 127.0.0.1 buyu9930.com
 127.0.0.1 www.um0592.com
 127.0.0.1 www.55998448.com
@@ -34654,7 +34653,6 @@
 0.0.0.0 affitticerti.com
 0.0.0.0 aldideals.gilvemart.shop
 0.0.0.0 advertising-cdn.dpgmedia.cloud
-0.0.0.0 www.ln.dd9sey.cfd
 0.0.0.0 globalsafezone.com
 0.0.0.0 otwarte24.com.pl
 0.0.0.0 tracking.tuyenquang.gov.vn
@@ -42393,7 +42391,6 @@
 0.0.0.0 immatduode.store
 0.0.0.0 www.oxicurve.info
 0.0.0.0 analytics.aweber.com
-0.0.0.0 criteo-sync.teads.tv
 0.0.0.0 retg.ambient-platform.com
 0.0.0.0 townhousefilms.com
 0.0.0.0 www.parvengainportza.com
@@ -59278,7 +59275,6 @@
 0.0.0.0 nordsternaigpt.com
 0.0.0.0 www.accucunamu.store
 0.0.0.0 authguest-booking.com
-0.0.0.0 prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 veltriven.com
 0.0.0.0 lumisarvestre.com
 0.0.0.0 adtimabox.brand.zing.vn
@@ -79569,7 +79565,6 @@
 0.0.0.0 www.coinhdinom.store
 0.0.0.0 www.5zz.tw0jkurierc.cam
 0.0.0.0 hrinvesttrade.com
-0.0.0.0 jgl.microad.net
 0.0.0.0 ybinst5.ec.yimg.com
 0.0.0.0 www.vjkmno.shop
 0.0.0.0 www.okamitnerix.com
@@ -86554,7 +86549,6 @@
 0.0.0.0 sockshock.com
 0.0.0.0 www.e-kino.tv
 0.0.0.0 www.23vulkanvegas.com
-0.0.0.0 www.crimsontideled.top
 0.0.0.0 sync.alphonso.tv
 0.0.0.0 homla.tech
 0.0.0.0 kingkong.co
