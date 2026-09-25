@@ -1,4 +1,4 @@
-# Update time: 2026-09-25 12:42:42
+# Update time: 2026-09-26 01:02:58
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2963,6 +2963,7 @@
 0.0.0.0 ad.api.3g.tudou.com
 0.0.0.0 8b6fxa.viqiyi.admaster.com.cn
 0.0.0.0 stream.snssdk.com
+0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 x.jd.com
 0.0.0.0 mqqadr.reader.qq.com
 0.0.0.0 vs2.gzcu.u3.ucweb.com
@@ -2979,6 +2980,7 @@
 0.0.0.0 v.behe.com
 0.0.0.0 4009997658.com
 0.0.0.0 ef-dongfeng.tanx.com
+0.0.0.0 ad.propellerads.com
 0.0.0.0 www.555p555p.com
 0.0.0.0 s.appjiagu.com
 0.0.0.0 re.m.taobao.com
@@ -3451,7 +3453,6 @@
 0.0.0.0 gfyoyo.adpolestar.net
 0.0.0.0 cdnpa.hyperpromote.com
 0.0.0.0 f3.souid.com
-0.0.0.0 xxlargepop.com
 0.0.0.0 www.nkscdn.com
 0.0.0.0 hzs17.cnzz.com
 0.0.0.0 cdn.tanx.com
@@ -6245,7 +6246,6 @@
 0.0.0.0 js4.eastmoney.com
 0.0.0.0 mpush-api.aliyun.com
 0.0.0.0 update.sdk.jiguang.cn
-255.255.255.255	broadcasthost
 0.0.0.0 e.dydd.xyz
 0.0.0.0 www.vegaschina.cn
 0.0.0.0 tpush.html5.qq.com
@@ -6952,6 +6952,7 @@
 0.0.0.0 pv.xcar.com.cn
 0.0.0.0 www.kejet.com
 0.0.0.0 www.dianomi.com
+0.0.0.0 a.adroll.com
 0.0.0.0 910weixin.com
 0.0.0.0 images.enet.com.cn
 0.0.0.0 cdn.atwola.com
@@ -9994,6 +9995,7 @@
 0.0.0.0 sinu24.de
 0.0.0.0 adcontent.gamespy.com
 0.0.0.0 adserv007.adtech.us
+0.0.0.0 xxlargepop.com
 0.0.0.0 www.shrimahaveercollege.com
 0.0.0.0 stat.56.com
 0.0.0.0 e-2dj6wfk4gkcpiep.stats.esomniture.com
@@ -12811,6 +12813,7 @@
 0.0.0.0 laxnws.112.2o7.net
 0.0.0.0 s3-ap-southeast-2-amazonaws.com
 0.0.0.0 clicksor.com
+255.255.255.255	broadcasthost
 0.0.0.0 openais.maricosnc.it
 0.0.0.0 nytimesnonsampled.112.2o7.net
 0.0.0.0 w124.hitbox.com
@@ -13470,7 +13473,6 @@
 0.0.0.0 umgpjdlllhl.ru
 0.0.0.0 www.itrackerpro.com
 0.0.0.0 pmelon.com
-0.0.0.0 a.adroll.com
 0.0.0.0 www.nedstat.com
 0.0.0.0 cadsans.com
 0.0.0.0 adserv.quality-channel.de
@@ -15965,7 +15967,6 @@
 0.0.0.0 svd2.adtlgc.com
 0.0.0.0 enerweb.oewabox.at
 0.0.0.0 rapid-glade-cde8.asoumare042024.workers.dev
-0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 fuzzy-afternoon.surge.sh
 0.0.0.0 sanbuzs.com
 0.0.0.0 www.cydoor.com
@@ -15990,7 +15991,6 @@
 0.0.0.0 loading-page.net
 0.0.0.0 e-2dj6wflioldzoco.stats.esomniture.com
 0.0.0.0 gpaper174.112.2o7.net
-0.0.0.0 ad.propellerads.com
 0.0.0.0 bbcdn.delivery.reklamz.com
 0.0.0.0 nv.5.p2l.info
 0.0.0.0 track.msadcenter.zzv.com
@@ -29003,6 +29003,7 @@
 127.0.0.1 buyu9966.com
 127.0.0.1 uds24.com
 127.0.0.1 www.3152018.com
+127.0.0.1 0oaqgsk54hm5.com
 127.0.0.1 buyu9923.com
 127.0.0.1 redpaper-10006092.cos.myqcloud.com
 127.0.0.1 www.yueba423.com
@@ -42417,6 +42418,7 @@
 0.0.0.0 immatduode.store
 0.0.0.0 www.oxicurve.info
 0.0.0.0 analytics.aweber.com
+0.0.0.0 criteo-sync.teads.tv
 0.0.0.0 retg.ambient-platform.com
 0.0.0.0 townhousefilms.com
 0.0.0.0 www.parvengainportza.com
@@ -43177,7 +43179,6 @@
 0.0.0.0 pepcoplonline.shop
 0.0.0.0 www.tronplane.sbs
 0.0.0.0 movingbtrades.net
-0.0.0.0 tremisuper.rest
 0.0.0.0 qlipsodigital.checkm8.com
 0.0.0.0 rep.exblog.jp
 0.0.0.0 www.lamania-save.top
@@ -79103,6 +79104,7 @@
 0.0.0.0 freshshoes.pl
 0.0.0.0 everfield.mobi
 0.0.0.0 dianomi.com
+0.0.0.0 montrealgazette.stats.com
 0.0.0.0 65xps.com
 0.0.0.0 www.zipitfast.com
 0.0.0.0 teleinpros.club
@@ -79802,7 +79804,6 @@
 0.0.0.0 alvantalumetrix.com
 0.0.0.0 sbracsynda.rest
 0.0.0.0 bann12s.ero-advertising.com
-0.0.0.0 click.email.bbc.com
 0.0.0.0 monsteadix-uk.click
 0.0.0.0 adspredictiv.com
 0.0.0.0 www.fisio0-dolorem70.sbs
@@ -81923,6 +81924,7 @@
 0.0.0.0 comvelgmbh.d1.sc.omtrdc.net
 0.0.0.0 ad1.banners.ero-advertising.com
 0.0.0.0 www.kvarundron-btc-spain.sbs
+0.0.0.0 intesazomixsoft.digital
 0.0.0.0 stats.bizweb.vn
 0.0.0.0 amateurdevils.com
 0.0.0.0 analytics.sixt.it
