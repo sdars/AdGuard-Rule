@@ -1,4 +1,4 @@
-# Update time: 2026-10-06 14:05:41
+# Update time: 2026-10-07 02:17:20
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -4898,7 +4898,6 @@
 0.0.0.0 guce.advertising.com
 0.0.0.0 cpro.zol.com.cn
 0.0.0.0 img.ferlie.net
-0.0.0.0 a.baidu.com
 0.0.0.0 cee1.iteye.com
 0.0.0.0 slides.discovery.tom.com
 0.0.0.0 e.fcunq.com
@@ -8429,7 +8428,6 @@
 0.0.0.0 business.inveno.com
 0.0.0.0 p.appjiagu.com
 0.0.0.0 p.ssp.qq.com
-0.0.0.0 ads.trafficjunky.net
 0.0.0.0 js.sanwen.net
 0.0.0.0 smucdn.com
 0.0.0.0 a.beilamusi.com
@@ -14934,6 +14932,7 @@
 0.0.0.0 affiliate.mlntracker.com
 0.0.0.0 w137.hitbox.com
 0.0.0.0 clownsong.com
+0.0.0.0 ads.trafficjunky.net
 0.0.0.0 moodoo.com.cn
 0.0.0.0 tps31.doubleverify.com
 0.0.0.0 this.content.served.by.adshuffle.com
@@ -17922,6 +17921,7 @@
 0.0.0.0 syngeta.fr
 0.0.0.0 js.hsleadflows.net
 0.0.0.0 www.bitmedia.io
+0.0.0.0 a.baidu.com
 0.0.0.0 www.magento-analytics.com
 0.0.0.0 www.ndbsoft.be
 0.0.0.0 last-chainleash.net
@@ -28731,6 +28731,7 @@
 127.0.0.1 instantresp.com
 127.0.0.1 wan.rising.cn
 127.0.0.1 www.liveinternet.ru
+127.0.0.1 www.yb6.me
 127.0.0.1 buyu9930.com
 127.0.0.1 www.um0592.com
 127.0.0.1 www.55998448.com
@@ -29690,7 +29691,6 @@
 127.0.0.1 www7b.j8inn1zektoe.com
 127.0.0.1 www.mfjegjqb.com
 127.0.0.1 dl.360safe.com
-127.0.0.1 ysb76.com
 127.0.0.1 ososoo.com
 127.0.0.1 xapi.juicyads.com
 127.0.0.1 ads.adsniper.ru
@@ -30075,7 +30075,6 @@
 127.0.0.1 xpj28111.com
 127.0.0.1 www.securegfm.com
 127.0.0.1 buyu9956.com
-127.0.0.1 www.28830055.com
 127.0.0.1 worldmustbecrazy.j8inn1zektoe.com
 127.0.0.1 panther.adform.net
 127.0.0.1 g.yccdn.com
@@ -31274,7 +31273,6 @@
 0.0.0.0 0.0.0.0.hpyrdr.com
 0.0.0.0 aldimart.orchardheathpantry.shop
 0.0.0.0 cdn.aralego.net
-0.0.0.0 www.valemurotazirono.com
 0.0.0.0 rankmytattoos.us.intellitxt.com
 0.0.0.0 aerialapps.com
 0.0.0.0 www.cdiabetes.com
@@ -75806,6 +75804,7 @@
 0.0.0.0 vinted.300491.sbs
 0.0.0.0 freshshoes.pl
 0.0.0.0 dianomi.com
+0.0.0.0 montrealgazette.stats.com
 0.0.0.0 65xps.com
 0.0.0.0 www.zipitfast.com
 0.0.0.0 teleinpros.club
