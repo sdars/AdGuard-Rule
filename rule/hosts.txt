@@ -1,4 +1,4 @@
-# Update time: 2026-10-08 13:49:43
+# Update time: 2026-10-09 02:47:01
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2963,6 +2963,7 @@
 0.0.0.0 ad.api.3g.tudou.com
 0.0.0.0 8b6fxa.viqiyi.admaster.com.cn
 0.0.0.0 stream.snssdk.com
+0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 x.jd.com
 0.0.0.0 mqqadr.reader.qq.com
 0.0.0.0 vs2.gzcu.u3.ucweb.com
@@ -3622,7 +3623,6 @@
 0.0.0.0 impservice.dictapp.youdao.com
 0.0.0.0 counter.marketgid.com
 0.0.0.0 d.kugou.com
-0.0.0.0 admedia.com
 0.0.0.0 o.if.qidian.com
 0.0.0.0 t1n.cn
 0.0.0.0 api.e.mi.com
@@ -4092,7 +4092,6 @@
 0.0.0.0 tracker.tgbus.com
 0.0.0.0 rescn.u3.ucweb.com
 0.0.0.0 count.game.pps.tv
-0.0.0.0 ads.admarvel.com
 0.0.0.0 count.mail.163.com
 0.0.0.0 tjlog.easou.com
 0.0.0.0 m.data.mob.com
@@ -5263,7 +5262,6 @@
 0.0.0.0 img.ads.csdn.net
 0.0.0.0 p.qlogo.cn
 0.0.0.0 sync-eu.exe.bid
-0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 market.52pk.com
 0.0.0.0 www.qumi.com
 0.0.0.0 wangdq.com
@@ -6167,7 +6165,6 @@
 0.0.0.0 geo.gridsumdissector.com
 0.0.0.0 tips.gamevvip.com
 0.0.0.0 analytics.query.yahoo.com
-0.0.0.0 ads-a.juicyads.com
 0.0.0.0 adimg.mobile.sina.cn
 0.0.0.0 m.cuoss.com
 0.0.0.0 static.bmob.cn
@@ -6244,7 +6241,6 @@
 0.0.0.0 js4.eastmoney.com
 0.0.0.0 mpush-api.aliyun.com
 0.0.0.0 update.sdk.jiguang.cn
-255.255.255.255	broadcasthost
 0.0.0.0 e.dydd.xyz
 0.0.0.0 www.vegaschina.cn
 0.0.0.0 tpush.html5.qq.com
@@ -6951,7 +6947,6 @@
 0.0.0.0 pv.xcar.com.cn
 0.0.0.0 www.kejet.com
 0.0.0.0 www.dianomi.com
-0.0.0.0 a.adroll.com
 0.0.0.0 910weixin.com
 0.0.0.0 images.enet.com.cn
 0.0.0.0 cdn.atwola.com
@@ -6975,7 +6970,6 @@
 0.0.0.0 m-hayakawa.ad.dev.nend.net
 0.0.0.0 adsatt.disney.starwave.com
 0.0.0.0 beyondcompare.cc
-0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 amps.yoyi.com.cn
 0.0.0.0 dns2.oadz.com
 0.0.0.0 is.snssdk.com
@@ -7091,7 +7085,6 @@
 0.0.0.0 publish-pic-cpu.baidu.com
 0.0.0.0 tracker.taboola.com
 0.0.0.0 www.wenxuemi6.com
-0.0.0.0 ads.ad4game.com
 0.0.0.0 kz.admaster.com.cn
 0.0.0.0 msg.shouji.360.cn
 0.0.0.0 strip.alicdn.com
@@ -10677,6 +10670,7 @@
 0.0.0.0 oascentral.washtimes.com
 0.0.0.0 nyttechnology.112.2o7.net
 0.0.0.0 aolsvc.122.2o7.net
+0.0.0.0 ads.admarvel.com
 0.0.0.0 photos8.pop6.com
 0.0.0.0 www.apogara.plus.com
 0.0.0.0 dra.amazon-adsystem.com
@@ -11818,6 +11812,7 @@
 0.0.0.0 jf71qh5v14.com
 0.0.0.0 techreview.112.2o7.net
 0.0.0.0 adserver.pressboard.ca
+0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 legrando.fr
 0.0.0.0 ads214.console.adtarget.com.tr
 0.0.0.0 ezl.com
@@ -12725,6 +12720,7 @@
 0.0.0.0 y.cdn.adblade.com
 0.0.0.0 pm.adsafeprotected.com
 0.0.0.0 ticketforchange.fr
+0.0.0.0 ads-a.juicyads.com
 0.0.0.0 ads.adgoto.com
 0.0.0.0 www.keybinary.com
 0.0.0.0 cdn.wwwpromoter.com
@@ -12812,6 +12808,7 @@
 0.0.0.0 laxnws.112.2o7.net
 0.0.0.0 s3-ap-southeast-2-amazonaws.com
 0.0.0.0 clicksor.com
+255.255.255.255	broadcasthost
 0.0.0.0 openais.maricosnc.it
 0.0.0.0 nytimesnonsampled.112.2o7.net
 0.0.0.0 w124.hitbox.com
@@ -13471,6 +13468,7 @@
 0.0.0.0 umgpjdlllhl.ru
 0.0.0.0 www.itrackerpro.com
 0.0.0.0 pmelon.com
+0.0.0.0 a.adroll.com
 0.0.0.0 www.nedstat.com
 0.0.0.0 cadsans.com
 0.0.0.0 adserv.quality-channel.de
@@ -13494,6 +13492,7 @@
 0.0.0.0 miner.pr0gramm.com
 0.0.0.0 adserver9.contextad.com
 0.0.0.0 doors.co.kr
+0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 www.tvccpt.com
 0.0.0.0 www.everestgroupcorp.com
 0.0.0.0 hurricaneprotection.com
@@ -13608,6 +13607,7 @@
 0.0.0.0 www.probusinesshub.com
 0.0.0.0 redherring.ngadcenter.net
 0.0.0.0 lrt7a.coldcertainchannel.com
+0.0.0.0 ads.ad4game.com
 0.0.0.0 ishinomakicatering.web.fc2.com
 0.0.0.0 avndrealouer.fr
 0.0.0.0 zeroredirect2.com
@@ -15966,7 +15966,6 @@
 0.0.0.0 svd2.adtlgc.com
 0.0.0.0 enerweb.oewabox.at
 0.0.0.0 rapid-glade-cde8.asoumare042024.workers.dev
-0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 fuzzy-afternoon.surge.sh
 0.0.0.0 sanbuzs.com
 0.0.0.0 www.cydoor.com
@@ -16645,6 +16644,7 @@
 0.0.0.0 caisse-apargne.fr
 0.0.0.0 advert-time.com
 0.0.0.0 track.enviodemails.com
+0.0.0.0 admedia.com
 0.0.0.0 www.fripta.com
 0.0.0.0 f11098.privacy4browsers.com
 0.0.0.0 beauty.finaltips.com
@@ -29690,7 +29690,6 @@
 127.0.0.1 www7b.j8inn1zektoe.com
 127.0.0.1 www.mfjegjqb.com
 127.0.0.1 dl.360safe.com
-127.0.0.1 ysb76.com
 127.0.0.1 ososoo.com
 127.0.0.1 xapi.juicyads.com
 127.0.0.1 ads.adsniper.ru
@@ -33537,6 +33536,7 @@
 0.0.0.0 tracking.hyros.com
 0.0.0.0 xxxbullet.com
 0.0.0.0 www.f7.nz3zcd.qpon
+0.0.0.0 7fb.ru
 0.0.0.0 www.landochodura.net
 0.0.0.0 getclicky.com
 0.0.0.0 rok-tuwima.pl
@@ -37262,7 +37262,6 @@
 0.0.0.0 pl.edrrak.com
 0.0.0.0 smyk.fishing-xfish.shop
 0.0.0.0 bideo-schnellvpn.com
-0.0.0.0 www.vulkanvegas37.com
 0.0.0.0 sell-ukaldi.sashsettle.shop
 0.0.0.0 toplista.mw.hu
 0.0.0.0 plhomla.shop
@@ -37932,6 +37931,7 @@
 0.0.0.0 www.nordveraliving.com
 0.0.0.0 www.nomadvestrix.net
 0.0.0.0 rendia-ai.com
+0.0.0.0 www.olx.lokalna-ofeta562356886.sbs
 0.0.0.0 widget.headlines.pw
 0.0.0.0 rejavoxai.net
 0.0.0.0 decenterads.com
@@ -48433,6 +48433,7 @@
 0.0.0.0 aldiuk-market.meridiancrestco.com
 0.0.0.0 lymphomatouszzarboviral.info
 0.0.0.0 www.aldiie-market.clymarasolutions.com
+0.0.0.0 www.wiadomosci-naszemiasto24.x9.eu
 0.0.0.0 www.ultratrck.com
 0.0.0.0 supply.colossusssp.com
 0.0.0.0 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
@@ -63598,6 +63599,7 @@
 0.0.0.0 www.vinted.smart-98372.cfd
 0.0.0.0 adelogs.adobe.com #See http://www.theregister.co.uk/2014/10/07/adobe_digital_editions_4_caught_snooping_into_ebook_collections_of_users/
 0.0.0.0 sstraderstrade.com
+0.0.0.0 www.vinted.pl19jw3926mx.cyou
 0.0.0.0 click.zipcodez.com
 0.0.0.0 cd.adition.com
 0.0.0.0 www.djsh64787-h24.vercel.app
@@ -65130,6 +65132,7 @@
 0.0.0.0 www.trader.efiknr.cfd
 0.0.0.0 www.yukoncreditavale.pics
 0.0.0.0 www.requindale.live
+0.0.0.0 idecoideas.com
 0.0.0.0 idg.blueconic.net
 0.0.0.0 static.adziff.com
 0.0.0.0 ad1.adfarm1.adition.com
@@ -66895,7 +66898,6 @@
 0.0.0.0 joybvo.com
 0.0.0.0 www.vinted.598186191.lat
 0.0.0.0 www.2iwjuyh2.sbs
-0.0.0.0 bidder.hk5.vip.prod.criteo.com
 0.0.0.0 www.vortexispexorontarget.com
 0.0.0.0 www.lnactivite.eu.cc
 0.0.0.0 abdicted.com
@@ -71823,6 +71825,7 @@
 0.0.0.0 olx.dk-oferta847573927.sbs
 0.0.0.0 www.homlapromocja.club
 0.0.0.0 doubleverify.com.edgekey.net
+0.0.0.0 homecccx.shop
 0.0.0.0 velstromovikix.com
 0.0.0.0 eastinvestwick.org
 0.0.0.0 banner.inyourpocket.com
@@ -76056,6 +76059,7 @@
 0.0.0.0 vinted.300491.sbs
 0.0.0.0 freshshoes.pl
 0.0.0.0 dianomi.com
+0.0.0.0 montrealgazette.stats.com
 0.0.0.0 65xps.com
 0.0.0.0 www.zipitfast.com
 0.0.0.0 teleinpros.club
@@ -76470,6 +76474,7 @@
 0.0.0.0 dcjddha.hubstatts.com
 0.0.0.0 www.aldi.martprovision.shop
 0.0.0.0 www.csale.shop
+0.0.0.0 rlog.popin.cc
 0.0.0.0 www.speedd.net
 0.0.0.0 codon.vn
 0.0.0.0 aldieu.harvexbuy.shop
@@ -84771,7 +84776,6 @@
 0.0.0.0 www.langstonreed.com
 0.0.0.0 www.aiverdienstapp.com
 0.0.0.0 public.astrsk.net
-0.0.0.0 aldieu.gavory.shop
 0.0.0.0 zpafiska.pl
 0.0.0.0 www.zephyrglade.org
 0.0.0.0 bornesvut-czech.com
@@ -86902,6 +86906,7 @@
 0.0.0.0 kembaru.shop
 0.0.0.0 chip.de.intellitxt.com
 0.0.0.0 cdn.gumgum.com
+0.0.0.0 jadcenter.com
 0.0.0.0 applovin2-asia-imp.aarki.net
 0.0.0.0 scalloped-space.lovable.app
 0.0.0.0 www.autorsvamp.store
