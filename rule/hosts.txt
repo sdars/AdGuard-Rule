@@ -1,4 +1,4 @@
-# Update time: 2026-10-21 12:28:08
+# Update time: 2026-10-22 01:03:09
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2539,6 +2539,7 @@
 0.0.0.0 spark.ad4game.com
 0.0.0.0 ns8.adk2x.com
 0.0.0.0 m.xxkio.com
+0.0.0.0 ads.mopub.com
 0.0.0.0 fz.letv.com
 0.0.0.0 l.yidianzixun.com
 0.0.0.0 xshellcn.com
@@ -2742,6 +2743,7 @@
 0.0.0.0 g1.08160.cn
 0.0.0.0 s117.cnzz.com
 0.0.0.0 video.ureport.push.qq.com
+0.0.0.0 ads.nexage.com
 0.0.0.0 kstj.baidu.com
 0.0.0.0 reg.wisecleaner.com
 0.0.0.0 loadm.exelator.com
@@ -2923,6 +2925,7 @@
 0.0.0.0 cntrack.madserving.com
 0.0.0.0 nfh.cnshef.com
 0.0.0.0 u1.img.mobile.sina.cn
+0.0.0.0 ads.juicyads.com
 0.0.0.0 vs8.gzcu.u3.ucweb.com
 0.0.0.0 x.infzm.com
 0.0.0.0 growingio.com
@@ -3619,6 +3622,7 @@
 0.0.0.0 impservice.dictapp.youdao.com
 0.0.0.0 counter.marketgid.com
 0.0.0.0 d.kugou.com
+0.0.0.0 admedia.com
 0.0.0.0 o.if.qidian.com
 0.0.0.0 t1n.cn
 0.0.0.0 api.e.mi.com
@@ -4088,6 +4092,7 @@
 0.0.0.0 tracker.tgbus.com
 0.0.0.0 rescn.u3.ucweb.com
 0.0.0.0 count.game.pps.tv
+0.0.0.0 ads.admarvel.com
 0.0.0.0 count.mail.163.com
 0.0.0.0 tjlog.easou.com
 0.0.0.0 m.data.mob.com
@@ -4153,6 +4158,7 @@
 0.0.0.0 mlb.did.ijinshan.com
 0.0.0.0 btn.onlylady.com
 0.0.0.0 titan01.babytree.com
+0.0.0.0 ads.yahoo.com
 0.0.0.0 b17.wenjutv.com
 0.0.0.0 e.xkqpco.com.com
 0.0.0.0 images.tyyjzs.cn
@@ -6160,6 +6166,7 @@
 0.0.0.0 geo.gridsumdissector.com
 0.0.0.0 tips.gamevvip.com
 0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 ads-a.juicyads.com
 0.0.0.0 adimg.mobile.sina.cn
 0.0.0.0 m.cuoss.com
 0.0.0.0 static.bmob.cn
@@ -6236,6 +6243,7 @@
 0.0.0.0 js4.eastmoney.com
 0.0.0.0 mpush-api.aliyun.com
 0.0.0.0 update.sdk.jiguang.cn
+255.255.255.255	broadcasthost
 0.0.0.0 e.dydd.xyz
 0.0.0.0 www.vegaschina.cn
 0.0.0.0 tpush.html5.qq.com
@@ -7174,6 +7182,7 @@
 0.0.0.0 ad.winrar.com.cn
 0.0.0.0 v.tf.360.cn
 0.0.0.0 s89.cnzz.com
+0.0.0.0 ads.mp.mydas.mobi
 0.0.0.0 m.emgwq.com
 0.0.0.0 secure-yt.imrworldwide.com
 0.0.0.0 adspaces.ero-advertising.com
@@ -8430,6 +8439,7 @@
 0.0.0.0 business.inveno.com
 0.0.0.0 p.appjiagu.com
 0.0.0.0 p.ssp.qq.com
+0.0.0.0 ads.trafficjunky.net
 0.0.0.0 js.sanwen.net
 0.0.0.0 smucdn.com
 0.0.0.0 a.beilamusi.com
@@ -9091,7 +9101,6 @@
 0.0.0.0 nmcommancomedia.112.2o7.net
 0.0.0.0 ads.tmcs.net
 0.0.0.0 smibs.112.2o7.net
-0.0.0.0 ads.mopub.com
 0.0.0.0 lap-click.tr.line.me
 0.0.0.0 microsoft-cnd.com
 0.0.0.0 websiteeco.com
@@ -9288,7 +9297,6 @@
 0.0.0.0 bidclix.net
 0.0.0.0 ox-d.hypeads.org
 0.0.0.0 ask-gps.ru
-0.0.0.0 ads.nexage.com
 0.0.0.0 ads.catholic.org
 0.0.0.0 www.cookoven.com
 0.0.0.0 c.ie.msn.com
@@ -9456,7 +9464,6 @@
 0.0.0.0 prilosec.1.p2l.info
 0.0.0.0 auxin-box.com
 0.0.0.0 ads.gorillanation.com
-0.0.0.0 ads.juicyads.com
 0.0.0.0 van-city-sign-on.com
 0.0.0.0 oascentral.dailybreeze.com
 0.0.0.0 www.aeqs.com
@@ -10667,7 +10674,6 @@
 0.0.0.0 oascentral.washtimes.com
 0.0.0.0 nyttechnology.112.2o7.net
 0.0.0.0 aolsvc.122.2o7.net
-0.0.0.0 ads.admarvel.com
 0.0.0.0 photos8.pop6.com
 0.0.0.0 www.apogara.plus.com
 0.0.0.0 dra.amazon-adsystem.com
@@ -10731,7 +10737,6 @@
 0.0.0.0 sajour.fr
 0.0.0.0 ws03.home.sapo.pt
 0.0.0.0 consumerspanel.frge.io
-0.0.0.0 ads.yahoo.com
 0.0.0.0 www8.counter.bloke.com
 0.0.0.0 wahoha.com
 0.0.0.0 data.murdoog.com
@@ -12719,7 +12724,6 @@
 0.0.0.0 y.cdn.adblade.com
 0.0.0.0 pm.adsafeprotected.com
 0.0.0.0 ticketforchange.fr
-0.0.0.0 ads-a.juicyads.com
 0.0.0.0 ads.adgoto.com
 0.0.0.0 www.keybinary.com
 0.0.0.0 cdn.wwwpromoter.com
@@ -12807,7 +12811,6 @@
 0.0.0.0 laxnws.112.2o7.net
 0.0.0.0 s3-ap-southeast-2-amazonaws.com
 0.0.0.0 clicksor.com
-255.255.255.255	broadcasthost
 0.0.0.0 openais.maricosnc.it
 0.0.0.0 nytimesnonsampled.112.2o7.net
 0.0.0.0 w124.hitbox.com
@@ -14934,7 +14937,6 @@
 0.0.0.0 affiliate.mlntracker.com
 0.0.0.0 w137.hitbox.com
 0.0.0.0 clownsong.com
-0.0.0.0 ads.trafficjunky.net
 0.0.0.0 moodoo.com.cn
 0.0.0.0 tps31.doubleverify.com
 0.0.0.0 this.content.served.by.adshuffle.com
@@ -16644,7 +16646,6 @@
 0.0.0.0 caisse-apargne.fr
 0.0.0.0 advert-time.com
 0.0.0.0 track.enviodemails.com
-0.0.0.0 admedia.com
 0.0.0.0 www.fripta.com
 0.0.0.0 f11098.privacy4browsers.com
 0.0.0.0 beauty.finaltips.com
@@ -20065,7 +20066,6 @@
 0.0.0.0 fanniemae.fr
 0.0.0.0 www.kolks.nl
 0.0.0.0 app3.letmacwork.world
-0.0.0.0 ads.mp.mydas.mobi
 0.0.0.0 toprxshopplace.com
 0.0.0.0 www.brghterimagelab.com
 0.0.0.0 pexkr.comfortykive.xyz
@@ -28733,6 +28733,7 @@
 127.0.0.1 instantresp.com
 127.0.0.1 wan.rising.cn
 127.0.0.1 www.liveinternet.ru
+127.0.0.1 www.yb6.me
 127.0.0.1 buyu9930.com
 127.0.0.1 www.um0592.com
 127.0.0.1 www.55998448.com
@@ -37753,7 +37754,6 @@
 0.0.0.0 potfulplumpeffr.info
 0.0.0.0 www.nordveraliving.com
 0.0.0.0 rendia-ai.com
-0.0.0.0 www.olx.lokalna-ofeta562356886.sbs
 0.0.0.0 widget.headlines.pw
 0.0.0.0 decenterads.com
 0.0.0.0 kildevermofoss.net
@@ -41471,7 +41471,6 @@
 0.0.0.0 www.africapitalai.net
 0.0.0.0 analytics.aweber.com
 0.0.0.0 zelumotoraro.com
-0.0.0.0 criteo-sync.teads.tv
 0.0.0.0 retg.ambient-platform.com
 0.0.0.0 vinted.lokalna-ofeta197680982313.sbs
 0.0.0.0 www.6772270547-telefony.storage.googleapis.com
@@ -55031,6 +55030,7 @@
 0.0.0.0 www.zmoskaluren-austria.sbs
 0.0.0.0 www.mysounds.online
 0.0.0.0 ezebra.dailysaver.co
+0.0.0.0 i-sdk.mediation.unity3d.com
 0.0.0.0 acrh.be
 0.0.0.0 www.risupi-xukudu.info
 0.0.0.0 rimavo.shop
@@ -64650,7 +64650,6 @@
 0.0.0.0 areyouready.co.za
 0.0.0.0 contents.adingo.jp.eimg.jp
 0.0.0.0 www.trader.efiknr.cfd
-0.0.0.0 idecoideas.com
 0.0.0.0 www.bevincapuc.store
 0.0.0.0 idg.blueconic.net
 0.0.0.0 static.adziff.com
@@ -74308,7 +74307,6 @@
 0.0.0.0 18xtube.com
 0.0.0.0 finzy8-quo31.sbs
 0.0.0.0 starseed.fr
-0.0.0.0 www.stylein.digital
 0.0.0.0 a3686.casalemedia.com
 0.0.0.0 pee-files.nl
 0.0.0.0 pl-9607227.cfd
@@ -75332,6 +75330,7 @@
 0.0.0.0 vinted.300491.sbs
 0.0.0.0 freshshoes.pl
 0.0.0.0 dianomi.com
+0.0.0.0 montrealgazette.stats.com
 0.0.0.0 65xps.com
 0.0.0.0 www.zipitfast.com
 0.0.0.0 www.lolf.6heujdy.pics
@@ -75731,7 +75730,6 @@
 0.0.0.0 www.delvaristrade-ai.com
 0.0.0.0 dcjddha.hubstatts.com
 0.0.0.0 teleixoywl.luxe
-0.0.0.0 rlog.popin.cc
 0.0.0.0 www.speedd.net
 0.0.0.0 codon.vn
 0.0.0.0 aldieu.harvexbuy.shop
