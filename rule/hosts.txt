@@ -1,4 +1,4 @@
-# Update time: 2026-11-06 03:50:14
+# Update time: 2026-11-06 14:18:58
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2606,6 +2606,7 @@
 0.0.0.0 dd.wx16999.com
 0.0.0.0 sit.gentags.net
 0.0.0.0 api721.analysys.cn
+0.0.0.0 ads.wapx.cn
 0.0.0.0 pibaba.com.cn
 0.0.0.0 8b4pea.c.admaster.com.cn
 0.0.0.0 i.ipinyou.com
@@ -3904,6 +3905,7 @@
 0.0.0.0 v.heygugu.com
 0.0.0.0 c.f1zd.com
 0.0.0.0 baiducom.bj.bcebos.com
+0.0.0.0 ctxtad.tribalfusion.com
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 pic.bloggerads.net
 0.0.0.0 ib.snssdk.com.edgekey.net
@@ -4895,6 +4897,7 @@
 0.0.0.0 guce.advertising.com
 0.0.0.0 cpro.zol.com.cn
 0.0.0.0 img.ferlie.net
+0.0.0.0 a.baidu.com
 0.0.0.0 cee1.iteye.com
 0.0.0.0 slides.discovery.tom.com
 0.0.0.0 e.fcunq.com
@@ -5520,6 +5523,7 @@
 0.0.0.0 ssp.4hw.com.cn
 0.0.0.0 adver.qq.com
 0.0.0.0 v3.cnzz.com
+0.0.0.0 b.am15.net
 0.0.0.0 mobile.dreport.meituan.net
 0.0.0.0 1.xilu.com
 0.0.0.0 staging-ads.flurry.com
@@ -6119,6 +6123,7 @@
 0.0.0.0 fpb.docin.com
 0.0.0.0 config.mobisage.cn
 0.0.0.0 zs5.cnzz.com
+0.0.0.0 adserver.adtechus.com
 0.0.0.0 intf.cnzz.com
 0.0.0.0 cdnonetag-onead.cdn.hinet.net
 0.0.0.0 ad.unimhk.com
@@ -6208,6 +6213,7 @@
 0.0.0.0 a.xywy.com
 0.0.0.0 click2.hd.sohu.com
 0.0.0.0 e.zkwsdf.com
+0.0.0.0 api.viglink.com
 0.0.0.0 u.vlion.cn
 0.0.0.0 pimg1.126.net
 0.0.0.0 j.kfd3sm2c.com
@@ -6824,6 +6830,7 @@
 0.0.0.0 op00w.baiyangzs.com
 0.0.0.0 c.gj.qq.com
 0.0.0.0 log.xiaozuowen.net
+0.0.0.0 c.silvinst.com
 0.0.0.0 adsfs.oppomobile.com
 0.0.0.0 adsys.sinovision.net
 0.0.0.0 c41.clicki.cn
@@ -8036,6 +8043,7 @@
 0.0.0.0 www.tj-cmys.com
 0.0.0.0 conv.youdao.com
 0.0.0.0 bce.baidu.com
+0.0.0.0 ad.3dnews.ru
 0.0.0.0 dap.pagechoice.net
 0.0.0.0 tejia.taobao.com
 0.0.0.0 t1.jzkapp.com
@@ -8126,6 +8134,7 @@
 0.0.0.0 un2.banmamedia.com
 0.0.0.0 api.cpu.baidu.com
 0.0.0.0 mil.gbzumh.cn
+0.0.0.0 ads.waps.cn
 0.0.0.0 lkme.cc
 0.0.0.0 www.203710.com
 0.0.0.0 updates-s3.binaryage.com
@@ -8253,6 +8262,7 @@
 0.0.0.0 ad2.bloggerads.net
 0.0.0.0 license.lumion3d.net
 0.0.0.0 playinfo.gomlab.com
+0.0.0.0 c.l.qq.com
 0.0.0.0 hzs9.cnzz.com
 0.0.0.0 px.owneriq.net
 0.0.0.0 recv-vd.gridsumdissector.cn
@@ -8669,6 +8679,7 @@
 0.0.0.0 debug.mssp.adunite.com
 0.0.0.0 offline-adv.oray.com
 0.0.0.0 temai.m.taobao.com
+0.0.0.0 an.yandex.ru
 0.0.0.0 ping.acc.sogou.com
 0.0.0.0 p.lu.sogou.com
 0.0.0.0 stats.cn.ronghub.com
@@ -8773,6 +8784,7 @@
 0.0.0.0 bu02.zybang.com
 0.0.0.0 mldy.yxxgab.cn
 0.0.0.0 pag.qdwght.com
+0.0.0.0 adson.awempire.com
 0.0.0.0 www.duiba.com.cn
 0.0.0.0 bd4.chuiyue.com
 0.0.0.0 www.hblinwei.com
@@ -9133,7 +9145,6 @@
 0.0.0.0 advertising.paltalk.com
 0.0.0.0 gravitron.chron.com
 0.0.0.0 oascentral.rcrnews.com
-0.0.0.0 ads.wapx.cn
 0.0.0.0 creditmuteuel.fr
 0.0.0.0 www.auto-runmz.com
 0.0.0.0 www.moncasinoonline.com
@@ -12631,7 +12642,6 @@
 0.0.0.0 www12.glam.com
 0.0.0.0 col.mobileads.msn.com
 0.0.0.0 dc43.s290.meetrics.net
-0.0.0.0 adserver.adtechus.com
 0.0.0.0 ads.adworldnetwork.com
 0.0.0.0 apac.rel.msn.com
 0.0.0.0 gigaonclick.com
@@ -14576,7 +14586,6 @@
 0.0.0.0 static.oroll.com
 0.0.0.0 secimage.adtech.fr
 0.0.0.0 exipure.net
-0.0.0.0 ads.waps.cn
 0.0.0.0 mtvn.112.2o7.net
 0.0.0.0 cc-dt.com
 0.0.0.0 www.affiliation-france.com
@@ -14727,7 +14736,6 @@
 0.0.0.0 ads.specificclick.com
 0.0.0.0 email.positionly.com
 0.0.0.0 www.grabbit-rabbit.com
-0.0.0.0 c.l.qq.com
 0.0.0.0 f18085.privacy4browsers.com
 0.0.0.0 www.briskappmu.name
 0.0.0.0 www25.glam.com
@@ -15067,7 +15075,6 @@
 0.0.0.0 benefitsorganic.com
 0.0.0.0 ad.prv.pl
 0.0.0.0 ccieurope.fr
-0.0.0.0 an.yandex.ru
 0.0.0.0 ad.fr.doubleclick.net
 0.0.0.0 office.officenet.co.kr
 0.0.0.0 media7.popmarker.com
@@ -16859,7 +16866,6 @@
 0.0.0.0 windows-cnd-update.com
 0.0.0.0 elyses.fr
 0.0.0.0 pool.distilled.ie
-0.0.0.0 ctxtad.tribalfusion.com
 0.0.0.0 fashion-online.net
 0.0.0.0 wfflxx.com
 0.0.0.0 ad.adnetwork.com.br
@@ -17835,7 +17841,6 @@
 0.0.0.0 syngeta.fr
 0.0.0.0 js.hsleadflows.net
 0.0.0.0 www.bitmedia.io
-0.0.0.0 a.baidu.com
 0.0.0.0 www.magento-analytics.com
 0.0.0.0 www.ndbsoft.be
 0.0.0.0 last-chainleash.net
@@ -18459,7 +18464,6 @@
 0.0.0.0 hirturi.blogspot.hu
 0.0.0.0 webcounter.com
 0.0.0.0 ws06.home.sapo.pt
-0.0.0.0 b.am15.net
 0.0.0.0 rtl-most.blogspot.hu
 0.0.0.0 spinbox.techtracker.com
 0.0.0.0 www.ontheweb.com
@@ -19114,7 +19118,6 @@
 0.0.0.0 jgen4.cjt1.net
 0.0.0.0 office365-eu-update.com
 0.0.0.0 adserv.mywebtimes.com
-0.0.0.0 api.viglink.com
 0.0.0.0 societergenerale.fr
 0.0.0.0 www.freefuelcoupon.com
 0.0.0.0 r6.ritikajoshi.com
@@ -19657,7 +19660,6 @@
 0.0.0.0 stat.netmonitor.fi
 0.0.0.0 gpaper184.112.2o7.net
 0.0.0.0 adserver.archant.co.uk
-0.0.0.0 c.silvinst.com
 0.0.0.0 www.counter11.sextracker.be
 0.0.0.0 ads146.console.adtarget.com.tr
 0.0.0.0 vitalitymax.1.p2l.info
@@ -20776,7 +20778,6 @@
 0.0.0.0 bridgemanstt.com
 0.0.0.0 amoxicillin.ourtablets.com
 0.0.0.0 nt.new-cars.com.es
-0.0.0.0 ad.3dnews.ru
 0.0.0.0 r7.romeflirt.com
 0.0.0.0 fondprof.oewabox.at
 0.0.0.0 x-images.com
@@ -21473,7 +21474,6 @@
 0.0.0.0 track.webgains.com
 0.0.0.0 k7.karbilyazilim.com
 0.0.0.0 www.tynt.com
-0.0.0.0 adson.awempire.com
 0.0.0.0 adserv.bravenet.com
 0.0.0.0 speedboink.com
 0.0.0.0 411playz.com
@@ -28892,7 +28892,6 @@
 127.0.0.1 buyu9966.com
 127.0.0.1 uds24.com
 127.0.0.1 www.3152018.com
-127.0.0.1 0oaqgsk54hm5.com
 127.0.0.1 buyu9923.com
 127.0.0.1 redpaper-10006092.cos.myqcloud.com
 127.0.0.1 www.yueba423.com
@@ -41951,7 +41950,6 @@
 0.0.0.0 ads.afraccess.com
 0.0.0.0 www.dalvirexicapital-ai.com
 0.0.0.0 abogadosencampeche.top
-0.0.0.0 vinted.discoververifypage.com
 0.0.0.0 www.felivonolur.net
 0.0.0.0 kaazarrpl.shop
 0.0.0.0 durevakon.com
@@ -72876,6 +72874,7 @@
 0.0.0.0 segelfondvik.com
 0.0.0.0 m64pq7.0571zkfk.com
 0.0.0.0 app-icons.apptentive.com
+0.0.0.0 hotapi-va.isnssdk.com
 0.0.0.0 qmpwt.com
 0.0.0.0 581259.top
 0.0.0.0 www.3-letter-domains.net
@@ -80815,6 +80814,7 @@
 0.0.0.0 tkrecorder.aotter.net
 0.0.0.0 gw.mediation.unity3d.com
 0.0.0.0 www.brevanequotenure.net
+0.0.0.0 jgl.microad.net
 0.0.0.0 freedata-offer.com
 0.0.0.0 www.goldtradingsquad.net
 0.0.0.0 www.jatodae.lovable.app
@@ -93971,7 +93971,6 @@
 0.0.0.0 banners.friendfinder.com
 0.0.0.0 www.dombzari.shop
 0.0.0.0 www.finzy7-voluptates54.sbs
-0.0.0.0 poczta-polska.central-pay.shop
 0.0.0.0 www.finly7-in30.cfd
 0.0.0.0 www.mafidacterq.lovable.app
 0.0.0.0 ad.linkprice.com
