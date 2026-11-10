@@ -1,4 +1,4 @@
-# Update time: 2026-11-10 06:14:28
+# Update time: 2026-11-10 15:01:07
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2539,6 +2539,7 @@
 0.0.0.0 spark.ad4game.com
 0.0.0.0 ns8.adk2x.com
 0.0.0.0 m.xxkio.com
+0.0.0.0 ads.mopub.com
 0.0.0.0 fz.letv.com
 0.0.0.0 l.yidianzixun.com
 0.0.0.0 xshellcn.com
@@ -2924,6 +2925,7 @@
 0.0.0.0 cntrack.madserving.com
 0.0.0.0 nfh.cnshef.com
 0.0.0.0 u1.img.mobile.sina.cn
+0.0.0.0 ads.juicyads.com
 0.0.0.0 vs8.gzcu.u3.ucweb.com
 0.0.0.0 x.infzm.com
 0.0.0.0 growingio.com
@@ -6164,6 +6166,7 @@
 0.0.0.0 geo.gridsumdissector.com
 0.0.0.0 tips.gamevvip.com
 0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 ads-a.juicyads.com
 0.0.0.0 adimg.mobile.sina.cn
 0.0.0.0 m.cuoss.com
 0.0.0.0 static.bmob.cn
@@ -6240,7 +6243,6 @@
 0.0.0.0 js4.eastmoney.com
 0.0.0.0 mpush-api.aliyun.com
 0.0.0.0 update.sdk.jiguang.cn
-255.255.255.255	broadcasthost
 0.0.0.0 e.dydd.xyz
 0.0.0.0 www.vegaschina.cn
 0.0.0.0 tpush.html5.qq.com
@@ -9098,7 +9100,6 @@
 0.0.0.0 nmcommancomedia.112.2o7.net
 0.0.0.0 ads.tmcs.net
 0.0.0.0 smibs.112.2o7.net
-0.0.0.0 ads.mopub.com
 0.0.0.0 lap-click.tr.line.me
 0.0.0.0 microsoft-cnd.com
 0.0.0.0 websiteeco.com
@@ -9458,7 +9459,6 @@
 0.0.0.0 prilosec.1.p2l.info
 0.0.0.0 auxin-box.com
 0.0.0.0 ads.gorillanation.com
-0.0.0.0 ads.juicyads.com
 0.0.0.0 van-city-sign-on.com
 0.0.0.0 oascentral.dailybreeze.com
 0.0.0.0 www.aeqs.com
@@ -12692,7 +12692,6 @@
 0.0.0.0 y.cdn.adblade.com
 0.0.0.0 pm.adsafeprotected.com
 0.0.0.0 ticketforchange.fr
-0.0.0.0 ads-a.juicyads.com
 0.0.0.0 ads.adgoto.com
 0.0.0.0 www.keybinary.com
 0.0.0.0 cdn.wwwpromoter.com
@@ -12780,6 +12779,7 @@
 0.0.0.0 laxnws.112.2o7.net
 0.0.0.0 s3-ap-southeast-2-amazonaws.com
 0.0.0.0 clicksor.com
+255.255.255.255	broadcasthost
 0.0.0.0 openais.maricosnc.it
 0.0.0.0 nytimesnonsampled.112.2o7.net
 0.0.0.0 w124.hitbox.com
@@ -29578,7 +29578,6 @@
 127.0.0.1 www7b.j8inn1zektoe.com
 127.0.0.1 www.mfjegjqb.com
 127.0.0.1 dl.360safe.com
-127.0.0.1 ysb76.com
 127.0.0.1 ososoo.com
 127.0.0.1 xapi.juicyads.com
 127.0.0.1 ads.adsniper.ru
@@ -36174,6 +36173,7 @@
 0.0.0.0 4.tilitysupplements.date
 0.0.0.0 finzy7-dolores56.sbs
 0.0.0.0 www.molilulu.com
+0.0.0.0 fraveliq.shop
 0.0.0.0 diennganhung.com
 0.0.0.0 www.lubiego.is-best.net
 0.0.0.0 sesja-5c4w-pkobp.pl-wladze.com
@@ -41035,7 +41035,6 @@
 0.0.0.0 player.adtelligent.com
 0.0.0.0 www.fedobillar.org
 0.0.0.0 www.minesweepingprozzpaedeutic.info
-0.0.0.0 xantoesist.store
 0.0.0.0 quisma.com
 0.0.0.0 www.vinted.order506.me
 0.0.0.0 www.startubl.com
@@ -41261,7 +41260,6 @@
 0.0.0.0 www.burgosedim.store
 0.0.0.0 www.finsy2-et48.cfd
 0.0.0.0 finzy2-vel31.sbs
-0.0.0.0 yvxjsixn.eu
 0.0.0.0 www.blsatl.shop
 0.0.0.0 adlogs.ad2iction.com
 0.0.0.0 secure.flashtalking.com.edgekey.net
@@ -42034,7 +42032,6 @@
 0.0.0.0 ads.afraccess.com
 0.0.0.0 abogadosencampeche.top
 0.0.0.0 www.gevneuraai.net
-0.0.0.0 vinted.discoververifypage.com
 0.0.0.0 www.felivonolur.net
 0.0.0.0 durevakon.com
 0.0.0.0 www.mescicreer.store
@@ -42629,7 +42626,6 @@
 0.0.0.0 aldi.faithmart.shop
 0.0.0.0 www.africapitalai.net
 0.0.0.0 analytics.aweber.com
-0.0.0.0 criteo-sync.teads.tv
 0.0.0.0 retg.ambient-platform.com
 0.0.0.0 jjr1j0.shijue03.com
 0.0.0.0 balkumi.shop
@@ -45014,6 +45010,7 @@
 0.0.0.0 bx01.optimix.asia
 0.0.0.0 as.ch.impact-ad.jp
 0.0.0.0 www.aldionline.davifind.shop
+0.0.0.0 newswaymax.digital
 0.0.0.0 www.westraynham.net
 0.0.0.0 pilkanozna.yolasite.com
 0.0.0.0 www.pomyslmyofinansach.com
@@ -53298,6 +53295,7 @@
 0.0.0.0 gntbcstksdk.112.2o7.net
 0.0.0.0 sesja-4s2l-pkobiznes-firma.wabze.net
 0.0.0.0 www.ezebra-makeup.shop
+0.0.0.0 kavuro.shop
 0.0.0.0 koax6d.gsecurespace.com
 0.0.0.0 deduicedesigns.com
 0.0.0.0 www.gvc.vn
@@ -56191,7 +56189,6 @@
 0.0.0.0 temptationthemovie.com
 0.0.0.0 mraid.prod.cloud.ogury.io
 0.0.0.0 mojseans.pl
-0.0.0.0 smsiaki.eu
 0.0.0.0 zkladyobelk.shop
 0.0.0.0 vs-api.voodoo-tech.io
 0.0.0.0 yieldlab.net.edgekey.net
@@ -60144,7 +60141,6 @@
 0.0.0.0 urbanspacespot.pro
 0.0.0.0 www.nrzduip.shop
 0.0.0.0 ducatella-ai.com
-0.0.0.0 prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 www.techliteracyframework.com
 0.0.0.0 adtimabox.brand.zing.vn
 0.0.0.0 sentaiquy.com
@@ -62611,7 +62607,6 @@
 0.0.0.0 olx-pl.iikloete.icu
 0.0.0.0 6955282544532253.6583349354412048645696401555924s2nnms90n.workers.dev
 0.0.0.0 www.ipko-bp.biznes.com.do
-0.0.0.0 www.fast-renteskapet.pro
 0.0.0.0 adserver.merciless.localstars.com
 0.0.0.0 tedesprion.store
 0.0.0.0 bdapi-ads.realmemobile.com
@@ -63442,7 +63437,6 @@
 0.0.0.0 omniture.com
 0.0.0.0 safeashouses-book.com
 0.0.0.0 www.finzy4-repellendus46.sbs
-0.0.0.0 www.golkar.online
 0.0.0.0 www.tunofarisanonovilento.com
 0.0.0.0 tomorrownewstoday.com # I'm not sure what it does, but it seems to be associated with a phishing attempt on Facebook
 0.0.0.0 itop.cz
@@ -64886,7 +64880,6 @@
 0.0.0.0 www.aubeplacencia.com
 0.0.0.0 oxcash.com
 0.0.0.0 mobatory.com
-0.0.0.0 www.mm-onb-kamil-fcb317eb.b-cdn.net
 0.0.0.0 www.nivorakelu.pro
 0.0.0.0 finzy9-tenetur36.sbs
 0.0.0.0 www.mkugr.com
@@ -67289,7 +67282,6 @@
 0.0.0.0 www.douglas-shop.online
 0.0.0.0 www.jasnydetal.com
 0.0.0.0 dreamlist.top
-0.0.0.0 palickaz24plll.eu.cc
 0.0.0.0 www.m3x9h2d.pics
 0.0.0.0 www.quantum-capital.net
 0.0.0.0 bitcoins-profit.com
@@ -68572,7 +68564,6 @@
 0.0.0.0 superovulnnation.info
 0.0.0.0 www.hezorqalavo.net
 0.0.0.0 contents.adingo.jp.eimg.jp
-0.0.0.0 idecoideas.com
 0.0.0.0 aldi.javristore.shop
 0.0.0.0 www.ww1-ipkoplinfo.earthly-essential-bracelets.com
 0.0.0.0 www.bevincapuc.store
@@ -76456,7 +76447,6 @@
 0.0.0.0 a1408.casalemedia.com
 0.0.0.0 www.kinobaza.pl
 0.0.0.0 www.authorize-serviceoauth.com
-0.0.0.0 www.ingruallib.store
 0.0.0.0 www.prioritisemyhealth.com
 0.0.0.0 ananashotel.com
 0.0.0.0 www.teleroxroc.shop
@@ -77228,6 +77218,7 @@
 0.0.0.0 pay-u607456.cc
 0.0.0.0 yomnra.com.tw
 0.0.0.0 vinted.pl-lokalna-ofeta9xv17yj75v0.shop
+0.0.0.0 cronetrium-system.sbs
 0.0.0.0 partners-hotwire-com.impactradius.com
 0.0.0.0 www.neptundeepinvesttrade.com
 0.0.0.0 conveabdic.store
@@ -80916,7 +80907,6 @@
 0.0.0.0 sesja-2j3l-pkobiznes-firma.wabze.net
 0.0.0.0 www.rimerlatta.store
 0.0.0.0 teleixoywl.luxe
-0.0.0.0 rlog.popin.cc
 0.0.0.0 www.speedd.net
 0.0.0.0 codon.vn
 0.0.0.0 resumfepe.store
@@ -81128,7 +81118,6 @@
 0.0.0.0 tkrecorder.aotter.net
 0.0.0.0 gw.mediation.unity3d.com
 0.0.0.0 dignusorb.com
-0.0.0.0 jgl.microad.net
 0.0.0.0 freedata-offer.com
 0.0.0.0 www.nh7h6r.kimnickless.com
 0.0.0.0 www.provechalvoes.com
@@ -89116,7 +89105,6 @@
 0.0.0.0 pl-897324.sbs
 0.0.0.0 sesja-0o8l-pkobiznes.rzad-pl.net
 0.0.0.0 logserver.insight.ucweb.com
-0.0.0.0 orders-108493.com
 0.0.0.0 ads-portal-cdn.vidaatv.net
 0.0.0.0 bestlabs.digital
 0.0.0.0 hjzwnh.tmoon-agency.com
@@ -89307,7 +89295,6 @@
 0.0.0.0 dantocmiennui-log.baotintuc.vn
 0.0.0.0 www.heatedsocks.shop
 0.0.0.0 kinofilm-tv.pl
-0.0.0.0 www.pl-2l2d-pkobiznes-firma.mozesz.net
 0.0.0.0 juipx.lovable.app
 0.0.0.0 pl-1i4j-pkobiznes.bankowosc-elektroniczna.net
 0.0.0.0 mydates.com
@@ -90046,7 +90033,6 @@
 0.0.0.0 www.vod.film
 0.0.0.0 finsy6-aut1.cyou
 0.0.0.0 rubiconproject.net.akadns.net
-0.0.0.0 olx.payflow-poland.shop
 0.0.0.0 tredir.go.com
 0.0.0.0 reed-cw.grapeshot.co.uk
 0.0.0.0 rotimia.com
@@ -94426,7 +94412,6 @@
 0.0.0.0 saluningka.com
 0.0.0.0 www.finzy7-voluptates54.sbs
 0.0.0.0 www.olx.06728.sbs
-0.0.0.0 poczta-polska.central-pay.shop
 0.0.0.0 www.finly7-in30.cfd
 0.0.0.0 www.mafidacterq.lovable.app
 0.0.0.0 ad.linkprice.com
